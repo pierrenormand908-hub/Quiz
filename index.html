@@ -29,8 +29,6 @@ nav div span.icon{font-size:22px;}
 nav div span.count{font-size:14px;font-weight:bold;}
 #settingsMenu{position:fixed;bottom:80px;right:20px;background:#fff;padding:15px;border-radius:15px;box-shadow:0 10px 25px rgba(0,0,0,.2);display:none;z-index:2000;}
 .themeDot{width:25px;height:25px;border-radius:50%;display:inline-block;margin:5px;cursor:pointer;border:2px solid #ccc;}
-#jsonInput{display:none;}
-.settingsBtn{margin-top:10px;background:#007aff;color:#fff;padding:10px;border-radius:10px;cursor:pointer;text-align:center;}
 </style>
 </head>
 
@@ -72,44 +70,27 @@ nav div span.count{font-size:14px;font-weight:bold;}
   <div class="themeDot" style="background:#dc3545" onclick="changeTheme('#dc3545')"></div>
   <div class="themeDot" style="background:#6f42c1" onclick="changeTheme('#6f42c1')"></div>
   <div class="themeDot" style="background:#ffc107" onclick="changeTheme('#ffc107')"></div>
-
-  <div class="settingsBtn" onclick="document.getElementById('jsonInput').click()">📁 Charger un fichier JSON</div>
-  <input type="file" id="jsonInput" accept=".json" onchange="loadJSONFile(event)">
 </div>
 
 <script>
 function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
 
-let musique={facile:[],normal:[],expert:[]};
-let cinema={facile:[],normal:[],expert:[]};
-let series={facile:[],normal:[],expert:[]};
-let acteurs={facile:[],normal:[],expert:[]};
-let histoire={facile:[],normal:[],expert:[]};
-let faits={facile:[],normal:[],expert:[]};
+let currentCategory={facile:[],normal:[],expert:[]};
+let currentStyle="facile",index=0,scoreStyle=0,hintCount=0;
 
-let currentCategory=musique,currentStyle="facile",index=0,scoreStyle=0,hintCount=0;
-
-function loadJSONFile(event){
-    const file=event.target.files[0];
-    if(!file)return;
-
-    const reader=new FileReader();
-    reader.onload=function(e){
-        const data=JSON.parse(e.target.result);
-        applyJSONToCategory(data);
-        alert("Fichier JSON chargé !");
-        index=0;scoreStyle=0;hintCount=0;
-        loadQuestion();
-    };
-    reader.readAsText(file);
+async function loadJSONFromGitHub(fileName) {
+    const url = `https://raw.githubusercontent.com/pierrenormand908-hub/Quiz/main/question_musique1.json`;
+    const response = await fetch(url);
+    const data = await response.json();
+    applyJSONToCategory(data);
 }
 
 function applyJSONToCategory(data){
     currentCategory={facile:[],normal:[],expert:[]};
 
     data.forEach((q,i)=>{
-        if(i<100)currentCategory.facile.push(q);
-        else if(i<200)currentCategory.normal.push(q);
+        if(i<100) currentCategory.facile.push(q);
+        else if(i<200) currentCategory.normal.push(q);
         else currentCategory.expert.push(q);
     });
 }
@@ -118,15 +99,20 @@ function loadCategory(cat,btn){
   document.querySelectorAll(".categories button").forEach(b=>b.classList.remove("activeCategory"));
   btn.classList.add("activeCategory");
 
-  if(cat==="musique")currentCategory=musique;
-  if(cat==="cinema")currentCategory=cinema;
-  if(cat==="series")currentCategory=series;
-  if(cat==="acteurs")currentCategory=acteurs;
-  if(cat==="histoire")currentCategory=histoire;
-  if(cat==="faits")currentCategory=faits;
+  let fileName = "";
 
-  index=0;scoreStyle=0;currentStyle="facile";
-  updateStyleDisplay();updatePercentDisplay();updateHintDisplay();loadQuestion();
+  if(cat==="musique") fileName="question_musique1.json";
+  if(cat==="cinema") fileName="question_cinema1.json";
+  if(cat==="series") fileName="question_series1.json";
+  if(cat==="acteurs") fileName="question_acteurs1.json";
+  if(cat==="histoire") fileName="question_histoire1.json";
+  if(cat==="faits") fileName="question_faits1.json";
+
+  loadJSONFromGitHub(fileName).then(()=>{
+      index=0;scoreStyle=0;hintCount=0;
+      updateHintDisplay();
+      loadQuestion();
+  });
 }
 
 function updateStyleDisplay(){
@@ -143,11 +129,12 @@ function updateHintDisplay(){
 }
 
 function loadQuestion(){
-  if(index<100)currentStyle="facile";
-  else if(index<200)currentStyle="normal";
+  if(index<100) currentStyle="facile";
+  else if(index<200) currentStyle="normal";
   else currentStyle="expert";
 
-  updateStyleDisplay();updatePercentDisplay();
+  updateStyleDisplay();
+  updatePercentDisplay();
 
   const q=currentCategory[currentStyle][index%100];
   document.getElementById("questionTitle").innerText="Question "+(index+1);
@@ -157,7 +144,8 @@ function loadQuestion(){
   answersDiv.innerHTML="";
   shuffle([...q.a]).forEach(ans=>{
     const btn=document.createElement("button");
-    btn.className="answer";btn.innerText=ans;
+    btn.className="answer";
+    btn.innerText=ans;
     btn.onclick=()=>check(ans);
     answersDiv.appendChild(btn);
   });
@@ -170,8 +158,14 @@ function check(answer){
   const q=currentCategory[currentStyle][index%100];
   const result=document.getElementById("result");
 
-  if(answer===q.correct){scoreStyle++;result.style.color="green";result.innerText="Bonne réponse !";}
-  else{result.style.color="red";result.innerText="Mauvaise réponse.";}
+  if(answer===q.correct){
+      scoreStyle++;
+      result.style.color="green";
+      result.innerText="Bonne réponse !";
+  } else {
+      result.style.color="red";
+      result.innerText="Mauvaise réponse.";
+  }
 
   if((index+1)%100===0){
     if(scoreStyle>=50){
@@ -184,7 +178,7 @@ function check(answer){
 
   setTimeout(()=>{
     index++;
-    if(index<300)loadQuestion();
+    if(index<300) loadQuestion();
     else endQuiz();
   },800);
 }
@@ -208,9 +202,13 @@ function endQuiz(){
 
 function useHint(){
   const q=currentCategory[currentStyle][index%100];
-  if(hintCount<=0){alert("Aucun indice disponible.");return;}
+  if(hintCount<=0){
+      alert("Aucun indice disponible.");
+      return;
+  }
   document.getElementById("hintBox").innerText="Indice : "+q.hint;
-  hintCount--;updateHintDisplay();
+  hintCount--;
+  updateHintDisplay();
 }
 
 function toggleSettings(){
@@ -223,8 +221,6 @@ function changeTheme(color){
   document.querySelectorAll(".categories button").forEach(b=>b.style.color=color);
   document.querySelectorAll("button.answer").forEach(b=>b.style.background=color);
 }
-
-loadCategory("musique",document.querySelector(".categories button"));
 </script>
 
 </div>
