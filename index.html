@@ -11,23 +11,32 @@
 <style>
 body{
   margin:0;
-  background:#f2f4f7;
+  background:#f2f4f7; /* même couleur que derrière l’heure */
   font-family:Arial;
   display:flex;
   justify-content:center;
   align-items:center;
   height:100vh;
 }
+
+/* CONTENEUR PRINCIPAL */
 .iphone{
   width:390px;
   height:100vh;
   background:#fff;
-  border-radius:30px;
+
+  /* 🔥 Coins arrondis seulement en bas */
+  border-radius:0 0 30px 30px;
+
   box-shadow:0 0 40px rgba(0,0,0,.3);
   overflow:hidden;
   position:relative;
   display:flex;
   flex-direction:column;
+
+  /* 🔥 Monte derrière l’heure */
+  padding-top:env(safe-area-inset-top);
+  padding-bottom:env(safe-area-inset-bottom);
 }
 
 /* ACCUEIL */
@@ -35,7 +44,7 @@ body{
   flex:1;
   display:flex;
   flex-direction:column;
-  padding-top:60px; /* DESCEND le mot Quiz */
+  padding-top:20px; /* Descend le mot Quiz */
 }
 
 h1{
@@ -114,10 +123,10 @@ h1{
 /* BOUTONS FIXES */
 .bottomButtons{
   position:fixed;
-  bottom:0;
+  bottom:env(safe-area-inset-bottom);
   left:50%;
   transform:translateX(-50%);
-  width:360px; /* MOINS LARGE */
+  width:360px; /* moins large */
   background:#fff;
   border-top:1px solid #ccc;
   padding:12px;
