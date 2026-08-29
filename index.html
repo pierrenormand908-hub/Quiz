@@ -80,7 +80,7 @@ let currentCategory={facile:[],normal:[],expert:[]};
 let currentStyle="facile",index=0,scoreStyle=0,hintCount=0;
 
 async function loadJSONFromGitHub(fileName) {
-    const url = `https://raw.githubusercontent.com/pierrenormand908-hub/Quiz/main/question_musique1.json`;
+    const url = `https://raw.githubusercontent.com/pierrenormand908-hub/Quiz/main/${fileName}`;
     const response = await fetch(url);
     const data = await response.json();
     applyJSONToCategory(data);
