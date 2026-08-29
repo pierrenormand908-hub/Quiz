@@ -1,9 +1,13 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
 <title>Quiz iPhone 16e</title>
 <meta name="viewport" content="width=390, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<!-- CANON DE CONFETTIS -->
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+
 <style>
 body{margin:0;background:#111;display:flex;justify-content:center;align-items:center;min-height:100vh;font-family:Arial;}
 .iphone16e{width:390px;background:#f2f4f7;border-radius:30px;box-shadow:0 0 40px rgba(0,0,0,.4);overflow:hidden;min-height:100vh;position:relative;}
@@ -25,7 +29,8 @@ nav div span.icon{font-size:22px;}
 nav div span.count{font-size:14px;font-weight:bold;}
 #settingsMenu{position:fixed;bottom:80px;right:20px;background:#fff;padding:15px;border-radius:15px;box-shadow:0 10px 25px rgba(0,0,0,.2);display:none;z-index:2000;}
 .themeDot{width:25px;height:25px;border-radius:50%;display:inline-block;margin:5px;cursor:pointer;border:2px solid #ccc;}
-.confettiCanon{position:fixed;width:10px;height:16px;border-radius:3px;z-index:3000;pointer-events:none;}
+#jsonInput{display:none;}
+.settingsBtn{margin-top:10px;background:#007aff;color:#fff;padding:10px;border-radius:10px;cursor:pointer;text-align:center;}
 </style>
 </head>
 
@@ -67,41 +72,59 @@ nav div span.count{font-size:14px;font-weight:bold;}
   <div class="themeDot" style="background:#dc3545" onclick="changeTheme('#dc3545')"></div>
   <div class="themeDot" style="background:#6f42c1" onclick="changeTheme('#6f42c1')"></div>
   <div class="themeDot" style="background:#ffc107" onclick="changeTheme('#ffc107')"></div>
+
+  <div class="settingsBtn" onclick="document.getElementById('jsonInput').click()">📁 Charger un fichier JSON</div>
+  <input type="file" id="jsonInput" accept=".json" onchange="loadJSONFile(event)">
 </div>
 
 <script>
 function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
 
-const musique={
-  facile:[
-    {q:"Stayin' Alive ?",a:["ABBA","Bee Gees","Queen"],correct:"Bee Gees",hint:"Frères Gibb."},
-    {q:"Like a Virgin ?",a:["Madonna","Cher","Cyndi Lauper"],correct:"Madonna",hint:"Années 80."},
-    {q:"Thriller ?",a:["Prince","Michael Jackson","Stevie Wonder"],correct:"Michael Jackson",hint:"Roi de la Pop."},
-    {q:"Bohemian Rhapsody ?",a:["Queen","Pink Floyd","Beatles"],correct:"Queen",hint:"Freddie Mercury."},
-    {q:"Rolling in the Deep ?",a:["Adele","Rihanna","Sia"],correct:"Adele",hint:"Britannique."}
-  ],
-  normal:[
-    {q:"Album 1977 Bee Gees ?",a:["Saturday Night Fever","Main Course","Spirits"],correct:"Saturday Night Fever",hint:"Disco."},
-    {q:"Hotel California ?",a:["Eagles","Fleetwood Mac","Chicago"],correct:"Eagles",hint:"USA."},
-    {q:"Purple Rain ?",a:["Prince","Bowie","Elton John"],correct:"Prince",hint:"Couleur."},
-    {q:"Another Brick in the Wall ?",a:["Pink Floyd","Queen","Genesis"],correct:"Pink Floyd",hint:"Rock psychédélique."},
-    {q:"Teen Spirit ?",a:["Nirvana","Metallica","Pearl Jam"],correct:"Nirvana",hint:"Grunge."}
-  ],
-  expert:[
-    {q:"Mixage Rumours ?",a:["Ken Caillat","Phil Spector","Brian Eno"],correct:"Ken Caillat",hint:"Fleetwood Mac."},
-    {q:"Solo Thriller ?",a:["Van Halen","Slash","Clapton"],correct:"Van Halen",hint:"Solo légendaire."},
-    {q:"Prophet's Song album ?",a:["Opera","Jazz","Sheer Heart Attack"],correct:"Opera",hint:"Même album que Bohemian Rhapsody."},
-    {q:"OK Computer ?",a:["Radiohead","Coldplay","Muse"],correct:"Radiohead",hint:"Rock alternatif."},
-    {q:"Space Oddity ?",a:["Bowie","Gabriel","Lou Reed"],correct:"Bowie",hint:"Major Tom."}
-  ]
-};
+let musique={facile:[],normal:[],expert:[]};
+let cinema={facile:[],normal:[],expert:[]};
+let series={facile:[],normal:[],expert:[]};
+let acteurs={facile:[],normal:[],expert:[]};
+let histoire={facile:[],normal:[],expert:[]};
+let faits={facile:[],normal:[],expert:[]};
 
 let currentCategory=musique,currentStyle="facile",index=0,scoreStyle=0,hintCount=0;
+
+function loadJSONFile(event){
+    const file=event.target.files[0];
+    if(!file)return;
+
+    const reader=new FileReader();
+    reader.onload=function(e){
+        const data=JSON.parse(e.target.result);
+        applyJSONToCategory(data);
+        alert("Fichier JSON chargé !");
+        index=0;scoreStyle=0;hintCount=0;
+        loadQuestion();
+    };
+    reader.readAsText(file);
+}
+
+function applyJSONToCategory(data){
+    currentCategory={facile:[],normal:[],expert:[]};
+
+    data.forEach((q,i)=>{
+        if(i<100)currentCategory.facile.push(q);
+        else if(i<200)currentCategory.normal.push(q);
+        else currentCategory.expert.push(q);
+    });
+}
 
 function loadCategory(cat,btn){
   document.querySelectorAll(".categories button").forEach(b=>b.classList.remove("activeCategory"));
   btn.classList.add("activeCategory");
+
   if(cat==="musique")currentCategory=musique;
+  if(cat==="cinema")currentCategory=cinema;
+  if(cat==="series")currentCategory=series;
+  if(cat==="acteurs")currentCategory=acteurs;
+  if(cat==="histoire")currentCategory=histoire;
+  if(cat==="faits")currentCategory=faits;
+
   index=0;scoreStyle=0;currentStyle="facile";
   updateStyleDisplay();updatePercentDisplay();updateHintDisplay();loadQuestion();
 }
@@ -111,7 +134,7 @@ function updateStyleDisplay(){
 }
 
 function updatePercentDisplay(){
-  let percent=Math.floor((index%5)/5*100);
+  let percent=Math.floor((index%100)/100*100);
   document.getElementById("percentBox").innerText="Progression : "+percent+"%";
 }
 
@@ -120,13 +143,13 @@ function updateHintDisplay(){
 }
 
 function loadQuestion(){
-  if(index<5)currentStyle="facile";
-  else if(index<10)currentStyle="normal";
+  if(index<100)currentStyle="facile";
+  else if(index<200)currentStyle="normal";
   else currentStyle="expert";
 
   updateStyleDisplay();updatePercentDisplay();
 
-  const q=currentCategory[currentStyle][index%5];
+  const q=currentCategory[currentStyle][index%100];
   document.getElementById("questionTitle").innerText="Question "+(index+1);
   document.getElementById("questionText").innerText=q.q;
 
@@ -144,59 +167,38 @@ function loadQuestion(){
 }
 
 function check(answer){
-  const q=currentCategory[currentStyle][index%5];
+  const q=currentCategory[currentStyle][index%100];
   const result=document.getElementById("result");
+
   if(answer===q.correct){scoreStyle++;result.style.color="green";result.innerText="Bonne réponse !";}
   else{result.style.color="red";result.innerText="Mauvaise réponse.";}
 
+  if((index+1)%100===0){
+    if(scoreStyle>=50){
+      hintCount++;
+      updateHintDisplay();
+      launchConfetti();
+    }
+    scoreStyle=0;
+  }
+
   setTimeout(()=>{
     index++;
-    if(index%5===0)checkStyleCompletion();
-    if(index<15)loadQuestion();
+    if(index<300)loadQuestion();
     else endQuiz();
   },800);
 }
 
-function checkStyleCompletion(){
-  let percent=(scoreStyle/5)*100;
-  if(percent>=70){
-    hintCount++;updateHintDisplay();
-    alert("🎉 Bravo ! On monte de difficulté !");
-    launchConfetti();
-  }
-  scoreStyle=0;
-}
-
 function launchConfetti(){
-  const confettiCount=80,gravity=0.25,terminalVelocity=5,drag=0.02;
-  for(let i=0;i<confettiCount;i++){
-    const conf=document.createElement("div");
-    conf.classList.add("confettiCanon");
-    const startX=window.innerWidth/2,startY=window.innerHeight-50;
-    conf.style.left=startX+"px";conf.style.top=startY+"px";
-    const colors=["#ff4757","#1e90ff","#2ed573","#ffa502","#eccc68","#3742fa","#ff6b81"];
-    conf.style.background=colors[Math.floor(Math.random()*colors.length)];
-    document.body.appendChild(conf);
-
-    const angle=(Math.random()*120-60)*(Math.PI/180);
-    let velocity=Math.random()*8+8;
-    let vx=Math.cos(angle)*velocity,vy=Math.sin(angle)*-velocity;
-    let rotation=Math.random()*360,rotationSpeed=(Math.random()-0.5)*10;
-
-    function animate(){
-      vy+=gravity;
-      velocity=Math.sqrt(vx*vx+vy*vy);
-      if(velocity>terminalVelocity){vx*=(1-drag);vy*=(1-drag);}
-      const x=parseFloat(conf.style.left)+vx;
-      const y=parseFloat(conf.style.top)+vy;
-      conf.style.left=x+"px";conf.style.top=y+"px";
-      rotation+=rotationSpeed;
-      conf.style.transform=`rotate(${rotation}deg)`;
-      if(y>window.innerHeight+50)conf.remove();
-      else requestAnimationFrame(animate);
-    }
-    requestAnimationFrame(animate);
-  }
+  confetti({
+    particleCount:120,
+    spread:80,
+    startVelocity:60,
+    origin:{y:1},
+    gravity:1.2,
+    ticks:200,
+    colors:["#ff4757","#1e90ff","#2ed573","#ffa502","#eccc68","#3742fa","#ff6b81"]
+  });
 }
 
 function endQuiz(){
@@ -205,7 +207,7 @@ function endQuiz(){
 }
 
 function useHint(){
-  const q=currentCategory[currentStyle][index%5];
+  const q=currentCategory[currentStyle][index%100];
   if(hintCount<=0){alert("Aucun indice disponible.");return;}
   document.getElementById("hintBox").innerText="Indice : "+q.hint;
   hintCount--;updateHintDisplay();
