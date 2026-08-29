@@ -2,8 +2,7 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<title>Quiz</title>
-<link rel="apple-touch-icon" href="Quiz.png">
+<title>Quiz iPhone</title>
 <meta name="viewport" content="width=390, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 <style>
@@ -23,12 +22,12 @@ body{
   border-radius:30px;
   box-shadow:0 0 40px rgba(0,0,0,.3);
   overflow:hidden;
-  padding:20px;
+  position:relative;
 }
 
 /* ACCUEIL */
-#homeScreen{display:block;}
-#quizScreen{display:none;}
+#homeScreen{display:block;padding:20px;}
+#quizScreen{display:none;padding:20px;}
 
 h1{
   text-align:center;
@@ -43,6 +42,7 @@ h1{
   justify-content:center;
   gap:12px;
   margin-top:20px;
+  padding-bottom:120px; /* espace pour les boutons fixes */
 }
 
 .categoryCard{
@@ -95,8 +95,16 @@ h1{
   margin-top:5px;
 }
 
+/* BOUTONS FIXES */
 .bottomButtons{
-  margin-top:30px;
+  position:absolute;
+  bottom:0;
+  left:0;
+  width:100%;
+  background:#fff;
+  border-top:1px solid #ccc;
+  padding:15px;
+  box-shadow:0 -5px 15px rgba(0,0,0,.1);
 }
 
 button{
