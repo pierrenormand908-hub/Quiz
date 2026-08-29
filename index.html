@@ -2,141 +2,313 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<title>Quiz</title>
-<link rel="apple-touch-icon" href="Quiz.png">
+<title>Quiz iPhone</title>
 <meta name="viewport" content="width=390, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-<!-- CANON DE CONFETTIS -->
-<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
-
 <style>
-body{margin:0;background:#111;display:flex;justify-content:center;align-items:center;min-height:100vh;font-family:Arial;}
-.iphone16e{width:390px;background:#f2f4f7;border-radius:30px;box-shadow:0 0 40px rgba(0,0,0,.4);overflow:hidden;min-height:100vh;position:relative;}
-header{position:fixed;top:0;left:0;width:390px;background:#007aff;color:#fff;padding:15px;text-align:center;font-size:18px;font-weight:bold;z-index:1000;}
-.categories{margin-top:10px;display:flex;flex-wrap:wrap;justify-content:center;gap:10px;}
-.categories button{background:#fff;color:#007aff;border:none;padding:8px 15px;border-radius:20px;cursor:pointer;font-size:14px;font-weight:bold;}
-.activeCategory{background:#c8f7c5!important;color:#005f2f!important;}
-.container{margin-top:170px;margin-bottom:90px;padding:20px;text-align:center;}
-.card{background:#fff;padding:25px;border-radius:15px;box-shadow:0 10px 25px rgba(0,0,0,.1);max-width:340px;margin:auto;}
-#styleBox{font-size:18px;font-weight:bold;color:#007aff;margin-bottom:5px;}
-#percentBox{font-size:14px;font-weight:bold;color:#444;margin-bottom:15px;}
-button.answer{width:100%;padding:12px;margin:8px 0;border:none;border-radius:10px;background:#007aff;color:#fff;font-size:16px;cursor:pointer;}
-button.answer:hover{background:#005bb5;}
-#result{margin-top:15px;font-size:18px;font-weight:bold;}
-#hintBox{margin-top:15px;font-size:16px;font-weight:bold;color:#555;}
-nav{position:fixed;bottom:0;left:0;width:390px;background:#fff;border-top:1px solid #ccc;display:flex;justify-content:space-around;padding:10px 0;z-index:1000;}
-nav div{text-align:center;font-size:14px;color:#007aff;cursor:pointer;display:flex;align-items:center;gap:5px;}
-nav div span.icon{font-size:22px;}
-nav div span.count{font-size:14px;font-weight:bold;}
-#settingsMenu{position:fixed;bottom:80px;right:20px;background:#fff;padding:15px;border-radius:15px;box-shadow:0 10px 25px rgba(0,0,0,.2);display:none;z-index:2000;}
-.themeDot{width:25px;height:25px;border-radius:50%;display:inline-block;margin:5px;cursor:pointer;border:2px solid #ccc;}
+body{
+  margin:0;
+  background:#f2f4f7;
+  font-family:Arial;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  min-height:100vh;
+}
+.iphone{
+  width:390px;
+  min-height:100vh;
+  background:#fff;
+  border-radius:30px;
+  box-shadow:0 0 40px rgba(0,0,0,.3);
+  overflow:hidden;
+  padding:20px;
+}
+
+/* ACCUEIL */
+#homeScreen{display:block;}
+#quizScreen{display:none;}
+
+h1{
+  text-align:center;
+  margin-top:10px;
+  font-size:26px;
+  color:#007aff;
+}
+
+.categoryGrid{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:12px;
+  margin-top:20px;
+}
+
+.categoryCard{
+  width:160px;
+  background:#fff;
+  border-radius:20px;
+  padding:15px;
+  box-shadow:0 5px 15px rgba(0,0,0,.1);
+  text-align:center;
+  cursor:pointer;
+  transition:0.2s;
+}
+
+.categoryCard:hover{
+  transform:scale(1.03);
+}
+
+.categoryCard.selected{
+  background:#c8f7c5;
+  border:2px solid #4CAF50;
+}
+
+.categoryIcon{
+  font-size:40px;
+  margin-bottom:10px;
+}
+
+.categoryName{
+  font-size:16px;
+  font-weight:bold;
+}
+
+.progressBar{
+  width:100%;
+  height:10px;
+  background:#e0e0e0;
+  border-radius:10px;
+  overflow:hidden;
+  margin-top:10px;
+}
+
+.progressFill{
+  height:10px;
+  background:#007aff;
+  width:0%;
+}
+
+.progressText{
+  font-size:13px;
+  margin-top:5px;
+}
+
+.bottomButtons{
+  margin-top:30px;
+}
+
+button{
+  width:100%;
+  padding:12px;
+  border:none;
+  border-radius:10px;
+  background:#007aff;
+  color:#fff;
+  font-size:16px;
+  margin-top:10px;
+  cursor:pointer;
+}
+
+button.reset{
+  background:#dc3545;
+}
+
+/* QUIZ */
+.card{
+  background:#fff;
+  padding:20px;
+  border-radius:20px;
+  box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
+button.answer{
+  width:100%;
+  padding:12px;
+  border:none;
+  border-radius:10px;
+  background:#007aff;
+  color:#fff;
+  font-size:16px;
+  margin-top:10px;
+  cursor:pointer;
+}
+.backBtn{
+  margin-top:20px;
+  background:#dc3545;
+}
 </style>
 </head>
 
 <body>
-<div class="iphone16e">
+<div class="iphone">
 
-<header>
-  Quiz — Choisis une catégorie
-  <div class="categories">
-    <button onclick="loadCategory('musique',this)">Musique</button>
-    <button onclick="loadCategory('cinema',this)">Cinéma</button>
-    <button onclick="loadCategory('series',this)">Séries TV</button>
-    <button onclick="loadCategory('acteurs',this)">Acteurs / Actrices</button>
-    <button onclick="loadCategory('histoire',this)">Histoire</button>
-    <button onclick="loadCategory('faits',this)">Faits divers</button>
+<!-- ACCUEIL -->
+<div id="homeScreen">
+  <h1>Quiz</h1>
+
+  <div class="categoryGrid" id="categoryGrid"></div>
+
+  <div class="bottomButtons">
+    <button onclick="continueCategory()">Continuer</button>
+    <button class="reset" onclick="resetCategory()">Reprendre à zéro</button>
   </div>
-</header>
+</div>
 
-<div class="container">
+<!-- QUIZ -->
+<div id="quizScreen">
+  <h2 id="title" style="text-align:center;color:#007aff;"></h2>
+
   <div class="card">
-    <div id="styleBox">Mode : Aléatoire total</div>
-    <div id="percentBox">Progression : 0%</div>
-    <h2 id="questionTitle">Question 1</h2>
+    <div id="percent"></div>
+    <h3 id="questionTitle"></h3>
     <p id="questionText"></p>
     <div id="answers"></div>
     <p id="result"></p>
     <p id="hintBox"></p>
   </div>
+
+  <button class="backBtn" onclick="goHome()">Retour à l'accueil</button>
 </div>
 
-<nav>
-  <div onclick="useHint()"><span class="icon">💡</span><span class="count" id="hintCount">0</span>Indice</div>
-  <div onclick="toggleSettings()"><span class="icon">⚙️</span>Paramètres</div>
-</nav>
-
-<div id="settingsMenu">
-  <div class="themeDot" style="background:#007aff" onclick="changeTheme('#007aff')"></div>
-  <div class="themeDot" style="background:#28a745" onclick="changeTheme('#28a745')"></div>
-  <div class="themeDot" style="background:#dc3545" onclick="changeTheme('#dc3545')"></div>
-  <div class="themeDot" style="background:#6f42c1" onclick="changeTheme('#6f42c1')"></div>
-  <div class="themeDot" style="background:#ffc107" onclick="changeTheme('#ffc107')"></div>
 </div>
 
 <script>
-function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+/* ---------------------- ACCUEIL ---------------------- */
 
-let questions = [];
-let index = 0;
-let hintCount = 0;
+const categories = [
+  {id:"musique", name:"Musique", icon:"🎵"},
+  {id:"cinema", name:"Cinéma", icon:"🎬"},
+  {id:"series", name:"Séries TV", icon:"📺"},
+  {id:"acteurs", name:"Acteurs", icon:"🎭"},
+  {id:"histoire", name:"Histoire", icon:"📜"},
+  {id:"faits", name:"Faits divers", icon:"📰"}
+];
 
-async function loadJSONFromGitHub(fileName) {
-    const url = `https://raw.githubusercontent.com/pierrenormand908-hub/Quiz/main/${fileName}`;
-    const response = await fetch(url);
-    let data = await response.json();
+let selectedCategory = null;
 
-    if(data.musique) data = data.musique;
-    if(data.questions) data = data.questions;
+function loadHome(){
+  const grid = document.getElementById("categoryGrid");
+  grid.innerHTML = "";
 
-    questions = shuffle(data);  // MODE ALÉATOIRE TOTAL
-}
+  categories.forEach(cat=>{
+    let percent = localStorage.getItem(cat.id+"_percent") || 0;
 
-function loadCategory(cat,btn){
-  document.querySelectorAll(".categories button").forEach(b=>b.classList.remove("activeCategory"));
-  btn.classList.add("activeCategory");
+    let div = document.createElement("div");
+    div.className="categoryCard";
+    div.id = "cat_" + cat.id;
 
-  let fileName = "";
+    div.innerHTML = `
+      <div class="categoryIcon">${cat.icon}</div>
+      <div class="categoryName">${cat.name}</div>
 
-  if(cat==="musique") fileName="question_musique1.json";
-  if(cat==="cinema") fileName="question_cinema1.json";
-  if(cat==="series") fileName="question_series1.json";
-  if(cat==="acteurs") fileName="question_acteurs1.json";
-  if(cat==="histoire") fileName="question_histoire1.json";
-  if(cat==="faits") fileName="question_faits1.json";
+      <div class="progressBar">
+        <div class="progressFill" style="width:${percent}%"></div>
+      </div>
 
-  loadJSONFromGitHub(fileName).then(()=>{
-      index=0;
-      hintCount=0;
-      updateHintDisplay();
-      loadQuestion();
+      <div class="progressText">${percent}% complété</div>
+    `;
+
+    div.onclick = ()=>selectCategory(cat.id);
+
+    grid.appendChild(div);
   });
 }
 
-function updatePercentDisplay(){
-  let percent=Math.floor((index/questions.length)*100);
-  document.getElementById("percentBox").innerText="Progression : "+percent+"%";
+function selectCategory(cat){
+  selectedCategory = cat;
+
+  document.querySelectorAll(".categoryCard").forEach(c=>{
+    c.classList.remove("selected");
+  });
+
+  document.getElementById("cat_"+cat).classList.add("selected");
 }
 
-function updateHintDisplay(){
-  document.getElementById("hintCount").innerText=hintCount;
-}
-
-function loadQuestion(){
-  const q = questions[index];
-  if(!q){
-    document.getElementById("questionText").innerText="Aucune question.";
+function continueCategory(){
+  if(!selectedCategory){
+    alert("Sélectionne une catégorie.");
     return;
   }
 
-  updatePercentDisplay();
+  startQuiz(selectedCategory, false);
+}
 
-  document.getElementById("questionTitle").innerText="Question "+(index+1);
-  document.getElementById("questionText").innerText=q.q;
+function resetCategory(){
+  if(!selectedCategory){
+    alert("Sélectionne une catégorie.");
+    return;
+  }
 
-  const answersDiv=document.getElementById("answers");
-  answersDiv.innerHTML="";
+  localStorage.setItem(selectedCategory+"_index", 0);
+  localStorage.setItem(selectedCategory+"_percent", 0);
+
+  startQuiz(selectedCategory, true);
+}
+
+/* ---------------------- QUIZ ---------------------- */
+
+function shuffle(a){
+  for(let i=a.length-1;i>0;i--){
+    const j=Math.floor(Math.random()*(i+1));
+    [a[i],a[j]]=[a[j],a[i]];
+  }
+  return a;
+}
+
+let cat = "";
+let index = 0;
+let questions = [];
+
+function startQuiz(category, reset){
+  cat = category;
+
+  if(reset){
+    index = 0;
+  } else {
+    index = parseInt(localStorage.getItem(cat+"_index") || 0);
+  }
+
+  document.getElementById("homeScreen").style.display="none";
+  document.getElementById("quizScreen").style.display="block";
+
+  loadQuiz();
+}
+
+async function loadQuiz(){
+  document.getElementById("title").innerText = "Catégorie : " + cat;
+
+  const url = `https://raw.githubusercontent.com/pierrenormand908-hub/Quiz/main/question_${cat}1.json`;
+  const response = await fetch(url);
+  let data = await response.json();
+
+  if(data.musique) data = data.musique;
+  if(data.questions) data = data.questions;
+
+  questions = shuffle(data);
+
+  loadQuestion();
+}
+
+function loadQuestion(){
+  if(index >= questions.length){
+    endQuiz();
+    return;
+  }
+
+  let q = questions[index];
+
+  let percent = Math.floor((index / questions.length) * 100);
+  localStorage.setItem(cat+"_percent", percent);
+
+  document.getElementById("percent").innerText = "Progression : " + percent + "%";
+  document.getElementById("questionTitle").innerText = "Question " + (index+1);
+  document.getElementById("questionText").innerText = q.q;
+
+  let answersDiv = document.getElementById("answers");
+  answersDiv.innerHTML = "";
+
   shuffle([...q.a]).forEach(ans=>{
-    const btn=document.createElement("button");
+    let btn = document.createElement("button");
     btn.className="answer";
     btn.innerText=ans;
     btn.onclick=()=>check(ans);
@@ -148,52 +320,38 @@ function loadQuestion(){
 }
 
 function check(answer){
-  const q=questions[index];
-  const result=document.getElementById("result");
+  let q = questions[index];
+  let result = document.getElementById("result");
 
-  if(answer===q.correct){
-      result.style.color="green";
-      result.innerText="Bonne réponse !";
+  if(answer === q.correct){
+    result.style.color="green";
+    result.innerText="Bonne réponse !";
   } else {
-      result.style.color="red";
-      result.innerText="Mauvaise réponse.";
+    result.style.color="red";
+    result.innerText="Mauvaise réponse.";
   }
 
   setTimeout(()=>{
     index++;
-    if(index < questions.length) loadQuestion();
-    else endQuiz();
+    localStorage.setItem(cat+"_index", index);
+    loadQuestion();
   },800);
 }
 
 function endQuiz(){
-  document.getElementById("questionText").innerText="Quiz terminé ! Tu as obtenu "+hintCount+" indices.";
+  document.getElementById("questionText").innerText = "Quiz terminé !";
   document.getElementById("answers").innerHTML="";
+  localStorage.setItem(cat+"_index", 0);
 }
 
-function useHint(){
-  const q=questions[index];
-  if(hintCount<=0){
-      alert("Aucun indice disponible.");
-      return;
-  }
-  document.getElementById("hintBox").innerText="Indice : "+q.hint;
-  hintCount--;
-  updateHintDisplay();
+function goHome(){
+  document.getElementById("quizScreen").style.display="none";
+  document.getElementById("homeScreen").style.display="block";
+  loadHome();
 }
 
-function toggleSettings(){
-  let menu=document.getElementById("settingsMenu");
-  menu.style.display=menu.style.display==="block"?"none":"block";
-}
-
-function changeTheme(color){
-  document.querySelector("header").style.background=color;
-  document.querySelectorAll(".categories button").forEach(b=>b.style.color=color);
-  document.querySelectorAll("button.answer").forEach(b=>b.style.background=color);
-}
+loadHome();
 </script>
 
-</div>
 </body>
 </html>
