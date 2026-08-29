@@ -2,435 +2,218 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Quiz Pro — Styles + Indices + Thèmes + Confettis</title>
-
+  <title>Quiz iPhone 16e</title>
+  <meta name="viewport" content="width=390, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #f2f4f7;
-      transition: background 0.3s;
+    body{margin:0;font-family:Arial,sans-serif;background:#111;display:flex;justify-content:center;align-items:center;min-height:100vh;}
+    .iphone16e{width:390px;margin:0 auto;background:#f2f4f7;border-radius:30px;box-shadow:0 0 40px rgba(0,0,0,0.4);overflow:hidden;min-height:100vh;position:relative;}
+    header{position:fixed;top:0;left:0;width:390px;background:#007aff;color:#fff;padding:15px;text-align:center;font-size:18px;font-weight:bold;z-index:1000;}
+    .categories{margin-top:10px;display:flex;flex-wrap:wrap;justify-content:center;gap:10px;}
+    .categories button{background:#fff;color:#007aff;border:none;padding:8px 15px;border-radius:20px;cursor:pointer;font-size:14px;font-weight:bold;transition:.2s;}
+    .activeCategory{background:#c8f7c5!important;color:#005f2f!important;}
+    .container{margin-top:170px;margin-bottom:90px;padding:20px;text-align:center;}
+    .card{background:#fff;padding:25px;border-radius:15px;box-shadow:0 10px 25px rgba(0,0,0,.1);max-width:340px;margin:auto;transition:.3s;}
+    #styleBox{font-size:18px;font-weight:bold;color:#007aff;margin-bottom:5px;}
+    #percentBox{font-size:14px;font-weight:bold;color:#444;margin-bottom:15px;}
+    button.answer{width:100%;padding:12px;margin:8px 0;border:none;border-radius:10px;background:#007aff;color:#fff;font-size:16px;cursor:pointer;transition:.2s;}
+    button.answer:hover{background:#005bb5;}
+    #result{margin-top:15px;font-size:18px;font-weight:bold;}
+    #hintBox{margin-top:15px;font-size:16px;font-weight:bold;color:#555;}
+    nav{position:fixed;bottom:0;left:0;width:390px;background:#fff;border-top:1px solid #ccc;display:flex;justify-content:space-around;padding:10px 0;z-index:1000;}
+    nav div{text-align:center;font-size:14px;color:#007aff;cursor:pointer;display:flex;align-items:center;gap:5px;}
+    nav div span.icon{font-size:22px;}
+    nav div span.count{font-size:14px;font-weight:bold;}
+    #settingsMenu{position:fixed;bottom:80px;right:20px;background:#fff;padding:15px;border-radius:15px;box-shadow:0 10px 25px rgba(0,0,0,.2);display:none;z-index:2000;}
+    .themeDot{width:25px;height:25px;border-radius:50%;display:inline-block;margin:5px;cursor:pointer;border:2px solid #ccc;}
+    .confetti{position:fixed;width:10px;height:10px;animation:fall 1.5s linear forwards;z-index:3000;}
+    @keyframes fall{to{transform:translateY(600px) rotate(360deg);opacity:0;}}
+  </style>
+</head>
+<body>
+<div class="iphone16e">
+  <header>
+    Quiz — Choisis une catégorie
+    <div class="categories">
+      <button onclick="loadCategory('musique',this)">Musique</button>
+      <button onclick="loadCategory('cinema',this)">Cinéma</button>
+      <button onclick="loadCategory('series',this)">Séries TV</button>
+      <button onclick="loadCategory('acteurs',this)">Acteurs / Actrices</button>
+      <button onclick="loadCategory('histoire',this)">Histoire</button>
+      <button onclick="loadCategory('faits',this)">Faits divers</button>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="card">
+      <div id="styleBox">Style : Facile</div>
+      <div id="percentBox">Progression : 0%</div>
+      <h2 id="questionTitle">Question 1</h2>
+      <p id="questionText"></p>
+      <div id="answers"></div>
+      <p id="result"></p>
+      <p id="hintBox"></p>
+    </div>
+  </div>
+
+  <nav>
+    <div onclick="useHint()">
+      <span class="icon">💡</span>
+      <span class="count" id="hintCount">0</span>
+      Indices
+    </div>
+    <div onclick="toggleSettings()">
+      <span class="icon">⚙️</span>
+      Paramètres
+    </div>
+  </nav>
+
+  <div id="settingsMenu">
+    <div class="themeDot" style="background:#007aff" onclick="changeTheme('#007aff')"></div>
+    <div class="themeDot" style="background:#28a745" onclick="changeTheme('#28a745')"></div>
+    <div class="themeDot" style="background:#dc3545" onclick="changeTheme('#dc3545')"></div>
+    <div class="themeDot" style="background:#6f42c1" onclick="changeTheme('#6f42c1')"></div>
+    <div class="themeDot" style="background:#ffc107" onclick="changeTheme('#ffc107')"></div>
+  </div>
+
+  <script>
+    function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+
+    const musique={
+      facile:[
+        {q:"Stayin' Alive ?",a:["ABBA","Bee Gees","Queen"],correct:"Bee Gees",hint:"Frères Gibb."},
+        {q:"Like a Virgin ?",a:["Madonna","Cher","Cyndi Lauper"],correct:"Madonna",hint:"Années 80."},
+        {q:"Thriller ?",a:["Prince","Michael Jackson","Stevie Wonder"],correct:"Michael Jackson",hint:"Roi de la Pop."},
+        {q:"Bohemian Rhapsody ?",a:["Queen","Pink Floyd","Beatles"],correct:"Queen",hint:"Freddie Mercury."},
+        {q:"Rolling in the Deep ?",a:["Adele","Rihanna","Sia"],correct:"Adele",hint:"Britannique."}
+      ],
+      normal:[
+        {q:"Album 1977 Bee Gees ?",a:["Saturday Night Fever","Main Course","Spirits"],correct:"Saturday Night Fever",hint:"Disco."},
+        {q:"Hotel California ?",a:["Eagles","Fleetwood Mac","Chicago"],correct:"Eagles",hint:"USA."},
+        {q:"Purple Rain ?",a:["Prince","Bowie","Elton John"],correct:"Prince",hint:"Couleur."},
+        {q:"Another Brick in the Wall ?",a:["Pink Floyd","Queen","Genesis"],correct:"Pink Floyd",hint:"Rock psychédélique."},
+        {q:"Teen Spirit ?",a:["Nirvana","Metallica","Pearl Jam"],correct:"Nirvana",hint:"Grunge."}
+      ],
+      expert:[
+        {q:"Mixage Rumours ?",a:["Ken Caillat","Phil Spector","Brian Eno"],correct:"Ken Caillat",hint:"Fleetwood Mac."},
+        {q:"Solo Thriller ?",a:["Van Halen","Slash","Clapton"],correct:"Van Halen",hint:"Solo légendaire."},
+        {q:"Prophet's Song album ?",a:["Opera","Jazz","Sheer Heart Attack"],correct:"Opera",hint:"Même album que Bohemian Rhapsody."},
+        {q:"OK Computer ?",a:["Radiohead","Coldplay","Muse"],correct:"Radiohead",hint:"Rock alternatif."},
+        {q:"Space Oddity ?",a:["Bowie","Gabriel","Lou Reed"],correct:"Bowie",hint:"Major Tom."}
+      ]
+    };
+
+    let currentCategory=musique,currentStyle="facile",index=0,scoreStyle=0,hintCount=0;
+
+    function loadCategory(cat,btn){
+      document.querySelectorAll(".categories button").forEach(b=>b.classList.remove("activeCategory"));
+      btn.classList.add("activeCategory");
+      if(cat==="musique")currentCategory=musique;
+      index=0;scoreStyle=0;currentStyle="facile";
+      updateStyleDisplay();updatePercentDisplay();updateHintDisplay();loadQuestion();
     }
 
-    header {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      background: #007aff;
-      color: white;
-      padding: 15px;
-      text-align: center;
-      font-size: 18px;
-      font-weight: bold;
-      z-index: 1000;
-      transition: background 0.3s;
+    function updateStyleDisplay(){
+      document.getElementById("styleBox").innerText="Style : "+currentStyle.charAt(0).toUpperCase()+currentStyle.slice(1);
     }
 
-    .categories {
-      margin-top: 10px;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
+    function updatePercentDisplay(){
+      let percent=Math.floor((index%5)/5*100);
+      document.getElementById("percentBox").innerText="Progression : "+percent+"%";
     }
 
-    .categories button {
-      background: white;
-      color: #007aff;
-      border: none;
-      padding: 8px 15px;
-      border-radius: 20px;
-      cursor: pointer;
-      font-size: 14px;
-      font-weight: bold;
-      transition: 0.2s;
+    function updateHintDisplay(){
+      document.getElementById("hintCount").innerText=hintCount;
     }
 
-    .activeCategory {
-      background: #c8f7c5 !important;
-      color: #005f2f !important;
+    function loadQuestion(){
+      if(index<5)currentStyle="facile";
+      else if(index<10)currentStyle="normal";
+      else currentStyle="expert";
+
+      updateStyleDisplay();updatePercentDisplay();
+
+      const q=currentCategory[currentStyle][index%5];
+      document.getElementById("questionTitle").innerText="Question "+(index+1);
+      document.getElementById("questionText").innerText=q.q;
+
+      const answersDiv=document.getElementById("answers");
+      answersDiv.innerHTML="";
+      let shuffledAnswers=shuffle([...q.a]);
+      shuffledAnswers.forEach(ans=>{
+        const btn=document.createElement("button");
+        btn.className="answer";btn.innerText=ans;
+        btn.onclick=()=>check(ans);
+        answersDiv.appendChild(btn);
+      });
+
+      document.getElementById("result").innerText="";
+      document.getElementById("hintBox").innerText="";
     }
 
-    .container {
-      margin-top: 170px;
-      margin-bottom: 90px;
-      padding: 20px;
-      text-align: center;
+    function check(answer){
+      const q=currentCategory[currentStyle][index%5];
+      const result=document.getElementById("result");
+      if(answer===q.correct){scoreStyle++;result.style.color="green";result.innerText="Bonne réponse !";}
+      else{result.style.color="red";result.innerText="Mauvaise réponse.";}
+
+      setTimeout(()=>{
+        index++;
+        if(index%5===0)checkStyleCompletion();
+        if(index<15)loadQuestion();
+        else endQuiz();
+      },800);
     }
 
-    .card {
-      background: white;
-      padding: 25px;
-      border-radius: 15px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-      max-width: 400px;
-      margin: auto;
-      transition: background 0.3s;
+    function checkStyleCompletion(){
+      let percent=(scoreStyle/5)*100;
+      if(percent>=70){
+        hintCount++;updateHintDisplay();
+        showBravoMessage();launchConfetti();
+      }
+      scoreStyle=0;
     }
 
-    #styleBox {
-      font-size: 18px;
-      font-weight: bold;
-      color: #007aff;
-      margin-bottom: 5px;
+    function showBravoMessage(){
+      alert("🎉 Bravo ! On monte de difficulté !");
     }
 
-    #percentBox {
-      font-size: 14px;
-      font-weight: bold;
-      color: #444;
-      margin-bottom: 15px;
-    }
-
-    button.answer {
-      width: 100%;
-      padding: 12px;
-      margin: 8px 0;
-      border: none;
-      border-radius: 10px;
-      background: #007aff;
-      color: white;
-      font-size: 16px;
-      cursor: pointer;
-      transition: 0.2s;
-    }
-
-    button.answer:hover {
-      background: #005bb5;
-    }
-
-    #result {
-      margin-top: 15px;
-      font-size: 18px;
-      font-weight: bold;
-    }
-
-    #hintBox {
-      margin-top: 15px;
-      font-size: 16px;
-      font-weight: bold;
-      color: #555;
-    }
-
-    nav {
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      background: #ffffff;
-      border-top: 1px solid #ccc;
-      display: flex;
-      justify-content: space-around;
-      padding: 10px 0;
-      z-index: 1000;
-    }
-
-    nav div {
-      text-align: center;
-      font-size: 14px;
-      color: #007aff;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      gap: 5px;
-    }
-
-    nav div span.icon {
-      font-size: 22px;
-    }
-
-    nav div span.count {
-      font-size: 14px;
-      font-weight: bold;
-    }
-
-    /* MENU PARAMÈTRES */
-    #settingsMenu {
-      position: fixed;
-      bottom: 80px;
-      right: 20px;
-      background: white;
-      padding: 15px;
-      border-radius: 15px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.2);
-      display: none;
-      z-index: 2000;
-    }
-
-    .themeDot {
-      width: 25px;
-      height: 25px;
-      border-radius: 50%;
-      display: inline-block;
-      margin: 5px;
-      cursor: pointer;
-      border: 2px solid #ccc;
-    }
-
-    /* CONFETTIS */
-    .confetti {
-      position: fixed;
-      width: 10px;
-      height: 10px;
-      background: red;
-      animation: fall 1.5s linear forwards;
-      z-index: 3000;
-    }
-
-    @keyframes fall {
-      to {
-        transform: translateY(600px) rotate(360deg);
-        opacity: 0;
+    function launchConfetti(){
+      for(let i=0;i<40;i++){
+        let conf=document.createElement("div");
+        conf.classList.add("confetti");
+        conf.style.left=Math.random()*window.innerWidth+"px";
+        conf.style.background=["#ff4757","#1e90ff","#2ed573","#ffa502","#eccc68"][Math.floor(Math.random()*5)];
+        document.body.appendChild(conf);
+        setTimeout(()=>conf.remove(),1500);
       }
     }
 
-  </style>
-</head>
+    function endQuiz(){
+      document.getElementById("questionText").innerText="Quiz terminé ! Tu as obtenu "+hintCount+" indices.";
+      document.getElementById("answers").innerHTML="";
+    }
 
-<body>
+    function useHint(){
+      const q=currentCategory[currentStyle][index%5];
+      if(hintCount<=0){alert("Aucun indice disponible.");return;}
+      document.getElementById("hintBox").innerText="Indice : "+q.hint;
+      hintCount--;updateHintDisplay();
+    }
 
-<header>
-  Quiz — Choisis une catégorie
-  <div class="categories">
-    <button onclick="loadCategory('musique', this)">Musique</button>
-    <button onclick="loadCategory('cinema', this)">Cinéma</button>
-    <button onclick="loadCategory('series', this)">Séries TV</button>
-    <button onclick="loadCategory('acteurs', this)">Acteurs / Actrices</button>
-    <button onclick="loadCategory('histoire', this)">Histoire</button>
-    <button onclick="loadCategory('faits', this)">Faits divers</button>
-  </div>
-</header>
+    function toggleSettings(){
+      let menu=document.getElementById("settingsMenu");
+      menu.style.display=menu.style.display==="block"?"none":"block";
+    }
 
-<div class="container">
-  <div class="card">
+    function changeTheme(color){
+      document.querySelector("header").style.background=color;
+      document.querySelector(".card").style.borderColor=color;
+      document.querySelectorAll(".categories button").forEach(b=>b.style.color=color);
+      document.querySelectorAll("button.answer").forEach(b=>b.style.background=color);
+    }
 
-    <div id="styleBox">Style : Facile</div>
-    <div id="percentBox">Progression : 0%</div>
-
-    <h2 id="questionTitle">Question 1</h2>
-    <p id="questionText"></p>
-
-    <div id="answers"></div>
-
-    <p id="result"></p>
-    <p id="hintBox"></p>
-
-  </div>
+    loadCategory("musique",document.querySelector(".categories button"));
+  </script>
 </div>
-
-<nav>
-  <div onclick="useHint()">
-    <span class="icon">💡</span>
-    <span class="count" id="hintCount">0</span>
-    Indices
-  </div>
-
-  <div onclick="toggleSettings()">
-    <span class="icon">⚙️</span>
-    Paramètres
-  </div>
-</nav>
-
-<!-- MENU PARAMÈTRES -->
-<div id="settingsMenu">
-  <div class="themeDot" style="background:#007aff" onclick="changeTheme('#007aff')"></div>
-  <div class="themeDot" style="background:#28a745" onclick="changeTheme('#28a745')"></div>
-  <div class="themeDot" style="background:#dc3545" onclick="changeTheme('#dc3545')"></div>
-  <div class="themeDot" style="background:#6f42c1" onclick="changeTheme('#6f42c1')"></div>
-  <div class="themeDot" style="background:#ffc107" onclick="changeTheme('#ffc107')"></div>
-</div>
-
-<script>
-
-function shuffle(array) {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
-  }
-  return array;
-}
-
-/* Exemple MUSIQUE avec 5 questions par style */
-const musique = {
-  facile: [
-    { q: "Stayin' Alive ?", a: ["ABBA", "Bee Gees", "Queen"], correct: "Bee Gees", hint: "Frères Gibb." },
-    { q: "Like a Virgin ?", a: ["Madonna", "Cher", "Cyndi Lauper"], correct: "Madonna", hint: "Années 80." },
-    { q: "Thriller ?", a: ["Prince", "Michael Jackson", "Stevie Wonder"], correct: "Michael Jackson", hint: "Roi de la Pop." },
-    { q: "Bohemian Rhapsody ?", a: ["Queen", "Pink Floyd", "Beatles"], correct: "Queen", hint: "Freddie Mercury." },
-    { q: "Rolling in the Deep ?", a: ["Adele", "Rihanna", "Sia"], correct: "Adele", hint: "Britannique." }
-  ],
-
-  normal: [
-    { q: "Album 1977 Bee Gees ?", a: ["Saturday Night Fever", "Main Course", "Spirits"], correct: "Saturday Night Fever", hint: "Disco." },
-    { q: "Hotel California ?", a: ["Eagles", "Fleetwood Mac", "Chicago"], correct: "Eagles", hint: "USA." },
-    { q: "Purple Rain ?", a: ["Prince", "Bowie", "Elton John"], correct: "Prince", hint: "Couleur." },
-    { q: "Another Brick in the Wall ?", a: ["Pink Floyd", "Queen", "Genesis"], correct: "Pink Floyd", hint: "Rock psychédélique." },
-    { q: "Teen Spirit ?", a: ["Nirvana", "Metallica", "Pearl Jam"], correct: "Nirvana", hint: "Grunge." }
-  ],
-
-  expert: [
-    { q: "Mixage Rumours ?", a: ["Ken Caillat", "Phil Spector", "Brian Eno"], correct: "Ken Caillat", hint: "Fleetwood Mac." },
-    { q: "Solo Thriller ?", a: ["Van Halen", "Slash", "Clapton"], correct: "Van Halen", hint: "Solo légendaire." },
-    { q: "Prophet's Song album ?", a: ["Opera", "Jazz", "Sheer Heart Attack"], correct: "Opera", hint: "Même album que Bohemian Rhapsody." },
-    { q: "OK Computer ?", a: ["Radiohead", "Coldplay", "Muse"], correct: "Radiohead", hint: "Rock alternatif." },
-    { q: "Space Oddity ?", a: ["Bowie", "Gabriel", "Lou Reed"], correct: "Bowie", hint: "Major Tom." }
-  ]
-};
-
-let currentCategory = musique;
-let currentStyle = "facile";
-let index = 0;
-let scoreStyle = 0;
-let hintCount = 0;
-
-function loadCategory(cat, btn) {
-  document.querySelectorAll(".categories button").forEach(b => b.classList.remove("activeCategory"));
-  btn.classList.add("activeCategory");
-
-  if (cat === "musique") currentCategory = musique;
-
-  index = 0;
-  scoreStyle = 0;
-  currentStyle = "facile";
-
-  updateStyleDisplay();
-  updatePercentDisplay();
-  updateHintDisplay();
-  loadQuestion();
-}
-
-function updateStyleDisplay() {
-  document.getElementById("styleBox").innerText =
-    "Style : " + currentStyle.charAt(0).toUpperCase() + currentStyle.slice(1);
-}
-
-function updatePercentDisplay() {
-  let percent = Math.floor((index % 5) / 5 * 100);
-  document.getElementById("percentBox").innerText = "Progression : " + percent + "%";
-}
-
-function updateHintDisplay() {
-  document.getElementById("hintCount").innerText = hintCount;
-}
-
-function loadQuestion() {
-
-  if (index < 5) currentStyle = "facile";
-  else if (index < 10) currentStyle = "normal";
-  else currentStyle = "expert";
-
-  updateStyleDisplay();
-  updatePercentDisplay();
-
-  const q = currentCategory[currentStyle][index % 5];
-
-  document.getElementById("questionTitle").innerText = "Question " + (index + 1);
-  document.getElementById("questionText").innerText = q.q;
-
-  const answersDiv = document.getElementById("answers");
-  answersDiv.innerHTML = "";
-
-  let shuffledAnswers = shuffle([...q.a]);
-
-  shuffledAnswers.forEach(answer => {
-    const btn = document.createElement("button");
-    btn.className = "answer";
-    btn.innerText = answer;
-    btn.onclick = () => check(answer);
-    answersDiv.appendChild(btn);
-  });
-
-  document.getElementById("result").innerText = "";
-  document.getElementById("hintBox").innerText = "";
-}
-
-function check(answer) {
-  const q = currentCategory[currentStyle][index % 5];
-  const result = document.getElementById("result");
-
-  if (answer === q.correct) {
-    scoreStyle++;
-    result.style.color = "green";
-    result.innerText = "Bonne réponse !";
-  } else {
-    result.style.color = "red";
-    result.innerText = "Mauvaise réponse.";
-  }
-
-  setTimeout(() => {
-    index++;
-
-    if (index % 5 === 0) checkStyleCompletion();
-
-    if (index < 15) loadQuestion();
-    else endQuiz();
-
-  }, 800);
-}
-
-function checkStyleCompletion() {
-  let percent = (scoreStyle / 5) * 100;
-
-  if (percent >= 70) {
-    hintCount++;
-    updateHintDisplay();
-    showBravoMessage();
-    launchConfetti();
-  }
-
-  scoreStyle = 0;
-}
-
-function showBravoMessage() {
-  alert("🎉 Bravo ! On monte de difficulté !");
-}
-
-function launchConfetti() {
-  for (let i = 0; i < 40; i++) {
-    let conf = document.createElement("div");
-    conf.classList.add("confetti");
-    conf.style.left = Math.random() * window.innerWidth + "px";
-    conf.style.background = ["#ff4757", "#1e90ff", "#2ed573", "#ffa502", "#eccc68"][Math.floor(Math.random()*5)];
-    document.body.appendChild(conf);
-
-    setTimeout(() => conf.remove(), 1500);
-  }
-}
-
-function endQuiz() {
-  document.getElementById("questionText").innerText =
-    "Quiz terminé ! Tu as obtenu " + hintCount + " indices.";
-  document.getElementById("answers").innerHTML = "";
-}
-
-function useHint() {
-  const q = currentCategory[currentStyle][index % 5];
-
-  if (hintCount <= 0) {
-    alert("Aucun indice disponible.");
-    return;
-  }
-
-  document.getElementById("hintBox").innerText = "Indice : " + q.hint;
-
-  hintCount--;
-  updateHintDisplay();
-}
-
-function toggleSettings() {
-  let menu = document.getElementById("settingsMenu");
-  menu.style.display = menu.style.display === "block" ? "none" : "block";
-}
-
-function changeTheme(color) {
-  document.querySelector("header").style.background = color;
-  document.querySelector(".card").style.borderColor = color;
-}
-
-loadCategory("musique", document.querySelector(".categories button"));
-
-</script>
-
 </body>
 </html>
