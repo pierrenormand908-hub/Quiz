@@ -124,7 +124,7 @@ h1{
 }
 
 #popupWindow{
-  width:300px; /* POPUP PLUS PETIT */
+  width:300px;
   background:#fff;
   border-radius:20px;
   padding:15px;
@@ -313,10 +313,10 @@ function launchConfetti(){
 
 const subCategories = {
   musique: [
-    {name:"Années 80", icon:"🎶", file:"question_musique80_1.json"},
-    {name:"Années 90", icon:"🎧", file:"question_musique90_1.json"},
-    {name:"Années 2000", icon:"📀", file:"question_musique2000_1.json"},
-    {name:"Francophone", icon:"🇫🇷", file:"question_musique_francophone1.json"}
+    {name:"Années 80", icon:"🎶"},
+    {name:"Années 90", icon:"🎧"},
+    {name:"Années 2000", icon:"📀"},
+    {name:"Francophone", icon:"🇫🇷"}
   ],
   cinema: [
     {name:"Action", icon:"🔥", file:"question_cinema_action1.json"},
@@ -358,13 +358,24 @@ function openPopup(cat){
   document.getElementById("popupTitle").innerText = titles[cat] || cat;
 
   let buttons = "";
-  subCategories[cat].forEach(sub=>{
-    buttons += `
-      <button class="popupBtn" onclick="startQuiz('${sub.file}')">
-        ${sub.icon} ${sub.name}
-      </button>
-    `;
-  });
+
+  if(cat === "musique"){
+    subCategories.musique.forEach(sub=>{
+      buttons += `
+        <button class="popupBtn" onclick="startMusicCategory('${sub.name}')">
+          ${sub.icon} ${sub.name}
+        </button>
+      `;
+    });
+  } else {
+    subCategories[cat].forEach(sub=>{
+      buttons += `
+        <button class="popupBtn" onclick="startQuiz('${sub.file}')">
+          ${sub.icon} ${sub.name}
+        </button>
+      `;
+    });
+  }
 
   document.getElementById("popupButtons").innerHTML = buttons;
   document.getElementById("popupOverlay").style.display="flex";
@@ -414,7 +425,33 @@ function loadHome(){
   });
 }
 
-/* ---------------------- QUIZ ---------------------- */
+/* ---------------------- QUIZ (MUSIQUE - UN SEUL FICHIER) ---------------------- */
+
+async function startMusicCategory(subCat){
+  closePopup();
+
+  document.getElementById("homeScreen").style.display="none";
+  document.getElementById("quizScreen").style.display="block";
+  document.getElementById("quizNav").style.display="flex";
+
+  document.getElementById("title").innerText = "Musique - " + subCat;
+
+  const url = `https://raw.githubusercontent.com/pierrenormand908-hub/Quiz/main/musique.json`;
+  const response = await fetch(url);
+  const text = await response.text();
+
+  const lines = text.trim().split("\n");
+  let allQuestions = lines.map(l => JSON.parse(l));
+
+  questions = allQuestions.filter(q => q.cat === subCat);
+
+  index = 0;
+  correctCount = 0;
+
+  loadQuestion();
+}
+
+/* ---------------------- QUIZ NORMAL ---------------------- */
 
 function shuffle(a){
   for(let i=a.length-1;i>0;i--){
@@ -462,8 +499,6 @@ function loadQuestion(){
   let q = questions[index];
 
   let percent = Math.floor((index / questions.length) * 100);
-  localStorage.setItem(currentFile+"_percent", percent);
-
   document.getElementById("percent").innerText = "Progression : " + percent + "%";
   document.getElementById("questionTitle").innerText = "Question " + (index+1);
   document.getElementById("questionText").innerText = q.q;
@@ -491,7 +526,6 @@ function check(answer){
     result.style.color="green";
     result.innerText="Bonne réponse !";
     correctCount++;
-    localStorage.setItem(currentFile+"_correct", correctCount);
 
     if(correctCount === 50 || correctCount === 100 || correctCount === 150){
       globalHints++;
@@ -507,7 +541,6 @@ function check(answer){
 
   setTimeout(()=>{
     index++;
-    localStorage.setItem(currentFile+"_index", index);
     loadQuestion();
   },800);
 }
@@ -533,7 +566,6 @@ function openSettings(){
 function endQuiz(){
   document.getElementById("questionText").innerText = "Quiz terminé !";
   document.getElementById("answers").innerHTML="";
-  localStorage.setItem(currentFile+"_index", 0);
 }
 
 function goHome(){
