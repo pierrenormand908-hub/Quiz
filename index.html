@@ -53,7 +53,7 @@ h1{
   flex:1;
   overflow-y:auto;
   padding:20px;
-  padding-bottom:80px;
+  padding-bottom:120px; /* espace pour les boutons fixes */
 }
 
 .categoryGrid{
@@ -212,7 +212,7 @@ button.answer{
 /* BARRE DE NAVIGATION DU QUIZ */
 .quizNav{
   position:fixed;
-  bottom:env(safe-area-inset-bottom);
+  bottom:70px;
   left:50%;
   transform:translateX(-50%);
   width:360px;
@@ -221,6 +221,7 @@ button.answer{
   padding:10px;
   display:flex;
   justify-content:space-around;
+  z-index:999;
 }
 
 .navItem{
@@ -236,6 +237,37 @@ button.answer{
   color:#000;
   font-size:14px;
   font-weight:normal;
+}
+
+/* ⭐ BOUTONS FIXES EN BAS (ACCUEIL) ⭐ */
+#fixedButtons{
+  position:fixed;
+  bottom:10px;
+  left:50%;
+  transform:translateX(-50%);
+  width:360px;
+  display:flex;
+  justify-content:space-between;
+  z-index:999;
+}
+
+#fixedButtons button{
+  flex:1;
+  margin:0 5px;
+  padding:12px;
+  font-size:16px;
+  border:none;
+  border-radius:12px;
+  color:#fff;
+  cursor:pointer;
+}
+
+#continueBtn{
+  background:#007aff;
+}
+
+#resetBtn{
+  background:#dc3545;
 }
 </style>
 </head>
@@ -259,6 +291,12 @@ button.answer{
   <div class="categoryScroll">
     <div class="categoryGrid" id="categoryGrid"></div>
   </div>
+</div>
+
+<!-- ⭐ BOUTONS FIXES (ACCUEIL) ⭐ -->
+<div id="fixedButtons">
+  <button id="continueBtn" onclick="continueQuiz()">Continuer</button>
+  <button id="resetBtn" onclick="resetQuiz()">Reprendre à zéro</button>
 </div>
 
 <!-- QUIZ -->
@@ -285,8 +323,6 @@ button.answer{
   <div class="navItem" onclick="openSettings()">
     ⚙️
   </div>
-</div>
-
 </div>
 
 <!-- CONFETTI -->
@@ -573,6 +609,16 @@ function goHome(){
   document.getElementById("quizNav").style.display="none";
   document.getElementById("homeScreen").style.display="block";
   loadHome();
+}
+
+function continueQuiz(){
+  loadQuestion();
+}
+
+function resetQuiz(){
+  index = 0;
+  correctCount = 0;
+  loadQuestion();
 }
 
 loadHome();
