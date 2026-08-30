@@ -1,5 +1,3 @@
-
-[
 {"q":"Quel groupe a chanté 'Billie Jean'?","a":["Michael Jackson","Prince","Stevie Wonder"],"correct":"Michael Jackson","hint":"Thriller"},
 {"q":"Quel groupe a interprété 'Take On Me'?","a":["A-ha","Duran Duran","Toto"],"correct":"A-ha","hint":"Clip culte"},
 {"q":"Qui chante 'Like a Virgin'?","a":["Madonna","Cyndi Lauper","Whitney Houston"],"correct":"Madonna","hint":"Années 80"},
@@ -289,4 +287,4 @@
 {"q":"Qui chante 'I’m Still Standing'?","a":["Elton John","Billy Joel","Phil Collins"],"correct":"Elton John","hint":"Retour"},
 {"q":"Quel groupe a sorti 'Californian Soil'?","a":["London Grammar","The xx","CHVRCHES"],"correct":"London Grammar","hint":"2021"},
 {"q":"Qui chante 'I’m Yours'?","a":["Jason Mraz","Ed Sheeran","John Mayer"],"correct":"Jason Mraz","hint":"Ukulélé"}
-]
+
