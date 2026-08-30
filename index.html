@@ -25,7 +25,6 @@ body{
   height:100vh;
   background:#fff;
 
-  /* Coins arrondis seulement en bas */
   border-radius:0 0 30px 30px;
 
   box-shadow:0 0 40px rgba(0,0,0,.3);
@@ -34,7 +33,6 @@ body{
   display:flex;
   flex-direction:column;
 
-  /* Monte derrière l’heure */
   padding-top:env(safe-area-inset-top);
   padding-bottom:env(safe-area-inset-bottom);
 }
@@ -54,7 +52,6 @@ h1{
   color:#007aff;
 }
 
-/* Zone scrollable */
 .categoryScroll{
   flex:1;
   overflow-y:auto;
@@ -62,7 +59,6 @@ h1{
   padding-bottom:140px;
 }
 
-/* Catégories */
 .categoryGrid{
   display:flex;
   flex-wrap:wrap;
@@ -203,14 +199,13 @@ button.answer{
   justify-content:space-around;
 }
 
-.quizNav button{
-  background:#007aff;
-  color:#fff;
-  border:none;
-  padding:10px 15px;
-  border-radius:10px;
-  font-size:16px;
+.navItem{
+  font-size:26px;
   cursor:pointer;
+  display:flex;
+  align-items:center;
+  gap:6px;
+  color:#007aff;
 }
 </style>
 </head>
@@ -250,13 +245,25 @@ button.answer{
 
 <!-- BARRE DE NAVIGATION DU QUIZ -->
 <div class="quizNav" id="quizNav" style="display:none;">
-  <button onclick="showHint()">❓ Indice</button>
-  <button onclick="openSettings()">⚙️ Paramètres</button>
+  <div class="navItem" onclick="useHint()">
+    💡 <span id="hintCount">0</span>
+  </div>
+  <div class="navItem" onclick="openSettings()">
+    ⚙️
+  </div>
 </div>
 
 </div>
 
 <script>
+/* ---------------------- INDICES GLOBAUX ---------------------- */
+
+let globalHints = parseInt(localStorage.getItem("globalHints") || 0);
+
+function updateHintDisplay(){
+  document.getElementById("hintCount").innerText = globalHints;
+}
+
 /* ---------------------- ACCUEIL ---------------------- */
 
 const categories = [
@@ -271,6 +278,8 @@ const categories = [
 let selectedCategory = null;
 
 function loadHome(){
+  updateHintDisplay();
+
   const grid = document.getElementById("categoryGrid");
   grid.innerHTML = "";
 
@@ -417,6 +426,13 @@ function check(answer){
     result.innerText="Bonne réponse !";
     correctCount++;
     localStorage.setItem(cat+"_correct", correctCount);
+
+    if(correctCount === 50 || correctCount === 100 || correctCount === 150){
+      globalHints++;
+      localStorage.setItem("globalHints", globalHints);
+      updateHintDisplay();
+    }
+
   } else {
     result.style.color="red";
     result.innerText="Mauvaise réponse.";
@@ -429,19 +445,19 @@ function check(answer){
   },800);
 }
 
-function showHint(){
-  if(correctCount >= 50 && correctCount < 100){
-    document.getElementById("hintBox").innerText = "Indice : " + questions[index].hint;
+function useHint(){
+  if(globalHints <= 0){
+    alert("Tu n'as aucun indice disponible.");
+    return;
   }
-  else if(correctCount >= 100 && correctCount < 150){
-    document.getElementById("hintBox").innerText = "Indice : " + questions[index].hint;
-  }
-  else if(correctCount >= 150){
-    document.getElementById("hintBox").innerText = "Indice : " + questions[index].hint;
-  }
-  else{
-    alert("Tu dois avoir 50 bonnes réponses pour débloquer un indice.");
-  }
+
+  let q = questions[index];
+
+  document.getElementById("hintBox").innerText = "Indice : " + q.hint;
+
+  globalHints--;
+  localStorage.setItem("globalHints", globalHints);
+  updateHintDisplay();
 }
 
 function openSettings(){
