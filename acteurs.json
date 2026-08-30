@@ -1,0 +1,272 @@
+{"cat":"ActorsMen","q":"Qui joue le rôle de Iron Man dans le MCU ?","a":["Robert Downey Jr.","Chris Evans","Mark Ruffalo"],"correct":"Robert Downey Jr.","hint":"Armure rouge"}
+{"cat":"ActorsMen","q":"Dans quel univers un milliardaire devient un super-héros grâce à une armure ?","a":["MCU","DCU","X-Men"],"correct":"MCU","hint":"Avengers"}
+{"cat":"ActorsMen","q":"Qui incarne Captain America ?","a":["Chris Evans","Chris Hemsworth","Sebastian Stan"],"correct":"Chris Evans","hint":"Bouclier"}
+{"cat":"ActorsMen","q":"Dans quel univers un soldat reçoit un sérum de super-soldat ?","a":["MCU","DCU","X-Men"],"correct":"MCU","hint":"Patriote"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Thor ?","a":["Chris Hemsworth","Tom Hiddleston","Chris Evans"],"correct":"Chris Hemsworth","hint":"Marteau"}
+{"cat":"ActorsMen","q":"Dans quel univers un dieu nordique rejoint une équipe de super-héros ?","a":["MCU","DCU","X-Men"],"correct":"MCU","hint":"Asgard"}
+{"cat":"ActorsMen","q":"Qui incarne Loki ?","a":["Tom Hiddleston","Chris Hemsworth","Mark Ruffalo"],"correct":"Tom Hiddleston","hint":"Dieu de la malice"}
+{"cat":"ActorsMen","q":"Dans quelle série un dieu manipulateur voyage entre les mondes ?","a":["Loki","The Witcher","Shadow and Bone"],"correct":"Loki","hint":"Multivers"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Batman dans The Dark Knight ?","a":["Christian Bale","Ben Affleck","Michael Keaton"],"correct":"Christian Bale","hint":"Chevalier noir"}
+{"cat":"ActorsMen","q":"Dans quel univers un milliardaire combat le crime à Gotham ?","a":["DCU","MCU","X-Men"],"correct":"DCU","hint":"Cape noire"}
+{"cat":"ActorsMen","q":"Qui incarne Superman dans Man of Steel ?","a":["Henry Cavill","Brandon Routh","Christopher Reeve"],"correct":"Henry Cavill","hint":"Krypton"}
+{"cat":"ActorsMen","q":"Dans quel univers un extraterrestre devient symbole d’espoir ?","a":["DCU","MCU","Star Wars"],"correct":"DCU","hint":"Cape rouge"}
+{"cat":"ActorsMen","q":"Qui joue Geralt de Riv dans The Witcher ?","a":["Henry Cavill","Anya Chalotra","Joey Batey"],"correct":"Henry Cavill","hint":"Sorceleur"}
+{"cat":"ActorsMen","q":"Dans quelle série un chasseur de monstres parcourt les royaumes ?","a":["The Witcher","Game of Thrones","Vikings"],"correct":"The Witcher","hint":"Kaer Morhen"}
+{"cat":"ActorsMen","q":"Qui incarne Jon Snow ?","a":["Kit Harington","Richard Madden","Iwan Rheon"],"correct":"Kit Harington","hint":"Garde de Nuit"}
+{"cat":"ActorsMen","q":"Dans quelle série un bâtard du Nord rejoint la Garde de Nuit ?","a":["Game of Thrones","The Witcher","Vikings"],"correct":"Game of Thrones","hint":"Mur de glace"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Tyrion Lannister ?","a":["Peter Dinklage","Nikolaj Coster-Waldau","Aidan Gillen"],"correct":"Peter Dinklage","hint":"Main du roi"}
+{"cat":"ActorsMen","q":"Dans quelle série un nain rusé devient conseiller royal ?","a":["Game of Thrones","The Witcher","Shadow and Bone"],"correct":"Game of Thrones","hint":"Maison Lannister"}
+{"cat":"ActorsMen","q":"Qui incarne Ragnar Lothbrok ?","a":["Travis Fimmel","Alexander Ludwig","Gustaf Skarsgård"],"correct":"Travis Fimmel","hint":"Fermier devenu roi"}
+{"cat":"ActorsMen","q":"Dans quelle série des guerriers nordiques envahissent l’Angleterre ?","a":["Vikings","The Last Kingdom","Barbarians"],"correct":"Vikings","hint":"Drakkars"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Uhtred ?","a":["Alexander Dreymon","David Dawson","Tobias Santelmann"],"correct":"Alexander Dreymon","hint":"Destin divisé"}
+{"cat":"ActorsMen","q":"Dans quelle série un Saxon élevé par des Vikings cherche à reprendre Bebbanburg ?","a":["The Last Kingdom","Vikings","Knightfall"],"correct":"The Last Kingdom","hint":"Angleterre"}
+{"cat":"ActorsMen","q":"Qui incarne Sherlock Holmes dans Sherlock ?","a":["Benedict Cumberbatch","Martin Freeman","Andrew Scott"],"correct":"Benedict Cumberbatch","hint":"221B"}
+{"cat":"ActorsMen","q":"Dans quelle série un détective brillant résout des enquêtes à Londres ?","a":["Sherlock","Elementary","Luther"],"correct":"Sherlock","hint":"Esprit vif"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Moriarty ?","a":["Andrew Scott","Benedict Cumberbatch","Martin Freeman"],"correct":"Andrew Scott","hint":"Criminel consultant"}
+{"cat":"ActorsMen","q":"Dans quelle série un génie criminel affronte un détective ?","a":["Sherlock","Luther","Broadchurch"],"correct":"Sherlock","hint":"Rivalité"}
+{"cat":"ActorsMen","q":"Qui incarne Walter White ?","a":["Bryan Cranston","Aaron Paul","Bob Odenkirk"],"correct":"Bryan Cranston","hint":"Prof de chimie"}
+{"cat":"ActorsMen","q":"Dans quelle série un professeur devient fabricant de méthamphétamine ?","a":["Breaking Bad","Better Call Saul","Ozark"],"correct":"Breaking Bad","hint":"Heisenberg"}
+{"cat":"ActorsMen","q":"Qui joue Jesse Pinkman ?","a":["Aaron Paul","Bryan Cranston","Dean Norris"],"correct":"Aaron Paul","hint":"Yo"}
+{"cat":"ActorsMen","q":"Dans quelle série un duo improbable fabrique de la drogue ?","a":["Breaking Bad","Better Call Saul","Ozark"],"correct":"Breaking Bad","hint":"RV"}
+{"cat":"ActorsMen","q":"Qui incarne Saul Goodman ?","a":["Bob Odenkirk","Jonathan Banks","Michael Mando"],"correct":"Bob Odenkirk","hint":"Avocat véreux"}
+{"cat":"ActorsMen","q":"Dans quelle série un avocat se retrouve mêlé à des affaires criminelles ?","a":["Better Call Saul","Breaking Bad","Ozark"],"correct":"Better Call Saul","hint":"Albuquerque"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Rick Grimes ?","a":["Andrew Lincoln","Norman Reedus","Steven Yeun"],"correct":"Andrew Lincoln","hint":"Shérif"}
+{"cat":"ActorsMen","q":"Dans quelle série un policier se réveille dans un monde rempli de zombies ?","a":["The Walking Dead","Fear the Walking Dead","Z Nation"],"correct":"The Walking Dead","hint":"Hôpital"}
+{"cat":"ActorsMen","q":"Qui incarne Daryl Dixon ?","a":["Norman Reedus","Andrew Lincoln","Jeffrey Dean Morgan"],"correct":"Norman Reedus","hint":"Arbalète"}
+{"cat":"ActorsMen","q":"Dans quelle série un survivant utilise une arbalète pour combattre les morts ?","a":["The Walking Dead","Z Nation","The Last of Us"],"correct":"The Walking Dead","hint":"Silencieux"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Barry Allen ?","a":["Grant Gustin","Stephen Amell","Ezra Miller"],"correct":"Grant Gustin","hint":"Vitesse"}
+{"cat":"ActorsMen","q":"Dans quelle série un scientifique devient l’homme le plus rapide du monde ?","a":["The Flash","Arrow","Supergirl"],"correct":"The Flash","hint":"Éclair"}
+{"cat":"ActorsMen","q":"Qui incarne Oliver Queen ?","a":["Stephen Amell","Grant Gustin","Colton Haynes"],"correct":"Stephen Amell","hint":"Arc et flèches"}
+{"cat":"ActorsMen","q":"Dans quelle série un milliardaire devient un justicier masqué ?","a":["Arrow","The Flash","Gotham"],"correct":"Arrow","hint":"Île perdue"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Jake Peralta ?","a":["Andy Samberg","Terry Crews","Joe Lo Truglio"],"correct":"Andy Samberg","hint":"Détective comique"}
+{"cat":"ActorsMen","q":"Dans quelle série un commissariat vit des enquêtes déjantées ?","a":["Brooklyn Nine-Nine","The Rookie","CSI"],"correct":"Brooklyn Nine-Nine","hint":"99e district"}
+{"cat":"ActorsMen","q":"Qui incarne Raymond Holt ?","a":["Andre Braugher","Terry Crews","Andy Samberg"],"correct":"Andre Braugher","hint":"Capitaine stoïque"}
+{"cat":"ActorsMen","q":"Dans quelle série un capitaine stoïque dirige une équipe chaotique ?","a":["Brooklyn Nine-Nine","The Office","Parks and Recreation"],"correct":"Brooklyn Nine-Nine","hint":"Calme absolu"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Fleabag… version prêtre ?","a":["Andrew Scott","Ben Whishaw","Matt Smith"],"correct":"Andrew Scott","hint":"Hot Priest"}
+{"cat":"ActorsMen","q":"Dans quelle série un prêtre devient un intérêt amoureux inattendu ?","a":["Fleabag","The Good Place","Girls"],"correct":"Fleabag","hint":"Quatrième mur"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Tony Stark dans Iron Man ?","a":["Robert Downey Jr.","Chris Evans","Mark Ruffalo"],"correct":"Robert Downey Jr.","hint":"Armure rouge"}
+{"cat":"ActorsMen","q":"Dans quel film un milliardaire crée une armure high-tech ?","a":["Iron Man","Batman Begins","Man of Steel"],"correct":"Iron Man","hint":"Avengers"}
+{"cat":"ActorsMen","q":"Qui incarne Bruce Banner dans le MCU ?","a":["Mark Ruffalo","Edward Norton","Chris Hemsworth"],"correct":"Mark Ruffalo","hint":"Hulk"}
+{"cat":"ActorsMen","q":"Dans quel univers un scientifique devient un géant vert ?","a":["MCU","DCU","X-Men"],"correct":"MCU","hint":"Colère"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Doctor Strange ?","a":["Benedict Cumberbatch","Tom Holland","Chris Pratt"],"correct":"Benedict Cumberbatch","hint":"Sorcier"}
+{"cat":"ActorsMen","q":"Dans quel film un chirurgien devient maître des arts mystiques ?","a":["Doctor Strange","Thor","Eternals"],"correct":"Doctor Strange","hint":"Sanctum"}
+{"cat":"ActorsMen","q":"Qui incarne Star-Lord ?","a":["Chris Pratt","Dave Bautista","Bradley Cooper"],"correct":"Chris Pratt","hint":"Walkman"}
+{"cat":"ActorsMen","q":"Dans quel film un voleur devient chef des Gardiens ?","a":["Guardians of the Galaxy","Avengers","Eternals"],"correct":"Guardians of the Galaxy","hint":"Danse"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Spider-Man dans le MCU ?","a":["Tom Holland","Tobey Maguire","Andrew Garfield"],"correct":"Tom Holland","hint":"Araignée"}
+{"cat":"ActorsMen","q":"Dans quel film un adolescent obtient des pouvoirs après une morsure ?","a":["Spider-Man","Venom","X-Men"],"correct":"Spider-Man","hint":"Toile"}
+{"cat":"ActorsMen","q":"Qui incarne Thanos ?","a":["Josh Brolin","Dave Bautista","Tom Hardy"],"correct":"Josh Brolin","hint":"Gant"}
+{"cat":"ActorsMen","q":"Dans quel film un titan cherche les Pierres d’Infinité ?","a":["Avengers: Infinity War","Eternals","Guardians of the Galaxy"],"correct":"Avengers: Infinity War","hint":"Snap"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Deadpool ?","a":["Ryan Reynolds","Hugh Jackman","James McAvoy"],"correct":"Ryan Reynolds","hint":"Anti-héros"}
+{"cat":"ActorsMen","q":"Dans quel film un mercenaire brise le quatrième mur ?","a":["Deadpool","Logan","X-Men"],"correct":"Deadpool","hint":"Humour noir"}
+{"cat":"ActorsMen","q":"Qui incarne Wolverine ?","a":["Hugh Jackman","Ryan Reynolds","Patrick Stewart"],"correct":"Hugh Jackman","hint":"Griffes"}
+{"cat":"ActorsMen","q":"Dans quel film un mutant possède un pouvoir de régénération ?","a":["X-Men","Logan","Deadpool"],"correct":"X-Men","hint":"Adamantium"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Magneto jeune ?","a":["Michael Fassbender","Ian McKellen","James McAvoy"],"correct":"Michael Fassbender","hint":"Métal"}
+{"cat":"ActorsMen","q":"Dans quel film un mutant contrôle le métal ?","a":["X-Men","Man of Steel","Avengers"],"correct":"X-Men","hint":"Casque"}
+{"cat":"ActorsMen","q":"Qui incarne Charles Xavier jeune ?","a":["James McAvoy","Patrick Stewart","Michael Fassbender"],"correct":"James McAvoy","hint":"Télépathie"}
+{"cat":"ActorsMen","q":"Dans quel film un professeur dirige une école de mutants ?","a":["X-Men","Harry Potter","Avengers"],"correct":"X-Men","hint":"Cérébro"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Neo ?","a":["Keanu Reeves","Laurence Fishburne","Hugo Weaving"],"correct":"Keanu Reeves","hint":"Matrix"}
+{"cat":"ActorsMen","q":"Dans quel film un hacker découvre la vérité sur la réalité ?","a":["Matrix","Inception","Tron"],"correct":"Matrix","hint":"Pilule rouge"}
+{"cat":"ActorsMen","q":"Qui incarne John Wick ?","a":["Keanu Reeves","Tom Hardy","Jason Statham"],"correct":"Keanu Reeves","hint":"Chien"}
+{"cat":"ActorsMen","q":"Dans quel film un assassin cherche vengeance ?","a":["John Wick","Taken","Nobody"],"correct":"John Wick","hint":"Continental"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de James Bond dans Skyfall ?","a":["Daniel Craig","Pierce Brosnan","Sean Connery"],"correct":"Daniel Craig","hint":"Agent 007"}
+{"cat":"ActorsMen","q":"Dans quel film un agent secret protège le MI6 ?","a":["Skyfall","Mission Impossible","Kingsman"],"correct":"Skyfall","hint":"M"}
+{"cat":"ActorsMen","q":"Qui incarne Ethan Hunt ?","a":["Tom Cruise","Matt Damon","Ben Affleck"],"correct":"Tom Cruise","hint":"Mission Impossible"}
+{"cat":"ActorsMen","q":"Dans quel film un agent réalise des cascades extrêmes ?","a":["Mission Impossible","Jason Bourne","Top Gun"],"correct":"Mission Impossible","hint":"IMF"}
+{"cat":"ActorsMen","q":"Qui joue Jason Bourne ?","a":["Matt Damon","Jeremy Renner","Tom Cruise"],"correct":"Matt Damon","hint":"Amnésie"}
+{"cat":"ActorsMen","q":"Dans quel film un espion cherche son identité ?","a":["Jason Bourne","Mission Impossible","Jack Reacher"],"correct":"Jason Bourne","hint":"CIA"}
+{"cat":"ActorsMen","q":"Qui incarne Jack Reacher ?","a":["Tom Cruise","Chris Pratt","John Krasinski"],"correct":"Tom Cruise","hint":"Enquêteur"}
+{"cat":"ActorsMen","q":"Dans quel film un ancien militaire enquête sur des crimes ?","a":["Jack Reacher","Mission Impossible","Sicario"],"correct":"Jack Reacher","hint":"Sniper"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Tony Montana ?","a":["Al Pacino","Robert De Niro","Joe Pesci"],"correct":"Al Pacino","hint":"Scarface"}
+{"cat":"ActorsMen","q":"Dans quel film un immigrant devient baron de la drogue ?","a":["Scarface","The Godfather","Goodfellas"],"correct":"Scarface","hint":"Miami"}
+{"cat":"ActorsMen","q":"Qui incarne Michael Corleone ?","a":["Al Pacino","Marlon Brando","Robert Duvall"],"correct":"Al Pacino","hint":"Famille"}
+{"cat":"ActorsMen","q":"Dans quel film un fils reprend la mafia familiale ?","a":["The Godfather","Goodfellas","Casino"],"correct":"The Godfather","hint":"Don"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Travis Bickle ?","a":["Robert De Niro","Al Pacino","Harvey Keitel"],"correct":"Robert De Niro","hint":"Taxi"}
+{"cat":"ActorsMen","q":"Dans quel film un chauffeur sombre dans la violence ?","a":["Taxi Driver","Drive","Joker"],"correct":"Taxi Driver","hint":"New York"}
+{"cat":"ActorsMen","q":"Qui incarne le Joker dans The Dark Knight ?","a":["Heath Ledger","Joaquin Phoenix","Jared Leto"],"correct":"Heath Ledger","hint":"Chaos"}
+{"cat":"ActorsMen","q":"Dans quel film un criminel peint son visage en clown ?","a":["The Dark Knight","Joker","Suicide Squad"],"correct":"The Dark Knight","hint":"Gotham"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Arthur Fleck ?","a":["Joaquin Phoenix","Heath Ledger","Bill Skarsgård"],"correct":"Joaquin Phoenix","hint":"Comédien"}
+{"cat":"ActorsMen","q":"Dans quel film un homme marginalisé devient symbole de révolte ?","a":["Joker","The Dark Knight","Fight Club"],"correct":"Joker","hint":"Danse"}
+{"cat":"ActorsMen","q":"Qui incarne Tyler Durden ?","a":["Brad Pitt","Edward Norton","Jared Leto"],"correct":"Brad Pitt","hint":"Savon"}
+{"cat":"ActorsMen","q":"Dans quel film un homme crée un club de combat ?","a":["Fight Club","Warrior","Rocky"],"correct":"Fight Club","hint":"Règles"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Rocky Balboa ?","a":["Sylvester Stallone","Dolph Lundgren","Carl Weathers"],"correct":"Sylvester Stallone","hint":"Boxe"}
+{"cat":"ActorsMen","q":"Dans quel film un boxeur affronte des adversaires redoutables ?","a":["Rocky","Creed","Warrior"],"correct":"Rocky","hint":"Ring"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Maximus dans Gladiator ?","a":["Russell Crowe","Joaquin Phoenix","Connie Nielsen"],"correct":"Russell Crowe","hint":"Général romain"}
+{"cat":"ActorsMen","q":"Dans quel film un général devient gladiateur pour se venger ?","a":["Gladiator","Troy","300"],"correct":"Gladiator","hint":"Rome"}
+{"cat":"ActorsMen","q":"Qui incarne le Joker dans Joker (2019) ?","a":["Joaquin Phoenix","Heath Ledger","Jared Leto"],"correct":"Joaquin Phoenix","hint":"Danse sur les marches"}
+{"cat":"ActorsMen","q":"Dans quel film un comédien marginalisé sombre dans la folie ?","a":["Joker","The Dark Knight","Taxi Driver"],"correct":"Joker","hint":"Clown"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Tyler Rake dans Extraction ?","a":["Chris Hemsworth","Chris Evans","Tom Hardy"],"correct":"Chris Hemsworth","hint":"Mercenaire"}
+{"cat":"ActorsMen","q":"Dans quel film un mercenaire doit sauver un enfant kidnappé ?","a":["Extraction","John Wick","Sicario"],"correct":"Extraction","hint":"Bangladesh"}
+{"cat":"ActorsMen","q":"Qui incarne Venom ?","a":["Tom Hardy","Tom Holland","Jake Gyllenhaal"],"correct":"Tom Hardy","hint":"Symbiote"}
+{"cat":"ActorsMen","q":"Dans quel film un journaliste fusionne avec un symbiote ?","a":["Venom","Spider-Man","Morbius"],"correct":"Venom","hint":"Transformation"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Wolverine dans Logan ?","a":["Hugh Jackman","Patrick Stewart","Boyd Holbrook"],"correct":"Hugh Jackman","hint":"Dernier combat"}
+{"cat":"ActorsMen","q":"Dans quel film un mutant vieillissant protège une jeune fille ?","a":["Logan","X-Men","Deadpool"],"correct":"Logan","hint":"Route"}
+{"cat":"ActorsMen","q":"Qui incarne Kylo Ren ?","a":["Adam Driver","Oscar Isaac","John Boyega"],"correct":"Adam Driver","hint":"Sabre rouge"}
+{"cat":"ActorsMen","q":"Dans quel film un apprenti Sith lutte contre sa famille ?","a":["Star Wars","Dune","Star Trek"],"correct":"Star Wars","hint":"Ren"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Paul Atreides dans Dune ?","a":["Timothée Chalamet","Oscar Isaac","Josh Brolin"],"correct":"Timothée Chalamet","hint":"Arrakis"}
+{"cat":"ActorsMen","q":"Dans quel film un jeune noble découvre son destin sur une planète désertique ?","a":["Dune","Star Wars","Blade Runner"],"correct":"Dune","hint":"Épice"}
+{"cat":"ActorsMen","q":"Qui incarne Batman dans The Batman (2022) ?","a":["Robert Pattinson","Ben Affleck","Christian Bale"],"correct":"Robert Pattinson","hint":"Détective sombre"}
+{"cat":"ActorsMen","q":"Dans quel film un justicier enquête sur un tueur énigmatique ?","a":["The Batman","The Dark Knight","Seven"],"correct":"The Batman","hint":"Riddler"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de John Wick ?","a":["Keanu Reeves","Tom Hardy","Jason Statham"],"correct":"Keanu Reeves","hint":"Chien"}
+{"cat":"ActorsMen","q":"Dans quel film un assassin reprend les armes après une perte tragique ?","a":["John Wick","Taken","Nobody"],"correct":"John Wick","hint":"Continental"}
+{"cat":"ActorsMen","q":"Qui incarne Dominic Toretto ?","a":["Vin Diesel","Paul Walker","Dwayne Johnson"],"correct":"Vin Diesel","hint":"Famille"}
+{"cat":"ActorsMen","q":"Dans quel film des pilotes affrontent des missions impossibles ?","a":["Fast and Furious","Need for Speed","Transporter"],"correct":"Fast and Furious","hint":"Muscle cars"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Jack Sparrow ?","a":["Johnny Depp","Orlando Bloom","Geoffrey Rush"],"correct":"Johnny Depp","hint":"Pirate excentrique"}
+{"cat":"ActorsMen","q":"Dans quel film un pirate cherche des trésors légendaires ?","a":["Pirates des Caraïbes","Hook","Treasure Island"],"correct":"Pirates des Caraïbes","hint":"Black Pearl"}
+{"cat":"ActorsMen","q":"Qui incarne Neo dans Matrix ?","a":["Keanu Reeves","Laurence Fishburne","Hugo Weaving"],"correct":"Keanu Reeves","hint":"Pilule rouge"}
+{"cat":"ActorsMen","q":"Dans quel film un hacker découvre la vérité sur la réalité ?","a":["Matrix","Inception","Tron"],"correct":"Matrix","hint":"Simulation"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Cobb dans Inception ?","a":["Leonardo DiCaprio","Tom Hardy","Joseph Gordon-Levitt"],"correct":"Leonardo DiCaprio","hint":"Rêves"}
+{"cat":"ActorsMen","q":"Dans quel film des voleurs infiltrent les rêves ?","a":["Inception","Interstellar","Tenet"],"correct":"Inception","hint":"Toupie"}
+{"cat":"ActorsMen","q":"Qui incarne le rôle de Cooper dans Interstellar ?","a":["Matthew McConaughey","Matt Damon","Casey Affleck"],"correct":"Matthew McConaughey","hint":"Espace"}
+{"cat":"ActorsMen","q":"Dans quel film un pilote explore des mondes pour sauver l’humanité ?","a":["Interstellar","Gravity","The Martian"],"correct":"Interstellar","hint":"Trou noir"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Mark Watney dans The Martian ?","a":["Matt Damon","Ben Affleck","Chris Pratt"],"correct":"Matt Damon","hint":"Mars"}
+{"cat":"ActorsMen","q":"Dans quel film un astronaute tente de survivre seul sur Mars ?","a":["The Martian","Interstellar","Gravity"],"correct":"The Martian","hint":"Patates"}
+{"cat":"ActorsMen","q":"Qui incarne John Wick dans John Wick 3 ?","a":["Keanu Reeves","Tom Hardy","Jason Statham"],"correct":"Keanu Reeves","hint":"Baba Yaga"}
+{"cat":"ActorsMen","q":"Dans quel film un assassin affronte une organisation mondiale ?","a":["John Wick 3","Nobody","Mission Impossible"],"correct":"John Wick 3","hint":"Excommunicado"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Ethan Hunt ?","a":["Tom Cruise","Matt Damon","Ben Affleck"],"correct":"Tom Cruise","hint":"IMF"}
+{"cat":"ActorsMen","q":"Dans quel film un agent réalise des cascades extrêmes ?","a":["Mission Impossible","Jason Bourne","Top Gun"],"correct":"Mission Impossible","hint":"Hélicoptère"}
+{"cat":"ActorsMen","q":"Qui incarne James Bond dans Casino Royale ?","a":["Daniel Craig","Pierce Brosnan","Sean Connery"],"correct":"Daniel Craig","hint":"007"}
+{"cat":"ActorsMen","q":"Dans quel film un agent secret affronte Le Chiffre ?","a":["Casino Royale","Skyfall","Spectre"],"correct":"Casino Royale","hint":"Poker"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Tony Montana ?","a":["Al Pacino","Robert De Niro","Joe Pesci"],"correct":"Al Pacino","hint":"Scarface"}
+{"cat":"ActorsMen","q":"Dans quel film un immigrant devient baron de la drogue ?","a":["Scarface","The Godfather","Goodfellas"],"correct":"Scarface","hint":"Miami"}
+{"cat":"ActorsMen","q":"Qui incarne Michael Corleone ?","a":["Al Pacino","Marlon Brando","Robert Duvall"],"correct":"Al Pacino","hint":"Famille"}
+{"cat":"ActorsMen","q":"Dans quel film un fils reprend la mafia familiale ?","a":["The Godfather","Goodfellas","Casino"],"correct":"The Godfather","hint":"Don"}
+{"cat":"ActorsMen","q":"Qui joue le rôle de Travis Bickle ?","a":["Robert De Niro","Harvey Keitel","Al Pacino"],"correct":"Robert De Niro","hint":"Taxi"}
+{"cat":"ActorsMen","q":"Dans quel film un chauffeur sombre dans la violence ?","a":["Taxi Driver","Drive","Joker"],"correct":"Taxi Driver","hint":"New York"}
+{"cat":"ActorsMen","q":"Qui incarne le Joker dans The Dark Knight ?","a":["Heath Ledger","Joaquin Phoenix","Jared Leto"],"correct":"Heath Ledger","hint":"Chaos"}
+{"cat":"ActorsMen","q":"Dans quel film un criminel peint son visage en clown ?","a":["The Dark Knight","Joker","Suicide Squad"],"correct":"The Dark Knight","hint":"Gotham"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Wonder Woman ?","a":["Gal Gadot","Brie Larson","Scarlett Johansson"],"correct":"Gal Gadot","hint":"Amazonienne"}
+{"cat":"ActorsWomen","q":"Dans quel film une guerrière amazone protège le monde ?","a":["Wonder Woman","Captain Marvel","Black Widow"],"correct":"Wonder Woman","hint":"Themyscira"}
+{"cat":"ActorsWomen","q":"Qui incarne Black Widow ?","a":["Scarlett Johansson","Elizabeth Olsen","Brie Larson"],"correct":"Scarlett Johansson","hint":"Avengers"}
+{"cat":"ActorsWomen","q":"Dans quel film une espionne affronte son passé ?","a":["Black Widow","Captain Marvel","Wonder Woman"],"correct":"Black Widow","hint":"Rouge"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Captain Marvel ?","a":["Brie Larson","Gal Gadot","Scarlett Johansson"],"correct":"Brie Larson","hint":"Cosmique"}
+{"cat":"ActorsWomen","q":"Dans quel film une pilote devient une héroïne intergalactique ?","a":["Captain Marvel","Eternals","Guardians of the Galaxy"],"correct":"Captain Marvel","hint":"Kree"}
+{"cat":"ActorsWomen","q":"Qui incarne Wanda Maximoff ?","a":["Elizabeth Olsen","Brie Larson","Scarlett Johansson"],"correct":"Elizabeth Olsen","hint":"Chaos Magic"}
+{"cat":"ActorsWomen","q":"Dans quelle série une sorcière manipule la réalité ?","a":["WandaVision","Loki","The Witcher"],"correct":"WandaVision","hint":"Sitcoms"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Daenerys Targaryen ?","a":["Emilia Clarke","Sophie Turner","Lena Headey"],"correct":"Emilia Clarke","hint":"Dragons"}
+{"cat":"ActorsWomen","q":"Dans quelle série des dragons renaissent dans un bûcher ?","a":["Game of Thrones","The Witcher","Shadow and Bone"],"correct":"Game of Thrones","hint":"Khaleesi"}
+{"cat":"ActorsWomen","q":"Qui incarne Cersei Lannister ?","a":["Lena Headey","Emilia Clarke","Natalie Dormer"],"correct":"Lena Headey","hint":"Reine cruelle"}
+{"cat":"ActorsWomen","q":"Dans quelle série une reine marche nue dans les rues de Port-Réal ?","a":["Game of Thrones","Vikings","The Last Kingdom"],"correct":"Game of Thrones","hint":"Shame"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Eleven ?","a":["Millie Bobby Brown","Sadie Sink","Natalia Dyer"],"correct":"Millie Bobby Brown","hint":"Pouvoirs psychiques"}
+{"cat":"ActorsWomen","q":"Dans quelle série un portail vers le Monde à l’Envers s’ouvre ?","a":["Stranger Things","Dark","The OA"],"correct":"Stranger Things","hint":"Hawkins"}
+{"cat":"ActorsWomen","q":"Qui incarne Joyce Byers ?","a":["Winona Ryder","Maya Hawke","Cara Buono"],"correct":"Winona Ryder","hint":"Mère déterminée"}
+{"cat":"ActorsWomen","q":"Dans quelle série une mère cherche son fils disparu ?","a":["Stranger Things","Dark","The OA"],"correct":"Stranger Things","hint":"Lumières"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Lagertha ?","a":["Katheryn Winnick","Alyssa Sutherland","Georgia Hirst"],"correct":"Katheryn Winnick","hint":"Bouclier-maiden"}
+{"cat":"ActorsWomen","q":"Dans quelle série une guerrière devient reine du peuple viking ?","a":["Vikings","The Last Kingdom","Barbarians"],"correct":"Vikings","hint":"Bouclier"}
+{"cat":"ActorsWomen","q":"Qui incarne Brida ?","a":["Emily Cox","Eliza Butterworth","Millie Brady"],"correct":"Emily Cox","hint":"Guerrière"}
+{"cat":"ActorsWomen","q":"Dans quelle série une femme élevée par les Vikings devient ennemie du héros ?","a":["The Last Kingdom","Vikings","Knightfall"],"correct":"The Last Kingdom","hint":"Colère"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Jessica Jones ?","a":["Krysten Ritter","Rachael Taylor","Carrie-Anne Moss"],"correct":"Krysten Ritter","hint":"Détective privée"}
+{"cat":"ActorsWomen","q":"Dans quelle série une femme dotée d’une force surhumaine enquête sur son passé ?","a":["Jessica Jones","Luke Cage","Daredevil"],"correct":"Jessica Jones","hint":"Alias Investigations"}
+{"cat":"ActorsWomen","q":"Qui incarne Claire Temple ?","a":["Rosario Dawson","Deborah Ann Woll","Krysten Ritter"],"correct":"Rosario Dawson","hint":"Infirmière"}
+{"cat":"ActorsWomen","q":"Dans quelle série une infirmière aide plusieurs héros ?","a":["Daredevil","Luke Cage","Jessica Jones"],"correct":"Daredevil","hint":"Hell's Kitchen"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de June Osborne ?","a":["Elisabeth Moss","Yvonne Strahovski","Alexis Bledel"],"correct":"Elisabeth Moss","hint":"Servante écarlate"}
+{"cat":"ActorsWomen","q":"Dans quelle série des femmes sont réduites à un rôle de reproduction ?","a":["The Handmaid's Tale","Big Little Lies","The Leftovers"],"correct":"The Handmaid's Tale","hint":"Gilead"}
+{"cat":"ActorsWomen","q":"Qui incarne Serena Joy ?","a":["Yvonne Strahovski","Elisabeth Moss","Ann Dowd"],"correct":"Yvonne Strahovski","hint":"Épouse influente"}
+{"cat":"ActorsWomen","q":"Dans quelle série un régime totalitaire impose des règles extrêmes ?","a":["The Handmaid's Tale","The Leftovers","Westworld"],"correct":"The Handmaid's Tale","hint":"Oppression"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Dolores dans Westworld ?","a":["Evan Rachel Wood","Thandiwe Newton","Angela Sarafyan"],"correct":"Evan Rachel Wood","hint":"Ranch"}
+{"cat":"ActorsWomen","q":"Dans quelle série des androïdes vivent dans un parc à thème ?","a":["Westworld","Humans","Black Mirror"],"correct":"Westworld","hint":"Cowboys"}
+{"cat":"ActorsWomen","q":"Qui incarne Maeve Millay ?","a":["Thandiwe Newton","Evan Rachel Wood","Tessa Thompson"],"correct":"Thandiwe Newton","hint":"Gérante de bordel"}
+{"cat":"ActorsWomen","q":"Dans quelle série la conscience humaine peut être transférée ?","a":["Westworld","Black Mirror","Altered Carbon"],"correct":"Westworld","hint":"Boucles narratives"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Katniss Everdeen ?","a":["Jennifer Lawrence","Shailene Woodley","Emma Watson"],"correct":"Jennifer Lawrence","hint":"Arc"}
+{"cat":"ActorsWomen","q":"Dans quel film une jeune femme devient symbole de rébellion ?","a":["Hunger Games","Divergent","Harry Potter"],"correct":"Hunger Games","hint":"District 12"}
+{"cat":"ActorsWomen","q":"Qui incarne Hermione Granger ?","a":["Emma Watson","Evanna Lynch","Bonnie Wright"],"correct":"Emma Watson","hint":"Magie"}
+{"cat":"ActorsWomen","q":"Dans quel film une élève brillante aide un sorcier célèbre ?","a":["Harry Potter","Fantastic Beasts","Percy Jackson"],"correct":"Harry Potter","hint":"Poudlard"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Rey ?","a":["Daisy Ridley","Natalie Portman","Felicity Jones"],"correct":"Daisy Ridley","hint":"Jedi"}
+{"cat":"ActorsWomen","q":"Dans quel film une pilleuse d’épaves découvre la Force ?","a":["Star Wars","Dune","Star Trek"],"correct":"Star Wars","hint":"Sable"}
+{"cat":"ActorsWomen","q":"Qui incarne Jyn Erso ?","a":["Felicity Jones","Daisy Ridley","Emily Blunt"],"correct":"Felicity Jones","hint":"Rogue One"}
+{"cat":"ActorsWomen","q":"Dans quel film une rebelle vole les plans de l’Étoile de la Mort ?","a":["Rogue One","Star Wars","Solo"],"correct":"Rogue One","hint":"Mission suicide"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Harley Quinn ?","a":["Margot Robbie","Emma Stone","Zendaya"],"correct":"Margot Robbie","hint":"Maillet"}
+{"cat":"ActorsWomen","q":"Dans quel film une criminelle excentrique quitte le Joker ?","a":["Birds of Prey","Suicide Squad","The Batman"],"correct":"Birds of Prey","hint":"Liberté"}
+{"cat":"ActorsWomen","q":"Qui incarne MJ dans Spider-Man ?","a":["Zendaya","Emma Stone","Bryce Dallas Howard"],"correct":"Zendaya","hint":"Amoureuse"}
+{"cat":"ActorsWomen","q":"Dans quel film une lycéenne tombe amoureuse d’un super-héros ?","a":["Spider-Man","The Flash","X-Men"],"correct":"Spider-Man","hint":"Toile"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Lara Croft ?","a":["Alicia Vikander","Angelina Jolie","Emily Blunt"],"correct":"Alicia Vikander","hint":"Exploratrice"}
+{"cat":"ActorsWomen","q":"Dans quel film une aventurière explore des tombes anciennes ?","a":["Tomb Raider","Uncharted","Indiana Jones"],"correct":"Tomb Raider","hint":"Île"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Black Widow dans le MCU ?","a":["Scarlett Johansson","Elizabeth Olsen","Brie Larson"],"correct":"Scarlett Johansson","hint":"Espionne"}
+{"cat":"ActorsWomen","q":"Dans quel film une espionne affronte son passé ?","a":["Black Widow","Captain Marvel","Wonder Woman"],"correct":"Black Widow","hint":"Rouge"}
+{"cat":"ActorsWomen","q":"Qui incarne Gamora ?","a":["Zoe Saldana","Karen Gillan","Pom Klementieff"],"correct":"Zoe Saldana","hint":"Peau verte"}
+{"cat":"ActorsWomen","q":"Dans quel film une guerrière verte combat Thanos ?","a":["Guardians of the Galaxy","Avengers","Eternals"],"correct":"Guardians of the Galaxy","hint":"Fille adoptive"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Nebula ?","a":["Karen Gillan","Zoe Saldana","Brie Larson"],"correct":"Karen Gillan","hint":"Cyborg"}
+{"cat":"ActorsWomen","q":"Dans quel film une sœur rivale affronte Gamora ?","a":["Guardians of the Galaxy","Avengers","Thor"],"correct":"Guardians of the Galaxy","hint":"Bleue"}
+{"cat":"ActorsWomen","q":"Qui incarne Pepper Potts ?","a":["Gwyneth Paltrow","Natalie Portman","Emily Blunt"],"correct":"Gwyneth Paltrow","hint":"Stark Industries"}
+{"cat":"ActorsWomen","q":"Dans quel film une PDG soutient Iron Man ?","a":["Iron Man","Avengers","Captain America"],"correct":"Iron Man","hint":"Armure"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Valkyrie ?","a":["Tessa Thompson","Brie Larson","Scarlett Johansson"],"correct":"Tessa Thompson","hint":"Asgard"}
+{"cat":"ActorsWomen","q":"Dans quel film une guerrière d’Asgard aide Thor ?","a":["Thor: Ragnarok","Avengers","Eternals"],"correct":"Thor: Ragnarok","hint":"Bouteille"}
+{"cat":"ActorsWomen","q":"Qui incarne Jane Foster ?","a":["Natalie Portman","Tessa Thompson","Emily Blunt"],"correct":"Natalie Portman","hint":"Astrophysicienne"}
+{"cat":"ActorsWomen","q":"Dans quel film une scientifique devient Mighty Thor ?","a":["Thor: Love and Thunder","Avengers","Eternals"],"correct":"Thor: Love and Thunder","hint":"Marteau"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Rey dans Star Wars ?","a":["Daisy Ridley","Felicity Jones","Natalie Portman"],"correct":"Daisy Ridley","hint":"Jedi"}
+{"cat":"ActorsWomen","q":"Dans quel film une pilleuse d’épaves découvre la Force ?","a":["Star Wars","Dune","Star Trek"],"correct":"Star Wars","hint":"Sable"}
+{"cat":"ActorsWomen","q":"Qui incarne Leia Organa ?","a":["Carrie Fisher","Natalie Portman","Daisy Ridley"],"correct":"Carrie Fisher","hint":"Princesse"}
+{"cat":"ActorsWomen","q":"Dans quel film une leader rebelle combat l’Empire ?","a":["Star Wars","Dune","Star Trek"],"correct":"Star Wars","hint":"Résistance"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Jyn Erso ?","a":["Felicity Jones","Emily Blunt","Daisy Ridley"],"correct":"Felicity Jones","hint":"Rogue One"}
+{"cat":"ActorsWomen","q":"Dans quel film une rebelle vole les plans de l’Étoile de la Mort ?","a":["Rogue One","Star Wars","Solo"],"correct":"Rogue One","hint":"Mission suicide"}
+{"cat":"ActorsWomen","q":"Qui incarne Hermione Granger ?","a":["Emma Watson","Evanna Lynch","Bonnie Wright"],"correct":"Emma Watson","hint":"Magie"}
+{"cat":"ActorsWomen","q":"Dans quel film une élève brillante aide un sorcier célèbre ?","a":["Harry Potter","Fantastic Beasts","Percy Jackson"],"correct":"Harry Potter","hint":"Poudlard"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Bellatrix Lestrange ?","a":["Helena Bonham Carter","Emma Thompson","Maggie Smith"],"correct":"Helena Bonham Carter","hint":"Mangemort"}
+{"cat":"ActorsWomen","q":"Dans quel film une sorcière folle sert Voldemort ?","a":["Harry Potter","Fantastic Beasts","Percy Jackson"],"correct":"Harry Potter","hint":"Cruauté"}
+{"cat":"ActorsWomen","q":"Qui incarne Katniss Everdeen ?","a":["Jennifer Lawrence","Shailene Woodley","Emma Watson"],"correct":"Jennifer Lawrence","hint":"Arc"}
+{"cat":"ActorsWomen","q":"Dans quel film une jeune femme devient symbole de rébellion ?","a":["Hunger Games","Divergent","Harry Potter"],"correct":"Hunger Games","hint":"District 12"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Tris Prior ?","a":["Shailene Woodley","Jennifer Lawrence","Emma Stone"],"correct":"Shailene Woodley","hint":"Divergente"}
+{"cat":"ActorsWomen","q":"Dans quel film une jeune femme refuse les factions ?","a":["Divergent","Hunger Games","Maze Runner"],"correct":"Divergent","hint":"Choix"}
+{"cat":"ActorsWomen","q":"Qui incarne Lara Croft ?","a":["Alicia Vikander","Angelina Jolie","Emily Blunt"],"correct":"Alicia Vikander","hint":"Exploratrice"}
+{"cat":"ActorsWomen","q":"Dans quel film une aventurière explore des tombes anciennes ?","a":["Tomb Raider","Uncharted","Indiana Jones"],"correct":"Tomb Raider","hint":"Île"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Harley Quinn ?","a":["Margot Robbie","Emma Stone","Zendaya"],"correct":"Margot Robbie","hint":"Maillet"}
+{"cat":"ActorsWomen","q":"Dans quel film une criminelle excentrique quitte le Joker ?","a":["Birds of Prey","Suicide Squad","The Batman"],"correct":"Birds of Prey","hint":"Liberté"}
+{"cat":"ActorsWomen","q":"Qui incarne Selina Kyle dans The Batman ?","a":["Zoë Kravitz","Anne Hathaway","Michelle Pfeiffer"],"correct":"Zoë Kravitz","hint":"Chatte voleuse"}
+{"cat":"ActorsWomen","q":"Dans quel film une cambrioleuse aide Batman ?","a":["The Batman","The Dark Knight Rises","Catwoman"],"correct":"The Batman","hint":"Gotham"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de MJ dans Spider-Man ?","a":["Zendaya","Emma Stone","Bryce Dallas Howard"],"correct":"Zendaya","hint":"Amoureuse"}
+{"cat":"ActorsWomen","q":"Dans quel film une lycéenne tombe amoureuse d’un super-héros ?","a":["Spider-Man","The Flash","X-Men"],"correct":"Spider-Man","hint":"Toile"}
+{"cat":"ActorsWomen","q":"Qui incarne Gwen Stacy ?","a":["Emma Stone","Zendaya","Bryce Dallas Howard"],"correct":"Emma Stone","hint":"Blonde"}
+{"cat":"ActorsWomen","q":"Dans quel film une étudiante meurt tragiquement ?","a":["The Amazing Spider-Man","Spider-Man","Venom"],"correct":"The Amazing Spider-Man","hint":"Chute"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Natasha Romanoff jeune ?","a":["Ever Anderson","Scarlett Johansson","Florence Pugh"],"correct":"Ever Anderson","hint":"Flashback"}
+{"cat":"ActorsWomen","q":"Dans quel film on découvre l’enfance de Black Widow ?","a":["Black Widow","Avengers","Captain Marvel"],"correct":"Black Widow","hint":"Famille"}
+{"cat":"ActorsWomen","q":"Qui incarne Yelena Belova ?","a":["Florence Pugh","Scarlett Johansson","Brie Larson"],"correct":"Florence Pugh","hint":"Sœur"}
+{"cat":"ActorsWomen","q":"Dans quel film une nouvelle Veuve Noire apparaît ?","a":["Black Widow","Avengers","Eternals"],"correct":"Black Widow","hint":"Sarcasme"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Neytiri ?","a":["Zoe Saldana","Sigourney Weaver","Kate Winslet"],"correct":"Zoe Saldana","hint":"Avatar"}
+{"cat":"ActorsWomen","q":"Dans quel film une guerrière Na’vi combat les humains ?","a":["Avatar","Avatar 2","Guardians of the Galaxy"],"correct":"Avatar","hint":"Pandora"}
+{"cat":"ActorsWomen","q":"Qui incarne Rose dans Titanic ?","a":["Kate Winslet","Jennifer Lawrence","Emma Watson"],"correct":"Kate Winslet","hint":"Paquebot"}
+{"cat":"ActorsWomen","q":"Dans quel film une jeune femme vit une romance tragique ?","a":["Titanic","Romeo + Juliet","The Notebook"],"correct":"Titanic","hint":"Glace"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Mia dans La La Land ?","a":["Emma Stone","Emma Watson","Margot Robbie"],"correct":"Emma Stone","hint":"Danse"}
+{"cat":"ActorsWomen","q":"Dans quel film une actrice rêve de percer à Hollywood ?","a":["La La Land","Whiplash","A Star Is Born"],"correct":"La La Land","hint":"Jazz"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Sarah Connor dans Terminator 2 ?","a":["Linda Hamilton","Sigourney Weaver","Charlize Theron"],"correct":"Linda Hamilton","hint":"Résistance"}
+{"cat":"ActorsWomen","q":"Dans quel film une mère lutte contre des machines ?","a":["Terminator 2","Alien","Mad Max"],"correct":"Terminator 2","hint":"T-800"}
+{"cat":"ActorsWomen","q":"Qui incarne Ellen Ripley ?","a":["Sigourney Weaver","Linda Hamilton","Charlize Theron"],"correct":"Sigourney Weaver","hint":"Xénomorphes"}
+{"cat":"ActorsWomen","q":"Dans quel film une officier affronte une créature extraterrestre ?","a":["Alien","Predator","Arrival"],"correct":"Alien","hint":"Nostromo"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Furiosa ?","a":["Charlize Theron","Gal Gadot","Scarlett Johansson"],"correct":"Charlize Theron","hint":"Bras mécanique"}
+{"cat":"ActorsWomen","q":"Dans quel film une guerrière traverse un désert post-apocalyptique ?","a":["Mad Max Fury Road","Dune","The Book of Eli"],"correct":"Mad Max Fury Road","hint":"War Rig"}
+{"cat":"ActorsWomen","q":"Qui incarne Imperator Furiosa jeune ?","a":["Anya Taylor-Joy","Charlize Theron","Zendaya"],"correct":"Anya Taylor-Joy","hint":"Préquelle"}
+{"cat":"ActorsWomen","q":"Dans quel film on découvre la jeunesse de Furiosa ?","a":["Furiosa","Mad Max Fury Road","Dune"],"correct":"Furiosa","hint":"Wasteland"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Mulan en live-action ?","a":["Liu Yifei","Zhang Ziyi","Gemma Chan"],"correct":"Liu Yifei","hint":"Guerrière"}
+{"cat":"ActorsWomen","q":"Dans quel film une jeune femme se déguise pour rejoindre l’armée ?","a":["Mulan","The Woman King","Hua Mulan"],"correct":"Mulan","hint":"Honneur"}
+{"cat":"ActorsWomen","q":"Qui incarne Shuri ?","a":["Letitia Wright","Lupita Nyong'o","Danai Gurira"],"correct":"Letitia Wright","hint":"Wakanda"}
+{"cat":"ActorsWomen","q":"Dans quel film une inventrice devient Black Panther ?","a":["Black Panther 2","Avengers","Eternals"],"correct":"Black Panther 2","hint":"Vibranium"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Nakia ?","a":["Lupita Nyong'o","Danai Gurira","Letitia Wright"],"correct":"Lupita Nyong'o","hint":"Espionne"}
+{"cat":"ActorsWomen","q":"Dans quel film une guerrière protège le Wakanda ?","a":["Black Panther","Avengers","Eternals"],"correct":"Black Panther","hint":"Royaume africain"}
+{"cat":"ActorsWomen","q":"Qui incarne Okoye ?","a":["Danai Gurira","Lupita Nyong'o","Angela Bassett"],"correct":"Danai Gurira","hint":"Dora Milaje"}
+{"cat":"ActorsWomen","q":"Dans quel film une générale mène les Dora Milaje ?","a":["Black Panther","Avengers","The Woman King"],"correct":"Black Panther","hint":"Lance"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Diana Prince jeune ?","a":["Lilly Aspell","Gal Gadot","Emily Carey"],"correct":"Lilly Aspell","hint":"Themyscira"}
+{"cat":"ActorsWomen","q":"Dans quel film on voit l’enfance de Wonder Woman ?","a":["Wonder Woman","Wonder Woman 1984","Justice League"],"correct":"Wonder Woman","hint":"Course"}
+{"cat":"ActorsWomen","q":"Qui incarne Yennefer dans The Witcher ?","a":["Anya Chalotra","Freya Allan","Emma Appleton"],"correct":"Anya Chalotra","hint":"Magicienne"}
+{"cat":"ActorsWomen","q":"Dans quelle série une sorcière défigurée retrouve sa beauté ?","a":["The Witcher","Shadow and Bone","Game of Thrones"],"correct":"The Witcher","hint":"Transformation"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Ciri ?","a":["Freya Allan","Anya Chalotra","Millie Brady"],"correct":"Freya Allan","hint":"Lionceau de Cintra"}
+{"cat":"ActorsWomen","q":"Dans quelle série une princesse devient protégée d’un sorceleur ?","a":["The Witcher","Shadow and Bone","The Last Kingdom"],"correct":"The Witcher","hint":"Destin"}
+{"cat":"ActorsWomen","q":"Qui incarne Sansa Stark ?","a":["Sophie Turner","Maisie Williams","Emilia Clarke"],"correct":"Sophie Turner","hint":"Lady du Nord"}
+{"cat":"ActorsWomen","q":"Dans quelle série une jeune noble survit à Port-Réal ?","a":["Game of Thrones","The Witcher","Vikings"],"correct":"Game of Thrones","hint":"Maison Stark"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle d’Arya Stark ?","a":["Maisie Williams","Sophie Turner","Emilia Clarke"],"correct":"Maisie Williams","hint":"Sans visage"}
+{"cat":"ActorsWomen","q":"Dans quelle série une jeune fille devient assassin ?","a":["Game of Thrones","The Witcher","Shadow and Bone"],"correct":"Game of Thrones","hint":"Aiguille"}
+{"cat":"ActorsWomen","q":"Qui incarne Ellie dans The Last of Us ?","a":["Bella Ramsey","Ashley Johnson","Storm Reid"],"correct":"Bella Ramsey","hint":"Immunité"}
+{"cat":"ActorsWomen","q":"Dans quelle série une adolescente traverse un monde post-apocalyptique ?","a":["The Last of Us","The Walking Dead","Station Eleven"],"correct":"The Last of Us","hint":"Cordyceps"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Tess ?","a":["Anna Torv","Bella Ramsey","Melanie Lynskey"],"correct":"Anna Torv","hint":"Survivante"}
+{"cat":"ActorsWomen","q":"Dans quelle série une partenaire aide Joel au début du voyage ?","a":["The Last of Us","The Walking Dead","Falling Skies"],"correct":"The Last of Us","hint":"Départ"}
+{"cat":"ActorsWomen","q":"Qui incarne Neytiri dans Avatar 2 ?","a":["Zoe Saldana","Kate Winslet","Sigourney Weaver"],"correct":"Zoe Saldana","hint":"Na’vi"}
+{"cat":"ActorsWomen","q":"Dans quel film une guerrière Na’vi protège sa famille ?","a":["Avatar 2","Avatar","Guardians of the Galaxy"],"correct":"Avatar 2","hint":"Océan"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Ronal dans Avatar 2 ?","a":["Kate Winslet","Zoe Saldana","Sigourney Weaver"],"correct":"Kate Winslet","hint":"Reine Metkayina"}
+{"cat":"ActorsWomen","q":"Dans quel film une chef Metkayina guide les Na’vi ?","a":["Avatar 2","Avatar","Aquaman"],"correct":"Avatar 2","hint":"Eau"}
+{"cat":"ActorsWomen","q":"Qui incarne Evelyn dans Everything Everywhere All at Once ?","a":["Michelle Yeoh","Stephanie Hsu","Jamie Lee Curtis"],"correct":"Michelle Yeoh","hint":"Multivers"}
+{"cat":"ActorsWomen","q":"Dans quel film une mère explore des univers parallèles ?","a":["Everything Everywhere All at Once","Doctor Strange","Inception"],"correct":"Everything Everywhere All at Once","hint":"Bagel"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Deirdre dans Everything Everywhere All at Once ?","a":["Jamie Lee Curtis","Michelle Yeoh","Stephanie Hsu"],"correct":"Jamie Lee Curtis","hint":"Impôts"}
+{"cat":"ActorsWomen","q":"Dans quel film une employée du fisc devient antagoniste ?","a":["Everything Everywhere All at Once","The Menu","Knives Out"],"correct":"Everything Everywhere All at Once","hint":"Audit"}
+{"cat":"ActorsWomen","q":"Qui incarne Evelyn jeune ?","a":["Stephanie Hsu","Michelle Yeoh","Jamie Lee Curtis"],"correct":"Stephanie Hsu","hint":"Fille rebelle"}
+{"cat":"ActorsWomen","q":"Dans quel film une fille devient une menace multiverselle ?","a":["Everything Everywhere All at Once","Doctor Strange","The Matrix"],"correct":"Everything Everywhere All at Once","hint":"Jobu Tupaki"}
+{"cat":"ActorsWomen","q":"Qui joue le rôle de Harley Quinn dans Suicide Squad ?","a":["Margot Robbie","Emma Stone","Zendaya"],"correct":"Margot Robbie","hint":"Maillet"}
+{"cat":"ActorsWomen","q":"Dans quel film une criminelle excentrique rejoint une équipe de méchants ?","a":["Suicide Squad","Birds of Prey","The Batman"],"correct":"Suicide Squad","hint":"Chaos"}
+{"cat":"ActorsWomen","q":"Qui incarne Selina Kyle dans The Dark Knight Rises ?","a":["Anne Hathaway","Zoë Kravitz","Michelle Pfeiffer"],"correct":"Anne Hathaway","hint":"Chatte voleuse"}
+{"cat":"ActorsWomen","q":"Dans quel film une cambrioleuse aide Batman contre Bane ?","a":["The Dark Knight Rises","The Batman","Batman Begins"],"correct":"The Dark Knight Rises","hint":"Moto"}

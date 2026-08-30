@@ -1,0 +1,850 @@
+{"cat":"Action","q":"Quel acteur incarne John Wick ?","a":["Keanu Reeves","Tom Cruise","Brad Pitt"],"correct":"Keanu Reeves","hint":"Matrix"}
+{"cat":"Action","q":"Dans quel film trouve-t-on John McClane ?","a":["Die Hard","Rambo","Terminator"],"correct":"Die Hard","hint":"Nakatomi Plaza"}
+{"cat":"Action","q":"Quel héros porte un arc dans les Avengers ?","a":["Hawkeye","Thor","Iron Man"],"correct":"Hawkeye","hint":"Clint Barton"}
+{"cat":"Action","q":"Qui joue Ethan Hunt dans Mission Impossible ?","a":["Tom Cruise","Matt Damon","Ben Affleck"],"correct":"Tom Cruise","hint":"Cascade réelle"}
+{"cat":"Action","q":"Dans quel film apparaît le T-800 ?","a":["Terminator","Predator","Alien"],"correct":"Terminator","hint":"Hasta la vista"}
+{"cat":"Action","q":"Quel acteur joue Rambo ?","a":["Sylvester Stallone","Arnold Schwarzenegger","Jean-Claude Van Damme"],"correct":"Sylvester Stallone","hint":"Bandana"}
+{"cat":"Action","q":"Dans quel film trouve-t-on le personnage Neo ?","a":["Matrix","Inception","Blade Runner"],"correct":"Matrix","hint":"Pilule rouge"}
+{"cat":"Action","q":"Quel film met en scène Max Rockatansky ?","a":["Mad Max","Speed","Dune"],"correct":"Mad Max","hint":"Post-apocalyptique"}
+{"cat":"Action","q":"Qui joue Lara Croft en 2001 ?","a":["Angelina Jolie","Jennifer Lawrence","Scarlett Johansson"],"correct":"Angelina Jolie","hint":"Tomb Raider"}
+{"cat":"Action","q":"Dans quel film le Joker affronte Batman en 2008 ?","a":["The Dark Knight","Batman Begins","Justice League"],"correct":"The Dark Knight","hint":"Heath Ledger"}
+{"cat":"Action","q":"Quel film met en scène un bus qui ne doit pas ralentir ?","a":["Speed","Le Transporteur","Mad Max"],"correct":"Speed","hint":"Sandra Bullock"}
+{"cat":"Action","q":"Quel acteur joue le Transporteur ?","a":["Jason Statham","Vin Diesel","Gerard Butler"],"correct":"Jason Statham","hint":"Audi noire"}
+{"cat":"Action","q":"Dans quel film apparaît le Wakanda ?","a":["Black Panther","Avengers","Thor"],"correct":"Black Panther","hint":"Vibranium"}
+{"cat":"Action","q":"Qui joue Deadpool ?","a":["Ryan Reynolds","Chris Evans","Hugh Jackman"],"correct":"Ryan Reynolds","hint":"Humour meta"}
+{"cat":"Action","q":"Quel film met en scène un tueur nommé Léon ?","a":["Léon","Taken","Heat"],"correct":"Léon","hint":"Plante verte"}
+{"cat":"Action","q":"Dans quel film un agent protège une petite fille nommée Pita ?","a":["Man on Fire","Equalizer","Safe"],"correct":"Man on Fire","hint":"Denzel Washington"}
+{"cat":"Action","q":"Quel acteur incarne Max Payne ?","a":["Mark Wahlberg","Matt Damon","Ben Affleck"],"correct":"Mark Wahlberg","hint":"Adapté d’un jeu vidéo"}
+{"cat":"Action","q":"Dans quel film trouve-t-on Bryan Mills ?","a":["Taken","John Wick","Equalizer"],"correct":"Taken","hint":"Je vais te retrouver"}
+{"cat":"Action","q":"Quel film met en scène Alex Murphy ?","a":["RoboCop","Judge Dredd","Terminator"],"correct":"RoboCop","hint":"Detroit"}
+{"cat":"Action","q":"Qui joue Wonder Woman ?","a":["Gal Gadot","Brie Larson","Scarlett Johansson"],"correct":"Gal Gadot","hint":"Amazon"}
+{"cat":"Action","q":"Dans quel film un policier pieds nus affronte des terroristes dans un immeuble ?","a":["Die Hard","Speed","Taken"],"correct":"Die Hard","hint":"No shoes"}
+{"cat":"Action","q":"Quel film met en scène Anton Chigurh ?","a":["No Country for Old Men","Heat","Sicario"],"correct":"No Country for Old Men","hint":"Bouteille d'air"}
+{"cat":"Action","q":"Qui joue Mad Max dans Fury Road ?","a":["Tom Hardy","Mel Gibson","Chris Hemsworth"],"correct":"Tom Hardy","hint":"Bane dans Batman"}
+{"cat":"Action","q":"Dans quel film Dutch affronte une créature extraterrestre dans la jungle ?","a":["Predator","Commando","Terminator"],"correct":"Predator","hint":"Camouflage de boue"}
+{"cat":"Action","q":"Quel film met en scène John Matrix ?","a":["Commando","Rambo","Predator"],"correct":"Commando","hint":"Arnold Schwarzenegger"}
+{"cat":"Action","q":"Qui joue Hit-Girl ?","a":["Chloë Grace Moretz","Emma Stone","Natalie Portman"],"correct":"Chloë Grace Moretz","hint":"Costume violet"}
+{"cat":"Action","q":"Dans quel film un chauffeur livre des colis sans poser de questions ?","a":["Le Transporteur","Speed","Taken"],"correct":"Le Transporteur","hint":"Audi"}
+{"cat":"Action","q":"Quel film met en scène John Rambo pour la première fois ?","a":["Rambo: First Blood","Rambo II","Rambo III"],"correct":"Rambo: First Blood","hint":"Petite ville américaine"}
+{"cat":"Action","q":"Qui joue Thor ?","a":["Chris Hemsworth","Chris Evans","Chris Pratt"],"correct":"Chris Hemsworth","hint":"Marteau magique"}
+{"cat":"Action","q":"Dans quel film un tueur protège une jeune fille nommée Mathilda ?","a":["Léon","Taken","Equalizer"],"correct":"Léon","hint":"Plante en pot"}
+{"cat":"Action","q":"Quel film met en scène Frank Castle ?","a":["The Punisher","Deadpool","John Wick"],"correct":"The Punisher","hint":"Crâne blanc"}
+{"cat":"Action","q":"Qui joue Black Widow ?","a":["Scarlett Johansson","Gal Gadot","Brie Larson"],"correct":"Scarlett Johansson","hint":"Combinaison noire"}
+{"cat":"Action","q":"Dans quel film Hans Gruber est le méchant principal ?","a":["Die Hard","Die Hard 2","Die Hard 3"],"correct":"Die Hard","hint":"Nakatomi Plaza"}
+{"cat":"Action","q":"Quel film met en scène Beatrix Kiddo ?","a":["Kill Bill","Pulp Fiction","Sin City"],"correct":"Kill Bill","hint":"Combinaison jaune"}
+{"cat":"Action","q":"Qui joue Wolverine ?","a":["Hugh Jackman","Ryan Reynolds","Tom Hardy"],"correct":"Hugh Jackman","hint":"Griffes en adamantium"}
+{"cat":"Action","q":"Dans quel film un train futuriste tourne en rond sur une Terre glacée ?","a":["Snowpiercer","Unstoppable","Speed"],"correct":"Snowpiercer","hint":"Train éternel"}
+{"cat":"Action","q":"Quel acteur incarne Jason Bourne ?","a":["Matt Damon","Ben Affleck","Tom Cruise"],"correct":"Matt Damon","hint":"Mémoire effacée"}
+{"cat":"Action","q":"Dans quel film un père traque les ravisseurs de sa fille en Europe ?","a":["Taken","John Wick","Equalizer"],"correct":"Taken","hint":"Compétences particulières"}
+{"cat":"Action","q":"Quel film met en scène un justicier nommé The Punisher ?","a":["The Punisher","Deadpool","Blade"],"correct":"The Punisher","hint":"Crâne sur le torse"}
+{"cat":"Action","q":"Qui joue Tony Stark ?","a":["Robert Downey Jr.","Chris Evans","Chris Hemsworth"],"correct":"Robert Downey Jr.","hint":"Iron Man"}
+{"cat":"Action","q":"Dans quel film des voleurs de rêves utilisent une machine pour entrer dans l’esprit ?","a":["Inception","Matrix","Looper"],"correct":"Inception","hint":"Toupie"}
+{"cat":"Action","q":"Quel acteur incarne Snake Plissken ?","a":["Kurt Russell","Mel Gibson","Bruce Willis"],"correct":"Kurt Russell","hint":"Cache-œil"}
+{"cat":"Action","q":"Dans quel film un mutant nommé Laura accompagne un héros vieillissant ?","a":["Logan","Deadpool","X-Men"],"correct":"Logan","hint":"Dernier film solo"}
+{"cat":"Action","q":"Quel film met en scène un tueur surnommé Baba Yaga ?","a":["John Wick","Taken","Equalizer"],"correct":"John Wick","hint":"Chien assassiné"}
+{"cat":"Action","q":"Qui joue Venom ?","a":["Tom Hardy","Tom Holland","Andrew Garfield"],"correct":"Tom Hardy","hint":"Symbiote noir"}
+{"cat":"Action","q":"Dans quel film un agent protège le président dans la Maison Blanche attaquée ?","a":["Olympus Has Fallen","White House Down","Air Force One"],"correct":"Olympus Has Fallen","hint":"Gerard Butler"}
+{"cat":"Action","q":"Quel acteur incarne Blade ?","a":["Wesley Snipes","Samuel L. Jackson","Idris Elba"],"correct":"Wesley Snipes","hint":"Chasseur de vampires"}
+{"cat":"Action","q":"Dans quel film un désert post-apocalyptique sert de décor principal ?","a":["Mad Max: Fury Road","Dune","The Road"],"correct":"Mad Max: Fury Road","hint":"Course de camions"}
+{"cat":"Action","q":"Quel film met en scène Anton Chigurh et une pièce de monnaie fatale ?","a":["No Country for Old Men","Heat","Sicario"],"correct":"No Country for Old Men","hint":"Coupe de cheveux étrange"}
+{"cat":"Action","q":"Qui joue John Connor adulte dans Terminator Salvation ?","a":["Christian Bale","Tom Hardy","Matt Damon"],"correct":"Christian Bale","hint":"Batman aussi"}
+{"cat":"Action","q":"Dans quel film un bus piégé explose si sa vitesse descend sous 50 mph ?","a":["Speed","Le Transporteur","Mad Max"],"correct":"Speed","hint":"Keanu Reeves"}
+{"cat":"Action","q":"Quel acteur incarne Maximus dans Gladiator ?","a":["Russell Crowe","Gerard Butler","Hugh Jackman"],"correct":"Russell Crowe","hint":"Are you not entertained"}
+{"cat":"Action","q":"Dans quel film un policier doit arrêter Simon Gruber ?","a":["Die Hard 3","Speed","Heat"],"correct":"Die Hard 3","hint":"Jeremy Irons"}
+{"cat":"Action","q":"Qui joue Jack Reacher ?","a":["Tom Cruise","Matt Damon","Ben Affleck"],"correct":"Tom Cruise","hint":"Mission Impossible"}
+{"cat":"Action","q":"Dans quel film un assassin se bat dans un train rempli de criminels ?","a":["Bullet Train","Unstoppable","Snowpiercer"],"correct":"Bullet Train","hint":"Brad Pitt"}
+{"cat":"Action","q":"Quel film met en scène Bryan Mills ?","a":["Taken","John Wick","Equalizer"],"correct":"Taken","hint":"Compétences particulières"}
+{"cat":"Action","q":"Qui joue John McClane ?","a":["Bruce Willis","Mel Gibson","Harrison Ford"],"correct":"Bruce Willis","hint":"Yippee-ki-yay"}
+{"cat":"Action","q":"Dans quel film un mercenaire sauve un enfant en Inde ?","a":["Extraction","Man on Fire","Safe"],"correct":"Extraction","hint":"Chris Hemsworth"}
+{"cat":"Action","q":"Quel acteur incarne Mad Max en 1979 ?","a":["Mel Gibson","Tom Hardy","Kurt Russell"],"correct":"Mel Gibson","hint":"Australie"}
+{"cat":"Action","q":"Dans quel film un président est pris en otage dans un avion ?","a":["Air Force One","White House Down","Olympus Has Fallen"],"correct":"Air Force One","hint":"Harrison Ford"}
+{"cat":"Action","q":"Quel film met en scène un tueur nommé Léon ?","a":["Léon","Heat","Taken"],"correct":"Léon","hint":"Plante verte"}
+{"cat":"Action","q":"Qui joue John Wick ?","a":["Keanu Reeves","Tom Cruise","Jason Statham"],"correct":"Keanu Reeves","hint":"Kung-fu"}
+{"cat":"Action","q":"Dans quel film un immeuble rempli de criminels est pris d’assaut ?","a":["The Raid","Die Hard","Taken"],"correct":"The Raid","hint":"Indonésie"}
+{"cat":"Action","q":"Quel acteur incarne Dutch dans Predator ?","a":["Arnold Schwarzenegger","Sylvester Stallone","Jean-Claude Van Damme"],"correct":"Arnold Schwarzenegger","hint":"Get to the chopper"}
+{"cat":"Action","q":"Dans quel film un enfant entre dans un monde de cinéma ?","a":["Last Action Hero","Commando","Terminator 2"],"correct":"Last Action Hero","hint":"Billet magique"}
+{"cat":"Action","q":"Quel film met en scène John Matrix ?","a":["Commando","Predator","Rambo"],"correct":"Commando","hint":"Arnold"}
+{"cat":"Action","q":"Qui joue Beatrix Kiddo ?","a":["Uma Thurman","Natalie Portman","Charlize Theron"],"correct":"Uma Thurman","hint":"Katana jaune"}
+{"cat":"Action","q":"Dans quel film un train futuriste traverse une Terre glacée ?","a":["Snowpiercer","Unstoppable","Speed"],"correct":"Snowpiercer","hint":"Train éternel"}
+{"cat":"Action","q":"Quel acteur incarne Jason Bourne ?","a":["Matt Damon","Ben Affleck","Tom Cruise"],"correct":"Matt Damon","hint":"Mémoire perdue"}
+{"cat":"Action","q":"Dans quel film un père traque des ravisseurs en Europe ?","a":["Taken","John Wick","Equalizer"],"correct":"Taken","hint":"Je vais te retrouver"}
+{"cat":"Action","q":"Quel film met en scène Frank Castle ?","a":["The Punisher","Deadpool","Blade"],"correct":"The Punisher","hint":"Crâne blanc"}
+{"cat":"Action","q":"Qui joue Iron Man ?","a":["Robert Downey Jr.","Chris Evans","Chris Hemsworth"],"correct":"Robert Downey Jr.","hint":"Arc reactor"}
+{"cat":"Action","q":"Dans quel film des voleurs de rêves infiltrent l’esprit ?","a":["Inception","Matrix","Looper"],"correct":"Inception","hint":"Toupie"}
+{"cat":"Action","q":"Quel acteur incarne Snake Plissken ?","a":["Kurt Russell","Mel Gibson","Bruce Willis"],"correct":"Kurt Russell","hint":"Cache-œil"}
+{"cat":"Action","q":"Dans quel film un mutant nommé Laura apparaît ?","a":["Logan","Deadpool","X-Men"],"correct":"Logan","hint":"Vieillissant"}
+{"cat":"Action","q":"Quel film met en scène un tueur surnommé Baba Yaga ?","a":["John Wick","Taken","Equalizer"],"correct":"John Wick","hint":"Chien"}
+{"cat":"Action","q":"Qui joue Venom ?","a":["Tom Hardy","Tom Holland","Andrew Garfield"],"correct":"Tom Hardy","hint":"Symbiote noir"}
+{"cat":"Action","q":"Dans quel film un agent protège le président ?","a":["Olympus Has Fallen","Air Force One","White House Down"],"correct":"Olympus Has Fallen","hint":"Gerard Butler"}
+{"cat":"Action","q":"Quel acteur incarne Blade ?","a":["Wesley Snipes","Samuel L. Jackson","Idris Elba"],"correct":"Wesley Snipes","hint":"Vampires"}
+{"cat":"Action","q":"Dans quel film un désert post-apocalyptique sert de décor ?","a":["Mad Max: Fury Road","Dune","The Road"],"correct":"Mad Max: Fury Road","hint":"Course de camions"}
+{"cat":"Action","q":"Quel film met en scène Anton Chigurh ?","a":["No Country for Old Men","Heat","Sicario"],"correct":"No Country for Old Men","hint":"Bouteille d'air"}
+{"cat":"Action","q":"Qui joue John Connor adulte ?","a":["Christian Bale","Tom Hardy","Matt Damon"],"correct":"Christian Bale","hint":"Batman aussi"}
+{"cat":"Action","q":"Dans quel film un bus piégé ne doit pas ralentir ?","a":["Speed","Le Transporteur","Mad Max"],"correct":"Speed","hint":"Keanu Reeves"}
+{"cat":"Action","q":"Quel acteur incarne RoboCop ?","a":["Peter Weller","Michael Keaton","Karl Urban"],"correct":"Peter Weller","hint":"Detroit"}
+{"cat":"Action","q":"Dans quel film un agent protège une enfant nommée Pita ?","a":["Man on Fire","Equalizer","Safe"],"correct":"Man on Fire","hint":"Denzel"}
+{"cat":"Action","q":"Quel film met en scène John Rambo ?","a":["Rambo","Rocky","Commando"],"correct":"Rambo","hint":"Vietnam"}
+{"cat":"Action","q":"Qui joue Hit-Girl ?","a":["Chloë Grace Moretz","Emma Stone","Natalie Portman"],"correct":"Chloë Grace Moretz","hint":"Kick-Ass"}
+{"cat":"Action","q":"Dans quel film un chauffeur livre des colis dangereux ?","a":["Le Transporteur","Speed","Taken"],"correct":"Le Transporteur","hint":"Audi noire"}
+{"cat":"Action","q":"Quel acteur incarne John Wick ?","a":["Keanu Reeves","Tom Cruise","Jason Statham"],"correct":"Keanu Reeves","hint":"Kung-fu"}
+{"cat":"Action","q":"Dans quel film un assassin combat dans un train ?","a":["Bullet Train","Unstoppable","Snowpiercer"],"correct":"Bullet Train","hint":"Brad Pitt"}
+{"cat":"Action","q":"Quel film met en scène Dutch dans la jungle ?","a":["Predator","Commando","Terminator"],"correct":"Predator","hint":"Camouflage boue"}
+{"cat":"Action","q":"Qui joue Maximus ?","a":["Russell Crowe","Gerard Butler","Hugh Jackman"],"correct":"Russell Crowe","hint":"Gladiateur"}
+{"cat":"Action","q":"Dans quel film Hans Gruber apparaît ?","a":["Die Hard","Taken","Speed"],"correct":"Die Hard","hint":"Nakatomi"}
+{"cat":"Action","q":"Quel film met en scène Beatrix Kiddo ?","a":["Kill Bill","Pulp Fiction","Sin City"],"correct":"Kill Bill","hint":"Katana jaune"}
+{"cat":"Action","q":"Qui joue Wolverine ?","a":["Hugh Jackman","Ryan Reynolds","Tom Hardy"],"correct":"Hugh Jackman","hint":"Griffes"}
+{"cat":"Action","q":"Dans quel film un train futuriste traverse la glace ?","a":["Snowpiercer","Unstoppable","Speed"],"correct":"Snowpiercer","hint":"Glace éternelle"}
+{"cat":"Action","q":"Quel acteur incarne Jason Bourne ?","a":["Matt Damon","Ben Affleck","Tom Cruise"],"correct":"Matt Damon","hint":"Mémoire effacée"}
+{"cat":"Action","q":"Dans quel film un père traque des ravisseurs ?","a":["Taken","John Wick","Equalizer"],"correct":"Taken","hint":"Compétences particulières"}
+{"cat":"Action","q":"Quel film met en scène Frank Castle ?","a":["The Punisher","Deadpool","John Wick"],"correct":"The Punisher","hint":"Crâne blanc"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John Carter ?","a":["Taylor Kitsch","Chris Hemsworth","Sam Worthington"],"correct":"Taylor Kitsch","hint":"Mars"}
+{"cat":"Action","q":"Dans quel film un policier doit arrêter un criminel nommé Bodhi ?","a":["Point Break","Heat","Speed"],"correct":"Point Break","hint":"Surf"}
+{"cat":"Action","q":"Qui joue le rôle de Max Rockatansky dans Fury Road ?","a":["Tom Hardy","Mel Gibson","Chris Evans"],"correct":"Tom Hardy","hint":"Masque sur le visage"}
+{"cat":"Action","q":"Dans quel film un agent doit protéger un témoin nommé Shatter ?","a":["Safe","Man on Fire","Equalizer"],"correct":"Safe","hint":"Jason Statham"}
+{"cat":"Action","q":"Quel film met en scène un tueur nommé John Creasy ?","a":["Man on Fire","Equalizer","Taken"],"correct":"Man on Fire","hint":"Denzel Washington"}
+{"cat":"Action","q":"Qui joue le rôle de Judge Dredd dans le film de 2012 ?","a":["Karl Urban","Sylvester Stallone","Gerard Butler"],"correct":"Karl Urban","hint":"Casque opaque"}
+{"cat":"Action","q":"Dans quel film un homme doit survivre dans un immeuble rempli de zombies ?","a":["Dredd","The Raid","World War Z"],"correct":"Dredd","hint":"Mega City One"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John Wick dans la saga ?","a":["Keanu Reeves","Tom Cruise","Matt Damon"],"correct":"Keanu Reeves","hint":"Kung-fu"}
+{"cat":"Action","q":"Dans quel film un policier doit infiltrer un gang de surfeurs ?","a":["Point Break","Fast & Furious","Heat"],"correct":"Point Break","hint":"Keanu Reeves"}
+{"cat":"Action","q":"Quel film met en scène un tueur nommé Robert McCall ?","a":["Equalizer","Taken","John Wick"],"correct":"Equalizer","hint":"Chronomètre"}
+{"cat":"Action","q":"Qui joue le rôle de John Rambo dans la saga ?","a":["Sylvester Stallone","Arnold Schwarzenegger","Jean-Claude Van Damme"],"correct":"Sylvester Stallone","hint":"Bandeau rouge"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un train contre des terroristes ?","a":["Unstoppable","Bullet Train","Snowpiercer"],"correct":"Unstoppable","hint":"Denzel Washington"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John McClane ?","a":["Bruce Willis","Mel Gibson","Harrison Ford"],"correct":"Bruce Willis","hint":"Yippee-ki-yay"}
+{"cat":"Action","q":"Dans quel film un homme doit sauver un enfant nommé Ovi ?","a":["Extraction","Safe","Man on Fire"],"correct":"Extraction","hint":"Chris Hemsworth"}
+{"cat":"Action","q":"Quel film met en scène un tueur nommé Jack Traven ?","a":["Speed","Taken","Heat"],"correct":"Speed","hint":"Bus piégé"}
+{"cat":"Action","q":"Qui joue le rôle de Dutch dans Predator ?","a":["Arnold Schwarzenegger","Sylvester Stallone","Jean-Claude Van Damme"],"correct":"Arnold Schwarzenegger","hint":"Jungle"}
+{"cat":"Action","q":"Dans quel film un homme doit infiltrer un rêve ?","a":["Inception","Matrix","Looper"],"correct":"Inception","hint":"Toupie"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Snake Eyes ?","a":["Henry Golding","Tom Hardy","Chris Evans"],"correct":"Henry Golding","hint":"G.I. Joe"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un président dans un bunker ?","a":["White House Down","Olympus Has Fallen","Air Force One"],"correct":"White House Down","hint":"Channing Tatum"}
+{"cat":"Action","q":"Quel film met en scène un tueur nommé Casey Ryback ?","a":["Under Siege","Commando","Heat"],"correct":"Under Siege","hint":"Cuisinier"}
+{"cat":"Action","q":"Qui joue le rôle de Blade ?","a":["Wesley Snipes","Samuel L. Jackson","Idris Elba"],"correct":"Wesley Snipes","hint":"Vampires"}
+{"cat":"Action","q":"Dans quel film un homme doit survivre dans un désert post-apocalyptique ?","a":["Mad Max","Dune","The Road"],"correct":"Mad Max","hint":"Fury Road"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Robocop ?","a":["Peter Weller","Michael Keaton","Karl Urban"],"correct":"Peter Weller","hint":"Detroit"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un enfant nommé Mathilda ?","a":["Léon","Taken","Equalizer"],"correct":"Léon","hint":"Plante"}
+{"cat":"Action","q":"Quel film met en scène un tueur nommé John Wick ?","a":["John Wick","Taken","Equalizer"],"correct":"John Wick","hint":"Chien"}
+{"cat":"Action","q":"Qui joue le rôle de Venom ?","a":["Tom Hardy","Tom Holland","Andrew Garfield"],"correct":"Tom Hardy","hint":"Symbiote"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un train futuriste ?","a":["Snowpiercer","Unstoppable","Speed"],"correct":"Snowpiercer","hint":"Glace"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Jason Bourne ?","a":["Matt Damon","Ben Affleck","Tom Cruise"],"correct":"Matt Damon","hint":"Mémoire"}
+{"cat":"Action","q":"Dans quel film un père traque les ravisseurs de sa fille ?","a":["Taken","John Wick","Equalizer"],"correct":"Taken","hint":"Compétences particulières"}
+{"cat":"Action","q":"Quel film met en scène un tueur nommé Frank Castle ?","a":["The Punisher","Deadpool","Blade"],"correct":"The Punisher","hint":"Crâne blanc"}
+{"cat":"Action","q":"Qui joue Tony Stark ?","a":["Robert Downey Jr.","Chris Evans","Chris Hemsworth"],"correct":"Robert Downey Jr.","hint":"Iron Man"}
+{"cat":"Action","q":"Dans quel film un homme doit infiltrer un rêve partagé ?","a":["Inception","Matrix","Minority Report"],"correct":"Inception","hint":"Toupie"}
+{"cat":"Action","q":"Quel acteur incarne Snake Plissken ?","a":["Kurt Russell","Mel Gibson","Bruce Willis"],"correct":"Kurt Russell","hint":"Cache-œil"}
+{"cat":"Action","q":"Dans quel film un mutant nommé Laura apparaît ?","a":["Logan","Deadpool","X-Men"],"correct":"Logan","hint":"Vieillissant"}
+{"cat":"Action","q":"Quel film met en scène un tueur surnommé Baba Yaga ?","a":["John Wick","Taken","Equalizer"],"correct":"John Wick","hint":"Continental"}
+{"cat":"Action","q":"Qui joue le rôle de Hit-Girl ?","a":["Chloë Grace Moretz","Emma Stone","Natalie Portman"],"correct":"Chloë Grace Moretz","hint":"Violet"}
+{"cat":"Action","q":"Dans quel film un homme doit sauver un enfant d’un cartel ?","a":["Man on Fire","Equalizer","Safe"],"correct":"Man on Fire","hint":"Denzel"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Maximus ?","a":["Russell Crowe","Gerard Butler","Hugh Jackman"],"correct":"Russell Crowe","hint":"Gladiateur"}
+{"cat":"Action","q":"Dans quel film un bus piégé ne doit pas ralentir ?","a":["Speed","Le Transporteur","Mad Max"],"correct":"Speed","hint":"Sandra Bullock"}
+{"cat":"Action","q":"Quel film met en scène un tueur nommé Anton Chigurh ?","a":["No Country for Old Men","Heat","Sicario"],"correct":"No Country for Old Men","hint":"Bouteille d'air"}
+{"cat":"Action","q":"Qui joue John Connor adulte ?","a":["Christian Bale","Tom Hardy","Matt Damon"],"correct":"Christian Bale","hint":"Batman"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un président ?","a":["Olympus Has Fallen","Air Force One","White House Down"],"correct":"Olympus Has Fallen","hint":"Gerard Butler"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Dutch ?","a":["Arnold Schwarzenegger","Sylvester Stallone","Jean-Claude Van Damme"],"correct":"Arnold Schwarzenegger","hint":"Jungle"}
+{"cat":"Action","q":"Dans quel film un homme doit survivre dans un immeuble rempli de criminels ?","a":["The Raid","Die Hard","Taken"],"correct":"The Raid","hint":"Arts martiaux"}
+{"cat":"Action","q":"Quel film met en scène un tueur nommé John Matrix ?","a":["Commando","Predator","Rambo"],"correct":"Commando","hint":"Arnold"}
+{"cat":"Action","q":"Qui joue le rôle de Beatrix Kiddo ?","a":["Uma Thurman","Natalie Portman","Charlize Theron"],"correct":"Uma Thurman","hint":"Katana jaune"}
+{"cat":"Action","q":"Dans quel film un train futuriste traverse une Terre glacée ?","a":["Snowpiercer","Unstoppable","Speed"],"correct":"Snowpiercer","hint":"Train éternel"}
+{"cat":"Action","q":"Quel acteur incarne Jason Bourne ?","a":["Matt Damon","Ben Affleck","Tom Cruise"],"correct":"Matt Damon","hint":"Mémoire effacée"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John Spartan dans Demolition Man ?","a":["Sylvester Stallone","Arnold Schwarzenegger","Jean-Claude Van Damme"],"correct":"Sylvester Stallone","hint":"Coquillages"}
+{"cat":"Action","q":"Dans quel film un policier doit arrêter un criminel nommé Simon Phoenix ?","a":["Demolition Man","Judge Dredd","RoboCop"],"correct":"Demolition Man","hint":"Cryogénisation"}
+{"cat":"Action","q":"Qui joue le rôle de Bryan Mills dans Taken ?","a":["Liam Neeson","Denzel Washington","Bruce Willis"],"correct":"Liam Neeson","hint":"Compétences particulières"}
+{"cat":"Action","q":"Dans quel film un agent doit protéger un témoin dans un train à grande vitesse ?","a":["Bullet Train","Unstoppable","Snowpiercer"],"correct":"Bullet Train","hint":"Brad Pitt"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John Wick ?","a":["Keanu Reeves","Tom Cruise","Jason Statham"],"correct":"Keanu Reeves","hint":"Kung-fu"}
+{"cat":"Action","q":"Dans quel film un homme doit sauver un enfant d’un cartel mexicain ?","a":["Man on Fire","Safe","Equalizer"],"correct":"Man on Fire","hint":"Denzel Washington"}
+{"cat":"Action","q":"Qui joue le rôle de Dutch dans Predator ?","a":["Arnold Schwarzenegger","Sylvester Stallone","Jean-Claude Van Damme"],"correct":"Arnold Schwarzenegger","hint":"Jungle"}
+{"cat":"Action","q":"Dans quel film un bus piégé explose s’il ralentit ?","a":["Speed","Le Transporteur","Mad Max"],"correct":"Speed","hint":"Sandra Bullock"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Max Rockatansky dans Mad Max (1979) ?","a":["Mel Gibson","Tom Hardy","Kurt Russell"],"correct":"Mel Gibson","hint":"Australie"}
+{"cat":"Action","q":"Dans quel film un homme doit infiltrer un rêve partagé ?","a":["Inception","Matrix","Minority Report"],"correct":"Inception","hint":"Toupie"}
+{"cat":"Action","q":"Qui joue le rôle de Tony Stark ?","a":["Robert Downey Jr.","Chris Evans","Chris Hemsworth"],"correct":"Robert Downey Jr.","hint":"Arc reactor"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un président dans la Maison Blanche ?","a":["Olympus Has Fallen","White House Down","Air Force One"],"correct":"Olympus Has Fallen","hint":"Gerard Butler"}
+{"cat":"Action","q":"Quel acteur incarne Blade ?","a":["Wesley Snipes","Samuel L. Jackson","Idris Elba"],"correct":"Wesley Snipes","hint":"Vampires"}
+{"cat":"Action","q":"Dans quel film un train futuriste traverse une Terre glacée ?","a":["Snowpiercer","Unstoppable","Speed"],"correct":"Snowpiercer","hint":"Glace éternelle"}
+{"cat":"Action","q":"Qui joue le rôle de Jason Bourne ?","a":["Matt Damon","Ben Affleck","Tom Cruise"],"correct":"Matt Damon","hint":"Mémoire effacée"}
+{"cat":"Action","q":"Dans quel film un père traque les ravisseurs de sa fille ?","a":["Taken","John Wick","Equalizer"],"correct":"Taken","hint":"Compétences particulières"}
+{"cat":"Action","q":"Quel film met en scène Frank Castle ?","a":["The Punisher","Deadpool","Blade"],"correct":"The Punisher","hint":"Crâne blanc"}
+{"cat":"Action","q":"Qui joue le rôle de Wolverine ?","a":["Hugh Jackman","Ryan Reynolds","Tom Hardy"],"correct":"Hugh Jackman","hint":"Griffes"}
+{"cat":"Action","q":"Dans quel film un homme doit survivre dans un désert post-apocalyptique ?","a":["Mad Max: Fury Road","Dune","The Road"],"correct":"Mad Max: Fury Road","hint":"Course de camions"}
+{"cat":"Action","q":"Quel acteur incarne Robocop ?","a":["Peter Weller","Michael Keaton","Karl Urban"],"correct":"Peter Weller","hint":"Detroit"}
+{"cat":"Action","q":"Dans quel film un tueur protège une jeune fille nommée Mathilda ?","a":["Léon","Taken","Equalizer"],"correct":"Léon","hint":"Plante verte"}
+{"cat":"Action","q":"Qui joue le rôle de Venom ?","a":["Tom Hardy","Tom Holland","Andrew Garfield"],"correct":"Tom Hardy","hint":"Symbiote"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un train contre des terroristes ?","a":["Unstoppable","Bullet Train","Snowpiercer"],"correct":"Unstoppable","hint":"Denzel Washington"}
+{"cat":"Action","q":"Quel acteur incarne Snake Plissken ?","a":["Kurt Russell","Mel Gibson","Bruce Willis"],"correct":"Kurt Russell","hint":"Cache-œil"}
+{"cat":"Action","q":"Dans quel film un homme doit sauver un enfant nommé Ovi ?","a":["Extraction","Safe","Man on Fire"],"correct":"Extraction","hint":"Chris Hemsworth"}
+{"cat":"Action","q":"Qui joue le rôle de John McClane ?","a":["Bruce Willis","Mel Gibson","Harrison Ford"],"correct":"Bruce Willis","hint":"Yippee-ki-yay"}
+{"cat":"Action","q":"Dans quel film un agent doit arrêter un gang de surfeurs ?","a":["Point Break","Fast & Furious","Heat"],"correct":"Point Break","hint":"Keanu Reeves"}
+{"cat":"Action","q":"Quel acteur incarne John Carter ?","a":["Taylor Kitsch","Chris Hemsworth","Sam Worthington"],"correct":"Taylor Kitsch","hint":"Mars"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un témoin dans un train ?","a":["Bullet Train","Unstoppable","Snowpiercer"],"correct":"Bullet Train","hint":"Brad Pitt"}
+{"cat":"Action","q":"Qui joue le rôle de John Rambo ?","a":["Sylvester Stallone","Arnold Schwarzenegger","Jean-Claude Van Damme"],"correct":"Sylvester Stallone","hint":"Bandeau rouge"}
+{"cat":"Action","q":"Dans quel film un homme doit infiltrer un immeuble rempli de criminels ?","a":["The Raid","Die Hard","Taken"],"correct":"The Raid","hint":"Arts martiaux"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John Matrix ?","a":["Arnold Schwarzenegger","Sylvester Stallone","Jean-Claude Van Damme"],"correct":"Arnold Schwarzenegger","hint":"Commando"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un président dans un bunker ?","a":["White House Down","Olympus Has Fallen","Air Force One"],"correct":"White House Down","hint":"Channing Tatum"}
+{"cat":"Action","q":"Qui joue le rôle de Beatrix Kiddo ?","a":["Uma Thurman","Natalie Portman","Charlize Theron"],"correct":"Uma Thurman","hint":"Katana jaune"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un enfant nommé Pita ?","a":["Man on Fire","Equalizer","Safe"],"correct":"Man on Fire","hint":"Denzel"}
+{"cat":"Action","q":"Quel acteur incarne Dutch dans Predator ?","a":["Arnold Schwarzenegger","Sylvester Stallone","Jean-Claude Van Damme"],"correct":"Arnold Schwarzenegger","hint":"Jungle"}
+{"cat":"Action","q":"Dans quel film un bus piégé ne doit pas ralentir ?","a":["Speed","Le Transporteur","Mad Max"],"correct":"Speed","hint":"Keanu Reeves"}
+{"cat":"Action","q":"Qui joue le rôle de Maximus ?","a":["Russell Crowe","Gerard Butler","Hugh Jackman"],"correct":"Russell Crowe","hint":"Gladiateur"}
+{"cat":"Action","q":"Dans quel film Hans Gruber apparaît ?","a":["Die Hard","Taken","Speed"],"correct":"Die Hard","hint":"Nakatomi"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Jason Bourne ?","a":["Matt Damon","Ben Affleck","Tom Cruise"],"correct":"Matt Damon","hint":"Mémoire effacée"}
+{"cat":"Action","q":"Dans quel film un train futuriste traverse la glace ?","a":["Snowpiercer","Unstoppable","Speed"],"correct":"Snowpiercer","hint":"Train éternel"}
+{"cat":"Action","q":"Qui joue le rôle de Wolverine ?","a":["Hugh Jackman","Ryan Reynolds","Tom Hardy"],"correct":"Hugh Jackman","hint":"Griffes"}
+{"cat":"Action","q":"Dans quel film un homme doit sauver sa femme d’un terroriste ?","a":["Die Hard","Taken","Speed"],"correct":"Die Hard","hint":"Nakatomi Plaza"}
+{"cat":"Action","q":"Quel acteur incarne Frank Castle ?","a":["Thomas Jane","Jon Bernthal","Ray Stevenson"],"correct":"Thomas Jane","hint":"Punisher 2004"}
+{"cat":"Action","q":"Dans quel film un homme doit survivre dans un désert post-apocalyptique ?","a":["Mad Max","Dune","The Road"],"correct":"Mad Max","hint":"Fury Road"}
+{"cat":"Action","q":"Qui joue le rôle de Venom ?","a":["Tom Hardy","Tom Holland","Andrew Garfield"],"correct":"Tom Hardy","hint":"Symbiote noir"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un président attaqué par des terroristes ?","a":["Olympus Has Fallen","White House Down","Air Force One"],"correct":"Olympus Has Fallen","hint":"Gerard Butler"}
+{"cat":"Action","q":"Quel acteur incarne Snake Plissken ?","a":["Kurt Russell","Mel Gibson","Bruce Willis"],"correct":"Kurt Russell","hint":"Cache-œil"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Casey Bowman dans Ninja ?","a":["Scott Adkins","Tony Jaa","Iko Uwais"],"correct":"Scott Adkins","hint":"Champion d’arts martiaux"}
+{"cat":"Action","q":"Dans quel film un policier doit affronter un gang dans un immeuble appelé The Block ?","a":["Attack the Block","The Raid","Dredd"],"correct":"Attack the Block","hint":"Aliens dans un HLM"}
+{"cat":"Action","q":"Qui joue le rôle de Rama dans The Raid ?","a":["Iko Uwais","Tony Jaa","Scott Adkins"],"correct":"Iko Uwais","hint":"Silat indonésien"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un enfant nommé Miguel ?","a":["Safe","Man on Fire","Equalizer"],"correct":"Safe","hint":"Jason Statham"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John Shaft ?","a":["Samuel L. Jackson","Denzel Washington","Idris Elba"],"correct":"Samuel L. Jackson","hint":"Manteau long"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un cartel dans la jungle ?","a":["Rambo: Last Blood","Predator","Commando"],"correct":"Rambo: Last Blood","hint":"Sylvester Stallone"}
+{"cat":"Action","q":"Qui joue le rôle de Ip Man ?","a":["Donnie Yen","Jet Li","Tony Jaa"],"correct":"Donnie Yen","hint":"Maître de Bruce Lee"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un bébé nommé Maggie ?","a":["Shoot 'Em Up","Safe","Man on Fire"],"correct":"Shoot 'Em Up","hint":"Carottes"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John Dillinger dans Public Enemies ?","a":["Johnny Depp","Christian Bale","Leonardo DiCaprio"],"correct":"Johnny Depp","hint":"Gangster célèbre"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un terroriste nommé Castor Troy ?","a":["Face/Off","Heat","Speed"],"correct":"Face/Off","hint":"Échange de visages"}
+{"cat":"Action","q":"Qui joue le rôle de Cameron Poe dans Con Air ?","a":["Nicolas Cage","John Travolta","Bruce Willis"],"correct":"Nicolas Cage","hint":"Cheveux longs"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un train rempli de prisonniers ?","a":["Con Air","Unstoppable","Bullet Train"],"correct":"Con Air","hint":"Avion de détenus"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Bryan Fury dans Tekken ?","a":["Gary Daniels","Scott Adkins","Ray Park"],"correct":"Gary Daniels","hint":"Film tiré d’un jeu vidéo"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un robot policier nommé ED-209 ?","a":["RoboCop","Terminator","Judge Dredd"],"correct":"RoboCop","hint":"Detroit"}
+{"cat":"Action","q":"Qui joue le rôle de John Preston dans Equilibrium ?","a":["Christian Bale","Tom Hardy","Keanu Reeves"],"correct":"Christian Bale","hint":"Gun Kata"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un enfant nommé Sam ?","a":["Safe","Man on Fire","Equalizer"],"correct":"Safe","hint":"Jason Statham"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John Kruger dans Eraser ?","a":["Arnold Schwarzenegger","Sylvester Stallone","Jean-Claude Van Damme"],"correct":"Arnold Schwarzenegger","hint":"Effacement d’identité"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un terroriste nommé Howard Payne ?","a":["Speed","Die Hard","Heat"],"correct":"Speed","hint":"Bus piégé"}
+{"cat":"Action","q":"Qui joue le rôle de Frank Martin dans Le Transporteur ?","a":["Jason Statham","Gerard Butler","Vin Diesel"],"correct":"Jason Statham","hint":"Audi noire"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un tueur nommé Ghost ?","a":["Ninja Assassin","John Wick","Equalizer"],"correct":"Ninja Assassin","hint":"Shurikens"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John Anderton dans Minority Report ?","a":["Tom Cruise","Matt Damon","Ben Affleck"],"correct":"Tom Cruise","hint":"Précrime"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un enfant nommé Kim ?","a":["Taken","Man on Fire","Safe"],"correct":"Taken","hint":"Europe"}
+{"cat":"Action","q":"Qui joue le rôle de John Carter ?","a":["Taylor Kitsch","Chris Hemsworth","Sam Worthington"],"correct":"Taylor Kitsch","hint":"Mars"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un terroriste nommé Cyrus the Virus ?","a":["Con Air","Face/Off","Heat"],"correct":"Con Air","hint":"Avion de prisonniers"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John Spartan ?","a":["Sylvester Stallone","Arnold Schwarzenegger","Jean-Claude Van Damme"],"correct":"Sylvester Stallone","hint":"Coquillages"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un cartel dans une petite ville ?","a":["Rambo: Last Blood","Sicario","Man on Fire"],"correct":"Rambo: Last Blood","hint":"Tunnel"}
+{"cat":"Action","q":"Qui joue le rôle de Rama dans The Raid 2 ?","a":["Iko Uwais","Tony Jaa","Scott Adkins"],"correct":"Iko Uwais","hint":"Silat"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un témoin dans un train futuriste ?","a":["Snowpiercer","Bullet Train","Unstoppable"],"correct":"Snowpiercer","hint":"Train éternel"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John Creasy ?","a":["Denzel Washington","Will Smith","Samuel L. Jackson"],"correct":"Denzel Washington","hint":"Man on Fire"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un terroriste nommé Simon Phoenix ?","a":["Demolition Man","Judge Dredd","RoboCop"],"correct":"Demolition Man","hint":"Cryogénisation"}
+{"cat":"Action","q":"Qui joue le rôle de Ip Man dans la saga ?","a":["Donnie Yen","Jet Li","Tony Jaa"],"correct":"Donnie Yen","hint":"Wing Chun"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un enfant nommé Maggie ?","a":["Shoot 'Em Up","Safe","Man on Fire"],"correct":"Shoot 'Em Up","hint":"Carottes"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Castor Troy ?","a":["Nicolas Cage","John Travolta","Bruce Willis"],"correct":"Nicolas Cage","hint":"Visage échangé"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un terroriste nommé Dieter Von Cunth ?","a":["MacGruber","Heat","Speed"],"correct":"MacGruber","hint":"Parodie"}
+{"cat":"Action","q":"Qui joue le rôle de John Preston ?","a":["Christian Bale","Tom Hardy","Keanu Reeves"],"correct":"Christian Bale","hint":"Gun Kata"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un robot policier ?","a":["RoboCop","Terminator","Judge Dredd"],"correct":"RoboCop","hint":"ED-209"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John Anderton ?","a":["Tom Cruise","Matt Damon","Ben Affleck"],"correct":"Tom Cruise","hint":"Précrime"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un cartel dans la jungle ?","a":["Rambo: Last Blood","Predator","Commando"],"correct":"Rambo: Last Blood","hint":"Tunnel"}
+{"cat":"Action","q":"Qui joue le rôle de Frank Martin ?","a":["Jason Statham","Gerard Butler","Vin Diesel"],"correct":"Jason Statham","hint":"Audi noire"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un tueur ninja ?","a":["Ninja Assassin","John Wick","Equalizer"],"correct":"Ninja Assassin","hint":"Shurikens"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Cyrus the Virus ?","a":["John Malkovich","Nicolas Cage","John Travolta"],"correct":"John Malkovich","hint":"Con Air"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un terroriste dans un avion ?","a":["Con Air","Air Force One","Speed"],"correct":"Con Air","hint":"Prisonniers"}
+{"cat":"Action","q":"Qui joue le rôle de John Spartan ?","a":["Sylvester Stallone","Arnold Schwarzenegger","Jean-Claude Van Damme"],"correct":"Sylvester Stallone","hint":"Coquillages"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un gang dans un immeuble ?","a":["The Raid","Dredd","Attack the Block"],"correct":"The Raid","hint":"Silat"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Ip Man ?","a":["Donnie Yen","Jet Li","Tony Jaa"],"correct":"Donnie Yen","hint":"Wing Chun"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un enfant nommé Kim ?","a":["Taken","Man on Fire","Safe"],"correct":"Taken","hint":"Europe"}
+{"cat":"Action","q":"Qui joue le rôle de John Carter ?","a":["Taylor Kitsch","Chris Hemsworth","Sam Worthington"],"correct":"Taylor Kitsch","hint":"Mars"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John Wick dans la saga ?","a":["Keanu Reeves","Tom Cruise","Jason Statham"],"correct":"Keanu Reeves","hint":"Kung-fu"}
+{"cat":"Action","q":"Dans quel film un agent doit protéger un président dans un avion ?","a":["Air Force One","Con Air","Olympus Has Fallen"],"correct":"Air Force One","hint":"Harrison Ford"}
+{"cat":"Action","q":"Qui joue le rôle de John Rambo ?","a":["Sylvester Stallone","Arnold Schwarzenegger","Jean-Claude Van Damme"],"correct":"Sylvester Stallone","hint":"Bandeau rouge"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un robot nommé T-1000 ?","a":["Terminator 2","Terminator","RoboCop"],"correct":"Terminator 2","hint":"Métal liquide"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Dutch dans Predator ?","a":["Arnold Schwarzenegger","Sylvester Stallone","Bruce Willis"],"correct":"Arnold Schwarzenegger","hint":"Jungle"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un enfant nommé Sam ?","a":["Safe","Man on Fire","Equalizer"],"correct":"Safe","hint":"Jason Statham"}
+{"cat":"Action","q":"Qui joue le rôle de Max Rockatansky dans Fury Road ?","a":["Tom Hardy","Mel Gibson","Chris Hemsworth"],"correct":"Tom Hardy","hint":"Masque sur le visage"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un terroriste nommé Howard Payne ?","a":["Speed","Die Hard","Heat"],"correct":"Speed","hint":"Bus piégé"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Snake Plissken ?","a":["Kurt Russell","Mel Gibson","Bruce Willis"],"correct":"Kurt Russell","hint":"Cache-œil"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un enfant nommé Mathilda ?","a":["Léon","Taken","Equalizer"],"correct":"Léon","hint":"Plante verte"}
+{"cat":"Action","q":"Qui joue le rôle de Tony Stark ?","a":["Robert Downey Jr.","Chris Evans","Chris Hemsworth"],"correct":"Robert Downey Jr.","hint":"Arc reactor"}
+{"cat":"Action","q":"Dans quel film un homme doit infiltrer un rêve partagé ?","a":["Inception","Matrix","Minority Report"],"correct":"Inception","hint":"Toupie"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Frank Castle dans The Punisher (2004) ?","a":["Thomas Jane","Jon Bernthal","Ray Stevenson"],"correct":"Thomas Jane","hint":"Crâne blanc"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un cartel dans une petite ville ?","a":["Rambo: Last Blood","Sicario","Man on Fire"],"correct":"Rambo: Last Blood","hint":"Tunnel"}
+{"cat":"Action","q":"Qui joue le rôle de Venom ?","a":["Tom Hardy","Tom Holland","Andrew Garfield"],"correct":"Tom Hardy","hint":"Symbiote noir"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un président dans la Maison Blanche ?","a":["Olympus Has Fallen","White House Down","Air Force One"],"correct":"Olympus Has Fallen","hint":"Gerard Butler"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Ip Man ?","a":["Donnie Yen","Jet Li","Tony Jaa"],"correct":"Donnie Yen","hint":"Wing Chun"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un terroriste nommé Castor Troy ?","a":["Face/Off","Heat","Speed"],"correct":"Face/Off","hint":"Visage échangé"}
+{"cat":"Action","q":"Qui joue le rôle de John Anderton dans Minority Report ?","a":["Tom Cruise","Matt Damon","Ben Affleck"],"correct":"Tom Cruise","hint":"Précrime"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un robot policier nommé ED-209 ?","a":["RoboCop","Terminator","Judge Dredd"],"correct":"RoboCop","hint":"Detroit"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Cameron Poe dans Con Air ?","a":["Nicolas Cage","John Travolta","Bruce Willis"],"correct":"Nicolas Cage","hint":"Cheveux longs"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un enfant nommé Ovi ?","a":["Extraction","Safe","Man on Fire"],"correct":"Extraction","hint":"Chris Hemsworth"}
+{"cat":"Action","q":"Qui joue le rôle de John Carter ?","a":["Taylor Kitsch","Chris Hemsworth","Sam Worthington"],"correct":"Taylor Kitsch","hint":"Mars"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un terroriste nommé Cyrus the Virus ?","a":["Con Air","Face/Off","Heat"],"correct":"Con Air","hint":"Avion de prisonniers"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John Spartan ?","a":["Sylvester Stallone","Arnold Schwarzenegger","Jean-Claude Van Damme"],"correct":"Sylvester Stallone","hint":"Coquillages"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un gang dans un immeuble ?","a":["The Raid","Dredd","Attack the Block"],"correct":"The Raid","hint":"Silat"}
+{"cat":"Action","q":"Qui joue le rôle de Rama dans The Raid ?","a":["Iko Uwais","Tony Jaa","Scott Adkins"],"correct":"Iko Uwais","hint":"Arts martiaux indonésiens"}
+{"cat":"Action","q":"Dans quel film un homme doit protéger un bébé nommé Maggie ?","a":["Shoot 'Em Up","Safe","Man on Fire"],"correct":"Shoot 'Em Up","hint":"Carottes"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Castor Troy ?","a":["Nicolas Cage","John Travolta","Bruce Willis"],"correct":"Nicolas Cage","hint":"Visage échangé"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un tueur ninja ?","a":["Ninja Assassin","John Wick","Equalizer"],"correct":"Ninja Assassin","hint":"Shurikens"}
+{"cat":"Action","q":"Qui joue le rôle de John Preston dans Equilibrium ?","a":["Christian Bale","Tom Hardy","Keanu Reeves"],"correct":"Christian Bale","hint":"Gun Kata"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un cartel dans la jungle ?","a":["Rambo: Last Blood","Predator","Commando"],"correct":"Rambo: Last Blood","hint":"Tunnel"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Frank Martin ?","a":["Jason Statham","Gerard Butler","Vin Diesel"],"correct":"Jason Statham","hint":"Audi noire"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un terroriste dans un avion ?","a":["Con Air","Air Force One","Speed"],"correct":"Con Air","hint":"Prisonniers"}
+{"cat":"Action","q":"Qui joue le rôle de John Spartan ?","a":["Sylvester Stallone","Arnold Schwarzenegger","Jean-Claude Van Damme"],"correct":"Sylvester Stallone","hint":"Coquillages"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un robot policier ?","a":["RoboCop","Terminator","Judge Dredd"],"correct":"RoboCop","hint":"ED-209"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Cyrus the Virus ?","a":["John Malkovich","Nicolas Cage","John Travolta"],"correct":"John Malkovich","hint":"Con Air"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un terroriste nommé Dieter Von Cunth ?","a":["MacGruber","Heat","Speed"],"correct":"MacGruber","hint":"Parodie"}
+{"cat":"Action","q":"Qui joue le rôle de John Dillinger dans Public Enemies ?","a":["Johnny Depp","Christian Bale","Leonardo DiCaprio"],"correct":"Johnny Depp","hint":"Gangster célèbre"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un cartel dans une petite ville frontalière ?","a":["Sicario","Rambo: Last Blood","Man on Fire"],"correct":"Sicario","hint":"Frontière"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de Casey Ryback ?","a":["Steven Seagal","Jean-Claude Van Damme","Chuck Norris"],"correct":"Steven Seagal","hint":"Cuisinier"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un terroriste dans un immeuble futuriste ?","a":["Dredd","The Raid","Die Hard"],"correct":"Dredd","hint":"Mega City One"}
+{"cat":"Action","q":"Qui joue le rôle de Ip Man dans Ip Man 4 ?","a":["Donnie Yen","Jet Li","Tony Jaa"],"correct":"Donnie Yen","hint":"Wing Chun"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un tueur nommé Ghost ?","a":["Ninja Assassin","John Wick","Equalizer"],"correct":"Ninja Assassin","hint":"Shurikens"}
+{"cat":"Action","q":"Quel acteur incarne le personnage de John Anderton ?","a":["Tom Cruise","Matt Damon","Ben Affleck"],"correct":"Tom Cruise","hint":"Précrime"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un terroriste dans un bus ?","a":["Speed","Le Transporteur","Mad Max"],"correct":"Speed","hint":"Keanu Reeves"}
+{"cat":"Action","q":"Qui joue le rôle de John Wick ?","a":["Keanu Reeves","Tom Cruise","Jason Statham"],"correct":"Keanu Reeves","hint":"Kung-fu"}
+{"cat":"Action","q":"Dans quel film un homme doit affronter un cartel dans un désert ?","a":["Rambo: Last Blood","Mad Max","Sicario"],"correct":"Rambo: Last Blood","hint":"Tunnel"}
+{"cat":"Comédie","q":"Qui joue le rôle de Ace Ventura ?","a":["Jim Carrey","Adam Sandler","Ben Stiller"],"correct":"Jim Carrey","hint":"Détective pour animaux"}
+{"cat":"Comédie","q":"Dans quel film un professeur obèse devient mince grâce à une potion ?","a":["The Nutty Professor","Click","Big Daddy"],"correct":"The Nutty Professor","hint":"Eddie Murphy"}
+{"cat":"Comédie","q":"Quel acteur incarne Derek Zoolander ?","a":["Ben Stiller","Owen Wilson","Will Ferrell"],"correct":"Ben Stiller","hint":"Modèle masculin"}
+{"cat":"Comédie","q":"Dans quel film un homme vit la même journée encore et encore ?","a":["Groundhog Day","Click","Yes Man"],"correct":"Groundhog Day","hint":"Jour de la marmotte"}
+{"cat":"Comédie","q":"Qui joue le rôle de Happy Gilmore ?","a":["Adam Sandler","Jim Carrey","Will Ferrell"],"correct":"Adam Sandler","hint":"Golf"}
+{"cat":"Comédie","q":"Dans quel film deux amis créent un faux groupe de rock ?","a":["School of Rock","Wayne's World","Tenacious D"],"correct":"Wayne's World","hint":"Party time"}
+{"cat":"Comédie","q":"Quel acteur incarne Ron Burgundy ?","a":["Will Ferrell","Steve Carell","Paul Rudd"],"correct":"Will Ferrell","hint":"Présentateur TV"}
+{"cat":"Comédie","q":"Dans quel film un homme adopte un enfant nommé Julian ?","a":["Big Daddy","Click","The Mask"],"correct":"Big Daddy","hint":"Adam Sandler"}
+{"cat":"Comédie","q":"Qui joue le rôle de Lloyd Christmas dans Dumb and Dumber ?","a":["Jim Carrey","Jeff Daniels","Ben Stiller"],"correct":"Jim Carrey","hint":"Coupe au bol"}
+{"cat":"Comédie","q":"Dans quel film un homme découvre un masque magique ?","a":["The Mask","Bruce Almighty","Liar Liar"],"correct":"The Mask","hint":"Visage vert"}
+{"cat":"Comédie","q":"Quel acteur incarne Michael Scott dans The Office ?","a":["Steve Carell","John Krasinski","Ed Helms"],"correct":"Steve Carell","hint":"Dunder Mifflin"}
+{"cat":"Comédie","q":"Dans quel film un homme devient tout-puissant grâce à Dieu ?","a":["Bruce Almighty","The Mask","Yes Man"],"correct":"Bruce Almighty","hint":"Morgan Freeman"}
+{"cat":"Comédie","q":"Qui joue le rôle de Paul Blart ?","a":["Kevin James","Adam Sandler","Will Ferrell"],"correct":"Kevin James","hint":"Mall Cop"}
+{"cat":"Comédie","q":"Dans quel film un groupe d’amis perd le marié avant son mariage ?","a":["The Hangover","Superbad","Old School"],"correct":"The Hangover","hint":"Vegas"}
+{"cat":"Comédie","q":"Quel acteur incarne Borat ?","a":["Sacha Baron Cohen","Jim Carrey","Ben Stiller"],"correct":"Sacha Baron Cohen","hint":"Kazakhstan"}
+{"cat":"Comédie","q":"Dans quel film un homme doit dire oui à tout ?","a":["Yes Man","Liar Liar","Bruce Almighty"],"correct":"Yes Man","hint":"Jim Carrey"}
+{"cat":"Comédie","q":"Qui joue le rôle de Alan dans The Hangover ?","a":["Zach Galifianakis","Ed Helms","Bradley Cooper"],"correct":"Zach Galifianakis","hint":"Barbe"}
+{"cat":"Comédie","q":"Dans quel film un vendeur d’électroménagers devient super-héros ?","a":["Kick-Ass","Mystery Men","The Mask"],"correct":"Mystery Men","hint":"Shovel Knight"}
+{"cat":"Comédie","q":"Quel acteur incarne Billy Madison ?","a":["Adam Sandler","Jim Carrey","Ben Stiller"],"correct":"Adam Sandler","hint":"Retour à l’école"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer un zoo après la mort de son oncle ?","a":["Zookeeper","Paul Blart","Night at the Museum"],"correct":"Zookeeper","hint":"Kevin James"}
+{"cat":"Comédie","q":"Qui joue le rôle de Evan Baxter dans Evan Almighty ?","a":["Steve Carell","Jim Carrey","Will Ferrell"],"correct":"Steve Carell","hint":"Arche"}
+{"cat":"Comédie","q":"Dans quel film un homme devient détective malgré lui après un accident ?","a":["The Other Guys","The Man","The Pink Panther"],"correct":"The Other Guys","hint":"Will Ferrell & Mark Wahlberg"}
+{"cat":"Comédie","q":"Quel acteur incarne White Goodman dans Dodgeball ?","a":["Ben Stiller","Vince Vaughn","Will Ferrell"],"correct":"Ben Stiller","hint":"Gym Purple Cobras"}
+{"cat":"Comédie","q":"Dans quel film un groupe d’amis organise une fête géante ?","a":["Project X","Superbad","Neighbors"],"correct":"Project X","hint":"Caméra amateur"}
+{"cat":"Comédie","q":"Qui joue le rôle de McLovin dans Superbad ?","a":["Christopher Mintz-Plasse","Jonah Hill","Michael Cera"],"correct":"Christopher Mintz-Plasse","hint":"Fake ID"}
+{"cat":"Comédie","q":"Dans quel film un homme doit élever trois enfants après la mort de sa femme ?","a":["Click","Big Daddy","Cheaper by the Dozen"],"correct":"Click","hint":"Télécommande magique"}
+{"cat":"Comédie","q":"Quel acteur incarne Buddy dans Elf ?","a":["Will Ferrell","Jim Carrey","Adam Sandler"],"correct":"Will Ferrell","hint":"Costume vert"}
+{"cat":"Comédie","q":"Dans quel film un homme devient super-héros après avoir été mordu par une libellule ?","a":["Superhero Movie","Kick-Ass","Mystery Men"],"correct":"Superhero Movie","hint":"Parodie Spider-Man"}
+{"cat":"Comédie","q":"Qui joue le rôle de Greg Focker dans Meet the Parents ?","a":["Ben Stiller","Robert De Niro","Owen Wilson"],"correct":"Ben Stiller","hint":"Beau-père difficile"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une fraternité universitaire ?","a":["Old School","Neighbors","Superbad"],"correct":"Old School","hint":"Will Ferrell"}
+{"cat":"Comédie","q":"Quel acteur incarne Dewey Finn dans School of Rock ?","a":["Jack Black","Ben Stiller","Jim Carrey"],"correct":"Jack Black","hint":"Rock’n’roll"}
+{"cat":"Comédie","q":"Dans quel film un homme devient baby-sitter malgré lui ?","a":["The Pacifier","Big Daddy","Click"],"correct":"The Pacifier","hint":"Vin Diesel"}
+{"cat":"Comédie","q":"Qui joue le rôle de Derek dans Step Brothers ?","a":["Adam Scott","Will Ferrell","John C. Reilly"],"correct":"Adam Scott","hint":"Frère arrogant"}
+{"cat":"Comédie","q":"Dans quel film deux adultes deviennent frères après le mariage de leurs parents ?","a":["Step Brothers","Old School","Superbad"],"correct":"Step Brothers","hint":"Drum set"}
+{"cat":"Comédie","q":"Quel acteur incarne Truman dans The Truman Show ?","a":["Jim Carrey","Tom Hanks","Ben Stiller"],"correct":"Jim Carrey","hint":"Réalité télévisée"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une colonie de vacances ?","a":["Heavyweights","Big Daddy","Click"],"correct":"Heavyweights","hint":"Ben Stiller méchant"}
+{"cat":"Comédie","q":"Qui joue le rôle de Schmidt dans 21 Jump Street ?","a":["Jonah Hill","Channing Tatum","Dave Franco"],"correct":"Jonah Hill","hint":"Retour au lycée"}
+{"cat":"Comédie","q":"Dans quel film un homme devient super-héros après avoir lu un manuel ?","a":["Kick-Ass","Superhero Movie","Mystery Men"],"correct":"Kick-Ass","hint":"Costume vert"}
+{"cat":"Comédie","q":"Quel acteur incarne Walter Mitty ?","a":["Ben Stiller","Jim Carrey","Adam Sandler"],"correct":"Ben Stiller","hint":"Rêveur"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer un voisinage bruyant ?","a":["Neighbors","Superbad","Old School"],"correct":"Neighbors","hint":"Zac Efron"}
+{"cat":"Comédie","q":"Qui joue le rôle de Andy dans The 40-Year-Old Virgin ?","a":["Steve Carell","Paul Rudd","Seth Rogen"],"correct":"Steve Carell","hint":"Magasin d’électronique"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une fête qui dégénère ?","a":["Superbad","Project X","Neighbors"],"correct":"Superbad","hint":"McLovin"}
+{"cat":"Comédie","q":"Quel acteur incarne Harold dans Harold & Kumar ?","a":["John Cho","Kal Penn","Ken Jeong"],"correct":"John Cho","hint":"Burger blanc"}
+{"cat":"Comédie","q":"Dans quel film deux amis cherchent un fast-food toute la nuit ?","a":["Harold & Kumar","Superbad","Project X"],"correct":"Harold & Kumar","hint":"White Castle"}
+{"cat":"Comédie","q":"Qui joue le rôle de Dewey Cox ?","a":["John C. Reilly","Will Ferrell","Jack Black"],"correct":"John C. Reilly","hint":"Parodie de biopic musical"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une équipe de reporters ?","a":["Anchorman","Step Brothers","Old School"],"correct":"Anchorman","hint":"Ron Burgundy"}
+{"cat":"Comédie","q":"Quel acteur incarne Evan dans Superbad ?","a":["Michael Cera","Jonah Hill","Christopher Mintz-Plasse"],"correct":"Michael Cera","hint":"Timide"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une mascotte géante ?","a":["Ted","Elf","The Mask"],"correct":"Ted","hint":"Ours en peluche"}
+{"cat":"Comédie","q":"Qui joue le rôle de Alan dans The Hangover ?","a":["Zach Galifianakis","Ed Helms","Bradley Cooper"],"correct":"Zach Galifianakis","hint":"Barbe et sac banane"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une fraternité installée à côté de chez lui ?","a":["Neighbors","Old School","Superbad"],"correct":"Neighbors","hint":"Zac Efron"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Ted, l’ours en peluche ?","a":["Seth MacFarlane","Jim Carrey","Adam Sandler"],"correct":"Seth MacFarlane","hint":"Voix de Family Guy"}
+{"cat":"Comédie","q":"Dans quel film un homme devient super-héros après avoir lu un manuel ?","a":["Kick-Ass","Superhero Movie","Mystery Men"],"correct":"Kick-Ass","hint":"Costume vert"}
+{"cat":"Comédie","q":"Qui joue le rôle de Brick Tamland dans Anchorman ?","a":["Steve Carell","Paul Rudd","Will Ferrell"],"correct":"Steve Carell","hint":"Je vous aime… lampe"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une colonie de vacances pour enfants obèses ?","a":["Heavyweights","Big Daddy","Click"],"correct":"Heavyweights","hint":"Ben Stiller méchant"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Dewey Finn dans School of Rock ?","a":["Jack Black","Ben Stiller","Jim Carrey"],"correct":"Jack Black","hint":"Rock’n’roll"}
+{"cat":"Comédie","q":"Dans quel film deux policiers retournent au lycée pour une mission ?","a":["21 Jump Street","Superbad","The Other Guys"],"correct":"21 Jump Street","hint":"Jonah Hill & Channing Tatum"}
+{"cat":"Comédie","q":"Qui joue le rôle de Van Wilder ?","a":["Ryan Reynolds","Adam Sandler","Ben Stiller"],"correct":"Ryan Reynolds","hint":"Étudiant éternel"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une fête qui dégénère complètement ?","a":["Project X","Superbad","Neighbors"],"correct":"Project X","hint":"Caméra amateur"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Paul dans Paul Blart: Mall Cop ?","a":["Kevin James","Adam Sandler","Will Ferrell"],"correct":"Kevin James","hint":"Sécurité du centre commercial"}
+{"cat":"Comédie","q":"Dans quel film un homme doit dire la vérité malgré lui ?","a":["Liar Liar","Yes Man","Bruce Almighty"],"correct":"Liar Liar","hint":"Jim Carrey"}
+{"cat":"Comédie","q":"Qui joue le rôle de Schmidt dans 22 Jump Street ?","a":["Jonah Hill","Channing Tatum","Dave Franco"],"correct":"Jonah Hill","hint":"Retour à l’université"}
+{"cat":"Comédie","q":"Dans quel film un homme devient super-héros après avoir été mordu par une libellule ?","a":["Superhero Movie","Kick-Ass","Mystery Men"],"correct":"Superhero Movie","hint":"Parodie Spider-Man"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Harold dans Harold & Kumar ?","a":["John Cho","Kal Penn","Ken Jeong"],"correct":"John Cho","hint":"Burger blanc"}
+{"cat":"Comédie","q":"Dans quel film deux amis cherchent un fast-food toute la nuit ?","a":["Harold & Kumar","Superbad","Project X"],"correct":"Harold & Kumar","hint":"White Castle"}
+{"cat":"Comédie","q":"Qui joue le rôle de Dewey Cox dans Walk Hard ?","a":["John C. Reilly","Will Ferrell","Jack Black"],"correct":"John C. Reilly","hint":"Parodie de biopic musical"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une équipe de reporters déjantés ?","a":["Anchorman","Step Brothers","Old School"],"correct":"Anchorman","hint":"Ron Burgundy"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Evan dans Superbad ?","a":["Michael Cera","Jonah Hill","Christopher Mintz-Plasse"],"correct":"Michael Cera","hint":"Timide"}
+{"cat":"Comédie","q":"Dans quel film un ours en peluche prend vie ?","a":["Ted","Elf","The Mask"],"correct":"Ted","hint":"Mark Wahlberg"}
+{"cat":"Comédie","q":"Qui joue le rôle de Billy dans Billy Madison ?","a":["Adam Sandler","Jim Carrey","Ben Stiller"],"correct":"Adam Sandler","hint":"Retour à l’école"}
+{"cat":"Comédie","q":"Dans quel film un homme devient super-héros malgré lui après un accident ?","a":["The Other Guys","Mystery Men","Superhero Movie"],"correct":"The Other Guys","hint":"Will Ferrell & Mark Wahlberg"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de White Goodman dans Dodgeball ?","a":["Ben Stiller","Vince Vaughn","Will Ferrell"],"correct":"Ben Stiller","hint":"Purple Cobras"}
+{"cat":"Comédie","q":"Dans quel film un groupe d’amis organise une fête géante ?","a":["Project X","Superbad","Neighbors"],"correct":"Project X","hint":"Caméra amateur"}
+{"cat":"Comédie","q":"Qui joue le rôle de Fogell alias McLovin ?","a":["Christopher Mintz-Plasse","Jonah Hill","Michael Cera"],"correct":"Christopher Mintz-Plasse","hint":"Fake ID"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une colonie de vacances ?","a":["Heavyweights","Big Daddy","Click"],"correct":"Heavyweights","hint":"Ben Stiller méchant"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Buddy dans Elf ?","a":["Will Ferrell","Jim Carrey","Adam Sandler"],"correct":"Will Ferrell","hint":"Costume vert"}
+{"cat":"Comédie","q":"Dans quel film un homme devient super-héros après avoir lu un manuel ?","a":["Kick-Ass","Superhero Movie","Mystery Men"],"correct":"Kick-Ass","hint":"Costume vert"}
+{"cat":"Comédie","q":"Qui joue le rôle de Greg Focker ?","a":["Ben Stiller","Robert De Niro","Owen Wilson"],"correct":"Ben Stiller","hint":"Beau-père difficile"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une fraternité universitaire ?","a":["Old School","Neighbors","Superbad"],"correct":"Old School","hint":"Will Ferrell"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Walter Mitty ?","a":["Ben Stiller","Jim Carrey","Adam Sandler"],"correct":"Ben Stiller","hint":"Rêveur"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer un voisinage bruyant ?","a":["Neighbors","Superbad","Old School"],"correct":"Neighbors","hint":"Zac Efron"}
+{"cat":"Comédie","q":"Qui joue le rôle de Andy dans The 40-Year-Old Virgin ?","a":["Steve Carell","Paul Rudd","Seth Rogen"],"correct":"Steve Carell","hint":"Magasin d’électronique"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une fête qui dégénère ?","a":["Superbad","Project X","Neighbors"],"correct":"Superbad","hint":"McLovin"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Kumar ?","a":["Kal Penn","John Cho","Ken Jeong"],"correct":"Kal Penn","hint":"Burger blanc"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une mascotte géante ?","a":["Ted","Elf","The Mask"],"correct":"Ted","hint":"Ours en peluche"}
+{"cat":"Comédie","q":"Qui joue le rôle de Ron Burgundy ?","a":["Will Ferrell","Steve Carell","Paul Rudd"],"correct":"Will Ferrell","hint":"Légende du journalisme"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une équipe de reporters ?","a":["Anchorman","Step Brothers","Old School"],"correct":"Anchorman","hint":"Stay classy"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Dale dans Step Brothers ?","a":["John C. Reilly","Will Ferrell","Adam Scott"],"correct":"John C. Reilly","hint":"Drum set"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer un zoo ?","a":["Zookeeper","Night at the Museum","Big Daddy"],"correct":"Zookeeper","hint":"Kevin James"}
+{"cat":"Comédie","q":"Qui joue le rôle de Bruce dans Bruce Almighty ?","a":["Jim Carrey","Steve Carell","Adam Sandler"],"correct":"Jim Carrey","hint":"Pouvoirs divins"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une télécommande magique ?","a":["Click","Big Daddy","Liar Liar"],"correct":"Click","hint":"Pause"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Wayne dans Wayne's World ?","a":["Mike Myers","Dana Carvey","Jim Carrey"],"correct":"Mike Myers","hint":"Party time"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une bande d’adolescents turbulents ?","a":["Superbad","Project X","Neighbors"],"correct":"Superbad","hint":"McLovin"}
+{"cat":"Comédie","q":"Qui joue le rôle de Baxter dans Anchorman ?","a":["Un chien","Un chat","Un hamster"],"correct":"Un chien","hint":"Téléporté par un ours"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une équipe de super-héros ratés ?","a":["Mystery Men","Kick-Ass","Superhero Movie"],"correct":"Mystery Men","hint":"Shovel Knight"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Sonny dans Big Daddy ?","a":["Adam Sandler","Jim Carrey","Ben Stiller"],"correct":"Adam Sandler","hint":"Adoption improvisée"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une vie entièrement filmée ?","a":["The Truman Show","Bruce Almighty","Yes Man"],"correct":"The Truman Show","hint":"Réalité télévisée"}
+{"cat":"Comédie","q":"Qui joue le rôle de Napoleon Dynamite ?","a":["Jon Heder","Michael Cera","Jesse Eisenberg"],"correct":"Jon Heder","hint":"Vote for Pedro"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une nuit chaotique dans un musée ?","a":["Night at the Museum","Zookeeper","Elf"],"correct":"Night at the Museum","hint":"Ben Stiller"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Borat ?","a":["Sacha Baron Cohen","Jim Carrey","Ben Stiller"],"correct":"Sacha Baron Cohen","hint":"Kazakhstan"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une famille nombreuse ?","a":["Cheaper by the Dozen","Big Daddy","Click"],"correct":"Cheaper by the Dozen","hint":"Steve Martin"}
+{"cat":"Comédie","q":"Qui joue le rôle de Kevin dans Home Alone ?","a":["Macaulay Culkin","Elijah Wood","Haley Joel Osment"],"correct":"Macaulay Culkin","hint":"Pièges dans la maison"}
+{"cat":"Comédie","q":"Dans quel film un panda devient maître du kung-fu ?","a":["Kung Fu Panda","Madagascar","Shrek"],"correct":"Kung Fu Panda","hint":"Po"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Shrek ?","a":["Mike Myers","Eddie Murphy","Cameron Diaz"],"correct":"Mike Myers","hint":"Ogre vert"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer un âne très bavard ?","a":["Shrek","Kung Fu Panda","Madagascar"],"correct":"Shrek","hint":"Eddie Murphy"}
+{"cat":"Comédie","q":"Qui joue le rôle de Marty dans Madagascar ?","a":["Chris Rock","Ben Stiller","David Schwimmer"],"correct":"Chris Rock","hint":"Zèbre"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer un groupe d’animaux évadés ?","a":["Madagascar","Zookeeper","Night at the Museum"],"correct":"Madagascar","hint":"Zoo de New York"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Donkey dans Shrek ?","a":["Eddie Murphy","Chris Rock","Kevin Hart"],"correct":"Eddie Murphy","hint":"Âne"}
+{"cat":"Comédie","q":"Dans quel film un ogre tombe amoureux d’une princesse ?","a":["Shrek","Shrek 2","Shrek the Third"],"correct":"Shrek","hint":"Fiona"}
+{"cat":"Comédie","q":"Qui joue le rôle de Alex le lion ?","a":["Ben Stiller","Chris Rock","David Schwimmer"],"correct":"Ben Stiller","hint":"Roi du zoo"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer un groupe de pingouins militaires ?","a":["Madagascar","Penguins of Madagascar","Zookeeper"],"correct":"Penguins of Madagascar","hint":"Skipper"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Gru dans Despicable Me ?","a":["Steve Carell","Jim Carrey","Ben Stiller"],"correct":"Steve Carell","hint":"Minions"}
+{"cat":"Comédie","q":"Dans quel film un homme adopte trois petites filles ?","a":["Despicable Me","Big Daddy","Click"],"correct":"Despicable Me","hint":"Minions"}
+{"cat":"Comédie","q":"Qui joue le rôle de Megamind ?","a":["Will Ferrell","Brad Pitt","Jonah Hill"],"correct":"Will Ferrell","hint":"Super-vilain bleu"}
+{"cat":"Comédie","q":"Dans quel film un super-vilain devient héros malgré lui ?","a":["Megamind","Despicable Me","The Mask"],"correct":"Megamind","hint":"Bleu"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Po dans Kung Fu Panda ?","a":["Jack Black","Ben Stiller","Jim Carrey"],"correct":"Jack Black","hint":"Panda"}
+{"cat":"Comédie","q":"Dans quel film un panda affronte Tai Lung ?","a":["Kung Fu Panda","Kung Fu Panda 2","Kung Fu Panda 3"],"correct":"Kung Fu Panda","hint":"Prison de Chorh-Gom"}
+{"cat":"Comédie","q":"Qui joue le rôle de Lord Farquaad ?","a":["John Lithgow","Mike Myers","Eddie Murphy"],"correct":"John Lithgow","hint":"Très petit"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une princesse maudite ?","a":["Shrek","Shrek 2","Shrek the Third"],"correct":"Shrek","hint":"Fiona"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Flint Lockwood ?","a":["Bill Hader","Jonah Hill","Andy Samberg"],"correct":"Bill Hader","hint":"Pluie de nourriture"}
+{"cat":"Comédie","q":"Dans quel film il pleut des hamburgers ?","a":["Cloudy with a Chance of Meatballs","Despicable Me","Megamind"],"correct":"Cloudy with a Chance of Meatballs","hint":"Machine FLDSMDFR"}
+{"cat":"Comédie","q":"Qui joue le rôle de Emmet dans The Lego Movie ?","a":["Chris Pratt","Will Ferrell","Charlie Day"],"correct":"Chris Pratt","hint":"Everything is awesome"}
+{"cat":"Comédie","q":"Dans quel film un homme ordinaire devient un héros en briques ?","a":["The Lego Movie","Megamind","Despicable Me"],"correct":"The Lego Movie","hint":"Construction"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Lord Business ?","a":["Will Ferrell","Chris Pratt","Morgan Freeman"],"correct":"Will Ferrell","hint":"Méchant en costume"}
+{"cat":"Comédie","q":"Dans quel film un policier en Lego aide un ouvrier ?","a":["The Lego Movie","Toy Story","Megamind"],"correct":"The Lego Movie","hint":"Good Cop / Bad Cop"}
+{"cat":"Comédie","q":"Qui joue le rôle de Lightning McQueen ?","a":["Owen Wilson","Ben Stiller","Adam Sandler"],"correct":"Owen Wilson","hint":"Ka-chow"}
+{"cat":"Comédie","q":"Dans quel film une voiture rouge participe à une course ?","a":["Cars","Cars 2","Cars 3"],"correct":"Cars","hint":"Route 66"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Mater ?","a":["Larry the Cable Guy","Owen Wilson","John Ratzenberger"],"correct":"Larry the Cable Guy","hint":"Dépanneuse"}
+{"cat":"Comédie","q":"Dans quel film un jouet cowboy prend vie ?","a":["Toy Story","Shrek","Madagascar"],"correct":"Toy Story","hint":"Woody"}
+{"cat":"Comédie","q":"Qui joue le rôle de Buzz l’Éclair ?","a":["Tim Allen","Tom Hanks","Chris Evans"],"correct":"Tim Allen","hint":"Vers l’infini"}
+{"cat":"Comédie","q":"Dans quel film un jouet se perd dans un magasin de jouets ?","a":["Toy Story 2","Toy Story","Toy Story 3"],"correct":"Toy Story 2","hint":"Zurg"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Mike Wazowski ?","a":["Billy Crystal","John Goodman","Steve Buscemi"],"correct":"Billy Crystal","hint":"Un œil"}
+{"cat":"Comédie","q":"Dans quel film deux monstres doivent faire rire des enfants ?","a":["Monsters Inc.","Shrek","Madagascar"],"correct":"Monsters Inc.","hint":"Sullivan"}
+{"cat":"Comédie","q":"Qui joue le rôle de Donkey dans Shrek ?","a":["Eddie Murphy","Chris Rock","Kevin Hart"],"correct":"Eddie Murphy","hint":"Âne bavard"}
+{"cat":"Comédie","q":"Dans quel film un ogre devient roi malgré lui ?","a":["Shrek 2","Shrek","Shrek the Third"],"correct":"Shrek the Third","hint":"Succession"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Gru dans Despicable Me ?","a":["Steve Carell","Jim Carrey","Ben Stiller"],"correct":"Steve Carell","hint":"Minions"}
+{"cat":"Comédie","q":"Dans quel film un super-vilain adopte trois filles ?","a":["Despicable Me","Megamind","The Mask"],"correct":"Despicable Me","hint":"Licorne"}
+{"cat":"Comédie","q":"Qui joue le rôle de Megamind ?","a":["Will Ferrell","Brad Pitt","Jonah Hill"],"correct":"Will Ferrell","hint":"Bleu"}
+{"cat":"Comédie","q":"Dans quel film un super-vilain devient un héros ?","a":["Megamind","Despicable Me","The Mask"],"correct":"Megamind","hint":"Bleu"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Po ?","a":["Jack Black","Ben Stiller","Jim Carrey"],"correct":"Jack Black","hint":"Kung-fu"}
+{"cat":"Comédie","q":"Dans quel film un panda affronte un paon ?","a":["Kung Fu Panda 2","Kung Fu Panda","Kung Fu Panda 3"],"correct":"Kung Fu Panda 2","hint":"Lord Shen"}
+{"cat":"Comédie","q":"Qui joue le rôle de Emmet dans The Lego Movie ?","a":["Chris Pratt","Will Ferrell","Charlie Day"],"correct":"Chris Pratt","hint":"Everything is awesome"}
+{"cat":"Comédie","q":"Dans quel film un ouvrier Lego devient un héros ?","a":["The Lego Movie","Megamind","Despicable Me"],"correct":"The Lego Movie","hint":"Pièce spéciale"}
+{"cat":"Comédie","q":"Qui joue le rôle de Peter dans Forgetting Sarah Marshall ?","a":["Jason Segel","Jonah Hill","Paul Rudd"],"correct":"Jason Segel","hint":"Break-up à Hawaï"}
+{"cat":"Comédie","q":"Dans quel film un chanteur dépressif part en vacances après une rupture ?","a":["Forgetting Sarah Marshall","Superbad","The Hangover"],"correct":"Forgetting Sarah Marshall","hint":"Hawaï"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Andy dans Hot Rod ?","a":["Andy Samberg","Bill Hader","Danny McBride"],"correct":"Andy Samberg","hint":"Cascadeur amateur"}
+{"cat":"Comédie","q":"Dans quel film un cascadeur tente de sauver son beau-père ?","a":["Hot Rod","Step Brothers","Anchorman"],"correct":"Hot Rod","hint":"Moto"}
+{"cat":"Comédie","q":"Qui joue le rôle de Shaun dans Shaun of the Dead ?","a":["Simon Pegg","Nick Frost","Bill Nighy"],"correct":"Simon Pegg","hint":"Zombies"}
+{"cat":"Comédie","q":"Dans quel film deux amis affrontent une invasion zombie ?","a":["Shaun of the Dead","Zombieland","Scary Movie"],"correct":"Shaun of the Dead","hint":"Pub Winchester"}
+{"cat":"Comédie","q":"Quel acteur incarne Columbus dans Zombieland ?","a":["Jesse Eisenberg","Woody Harrelson","Michael Cera"],"correct":"Jesse Eisenberg","hint":"Règles de survie"}
+{"cat":"Comédie","q":"Dans quel film un groupe survit à une apocalypse zombie avec des règles strictes ?","a":["Zombieland","Shaun of the Dead","Scary Movie"],"correct":"Zombieland","hint":"Twinkies"}
+{"cat":"Comédie","q":"Qui joue le rôle de Tallahassee dans Zombieland ?","a":["Woody Harrelson","Bill Murray","Seth Rogen"],"correct":"Woody Harrelson","hint":"Twinkies"}
+{"cat":"Comédie","q":"Dans quel film Bill Murray apparaît en zombie ?","a":["Zombieland","Shaun of the Dead","Scary Movie"],"correct":"Zombieland","hint":"Caméo culte"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Harold Crick dans Stranger Than Fiction ?","a":["Will Ferrell","Jim Carrey","Adam Sandler"],"correct":"Will Ferrell","hint":"Narration mystérieuse"}
+{"cat":"Comédie","q":"Dans quel film un homme entend une voix qui raconte sa vie ?","a":["Stranger Than Fiction","The Truman Show","Click"],"correct":"Stranger Than Fiction","hint":"Narratrice"}
+{"cat":"Comédie","q":"Qui joue le rôle de Dewey dans The Sitter ?","a":["Jonah Hill","Michael Cera","Seth Rogen"],"correct":"Jonah Hill","hint":"Baby-sitting chaotique"}
+{"cat":"Comédie","q":"Dans quel film un baby-sitter vit une nuit catastrophique ?","a":["The Sitter","Superbad","Project X"],"correct":"The Sitter","hint":"Jonah Hill"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Rod dans Hot Rod ?","a":["Andy Samberg","Bill Hader","Danny McBride"],"correct":"Andy Samberg","hint":"Cascadeur amateur"}
+{"cat":"Comédie","q":"Dans quel film un groupe d’amis tourne un faux film d’action ?","a":["Be Kind Rewind","Superbad","Step Brothers"],"correct":"Be Kind Rewind","hint":"Cassette VHS"}
+{"cat":"Comédie","q":"Qui joue le rôle de Jerry dans Be Kind Rewind ?","a":["Jack Black","Mos Def","Ben Stiller"],"correct":"Jack Black","hint":"Aimant géant"}
+{"cat":"Comédie","q":"Dans quel film des films célèbres sont recréés en version amateur ?","a":["Be Kind Rewind","Superbad","Anchorman"],"correct":"Be Kind Rewind","hint":"Sweded"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Dave Skylark dans The Interview ?","a":["James Franco","Seth Rogen","Jonah Hill"],"correct":"James Franco","hint":"Talk-show"}
+{"cat":"Comédie","q":"Dans quel film deux journalistes doivent assassiner un dictateur ?","a":["The Interview","Pineapple Express","Superbad"],"correct":"The Interview","hint":"Polémique mondiale"}
+{"cat":"Comédie","q":"Qui joue le rôle de Dale dans Pineapple Express ?","a":["Seth Rogen","James Franco","Danny McBride"],"correct":"Seth Rogen","hint":"Joint"}
+{"cat":"Comédie","q":"Dans quel film deux amis fuient des criminels après avoir vu un meurtre ?","a":["Pineapple Express","Superbad","The Hangover"],"correct":"Pineapple Express","hint":"Marijuana"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Ben Stone dans Knocked Up ?","a":["Seth Rogen","Paul Rudd","Jonah Hill"],"correct":"Seth Rogen","hint":"Grossesse imprévue"}
+{"cat":"Comédie","q":"Dans quel film un couple doit gérer une grossesse non planifiée ?","a":["Knocked Up","Superbad","Neighbors"],"correct":"Knocked Up","hint":"Seth Rogen"}
+{"cat":"Comédie","q":"Qui joue le rôle de Andy dans This Is the End ?","a":["Andy Samberg","Michael Cera","Seth Rogen"],"correct":"Michael Cera","hint":"Version extrême de lui-même"}
+{"cat":"Comédie","q":"Dans quel film des acteurs jouent leurs propres rôles pendant l’apocalypse ?","a":["This Is the End","Superbad","Pineapple Express"],"correct":"This Is the End","hint":"Maison de James Franco"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Dale Denton dans Pineapple Express ?","a":["Seth Rogen","James Franco","Danny McBride"],"correct":"Seth Rogen","hint":"Fumeur"}
+{"cat":"Comédie","q":"Dans quel film un groupe d’amis se retrouve coincé dans une maison pendant l’apocalypse ?","a":["This Is the End","The Hangover","Superbad"],"correct":"This Is the End","hint":"James Franco"}
+{"cat":"Comédie","q":"Qui joue le rôle de Ronnie dans Observe and Report ?","a":["Seth Rogen","Kevin James","Jonah Hill"],"correct":"Seth Rogen","hint":"Sécurité du centre commercial"}
+{"cat":"Comédie","q":"Dans quel film un agent de sécurité perd le contrôle ?","a":["Observe and Report","Paul Blart","The Other Guys"],"correct":"Observe and Report","hint":"Sombre et comique"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Paul dans I Love You, Man ?","a":["Paul Rudd","Jason Segel","Jonah Hill"],"correct":"Paul Rudd","hint":"Ami recherché"}
+{"cat":"Comédie","q":"Dans quel film un homme cherche un meilleur ami pour son mariage ?","a":["I Love You, Man","Superbad","Step Brothers"],"correct":"I Love You, Man","hint":"Jason Segel"}
+{"cat":"Comédie","q":"Qui joue le rôle de Danny dans Role Models ?","a":["Paul Rudd","Seann William Scott","Jonah Hill"],"correct":"Paul Rudd","hint":"Mentorat chaotique"}
+{"cat":"Comédie","q":"Dans quel film deux hommes deviennent mentors malgré eux ?","a":["Role Models","Superbad","Old School"],"correct":"Role Models","hint":"LARP"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Ronnie dans Role Models ?","a":["Seann William Scott","Paul Rudd","Jonah Hill"],"correct":"Seann William Scott","hint":"Stifler"}
+{"cat":"Comédie","q":"Dans quel film un groupe d’amis organise un enterrement de vie de garçon catastrophique ?","a":["The Hangover","Superbad","Project X"],"correct":"The Hangover","hint":"Vegas"}
+{"cat":"Comédie","q":"Qui joue le rôle de Stu dans The Hangover ?","a":["Ed Helms","Zach Galifianakis","Bradley Cooper"],"correct":"Ed Helms","hint":"Dent manquante"}
+{"cat":"Comédie","q":"Dans quel film un tigre se retrouve dans une salle de bain ?","a":["The Hangover","Superbad","Anchorman"],"correct":"The Hangover","hint":"Mike Tyson"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Brick dans Anchorman ?","a":["Steve Carell","Paul Rudd","Will Ferrell"],"correct":"Steve Carell","hint":"Je vous aime… lampe"}
+{"cat":"Comédie","q":"Dans quel film un journaliste se bat avec une autre équipe de reporters ?","a":["Anchorman","Step Brothers","Old School"],"correct":"Anchorman","hint":"Bataille de gangs"}
+{"cat":"Comédie","q":"Qui joue le rôle de Brennan dans Step Brothers ?","a":["Will Ferrell","John C. Reilly","Adam Scott"],"correct":"Will Ferrell","hint":"Drum set"}
+{"cat":"Comédie","q":"Dans quel film deux adultes deviennent frères après le mariage de leurs parents ?","a":["Step Brothers","Old School","Superbad"],"correct":"Step Brothers","hint":"Bateau et hélicoptère"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Dale dans Step Brothers ?","a":["John C. Reilly","Will Ferrell","Adam Scott"],"correct":"John C. Reilly","hint":"Drum set"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une fraternité universitaire ?","a":["Old School","Neighbors","Superbad"],"correct":"Old School","hint":"Will Ferrell"}
+{"cat":"Comédie","q":"Qui joue le rôle de Frank the Tank ?","a":["Will Ferrell","Ben Stiller","Paul Rudd"],"correct":"Will Ferrell","hint":"Coureur nu"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une mascotte géante ?","a":["Ted","Elf","The Mask"],"correct":"Ted","hint":"Ours en peluche"}
+{"cat":"Comédie","q":"Qui joue le rôle de Ferris Bueller ?","a":["Matthew Broderick","Michael J. Fox","Tom Cruise"],"correct":"Matthew Broderick","hint":"Jour d’école sauté"}
+{"cat":"Comédie","q":"Dans quel film un lycéen organise la journée parfaite en séchant les cours ?","a":["Ferris Bueller's Day Off","Superbad","Project X"],"correct":"Ferris Bueller's Day Off","hint":"Voiture rouge"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Wayne dans Wayne's World ?","a":["Mike Myers","Dana Carvey","Jim Carrey"],"correct":"Mike Myers","hint":"Party time"}
+{"cat":"Comédie","q":"Dans quel film deux amis animent une émission dans un sous-sol ?","a":["Wayne's World","Superbad","Step Brothers"],"correct":"Wayne's World","hint":"Guitare"}
+{"cat":"Comédie","q":"Qui joue le rôle de Austin Powers ?","a":["Mike Myers","Jim Carrey","Ben Stiller"],"correct":"Mike Myers","hint":"Yeah baby"}
+{"cat":"Comédie","q":"Dans quel film un espion excentrique affronte Dr. Evil ?","a":["Austin Powers","Johnny English","Spy"],"correct":"Austin Powers","hint":"Costume coloré"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Johnny English ?","a":["Rowan Atkinson","Steve Carell","Ben Stiller"],"correct":"Rowan Atkinson","hint":"Mr Bean"}
+{"cat":"Comédie","q":"Dans quel film un agent maladroit tente de sauver le monde ?","a":["Johnny English","Austin Powers","Spy"],"correct":"Johnny English","hint":"Gaffes"}
+{"cat":"Comédie","q":"Qui joue le rôle de Bridget Jones ?","a":["Renée Zellweger","Sandra Bullock","Julia Roberts"],"correct":"Renée Zellweger","hint":"Journal intime"}
+{"cat":"Comédie","q":"Dans quel film une femme tient un journal sur sa vie amoureuse ?","a":["Bridget Jones's Diary","The Proposal","27 Dresses"],"correct":"Bridget Jones's Diary","hint":"Colin Firth"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Derek dans The Proposal ?","a":["Ryan Reynolds","Chris Evans","Ben Stiller"],"correct":"Ryan Reynolds","hint":"Mariage forcé"}
+{"cat":"Comédie","q":"Dans quel film une patronne oblige son assistant à l’épouser ?","a":["The Proposal","27 Dresses","Bridesmaids"],"correct":"The Proposal","hint":"Sandra Bullock"}
+{"cat":"Comédie","q":"Qui joue le rôle de Annie dans Bridesmaids ?","a":["Kristen Wiig","Melissa McCarthy","Maya Rudolph"],"correct":"Kristen Wiig","hint":"Demoiselles d’honneur"}
+{"cat":"Comédie","q":"Dans quel film un groupe de femmes prépare un mariage chaotique ?","a":["Bridesmaids","27 Dresses","The Proposal"],"correct":"Bridesmaids","hint":"Robes roses"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Stifler dans American Pie ?","a":["Seann William Scott","Jason Biggs","Chris Klein"],"correct":"Seann William Scott","hint":"Fêtes lycéennes"}
+{"cat":"Comédie","q":"Dans quel film un groupe d’adolescents vit des situations embarrassantes ?","a":["American Pie","Superbad","Project X"],"correct":"American Pie","hint":"Tarte"}
+{"cat":"Comédie","q":"Qui joue le rôle de Jim dans American Pie ?","a":["Jason Biggs","Seann William Scott","Chris Klein"],"correct":"Jason Biggs","hint":"Cuisine"}
+{"cat":"Comédie","q":"Dans quel film un homme tombe amoureux d’une femme qui a 27 robes ?","a":["27 Dresses","Bridesmaids","The Proposal"],"correct":"27 Dresses","hint":"Mariages multiples"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Kevin dans 27 Dresses ?","a":["James Marsden","Ryan Reynolds","Chris Evans"],"correct":"James Marsden","hint":"Journaliste"}
+{"cat":"Comédie","q":"Dans quel film une femme est toujours demoiselle d’honneur ?","a":["27 Dresses","Bridesmaids","The Proposal"],"correct":"27 Dresses","hint":"27 robes"}
+{"cat":"Comédie","q":"Qui joue le rôle de Elle Woods dans Legally Blonde ?","a":["Reese Witherspoon","Sandra Bullock","Julia Roberts"],"correct":"Reese Witherspoon","hint":"Rose"}
+{"cat":"Comédie","q":"Dans quel film une étudiante en droit prouve qu’elle n’est pas superficielle ?","a":["Legally Blonde","Mean Girls","Clueless"],"correct":"Legally Blonde","hint":"Chihuahua"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Cher dans Clueless ?","a":["Alicia Silverstone","Reese Witherspoon","Lindsay Lohan"],"correct":"Alicia Silverstone","hint":"Mode"}
+{"cat":"Comédie","q":"Dans quel film une adolescente riche aide ses amis à trouver l’amour ?","a":["Clueless","Mean Girls","Legally Blonde"],"correct":"Clueless","hint":"Matchmaking"}
+{"cat":"Comédie","q":"Qui joue le rôle de Cady Heron dans Mean Girls ?","a":["Lindsay Lohan","Rachel McAdams","Amanda Seyfried"],"correct":"Lindsay Lohan","hint":"Plastics"}
+{"cat":"Comédie","q":"Dans quel film une nouvelle élève affronte un groupe de filles populaires ?","a":["Mean Girls","Clueless","Legally Blonde"],"correct":"Mean Girls","hint":"Burn Book"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Dewey dans School of Rock ?","a":["Jack Black","Ben Stiller","Jim Carrey"],"correct":"Jack Black","hint":"Rock’n’roll"}
+{"cat":"Comédie","q":"Dans quel film un faux professeur transforme sa classe en groupe de rock ?","a":["School of Rock","Superbad","Step Brothers"],"correct":"School of Rock","hint":"Battle of the Bands"}
+{"cat":"Comédie","q":"Qui joue le rôle de Ben dans Along Came Polly ?","a":["Ben Stiller","Adam Sandler","Jim Carrey"],"correct":"Ben Stiller","hint":"Jennifer Aniston"}
+{"cat":"Comédie","q":"Dans quel film un homme prudent tombe amoureux d’une femme imprévisible ?","a":["Along Came Polly","The Proposal","Bridesmaids"],"correct":"Along Came Polly","hint":"Iguane"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Greg dans Dinner for Schmucks ?","a":["Paul Rudd","Steve Carell","Ben Stiller"],"correct":"Paul Rudd","hint":"Dîner catastrophique"}
+{"cat":"Comédie","q":"Dans quel film un dîner réunit des personnes excentriques ?","a":["Dinner for Schmucks","Anchorman","Step Brothers"],"correct":"Dinner for Schmucks","hint":"Steve Carell"}
+{"cat":"Comédie","q":"Qui joue le rôle de Barry dans Dinner for Schmucks ?","a":["Steve Carell","Paul Rudd","Zach Galifianakis"],"correct":"Steve Carell","hint":"Souris"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer un collègue très étrange ?","a":["Dinner for Schmucks","Step Brothers","Anchorman"],"correct":"Dinner for Schmucks","hint":"Souris empaillées"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Ted dans Ted 2 ?","a":["Seth MacFarlane","Mark Wahlberg","Jonah Hill"],"correct":"Seth MacFarlane","hint":"Ours en peluche"}
+{"cat":"Comédie","q":"Dans quel film un ours en peluche veut avoir un enfant ?","a":["Ted 2","Ted","Elf"],"correct":"Ted 2","hint":"Procès"}
+{"cat":"Comédie","q":"Qui joue le rôle de Walter dans The Muppets ?","a":["Peter Linz","Steve Whitmire","Bill Barretta"],"correct":"Peter Linz","hint":"Marionnette"}
+{"cat":"Comédie","q":"Dans quel film des marionnettes reviennent sur scène ?","a":["The Muppets","Ted","Elf"],"correct":"The Muppets","hint":"Kermit"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Dave dans The Muppets ?","a":["Jason Segel","Jonah Hill","Paul Rudd"],"correct":"Jason Segel","hint":"Fan des Muppets"}
+{"cat":"Comédie","q":"Dans quel film un couple aide les Muppets à relancer leur show ?","a":["The Muppets","Elf","Ted"],"correct":"The Muppets","hint":"Théâtre"}
+{"cat":"Comédie","q":"Qui joue le rôle de Harold dans Harold & Kumar Escape from Guantanamo Bay ?","a":["John Cho","Kal Penn","Ken Jeong"],"correct":"John Cho","hint":"Suite"}
+{"cat":"Comédie","q":"Dans quel film deux amis s’évadent d’une prison militaire ?","a":["Harold & Kumar Escape from Guantanamo Bay","Superbad","Project X"],"correct":"Harold & Kumar Escape from Guantanamo Bay","hint":"Guantanamo"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Kumar dans Harold & Kumar Escape from Guantanamo Bay ?","a":["Kal Penn","John Cho","Ken Jeong"],"correct":"Kal Penn","hint":"Burger blanc"}
+{"cat":"Comédie","q":"Dans quel film un duo cherche à prouver son innocence ?","a":["Harold & Kumar Escape from Guantanamo Bay","Superbad","Neighbors"],"correct":"Harold & Kumar Escape from Guantanamo Bay","hint":"Fuite"}
+{"cat":"Comédie","q":"Qui joue le rôle de Johnny dans Johnny English Reborn ?","a":["Rowan Atkinson","Steve Carell","Ben Stiller"],"correct":"Rowan Atkinson","hint":"Agent gaffeur"}
+{"cat":"Comédie","q":"Dans quel film un agent maladroit revient après un long entraînement ?","a":["Johnny English Reborn","Johnny English","Spy"],"correct":"Johnny English Reborn","hint":"Tibet"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Susan Cooper dans Spy ?","a":["Melissa McCarthy","Sandra Bullock","Kristen Wiig"],"correct":"Melissa McCarthy","hint":"Agent improbable"}
+{"cat":"Comédie","q":"Dans quel film une analyste devient agent de terrain ?","a":["Spy","The Heat","Bridesmaids"],"correct":"Spy","hint":"Jason Statham"}
+{"cat":"Comédie","q":"Qui joue le rôle de Rick dans Rick and Morty ?","a":["Justin Roiland","Dan Harmon","Chris Parnell"],"correct":"Justin Roiland","hint":"Scientifique fou"}
+{"cat":"Comédie","q":"Dans quel film un groupe d’amis se retrouve dans une maison hantée ?","a":["Scary Movie 2","Scary Movie","Ghostbusters"],"correct":"Scary Movie 2","hint":"Parodie"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Ash dans Pokémon: Detective Pikachu ?","a":["Justice Smith","Ryan Reynolds","Ken Watanabe"],"correct":"Justice Smith","hint":"Pikachu détective"}
+{"cat":"Comédie","q":"Dans quel film Pikachu parle avec la voix de Ryan Reynolds ?","a":["Detective Pikachu","Pokémon 2000","Pokémon Origins"],"correct":"Detective Pikachu","hint":"Humour adulte"}
+{"cat":"Comédie","q":"Qui joue le rôle de Ted dans Ted ?","a":["Seth MacFarlane","Mark Wahlberg","Jonah Hill"],"correct":"Seth MacFarlane","hint":"Ours en peluche"}
+{"cat":"Comédie","q":"Dans quel film un ours en peluche devient vivant ?","a":["Ted","Elf","The Muppets"],"correct":"Ted","hint":"Mark Wahlberg"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Harold dans Harold & Kumar Go to White Castle ?","a":["John Cho","Kal Penn","Ken Jeong"],"correct":"John Cho","hint":"Burger blanc"}
+{"cat":"Comédie","q":"Dans quel film deux amis cherchent un fast-food toute la nuit ?","a":["Harold & Kumar Go to White Castle","Superbad","Project X"],"correct":"Harold & Kumar Go to White Castle","hint":"White Castle"}
+{"cat":"Comédie","q":"Qui joue le rôle de Kumar dans Harold & Kumar Go to White Castle ?","a":["Kal Penn","John Cho","Ken Jeong"],"correct":"Kal Penn","hint":"Burger blanc"}
+{"cat":"Comédie","q":"Dans quel film un duo se retrouve dans un hôpital psychiatrique ?","a":["Harold & Kumar Go to White Castle","Superbad","Neighbors"],"correct":"Harold & Kumar Go to White Castle","hint":"Fuite"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Don dans The Other Guys ?","a":["Mark Wahlberg","Will Ferrell","Samuel L. Jackson"],"correct":"Mark Wahlberg","hint":"Policier frustré"}
+{"cat":"Comédie","q":"Dans quel film deux policiers maladroits deviennent des héros ?","a":["The Other Guys","21 Jump Street","Anchorman"],"correct":"The Other Guys","hint":"Bureau"}
+{"cat":"Comédie","q":"Qui joue le rôle de Brennan dans Step Brothers ?","a":["Will Ferrell","John C. Reilly","Adam Scott"],"correct":"Will Ferrell","hint":"Drum set"}
+{"cat":"Comédie","q":"Dans quel film deux adultes deviennent frères après le mariage de leurs parents ?","a":["Step Brothers","Old School","Superbad"],"correct":"Step Brothers","hint":"Bateau et hélicoptère"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Dale dans Step Brothers ?","a":["John C. Reilly","Will Ferrell","Adam Scott"],"correct":"John C. Reilly","hint":"Drum set"}
+{"cat":"Comédie","q":"Dans quel film un homme doit gérer une fraternité universitaire ?","a":["Old School","Neighbors","Superbad"],"correct":"Old School","hint":"Will Ferrell"}
+{"cat":"Comédie","q":"Qui joue le rôle de Frank the Tank ?","a":["Will Ferrell","Ben Stiller","Paul Rudd"],"correct":"Will Ferrell","hint":"Coureur nu"}
+{"cat":"Comédie","q":"Dans quel film un groupe d’amis organise un enterrement de vie de garçon catastrophique ?","a":["The Hangover","Superbad","Project X"],"correct":"The Hangover","hint":"Vegas"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Phil dans The Hangover ?","a":["Bradley Cooper","Ed Helms","Zach Galifianakis"],"correct":"Bradley Cooper","hint":"Prof de lycée"}
+{"cat":"Comédie","q":"Dans quel film un tigre se retrouve dans une salle de bain ?","a":["The Hangover","Superbad","Anchorman"],"correct":"The Hangover","hint":"Mike Tyson"}
+{"cat":"Comédie","q":"Qui joue le rôle de Stu dans The Hangover ?","a":["Ed Helms","Zach Galifianakis","Bradley Cooper"],"correct":"Ed Helms","hint":"Dent manquante"}
+{"cat":"Comédie","q":"Dans quel film un bébé est retrouvé dans un placard ?","a":["The Hangover","Superbad","Step Brothers"],"correct":"The Hangover","hint":"Vegas"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Alan dans The Hangover ?","a":["Zach Galifianakis","Ed Helms","Bradley Cooper"],"correct":"Zach Galifianakis","hint":"Barbe"}
+{"cat":"Comédie","q":"Dans quel film un groupe d’amis perd le marié avant son mariage ?","a":["The Hangover","Superbad","Project X"],"correct":"The Hangover","hint":"Vegas"}
+{"cat":"Comédie","q":"Qui joue le rôle de Ron Burgundy ?","a":["Will Ferrell","Steve Carell","Paul Rudd"],"correct":"Will Ferrell","hint":"Stay classy"}
+{"cat":"Comédie","q":"Dans quel film un journaliste se bat avec une autre équipe de reporters ?","a":["Anchorman","Step Brothers","Old School"],"correct":"Anchorman","hint":"Bataille de gangs"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Brick Tamland ?","a":["Steve Carell","Paul Rudd","Will Ferrell"],"correct":"Steve Carell","hint":"Je vous aime… lampe"}
+{"cat":"Comédie","q":"Dans quel film un journaliste doit reconquérir sa carrière ?","a":["Anchorman 2","Anchorman","Step Brothers"],"correct":"Anchorman 2","hint":"24h news"}
+{"cat":"Comédie","q":"Qui joue le rôle de Brian Fantana ?","a":["Paul Rudd","Will Ferrell","Steve Carell"],"correct":"Paul Rudd","hint":"Panthère"}
+{"cat":"Comédie","q":"Dans quel film un groupe de reporters utilise des armes improbables ?","a":["Anchorman","Anchorman 2","Step Brothers"],"correct":"Anchorman","hint":"Trident"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Zoolander ?","a":["Ben Stiller","Owen Wilson","Will Ferrell"],"correct":"Ben Stiller","hint":"Blue Steel"}
+{"cat":"Comédie","q":"Dans quel film un mannequin est manipulé pour assassiner un dirigeant ?","a":["Zoolander","Anchorman","Superbad"],"correct":"Zoolander","hint":"Look célèbre"}
+{"cat":"Comédie","q":"Qui joue le rôle de Hansel dans Zoolander ?","a":["Owen Wilson","Ben Stiller","Will Ferrell"],"correct":"Owen Wilson","hint":"So hot right now"}
+{"cat":"Comédie","q":"Dans quel film un mannequin affronte un rival blond ?","a":["Zoolander","Step Brothers","Anchorman"],"correct":"Zoolander","hint":"Hansel"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Mugatu ?","a":["Will Ferrell","Ben Stiller","Paul Rudd"],"correct":"Will Ferrell","hint":"Coiffure blanche"}
+{"cat":"Comédie","q":"Dans quel film un styliste fou tente de contrôler le monde de la mode ?","a":["Zoolander","Anchorman","Superbad"],"correct":"Zoolander","hint":"Mugatu"}
+{"cat":"Comédie","q":"Qui joue le rôle de Ted dans Ted ?","a":["Seth MacFarlane","Mark Wahlberg","Jonah Hill"],"correct":"Seth MacFarlane","hint":"Ours en peluche"}
+{"cat":"Comédie","q":"Dans quel film un ours en peluche devient une star ?","a":["Ted","Ted 2","Elf"],"correct":"Ted","hint":"Mark Wahlberg"}
+{"cat":"Comédie","q":"Quel acteur incarne le rôle de Dave Skylark ?","a":["James Franco","Seth Rogen","Jonah Hill"],"correct":"James Franco","hint":"Interview polémique"}
+{"cat":"Comédie","q":"Dans quel film deux journalistes doivent assassiner un dictateur ?","a":["The Interview","Pineapple Express","Superbad"],"correct":"The Interview","hint":"Kim Jong-un"}
+{"cat":"Comédie","q":"Qui joue le rôle de Dale Denton ?","a":["Seth Rogen","James Franco","Danny McBride"],"correct":"Seth Rogen","hint":"Joint"}
+{"cat":"Comédie","q":"Dans quel film deux amis fuient des criminels après avoir vu un meurtre ?","a":["Pineapple Express","Superbad","The Hangover"],"correct":"Pineapple Express","hint":"Marijuana"}
+{"cat":"Drame","q":"Qui joue le rôle de Andy Dufresne dans The Shawshank Redemption ?","a":["Tim Robbins","Morgan Freeman","Kevin Costner"],"correct":"Tim Robbins","hint":"Prison"}
+{"cat":"Drame","q":"Dans quel film un homme est condamné à tort pour le meurtre de sa femme ?","a":["The Shawshank Redemption","The Green Mile","Mystic River"],"correct":"The Shawshank Redemption","hint":"Évasion"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Paul Edgecomb dans The Green Mile ?","a":["Tom Hanks","Kevin Costner","Morgan Freeman"],"correct":"Tom Hanks","hint":"Couloir de la mort"}
+{"cat":"Drame","q":"Dans quel film un prisonnier possède un pouvoir de guérison ?","a":["The Green Mile","The Shawshank Redemption","Seven"],"correct":"The Green Mile","hint":"John Coffey"}
+{"cat":"Drame","q":"Qui joue le rôle de Lester Burnham dans American Beauty ?","a":["Kevin Spacey","Brad Pitt","Edward Norton"],"correct":"Kevin Spacey","hint":"Crise de la quarantaine"}
+{"cat":"Drame","q":"Dans quel film une adolescente danse sous une pluie de pétales ?","a":["American Beauty","Black Swan","Blue Valentine"],"correct":"American Beauty","hint":"Rose"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Tyler Durden dans Fight Club ?","a":["Brad Pitt","Edward Norton","Jared Leto"],"correct":"Brad Pitt","hint":"Savon"}
+{"cat":"Drame","q":"Dans quel film un narrateur rencontre un anarchiste charismatique ?","a":["Fight Club","Se7en","Memento"],"correct":"Fight Club","hint":"Règle numéro 1"}
+{"cat":"Drame","q":"Qui joue le rôle de Leonard Shelby dans Memento ?","a":["Guy Pearce","Christian Bale","Edward Norton"],"correct":"Guy Pearce","hint":"Mémoire courte"}
+{"cat":"Drame","q":"Dans quel film un homme utilise des tatouages pour retrouver un meurtrier ?","a":["Memento","Se7en","Prisoners"],"correct":"Memento","hint":"Chronologie inversée"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Chris Gardner dans The Pursuit of Happyness ?","a":["Will Smith","Denzel Washington","Jamie Foxx"],"correct":"Will Smith","hint":"Vendeur en difficulté"}
+{"cat":"Drame","q":"Dans quel film un père lutte pour offrir une vie meilleure à son fils ?","a":["The Pursuit of Happyness","A Beautiful Mind","The Revenant"],"correct":"The Pursuit of Happyness","hint":"Rubik’s Cube"}
+{"cat":"Drame","q":"Qui joue le rôle de John Nash dans A Beautiful Mind ?","a":["Russell Crowe","Tom Hanks","Matt Damon"],"correct":"Russell Crowe","hint":"Mathématicien"}
+{"cat":"Drame","q":"Dans quel film un génie lutte contre la schizophrénie ?","a":["A Beautiful Mind","Good Will Hunting","The Imitation Game"],"correct":"A Beautiful Mind","hint":"Prix Nobel"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Hugh Glass dans The Revenant ?","a":["Leonardo DiCaprio","Tom Hardy","Christian Bale"],"correct":"Leonardo DiCaprio","hint":"Ours"}
+{"cat":"Drame","q":"Dans quel film un trappeur survit après une attaque d’ours ?","a":["The Revenant","Dances with Wolves","The Road"],"correct":"The Revenant","hint":"Neige"}
+{"cat":"Drame","q":"Qui joue le rôle de Keller Dover dans Prisoners ?","a":["Hugh Jackman","Jake Gyllenhaal","Christian Bale"],"correct":"Hugh Jackman","hint":"Enlèvement"}
+{"cat":"Drame","q":"Dans quel film deux fillettes disparaissent mystérieusement ?","a":["Prisoners","Gone Girl","Mystic River"],"correct":"Prisoners","hint":"Cave"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Jimmy Markum dans Mystic River ?","a":["Sean Penn","Kevin Bacon","Tim Robbins"],"correct":"Sean Penn","hint":"Drame familial"}
+{"cat":"Drame","q":"Dans quel film trois amis d’enfance sont liés par un crime ?","a":["Mystic River","Gone Baby Gone","The Town"],"correct":"Mystic River","hint":"Boston"}
+{"cat":"Drame","q":"Qui joue le rôle de Nina dans Black Swan ?","a":["Natalie Portman","Mila Kunis","Scarlett Johansson"],"correct":"Natalie Portman","hint":"Danse"}
+{"cat":"Drame","q":"Dans quel film une danseuse sombre dans la folie ?","a":["Black Swan","Whiplash","Birdman"],"correct":"Black Swan","hint":"Cygne noir"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew Neiman dans Whiplash ?","a":["Miles Teller","J.K. Simmons","Ryan Gosling"],"correct":"Miles Teller","hint":"Batterie"}
+{"cat":"Drame","q":"Dans quel film un professeur tyrannique pousse un élève à bout ?","a":["Whiplash","Black Swan","La La Land"],"correct":"Whiplash","hint":"Tempo"}
+{"cat":"Drame","q":"Qui joue le rôle de Ryan dans Blue Valentine ?","a":["Ryan Gosling","Jake Gyllenhaal","Bradley Cooper"],"correct":"Ryan Gosling","hint":"Couple en crise"}
+{"cat":"Drame","q":"Dans quel film un couple voit son mariage se dégrader ?","a":["Blue Valentine","Marriage Story","Revolutionary Road"],"correct":"Blue Valentine","hint":"Flashbacks"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Charlie dans Marriage Story ?","a":["Adam Driver","Ryan Gosling","Ben Affleck"],"correct":"Adam Driver","hint":"Divorce"}
+{"cat":"Drame","q":"Dans quel film un couple se sépare mais reste lié par leur enfant ?","a":["Marriage Story","Blue Valentine","La La Land"],"correct":"Marriage Story","hint":"Scarlett Johansson"}
+{"cat":"Drame","q":"Qui joue le rôle de Truman dans The Truman Show ?","a":["Jim Carrey","Tom Hanks","Kevin Costner"],"correct":"Jim Carrey","hint":"Réalité télévisée"}
+{"cat":"Drame","q":"Dans quel film un homme découvre que sa vie est une émission ?","a":["The Truman Show","Eternal Sunshine","The Matrix"],"correct":"The Truman Show","hint":"Dôme"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Joel dans Eternal Sunshine of the Spotless Mind ?","a":["Jim Carrey","Leonardo DiCaprio","Edward Norton"],"correct":"Jim Carrey","hint":"Mémoire effacée"}
+{"cat":"Drame","q":"Dans quel film un couple efface ses souvenirs ?","a":["Eternal Sunshine","Blue Valentine","Her"],"correct":"Eternal Sunshine","hint":"Clémentine"}
+{"cat":"Drame","q":"Qui joue le rôle de Chris Kyle dans American Sniper ?","a":["Bradley Cooper","Chris Pratt","Matt Damon"],"correct":"Bradley Cooper","hint":"Sniper"}
+{"cat":"Drame","q":"Dans quel film un tireur d’élite raconte son expérience en Irak ?","a":["American Sniper","The Hurt Locker","Jarhead"],"correct":"American Sniper","hint":"Biographie"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Lou dans Nightcrawler ?","a":["Jake Gyllenhaal","Christian Bale","Edward Norton"],"correct":"Jake Gyllenhaal","hint":"Caméra"}
+{"cat":"Drame","q":"Dans quel film un journaliste filme des scènes de crime pour les vendre ?","a":["Nightcrawler","Gone Girl","Se7en"],"correct":"Nightcrawler","hint":"Ambition"}
+{"cat":"Drame","q":"Qui joue le rôle de Amy dans Gone Girl ?","a":["Rosamund Pike","Scarlett Johansson","Emily Blunt"],"correct":"Rosamund Pike","hint":"Disparition"}
+{"cat":"Drame","q":"Dans quel film une femme disparaît le jour de son anniversaire de mariage ?","a":["Gone Girl","Prisoners","Mystic River"],"correct":"Gone Girl","hint":"Manipulation"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Cobb dans Inception ?","a":["Leonardo DiCaprio","Tom Hardy","Joseph Gordon-Levitt"],"correct":"Leonardo DiCaprio","hint":"Rêves"}
+{"cat":"Drame","q":"Dans quel film un voleur infiltre les rêves de ses cibles ?","a":["Inception","Memento","Shutter Island"],"correct":"Inception","hint":"Toupie"}
+{"cat":"Drame","q":"Qui joue le rôle de Teddy Daniels dans Shutter Island ?","a":["Leonardo DiCaprio","Mark Ruffalo","Matt Damon"],"correct":"Leonardo DiCaprio","hint":"Asile"}
+{"cat":"Drame","q":"Dans quel film un marshal enquête sur une disparition dans un hôpital psychiatrique ?","a":["Shutter Island","Se7en","Gone Girl"],"correct":"Shutter Island","hint":"Île"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Somerset dans Se7en ?","a":["Morgan Freeman","Brad Pitt","Kevin Spacey"],"correct":"Morgan Freeman","hint":"Enquête"}
+{"cat":"Drame","q":"Dans quel film deux policiers traquent un tueur utilisant les péchés capitaux ?","a":["Se7en","Prisoners","Gone Baby Gone"],"correct":"Se7en","hint":"Boîte"}
+{"cat":"Drame","q":"Qui joue le rôle de Will Hunting ?","a":["Matt Damon","Ben Affleck","Casey Affleck"],"correct":"Matt Damon","hint":"Maths"}
+{"cat":"Drame","q":"Dans quel film un jeune prodige lutte contre ses traumatismes ?","a":["Good Will Hunting","A Beautiful Mind","The Social Network"],"correct":"Good Will Hunting","hint":"Robin Williams"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Jack dans Titanic ?","a":["Leonardo DiCaprio","Brad Pitt","Matt Damon"],"correct":"Leonardo DiCaprio","hint":"Paquebot"}
+{"cat":"Drame","q":"Dans quel film un paquebot légendaire sombre dans l’océan ?","a":["Titanic","The Perfect Storm","Master and Commander"],"correct":"Titanic","hint":"Iceberg"}
+{"cat":"Drame","q":"Qui joue le rôle de Forrest Gump ?","a":["Tom Hanks","Matt Damon","Kevin Costner"],"correct":"Tom Hanks","hint":"Course"}
+{"cat":"Drame","q":"Dans quel film un homme traverse l’histoire américaine sans s’en rendre compte ?","a":["Forrest Gump","The Truman Show","Rain Man"],"correct":"Forrest Gump","hint":"Chocolats"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Dom Cobb dans Inception ?","a":["Leonardo DiCaprio","Joseph Gordon-Levitt","Tom Hardy"],"correct":"Leonardo DiCaprio","hint":"Rêves"}
+{"cat":"Drame","q":"Dans quel film des voleurs infiltrent les rêves de leurs cibles ?","a":["Inception","Memento","Shutter Island"],"correct":"Inception","hint":"Toupie"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew Beckett dans Philadelphia ?","a":["Tom Hanks","Denzel Washington","Kevin Spacey"],"correct":"Tom Hanks","hint":"Procès"}
+{"cat":"Drame","q":"Dans quel film un avocat lutte contre la discrimination liée au sida ?","a":["Philadelphia","A Time to Kill","Erin Brockovich"],"correct":"Philadelphia","hint":"Denzel Washington"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Jackson Maine dans A Star Is Born ?","a":["Bradley Cooper","Ryan Gosling","Chris Pine"],"correct":"Bradley Cooper","hint":"Chanteur"}
+{"cat":"Drame","q":"Dans quel film une chanteuse débute grâce à un musicien déchu ?","a":["A Star Is Born","La La Land","Whiplash"],"correct":"A Star Is Born","hint":"Lady Gaga"}
+{"cat":"Drame","q":"Qui joue le rôle de Pat dans Silver Linings Playbook ?","a":["Bradley Cooper","Ryan Gosling","Jake Gyllenhaal"],"correct":"Bradley Cooper","hint":"Danse"}
+{"cat":"Drame","q":"Dans quel film deux personnes en difficulté émotionnelle se rapprochent grâce à la danse ?","a":["Silver Linings Playbook","Blue Valentine","Marriage Story"],"correct":"Silver Linings Playbook","hint":"Jennifer Lawrence"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Jamal Malik dans Slumdog Millionaire ?","a":["Dev Patel","Irrfan Khan","Anil Kapoor"],"correct":"Dev Patel","hint":"Jeu télévisé"}
+{"cat":"Drame","q":"Dans quel film un jeune homme raconte sa vie en répondant à des questions ?","a":["Slumdog Millionaire","Lion","The Pursuit of Happyness"],"correct":"Slumdog Millionaire","hint":"Millionnaire"}
+{"cat":"Drame","q":"Qui joue le rôle de Chris Kyle dans American Sniper ?","a":["Bradley Cooper","Chris Pratt","Matt Damon"],"correct":"Bradley Cooper","hint":"Sniper"}
+{"cat":"Drame","q":"Dans quel film un tireur d’élite raconte son expérience en Irak ?","a":["American Sniper","The Hurt Locker","Jarhead"],"correct":"American Sniper","hint":"Biographie"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Lou dans Nightcrawler ?","a":["Jake Gyllenhaal","Christian Bale","Edward Norton"],"correct":"Jake Gyllenhaal","hint":"Caméra"}
+{"cat":"Drame","q":"Dans quel film un journaliste filme des scènes de crime pour les vendre ?","a":["Nightcrawler","Gone Girl","Se7en"],"correct":"Nightcrawler","hint":"Ambition"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans Manchester by the Sea ?","a":["Casey Affleck","Ben Affleck","Matt Damon"],"correct":"Casey Affleck","hint":"Deuil"}
+{"cat":"Drame","q":"Dans quel film un homme retourne dans sa ville natale après une tragédie ?","a":["Manchester by the Sea","Blue Valentine","The Road"],"correct":"Manchester by the Sea","hint":"Massachusetts"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Fletcher dans Whiplash ?","a":["J.K. Simmons","Miles Teller","Bryan Cranston"],"correct":"J.K. Simmons","hint":"Prof tyrannique"}
+{"cat":"Drame","q":"Dans quel film un professeur pousse un élève à bout ?","a":["Whiplash","Black Swan","La La Land"],"correct":"Whiplash","hint":"Tempo"}
+{"cat":"Drame","q":"Qui joue le rôle de Truman dans The Truman Show ?","a":["Jim Carrey","Tom Hanks","Kevin Costner"],"correct":"Jim Carrey","hint":"Réalité télévisée"}
+{"cat":"Drame","q":"Dans quel film un homme découvre que sa vie est une émission ?","a":["The Truman Show","Eternal Sunshine","The Matrix"],"correct":"The Truman Show","hint":"Dôme"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Joel dans Eternal Sunshine of the Spotless Mind ?","a":["Jim Carrey","Leonardo DiCaprio","Edward Norton"],"correct":"Jim Carrey","hint":"Mémoire effacée"}
+{"cat":"Drame","q":"Dans quel film un couple efface ses souvenirs ?","a":["Eternal Sunshine","Blue Valentine","Her"],"correct":"Eternal Sunshine","hint":"Clémentine"}
+{"cat":"Drame","q":"Qui joue le rôle de Lester dans Revolutionary Road ?","a":["Leonardo DiCaprio","Brad Pitt","Matt Damon"],"correct":"Leonardo DiCaprio","hint":"Mariage en crise"}
+{"cat":"Drame","q":"Dans quel film un couple lutte contre la routine des années 50 ?","a":["Revolutionary Road","Marriage Story","Blue Valentine"],"correct":"Revolutionary Road","hint":"Kate Winslet"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Hacksaw Ridge ?","a":["Andrew Garfield","Tom Holland","Chris Evans"],"correct":"Andrew Garfield","hint":"Pacifiste"}
+{"cat":"Drame","q":"Dans quel film un soldat refuse de porter une arme ?","a":["Hacksaw Ridge","Saving Private Ryan","1917"],"correct":"Hacksaw Ridge","hint":"Médecin"}
+{"cat":"Drame","q":"Qui joue le rôle de Will dans The Road ?","a":["Viggo Mortensen","Christian Bale","Tom Hardy"],"correct":"Viggo Mortensen","hint":"Post-apocalyptique"}
+{"cat":"Drame","q":"Dans quel film un père et son fils traversent un monde détruit ?","a":["The Road","Children of Men","The Book of Eli"],"correct":"The Road","hint":"Cendres"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Social Network ?","a":["Jesse Eisenberg","Andrew Garfield","Armie Hammer"],"correct":"Andrew Garfield","hint":"Facebook"}
+{"cat":"Drame","q":"Dans quel film la création de Facebook est racontée ?","a":["The Social Network","Jobs","Steve Jobs"],"correct":"The Social Network","hint":"Mark Zuckerberg"}
+{"cat":"Drame","q":"Qui joue le rôle de Joy dans Room ?","a":["Brie Larson","Jennifer Lawrence","Emma Stone"],"correct":"Brie Larson","hint":"Captivité"}
+{"cat":"Drame","q":"Dans quel film une femme et son fils s’évadent d’une pièce où ils étaient retenus ?","a":["Room","Prisoners","Gone Girl"],"correct":"Room","hint":"Enfermement"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Birdman ?","a":["Michael Keaton","Edward Norton","Zach Galifianakis"],"correct":"Michael Keaton","hint":"Super-héros déchu"}
+{"cat":"Drame","q":"Dans quel film un acteur tente de relancer sa carrière au théâtre ?","a":["Birdman","Black Swan","Whiplash"],"correct":"Birdman","hint":"Plan-séquence"}
+{"cat":"Drame","q":"Qui joue le rôle de Joy dans Joy ?","a":["Jennifer Lawrence","Brie Larson","Emma Stone"],"correct":"Jennifer Lawrence","hint":"Balai miracle"}
+{"cat":"Drame","q":"Dans quel film une femme invente un produit révolutionnaire ?","a":["Joy","Erin Brockovich","The Social Network"],"correct":"Joy","hint":"Entrepreneuse"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Imitation Game ?","a":["Benedict Cumberbatch","Tom Hardy","Colin Firth"],"correct":"Benedict Cumberbatch","hint":"Enigma"}
+{"cat":"Drame","q":"Dans quel film un mathématicien tente de casser un code nazi ?","a":["The Imitation Game","A Beautiful Mind","Dunkirk"],"correct":"The Imitation Game","hint":"Alan Turing"}
+{"cat":"Drame","q":"Qui joue le rôle de Joy dans The Hunger Games ?","a":["Jennifer Lawrence","Emma Watson","Brie Larson"],"correct":"Jennifer Lawrence","hint":"Arc"}
+{"cat":"Drame","q":"Dans quel film une jeune femme devient symbole de rébellion ?","a":["The Hunger Games","Divergent","Maze Runner"],"correct":"The Hunger Games","hint":"District 12"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans La La Land ?","a":["Ryan Gosling","Miles Teller","Joseph Gordon-Levitt"],"correct":"Ryan Gosling","hint":"Jazz"}
+{"cat":"Drame","q":"Dans quel film deux artistes tentent de réussir à Los Angeles ?","a":["La La Land","Whiplash","A Star Is Born"],"correct":"La La Land","hint":"Danse et musique"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew Beckett dans Philadelphia ?","a":["Tom Hanks","Denzel Washington","Kevin Spacey"],"correct":"Tom Hanks","hint":"Procès et discrimination"}
+{"cat":"Drame","q":"Dans quel film un avocat atteint du sida poursuit son employeur ?","a":["Philadelphia","Erin Brockovich","A Time to Kill"],"correct":"Philadelphia","hint":"Denzel Washington"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Erik dans The Pianist ?","a":["Adrien Brody","Daniel Craig","Joseph Fiennes"],"correct":"Adrien Brody","hint":"Ghetto de Varsovie"}
+{"cat":"Drame","q":"Dans quel film un pianiste juif tente de survivre à la Seconde Guerre mondiale ?","a":["The Pianist","Schindler's List","Life Is Beautiful"],"correct":"The Pianist","hint":"Roman Polanski"}
+{"cat":"Drame","q":"Qui joue le rôle de Guido dans Life Is Beautiful ?","a":["Roberto Benigni","Antonio Banderas","Daniel Day-Lewis"],"correct":"Roberto Benigni","hint":"Humour en camp"}
+{"cat":"Drame","q":"Dans quel film un père transforme un camp en jeu pour protéger son fils ?","a":["Life Is Beautiful","The Pianist","Schindler's List"],"correct":"Life Is Beautiful","hint":"Italie"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Oskar Schindler ?","a":["Liam Neeson","Ralph Fiennes","Ben Kingsley"],"correct":"Liam Neeson","hint":"Liste"}
+{"cat":"Drame","q":"Dans quel film un industriel sauve des centaines de Juifs ?","a":["Schindler's List","The Pianist","Life Is Beautiful"],"correct":"Schindler's List","hint":"Noir et blanc"}
+{"cat":"Drame","q":"Qui joue le rôle de Jamal dans Lion ?","a":["Dev Patel","Irrfan Khan","Nawazuddin Siddiqui"],"correct":"Dev Patel","hint":"Recherche familiale"}
+{"cat":"Drame","q":"Dans quel film un homme utilise Google Earth pour retrouver sa famille ?","a":["Lion","Slumdog Millionaire","The Pursuit of Happyness"],"correct":"Lion","hint":"Inde"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Curious Case of Benjamin Button ?","a":["Brad Pitt","Leonardo DiCaprio","Matt Damon"],"correct":"Brad Pitt","hint":"Vie inversée"}
+{"cat":"Drame","q":"Dans quel film un homme naît vieux et rajeunit avec le temps ?","a":["The Curious Case of Benjamin Button","Forrest Gump","The Green Mile"],"correct":"The Curious Case of Benjamin Button","hint":"Horloge"}
+{"cat":"Drame","q":"Qui joue le rôle de Solomon Northup dans 12 Years a Slave ?","a":["Chiwetel Ejiofor","Michael Fassbender","Benedict Cumberbatch"],"correct":"Chiwetel Ejiofor","hint":"Esclavage"}
+{"cat":"Drame","q":"Dans quel film un homme libre est capturé et réduit en esclavage ?","a":["12 Years a Slave","Django Unchained","Amistad"],"correct":"12 Years a Slave","hint":"Biographie"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The King's Speech ?","a":["Colin Firth","Geoffrey Rush","Tom Hardy"],"correct":"Colin Firth","hint":"Bégaiement"}
+{"cat":"Drame","q":"Dans quel film un roi lutte contre un trouble de la parole ?","a":["The King's Speech","The Queen","Darkest Hour"],"correct":"The King's Speech","hint":"Discours"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Theory of Everything ?","a":["Eddie Redmayne","Benedict Cumberbatch","Tom Holland"],"correct":"Eddie Redmayne","hint":"Stephen Hawking"}
+{"cat":"Drame","q":"Dans quel film la vie de Stephen Hawking est racontée ?","a":["The Theory of Everything","A Beautiful Mind","The Imitation Game"],"correct":"The Theory of Everything","hint":"Physicien"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Wolf of Wall Street ?","a":["Leonardo DiCaprio","Jonah Hill","Matthew McConaughey"],"correct":"Leonardo DiCaprio","hint":"Bourse"}
+{"cat":"Drame","q":"Dans quel film un trader devient millionnaire grâce à des fraudes ?","a":["The Wolf of Wall Street","The Big Short","Margin Call"],"correct":"The Wolf of Wall Street","hint":"Scorsese"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Big Short ?","a":["Christian Bale","Steve Carell","Ryan Gosling"],"correct":"Christian Bale","hint":"Crise financière"}
+{"cat":"Drame","q":"Dans quel film la crise des subprimes est expliquée ?","a":["The Big Short","Margin Call","Inside Job"],"correct":"The Big Short","hint":"Humour noir"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Dallas Buyers Club ?","a":["Matthew McConaughey","Jared Leto","Woody Harrelson"],"correct":"Matthew McConaughey","hint":"VIH"}
+{"cat":"Drame","q":"Dans quel film un homme crée un réseau d’accès à des médicaments ?","a":["Dallas Buyers Club","Philadelphia","The Normal Heart"],"correct":"Dallas Buyers Club","hint":"Cowboy"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Hurt Locker ?","a":["Jeremy Renner","Anthony Mackie","Guy Pearce"],"correct":"Jeremy Renner","hint":"Bombes"}
+{"cat":"Drame","q":"Dans quel film une équipe désamorce des explosifs en Irak ?","a":["The Hurt Locker","American Sniper","Zero Dark Thirty"],"correct":"The Hurt Locker","hint":"Tension"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Spotlight ?","a":["Mark Ruffalo","Michael Keaton","Stanley Tucci"],"correct":"Mark Ruffalo","hint":"Journalisme"}
+{"cat":"Drame","q":"Dans quel film des journalistes enquêtent sur des abus dans l’Église ?","a":["Spotlight","The Post","All the President's Men"],"correct":"Spotlight","hint":"Boston Globe"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Revenant ?","a":["Leonardo DiCaprio","Tom Hardy","Domhnall Gleeson"],"correct":"Leonardo DiCaprio","hint":"Ours"}
+{"cat":"Drame","q":"Dans quel film un trappeur survit dans la neige après une attaque ?","a":["The Revenant","Dances with Wolves","The Road"],"correct":"The Revenant","hint":"Frontière"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Road ?","a":["Viggo Mortensen","Christian Bale","Tom Hardy"],"correct":"Viggo Mortensen","hint":"Post-apocalyptique"}
+{"cat":"Drame","q":"Dans quel film un père et son fils traversent un monde détruit ?","a":["The Road","Children of Men","The Book of Eli"],"correct":"The Road","hint":"Cendres"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Social Network ?","a":["Jesse Eisenberg","Andrew Garfield","Armie Hammer"],"correct":"Andrew Garfield","hint":"Facebook"}
+{"cat":"Drame","q":"Dans quel film la création de Facebook est racontée ?","a":["The Social Network","Jobs","Steve Jobs"],"correct":"The Social Network","hint":"Mark Zuckerberg"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Joker ?","a":["Joaquin Phoenix","Heath Ledger","Jared Leto"],"correct":"Joaquin Phoenix","hint":"Clown"}
+{"cat":"Drame","q":"Dans quel film un homme sombrer dans la folie et la violence ?","a":["Joker","Taxi Driver","Fight Club"],"correct":"Joker","hint":"Gotham"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Father ?","a":["Anthony Hopkins","Mark Ruffalo","Gary Oldman"],"correct":"Anthony Hopkins","hint":"Mémoire"}
+{"cat":"Drame","q":"Dans quel film un homme lutte contre la perte de mémoire ?","a":["The Father","Still Alice","Amour"],"correct":"The Father","hint":"Pièces qui changent"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Shawshank Redemption ?","a":["Tim Robbins","Morgan Freeman","Kevin Costner"],"correct":"Tim Robbins","hint":"Prison"}
+{"cat":"Drame","q":"Dans quel film un prisonnier s’évade grâce à un tunnel creusé ?","a":["The Shawshank Redemption","The Green Mile","Escape Plan"],"correct":"The Shawshank Redemption","hint":"Poster"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans Gladiator ?","a":["Russell Crowe","Joaquin Phoenix","Gerard Butler"],"correct":"Russell Crowe","hint":"Maximus"}
+{"cat":"Drame","q":"Dans quel film un général devient gladiateur pour venger sa famille ?","a":["Gladiator","Troy","300"],"correct":"Gladiator","hint":"Rome"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Pursuit of Happyness ?","a":["Will Smith","Denzel Washington","Jamie Foxx"],"correct":"Will Smith","hint":"Rubik’s Cube"}
+{"cat":"Drame","q":"Dans quel film un père lutte pour offrir une vie meilleure à son fils ?","a":["The Pursuit of Happyness","A Beautiful Mind","The Revenant"],"correct":"The Pursuit of Happyness","hint":"Vendeur"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans Good Will Hunting ?","a":["Matt Damon","Ben Affleck","Casey Affleck"],"correct":"Matt Damon","hint":"Maths"}
+{"cat":"Drame","q":"Dans quel film un jeune prodige lutte contre ses traumatismes ?","a":["Good Will Hunting","A Beautiful Mind","The Social Network"],"correct":"Good Will Hunting","hint":"Robin Williams"}
+{"cat":"Drame","q":"Qui joue le rôle de Truman dans The Truman Show ?","a":["Jim Carrey","Tom Hanks","Kevin Costner"],"correct":"Jim Carrey","hint":"Réalité télévisée"}
+{"cat":"Drame","q":"Dans quel film un homme découvre que sa vie est une émission ?","a":["The Truman Show","Eternal Sunshine","The Matrix"],"correct":"The Truman Show","hint":"Dôme géant"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Joel dans Eternal Sunshine of the Spotless Mind ?","a":["Jim Carrey","Leonardo DiCaprio","Edward Norton"],"correct":"Jim Carrey","hint":"Mémoire effacée"}
+{"cat":"Drame","q":"Dans quel film un couple efface ses souvenirs ?","a":["Eternal Sunshine","Blue Valentine","Her"],"correct":"Eternal Sunshine","hint":"Clémentine"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans Her ?","a":["Joaquin Phoenix","Ryan Gosling","Jake Gyllenhaal"],"correct":"Joaquin Phoenix","hint":"IA"}
+{"cat":"Drame","q":"Dans quel film un homme tombe amoureux d’une intelligence artificielle ?","a":["Her","Ex Machina","Eternal Sunshine"],"correct":"Her","hint":"Voix de Scarlett Johansson"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Master ?","a":["Joaquin Phoenix","Philip Seymour Hoffman","Edward Norton"],"correct":"Joaquin Phoenix","hint":"Secte"}
+{"cat":"Drame","q":"Dans quel film un vétéran rencontre un leader charismatique ?","a":["The Master","There Will Be Blood","Fight Club"],"correct":"The Master","hint":"Scientologie fictive"}
+{"cat":"Drame","q":"Qui joue le rôle de Daniel Plainview dans There Will Be Blood ?","a":["Daniel Day-Lewis","Christian Bale","Tom Hardy"],"correct":"Daniel Day-Lewis","hint":"Pétrole"}
+{"cat":"Drame","q":"Dans quel film un prospecteur devient obsédé par le pouvoir ?","a":["There Will Be Blood","The Revenant","No Country for Old Men"],"correct":"There Will Be Blood","hint":"Milkshake"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Llewelyn Moss dans No Country for Old Men ?","a":["Josh Brolin","Tommy Lee Jones","Javier Bardem"],"correct":"Josh Brolin","hint":"Mallette d’argent"}
+{"cat":"Drame","q":"Dans quel film un tueur implacable poursuit un homme ayant trouvé de l’argent ?","a":["No Country for Old Men","Sicario","Heat"],"correct":"No Country for Old Men","hint":"Anton Chigurh"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Road ?","a":["Viggo Mortensen","Christian Bale","Tom Hardy"],"correct":"Viggo Mortensen","hint":"Post-apocalyptique"}
+{"cat":"Drame","q":"Dans quel film un père et son fils traversent un monde détruit ?","a":["The Road","Children of Men","The Book of Eli"],"correct":"The Road","hint":"Cendres"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Children of Men ?","a":["Clive Owen","Michael Caine","Chiwetel Ejiofor"],"correct":"Clive Owen","hint":"Infertilité mondiale"}
+{"cat":"Drame","q":"Dans quel film l’humanité devient stérile ?","a":["Children of Men","The Road","The Book of Eli"],"correct":"Children of Men","hint":"Dernière naissance"}
+{"cat":"Drame","q":"Qui joue le rôle de Eli dans The Book of Eli ?","a":["Denzel Washington","Will Smith","Samuel L. Jackson"],"correct":"Denzel Washington","hint":"Livre sacré"}
+{"cat":"Drame","q":"Dans quel film un homme protège un livre dans un monde ravagé ?","a":["The Book of Eli","The Road","Mad Max"],"correct":"The Book of Eli","hint":"Braille"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Fighter ?","a":["Mark Wahlberg","Christian Bale","Brad Pitt"],"correct":"Mark Wahlberg","hint":"Boxe"}
+{"cat":"Drame","q":"Dans quel film un boxeur lutte pour relancer sa carrière ?","a":["The Fighter","Rocky","Creed"],"correct":"The Fighter","hint":"Frère drogué"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans Moneyball ?","a":["Brad Pitt","Jonah Hill","Chris Pratt"],"correct":"Brad Pitt","hint":"Baseball"}
+{"cat":"Drame","q":"Dans quel film un manager révolutionne le recrutement sportif ?","a":["Moneyball","The Social Network","The Big Short"],"correct":"Moneyball","hint":"Statistiques"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Shawshank Redemption ?","a":["Tim Robbins","Morgan Freeman","Kevin Costner"],"correct":"Tim Robbins","hint":"Prison"}
+{"cat":"Drame","q":"Dans quel film un prisonnier s’évade grâce à un tunnel creusé ?","a":["The Shawshank Redemption","Escape Plan","The Green Mile"],"correct":"The Shawshank Redemption","hint":"Poster"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Green Mile ?","a":["Tom Hanks","Michael Clarke Duncan","Sam Rockwell"],"correct":"Tom Hanks","hint":"Couloir de la mort"}
+{"cat":"Drame","q":"Dans quel film un prisonnier possède un pouvoir de guérison ?","a":["The Green Mile","The Shawshank Redemption","Seven"],"correct":"The Green Mile","hint":"John Coffey"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Curious Case of Benjamin Button ?","a":["Brad Pitt","Leonardo DiCaprio","Matt Damon"],"correct":"Brad Pitt","hint":"Vie inversée"}
+{"cat":"Drame","q":"Dans quel film un homme naît vieux et rajeunit avec le temps ?","a":["Benjamin Button","Forrest Gump","The Revenant"],"correct":"Benjamin Button","hint":"Horloge"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Imitation Game ?","a":["Benedict Cumberbatch","Tom Hardy","Colin Firth"],"correct":"Benedict Cumberbatch","hint":"Enigma"}
+{"cat":"Drame","q":"Dans quel film un mathématicien tente de casser un code nazi ?","a":["The Imitation Game","A Beautiful Mind","Dunkirk"],"correct":"The Imitation Game","hint":"Alan Turing"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Social Network ?","a":["Andrew Garfield","Jesse Eisenberg","Armie Hammer"],"correct":"Andrew Garfield","hint":"Facebook"}
+{"cat":"Drame","q":"Dans quel film la création de Facebook est racontée ?","a":["The Social Network","Jobs","Steve Jobs"],"correct":"The Social Network","hint":"Mark Zuckerberg"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans Joker ?","a":["Joaquin Phoenix","Heath Ledger","Jared Leto"],"correct":"Joaquin Phoenix","hint":"Clown"}
+{"cat":"Drame","q":"Dans quel film un homme sombre dans la folie et la violence ?","a":["Joker","Taxi Driver","Fight Club"],"correct":"Joker","hint":"Gotham"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Father ?","a":["Anthony Hopkins","Gary Oldman","Mark Ruffalo"],"correct":"Anthony Hopkins","hint":"Mémoire"}
+{"cat":"Drame","q":"Dans quel film un homme lutte contre la perte de mémoire ?","a":["The Father","Still Alice","Amour"],"correct":"The Father","hint":"Pièces qui changent"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Revenant ?","a":["Leonardo DiCaprio","Tom Hardy","Domhnall Gleeson"],"correct":"Leonardo DiCaprio","hint":"Ours"}
+{"cat":"Drame","q":"Dans quel film un trappeur survit dans la neige après une attaque ?","a":["The Revenant","Dances with Wolves","The Road"],"correct":"The Revenant","hint":"Frontière"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Hacksaw Ridge ?","a":["Andrew Garfield","Tom Holland","Chris Evans"],"correct":"Andrew Garfield","hint":"Pacifiste"}
+{"cat":"Drame","q":"Dans quel film un soldat refuse de porter une arme ?","a":["Hacksaw Ridge","Saving Private Ryan","1917"],"correct":"Hacksaw Ridge","hint":"Médecin"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Big Short ?","a":["Christian Bale","Steve Carell","Ryan Gosling"],"correct":"Christian Bale","hint":"Subprimes"}
+{"cat":"Drame","q":"Dans quel film la crise financière est expliquée ?","a":["The Big Short","Margin Call","Inside Job"],"correct":"The Big Short","hint":"Humour noir"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Spotlight ?","a":["Mark Ruffalo","Michael Keaton","Stanley Tucci"],"correct":"Mark Ruffalo","hint":"Journalisme"}
+{"cat":"Drame","q":"Dans quel film des journalistes enquêtent sur des abus dans l’Église ?","a":["Spotlight","The Post","All the President's Men"],"correct":"Spotlight","hint":"Boston Globe"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans Gone Girl ?","a":["Ben Affleck","Neil Patrick Harris","Tyler Perry"],"correct":"Ben Affleck","hint":"Disparition"}
+{"cat":"Drame","q":"Dans quel film une femme disparaît le jour de son anniversaire de mariage ?","a":["Gone Girl","Prisoners","Mystic River"],"correct":"Gone Girl","hint":"Manipulation"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Prisoners ?","a":["Hugh Jackman","Jake Gyllenhaal","Paul Dano"],"correct":"Hugh Jackman","hint":"Enlèvement"}
+{"cat":"Drame","q":"Dans quel film deux fillettes disparaissent mystérieusement ?","a":["Prisoners","Gone Girl","Mystic River"],"correct":"Prisoners","hint":"Cave"}
+{"cat":"Drame","q":"Qui joue le rôle de Andy dans The Shawshank Redemption ?","a":["Tim Robbins","Morgan Freeman","Kevin Costner"],"correct":"Tim Robbins","hint":"Prison"}
+{"cat":"Drame","q":"Dans quel film un prisonnier creuse un tunnel derrière un poster ?","a":["The Shawshank Redemption","Escape Plan","The Green Mile"],"correct":"The Shawshank Redemption","hint":"Rita Hayworth"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de John Coffey dans The Green Mile ?","a":["Michael Clarke Duncan","Tom Hanks","Sam Rockwell"],"correct":"Michael Clarke Duncan","hint":"Pouvoir de guérison"}
+{"cat":"Drame","q":"Dans quel film un prisonnier possède un don surnaturel ?","a":["The Green Mile","The Shawshank Redemption","Seven"],"correct":"The Green Mile","hint":"Souris"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Revenant ?","a":["Leonardo DiCaprio","Tom Hardy","Domhnall Gleeson"],"correct":"Leonardo DiCaprio","hint":"Ours"}
+{"cat":"Drame","q":"Dans quel film un trappeur survit dans la neige après une attaque ?","a":["The Revenant","Dances with Wolves","The Road"],"correct":"The Revenant","hint":"Frontière"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Gladiator ?","a":["Russell Crowe","Joaquin Phoenix","Gerard Butler"],"correct":"Russell Crowe","hint":"Maximus"}
+{"cat":"Drame","q":"Dans quel film un général devient gladiateur pour venger sa famille ?","a":["Gladiator","Troy","300"],"correct":"Gladiator","hint":"Rome"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Pianist ?","a":["Adrien Brody","Daniel Craig","Joseph Fiennes"],"correct":"Adrien Brody","hint":"Ghetto de Varsovie"}
+{"cat":"Drame","q":"Dans quel film un pianiste tente de survivre à la guerre ?","a":["The Pianist","Schindler's List","Life Is Beautiful"],"correct":"The Pianist","hint":"Roman Polanski"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Schindler's List ?","a":["Liam Neeson","Ralph Fiennes","Ben Kingsley"],"correct":"Liam Neeson","hint":"Liste"}
+{"cat":"Drame","q":"Dans quel film un industriel sauve des centaines de Juifs ?","a":["Schindler's List","The Pianist","Life Is Beautiful"],"correct":"Schindler's List","hint":"Noir et blanc"}
+{"cat":"Drame","q":"Qui joue le rôle de Guido dans Life Is Beautiful ?","a":["Roberto Benigni","Antonio Banderas","Daniel Day-Lewis"],"correct":"Roberto Benigni","hint":"Camp transformé en jeu"}
+{"cat":"Drame","q":"Dans quel film un père protège son fils en inventant un jeu ?","a":["Life Is Beautiful","The Pianist","Schindler's List"],"correct":"Life Is Beautiful","hint":"Italie"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The King's Speech ?","a":["Colin Firth","Geoffrey Rush","Tom Hardy"],"correct":"Colin Firth","hint":"Bégaiement"}
+{"cat":"Drame","q":"Dans quel film un roi lutte contre un trouble de la parole ?","a":["The King's Speech","The Queen","Darkest Hour"],"correct":"The King's Speech","hint":"Discours"}
+{"cat":"Drame","q":"Qui joue le rôle de Stephen Hawking dans The Theory of Everything ?","a":["Eddie Redmayne","Benedict Cumberbatch","Tom Holland"],"correct":"Eddie Redmayne","hint":"Physicien"}
+{"cat":"Drame","q":"Dans quel film la vie de Stephen Hawking est racontée ?","a":["The Theory of Everything","A Beautiful Mind","The Imitation Game"],"correct":"The Theory of Everything","hint":"Maladie"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Wolf of Wall Street ?","a":["Leonardo DiCaprio","Jonah Hill","Matthew McConaughey"],"correct":"Leonardo DiCaprio","hint":"Bourse"}
+{"cat":"Drame","q":"Dans quel film un trader devient millionnaire grâce à des fraudes ?","a":["The Wolf of Wall Street","The Big Short","Margin Call"],"correct":"The Wolf of Wall Street","hint":"Scorsese"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Big Short ?","a":["Christian Bale","Steve Carell","Ryan Gosling"],"correct":"Christian Bale","hint":"Subprimes"}
+{"cat":"Drame","q":"Dans quel film la crise financière est expliquée ?","a":["The Big Short","Margin Call","Inside Job"],"correct":"The Big Short","hint":"Humour noir"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Dallas Buyers Club ?","a":["Matthew McConaughey","Jared Leto","Woody Harrelson"],"correct":"Matthew McConaughey","hint":"VIH"}
+{"cat":"Drame","q":"Dans quel film un homme crée un réseau d’accès à des médicaments ?","a":["Dallas Buyers Club","Philadelphia","The Normal Heart"],"correct":"Dallas Buyers Club","hint":"Cowboy"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Hurt Locker ?","a":["Jeremy Renner","Anthony Mackie","Guy Pearce"],"correct":"Jeremy Renner","hint":"Bombes"}
+{"cat":"Drame","q":"Dans quel film une équipe désamorce des explosifs en Irak ?","a":["The Hurt Locker","American Sniper","Zero Dark Thirty"],"correct":"The Hurt Locker","hint":"Tension"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Spotlight ?","a":["Mark Ruffalo","Michael Keaton","Stanley Tucci"],"correct":"Mark Ruffalo","hint":"Journalisme"}
+{"cat":"Drame","q":"Dans quel film des journalistes enquêtent sur des abus dans l’Église ?","a":["Spotlight","The Post","All the President's Men"],"correct":"Spotlight","hint":"Boston Globe"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans Joker ?","a":["Joaquin Phoenix","Heath Ledger","Jared Leto"],"correct":"Joaquin Phoenix","hint":"Clown"}
+{"cat":"Drame","q":"Dans quel film un homme sombre dans la folie et la violence ?","a":["Joker","Taxi Driver","Fight Club"],"correct":"Joker","hint":"Gotham"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Father ?","a":["Anthony Hopkins","Gary Oldman","Mark Ruffalo"],"correct":"Anthony Hopkins","hint":"Mémoire"}
+{"cat":"Drame","q":"Dans quel film un homme lutte contre la perte de mémoire ?","a":["The Father","Still Alice","Amour"],"correct":"The Father","hint":"Pièces qui changent"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans Gone Girl ?","a":["Ben Affleck","Neil Patrick Harris","Tyler Perry"],"correct":"Ben Affleck","hint":"Disparition"}
+{"cat":"Drame","q":"Dans quel film une femme disparaît le jour de son anniversaire de mariage ?","a":["Gone Girl","Prisoners","Mystic River"],"correct":"Gone Girl","hint":"Manipulation"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Prisoners ?","a":["Hugh Jackman","Jake Gyllenhaal","Paul Dano"],"correct":"Hugh Jackman","hint":"Enlèvement"}
+{"cat":"Drame","q":"Dans quel film deux fillettes disparaissent mystérieusement ?","a":["Prisoners","Gone Girl","Mystic River"],"correct":"Prisoners","hint":"Cave"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans Mystic River ?","a":["Sean Penn","Kevin Bacon","Tim Robbins"],"correct":"Sean Penn","hint":"Drame familial"}
+{"cat":"Drame","q":"Dans quel film trois amis d’enfance sont liés par un crime ?","a":["Mystic River","Gone Baby Gone","The Town"],"correct":"Mystic River","hint":"Boston"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Blue Valentine ?","a":["Ryan Gosling","Jake Gyllenhaal","Bradley Cooper"],"correct":"Ryan Gosling","hint":"Couple en crise"}
+{"cat":"Drame","q":"Dans quel film un couple voit son mariage se dégrader ?","a":["Blue Valentine","Marriage Story","Revolutionary Road"],"correct":"Blue Valentine","hint":"Flashbacks"}
+{"cat":"Drame","q":"Qui joue le rôle de Charlie dans Marriage Story ?","a":["Adam Driver","Ryan Gosling","Ben Affleck"],"correct":"Adam Driver","hint":"Divorce"}
+{"cat":"Drame","q":"Dans quel film un couple se sépare mais reste lié par leur enfant ?","a":["Marriage Story","Blue Valentine","La La Land"],"correct":"Marriage Story","hint":"Scarlett Johansson"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans Birdman ?","a":["Michael Keaton","Edward Norton","Zach Galifianakis"],"correct":"Michael Keaton","hint":"Super-héros déchu"}
+{"cat":"Drame","q":"Dans quel film un acteur tente de relancer sa carrière au théâtre ?","a":["Birdman","Black Swan","Whiplash"],"correct":"Birdman","hint":"Plan-séquence"}
+{"cat":"Drame","q":"Qui joue le rôle de Joy dans Room ?","a":["Brie Larson","Jennifer Lawrence","Emma Stone"],"correct":"Brie Larson","hint":"Captivité"}
+{"cat":"Drame","q":"Dans quel film une femme et son fils s’évadent d’une pièce où ils étaient retenus ?","a":["Room","Prisoners","Gone Girl"],"correct":"Room","hint":"Enfermement"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Andrew dans The Social Network ?","a":["Andrew Garfield","Jesse Eisenberg","Armie Hammer"],"correct":"Andrew Garfield","hint":"Facebook"}
+{"cat":"Drame","q":"Dans quel film la création de Facebook est racontée ?","a":["The Social Network","Jobs","Steve Jobs"],"correct":"The Social Network","hint":"Mark Zuckerberg"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Shawshank Redemption ?","a":["Tim Robbins","Morgan Freeman","Kevin Costner"],"correct":"Tim Robbins","hint":"Prison"}
+{"cat":"Drame","q":"Dans quel film un prisonnier s’évade grâce à un tunnel creusé derrière un poster ?","a":["The Shawshank Redemption","Escape Plan","The Green Mile"],"correct":"The Shawshank Redemption","hint":"Rita Hayworth"}
+{"cat":"Drame","q":"Quel acteur incarne John Coffey dans The Green Mile ?","a":["Michael Clarke Duncan","Tom Hanks","Sam Rockwell"],"correct":"Michael Clarke Duncan","hint":"Pouvoir de guérison"}
+{"cat":"Drame","q":"Dans quel film un prisonnier possède un don surnaturel ?","a":["The Green Mile","The Shawshank Redemption","Seven"],"correct":"The Green Mile","hint":"Souris"}
+{"cat":"Drame","q":"Qui joue le rôle de Andrew dans The Revenant ?","a":["Leonardo DiCaprio","Tom Hardy","Domhnall Gleeson"],"correct":"Leonardo DiCaprio","hint":"Ours"}
+{"cat":"Drame","q":"Dans quel film un trappeur survit dans la neige après une attaque ?","a":["The Revenant","Dances with Wolves","The Road"],"correct":"The Revenant","hint":"Frontière"}
+{"cat":"Drame","q":"Quel acteur incarne Maximus dans Gladiator ?","a":["Russell Crowe","Joaquin Phoenix","Gerard Butler"],"correct":"Russell Crowe","hint":"Rome"}
+{"cat":"Drame","q":"Dans quel film un général devient gladiateur pour venger sa famille ?","a":["Gladiator","Troy","300"],"correct":"Gladiator","hint":"Arène"}
+{"cat":"Drame","q":"Qui joue le rôle de Władysław Szpilman dans The Pianist ?","a":["Adrien Brody","Daniel Craig","Joseph Fiennes"],"correct":"Adrien Brody","hint":"Piano"}
+{"cat":"Drame","q":"Dans quel film un pianiste tente de survivre à la guerre ?","a":["The Pianist","Schindler's List","Life Is Beautiful"],"correct":"The Pianist","hint":"Varsovie"}
+{"cat":"Drame","q":"Quel acteur incarne Oskar Schindler ?","a":["Liam Neeson","Ralph Fiennes","Ben Kingsley"],"correct":"Liam Neeson","hint":"Liste"}
+{"cat":"Drame","q":"Dans quel film un industriel sauve des centaines de Juifs ?","a":["Schindler's List","The Pianist","Life Is Beautiful"],"correct":"Schindler's List","hint":"Noir et blanc"}
+{"cat":"Drame","q":"Qui joue le rôle de Guido dans Life Is Beautiful ?","a":["Roberto Benigni","Antonio Banderas","Daniel Day-Lewis"],"correct":"Roberto Benigni","hint":"Camp transformé en jeu"}
+{"cat":"Drame","q":"Dans quel film un père protège son fils en inventant un jeu ?","a":["Life Is Beautiful","The Pianist","Schindler's List"],"correct":"Life Is Beautiful","hint":"Italie"}
+{"cat":"Drame","q":"Quel acteur incarne le roi George VI dans The King's Speech ?","a":["Colin Firth","Geoffrey Rush","Tom Hardy"],"correct":"Colin Firth","hint":"Bégaiement"}
+{"cat":"Drame","q":"Dans quel film un roi lutte contre un trouble de la parole ?","a":["The King's Speech","The Queen","Darkest Hour"],"correct":"The King's Speech","hint":"Discours"}
+{"cat":"Drame","q":"Qui joue Stephen Hawking dans The Theory of Everything ?","a":["Eddie Redmayne","Benedict Cumberbatch","Tom Holland"],"correct":"Eddie Redmayne","hint":"Physicien"}
+{"cat":"Drame","q":"Dans quel film la vie de Stephen Hawking est racontée ?","a":["The Theory of Everything","A Beautiful Mind","The Imitation Game"],"correct":"The Theory of Everything","hint":"Maladie"}
+{"cat":"Drame","q":"Quel acteur incarne Jordan Belfort dans The Wolf of Wall Street ?","a":["Leonardo DiCaprio","Jonah Hill","Matthew McConaughey"],"correct":"Leonardo DiCaprio","hint":"Bourse"}
+{"cat":"Drame","q":"Dans quel film un trader devient millionnaire grâce à des fraudes ?","a":["The Wolf of Wall Street","The Big Short","Margin Call"],"correct":"The Wolf of Wall Street","hint":"Scorsese"}
+{"cat":"Drame","q":"Qui joue Michael Burry dans The Big Short ?","a":["Christian Bale","Steve Carell","Ryan Gosling"],"correct":"Christian Bale","hint":"Subprimes"}
+{"cat":"Drame","q":"Dans quel film la crise financière est expliquée ?","a":["The Big Short","Margin Call","Inside Job"],"correct":"The Big Short","hint":"Humour noir"}
+{"cat":"Drame","q":"Quel acteur incarne Ron Woodroof dans Dallas Buyers Club ?","a":["Matthew McConaughey","Jared Leto","Woody Harrelson"],"correct":"Matthew McConaughey","hint":"VIH"}
+{"cat":"Drame","q":"Dans quel film un homme crée un réseau d’accès à des médicaments ?","a":["Dallas Buyers Club","Philadelphia","The Normal Heart"],"correct":"Dallas Buyers Club","hint":"Cowboy"}
+{"cat":"Drame","q":"Qui joue William James dans The Hurt Locker ?","a":["Jeremy Renner","Anthony Mackie","Guy Pearce"],"correct":"Jeremy Renner","hint":"Bombes"}
+{"cat":"Drame","q":"Dans quel film une équipe désamorce des explosifs en Irak ?","a":["The Hurt Locker","American Sniper","Zero Dark Thirty"],"correct":"The Hurt Locker","hint":"Tension"}
+{"cat":"Drame","q":"Quel acteur incarne Mike Rezendes dans Spotlight ?","a":["Mark Ruffalo","Michael Keaton","Stanley Tucci"],"correct":"Mark Ruffalo","hint":"Journalisme"}
+{"cat":"Drame","q":"Dans quel film des journalistes enquêtent sur des abus dans l’Église ?","a":["Spotlight","The Post","All the President's Men"],"correct":"Spotlight","hint":"Boston"}
+{"cat":"Drame","q":"Qui joue Arthur Fleck dans Joker ?","a":["Joaquin Phoenix","Heath Ledger","Jared Leto"],"correct":"Joaquin Phoenix","hint":"Clown"}
+{"cat":"Drame","q":"Dans quel film un homme sombre dans la folie et la violence ?","a":["Joker","Taxi Driver","Fight Club"],"correct":"Joker","hint":"Gotham"}
+{"cat":"Drame","q":"Quel acteur incarne Anthony dans The Father ?","a":["Anthony Hopkins","Gary Oldman","Mark Ruffalo"],"correct":"Anthony Hopkins","hint":"Mémoire"}
+{"cat":"Drame","q":"Dans quel film un homme lutte contre la perte de mémoire ?","a":["The Father","Still Alice","Amour"],"correct":"The Father","hint":"Pièces qui changent"}
+{"cat":"Drame","q":"Qui joue Nick Dunne dans Gone Girl ?","a":["Ben Affleck","Neil Patrick Harris","Tyler Perry"],"correct":"Ben Affleck","hint":"Disparition"}
+{"cat":"Drame","q":"Dans quel film une femme disparaît le jour de son anniversaire de mariage ?","a":["Gone Girl","Prisoners","Mystic River"],"correct":"Gone Girl","hint":"Manipulation"}
+{"cat":"Drame","q":"Quel acteur incarne Keller Dover dans Prisoners ?","a":["Hugh Jackman","Jake Gyllenhaal","Paul Dano"],"correct":"Hugh Jackman","hint":"Enlèvement"}
+{"cat":"Drame","q":"Dans quel film deux fillettes disparaissent mystérieusement ?","a":["Prisoners","Gone Girl","Mystic River"],"correct":"Prisoners","hint":"Cave"}
+{"cat":"Drame","q":"Qui joue Jimmy Markum dans Mystic River ?","a":["Sean Penn","Kevin Bacon","Tim Robbins"],"correct":"Sean Penn","hint":"Drame familial"}
+{"cat":"Drame","q":"Dans quel film trois amis d’enfance sont liés par un crime ?","a":["Mystic River","Gone Baby Gone","The Town"],"correct":"Mystic River","hint":"Boston"}
+{"cat":"Drame","q":"Quel acteur incarne Dean dans Blue Valentine ?","a":["Ryan Gosling","Jake Gyllenhaal","Bradley Cooper"],"correct":"Ryan Gosling","hint":"Couple en crise"}
+{"cat":"Drame","q":"Dans quel film un couple voit son mariage se dégrader ?","a":["Blue Valentine","Marriage Story","Revolutionary Road"],"correct":"Blue Valentine","hint":"Flashbacks"}
+{"cat":"Drame","q":"Qui joue Charlie Barber dans Marriage Story ?","a":["Adam Driver","Ryan Gosling","Ben Affleck"],"correct":"Adam Driver","hint":"Divorce"}
+{"cat":"Drame","q":"Dans quel film un couple se sépare mais reste lié par leur enfant ?","a":["Marriage Story","Blue Valentine","La La Land"],"correct":"Marriage Story","hint":"Scarlett Johansson"}
+{"cat":"Drame","q":"Quel acteur incarne Riggan Thomson dans Birdman ?","a":["Michael Keaton","Edward Norton","Zach Galifianakis"],"correct":"Michael Keaton","hint":"Super-héros déchu"}
+{"cat":"Drame","q":"Dans quel film un acteur tente de relancer sa carrière au théâtre ?","a":["Birdman","Black Swan","Whiplash"],"correct":"Birdman","hint":"Plan-séquence"}
+{"cat":"Drame","q":"Qui joue Joy dans Room ?","a":["Brie Larson","Jennifer Lawrence","Emma Stone"],"correct":"Brie Larson","hint":"Captivité"}
+{"cat":"Drame","q":"Dans quel film une femme et son fils s’évadent d’une pièce où ils étaient retenus ?","a":["Room","Prisoners","Gone Girl"],"correct":"Room","hint":"Enfermement"}
+{"cat":"Drame","q":"Quel acteur incarne Eduardo Saverin dans The Social Network ?","a":["Andrew Garfield","Jesse Eisenberg","Armie Hammer"],"correct":"Andrew Garfield","hint":"Facebook"}
+{"cat":"Drame","q":"Dans quel film la création de Facebook est racontée ?","a":["The Social Network","Jobs","Steve Jobs"],"correct":"The Social Network","hint":"Mark Zuckerberg"}

@@ -1,0 +1,715 @@
+{"cat":"HistoireMonde","q":"Quel explorateur a découvert l’Amérique en 1492 ?","a":["Christophe Colomb","Vasco de Gama","Magellan"],"correct":"Christophe Colomb","hint":"Espagne"}
+{"cat":"HistoireMonde","q":"En quelle année a eu lieu la chute de l’Empire romain d’Occident ?","a":["476","410","529"],"correct":"476","hint":"Fin antique"}
+{"cat":"HistoireMonde","q":"Qui était le premier empereur de Rome ?","a":["Auguste","Jules César","Néron"],"correct":"Auguste","hint":"Pax Romana"}
+{"cat":"HistoireMonde","q":"Quel peuple a construit les pyramides de Gizeh ?","a":["Égyptiens","Mayas","Perses"],"correct":"Égyptiens","hint":"Pharaons"}
+{"cat":"HistoireMonde","q":"Qui a mené les conquêtes mongoles au XIIIe siècle ?","a":["Gengis Khan","Kublai Khan","Tamerlan"],"correct":"Gengis Khan","hint":"Empire immense"}
+{"cat":"HistoireMonde","q":"Quel pays a lancé la première bombe atomique en 1945 ?","a":["États-Unis","URSS","Japon"],"correct":"États-Unis","hint":"Seconde Guerre mondiale"}
+{"cat":"HistoireMonde","q":"Qui était le leader de l’Inde indépendante en 1947 ?","a":["Nehru","Gandhi","Patel"],"correct":"Nehru","hint":"Premier ministre"}
+{"cat":"HistoireMonde","q":"Quel mur est tombé en 1989 ?","a":["Mur de Berlin","Mur d’Hadrien","Mur des Lamentations"],"correct":"Mur de Berlin","hint":"Guerre froide"}
+{"cat":"HistoireMonde","q":"Qui a peint la Joconde ?","a":["Léonard de Vinci","Michel-Ange","Raphaël"],"correct":"Léonard de Vinci","hint":"Renaissance"}
+{"cat":"HistoireMonde","q":"Quel empire a construit le Machu Picchu ?","a":["Inca","Aztèque","Maya"],"correct":"Inca","hint":"Pérou"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’URSS pendant la Seconde Guerre mondiale ?","a":["Staline","Lénine","Khrouchtchev"],"correct":"Staline","hint":"Dictateur"}
+{"cat":"HistoireMonde","q":"Quel pays a été le premier à envoyer un homme dans l’espace ?","a":["URSS","États-Unis","Chine"],"correct":"URSS","hint":"Gagarine"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire perse achéménide ?","a":["Cyrus le Grand","Darius","Xerxès"],"correct":"Cyrus le Grand","hint":"Persépolis"}
+{"cat":"HistoireMonde","q":"Quel événement a déclenché la Première Guerre mondiale ?","a":["Assassinat de François-Ferdinand","Invasion de la Pologne","Révolution russe"],"correct":"Assassinat de François-Ferdinand","hint":"Sarajevo"}
+{"cat":"HistoireMonde","q":"Qui était le premier homme sur la Lune ?","a":["Neil Armstrong","Buzz Aldrin","Michael Collins"],"correct":"Neil Armstrong","hint":"Apollo 11"}
+{"cat":"HistoireMonde","q":"Quel pays a construit la Grande Muraille ?","a":["Chine","Japon","Corée"],"correct":"Chine","hint":"Dynasties"}
+{"cat":"HistoireMonde","q":"Qui a écrit l’Odyssée ?","a":["Homère","Virgile","Sophocle"],"correct":"Homère","hint":"Épopée"}
+{"cat":"HistoireMonde","q":"Quel empire a été dirigé par Ramsès II ?","a":["Égypte","Babylone","Assyrie"],"correct":"Égypte","hint":"Pharaon"}
+{"cat":"HistoireMonde","q":"Qui a mené la révolution cubaine ?","a":["Fidel Castro","Che Guevara","Batista"],"correct":"Fidel Castro","hint":"Barbe"}
+{"cat":"HistoireMonde","q":"Quel pays a été envahi par Napoléon en 1812 ?","a":["Russie","Espagne","Italie"],"correct":"Russie","hint":"Hiver"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire macédonien ?","a":["Alexandre le Grand","Philippe II","Antigone"],"correct":"Alexandre le Grand","hint":"Conquérant"}
+{"cat":"HistoireMonde","q":"Quel pays a subi le génocide des Tutsis en 1994 ?","a":["Rwanda","Soudan","Éthiopie"],"correct":"Rwanda","hint":"Afrique"}
+{"cat":"HistoireMonde","q":"Qui a découvert la pénicilline ?","a":["Alexander Fleming","Pasteur","Marie Curie"],"correct":"Alexander Fleming","hint":"Antibiotique"}
+{"cat":"HistoireMonde","q":"Quel empire a construit les routes royales en Perse ?","a":["Achéménides","Romains","Ottomans"],"correct":"Achéménides","hint":"Cyrus"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Afrique du Sud après l’apartheid ?","a":["Nelson Mandela","Desmond Tutu","Jacob Zuma"],"correct":"Nelson Mandela","hint":"Liberté"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire ottoman ?","a":["Turquie","Grèce","Iran"],"correct":"Turquie","hint":"Istanbul"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Prince ?","a":["Machiavel","Descartes","Voltaire"],"correct":"Machiavel","hint":"Politique"}
+{"cat":"HistoireMonde","q":"Quel événement a marqué le début de la Révolution française ?","a":["Prise de la Bastille","Serment du Jeu de Paume","Fuite à Varennes"],"correct":"Prise de la Bastille","hint":"14 juillet"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire carolingien ?","a":["Charlemagne","Clovis","Charles Martel"],"correct":"Charlemagne","hint":"Couronnement"}
+{"cat":"HistoireMonde","q":"Quel pays a été dirigé par Mao Zedong ?","a":["Chine","Corée","Vietnam"],"correct":"Chine","hint":"Communisme"}
+{"cat":"HistoireMonde","q":"Qui a découvert le Pacifique ?","a":["Magellan","Colomb","Cook"],"correct":"Magellan","hint":"Tour du monde"}
+{"cat":"HistoireMonde","q":"Quel empire a construit Angkor Wat ?","a":["Khmer","Mongol","Chinois"],"correct":"Khmer","hint":"Cambodge"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Allemagne nazie ?","a":["Hitler","Goebbels","Himmler"],"correct":"Hitler","hint":"Dictateur"}
+{"cat":"HistoireMonde","q":"Quel pays a lancé Spoutnik en 1957 ?","a":["URSS","États-Unis","France"],"correct":"URSS","hint":"Satellite"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire aztèque ?","a":["Itzcoatl","Moctezuma","Cuitláhuac"],"correct":"Itzcoatl","hint":"Mexique"}
+{"cat":"HistoireMonde","q":"Quel pays a été colonisé par les Britanniques en Océanie ?","a":["Australie","Fidji","Samoa"],"correct":"Australie","hint":"Prisonniers"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Capital ?","a":["Karl Marx","Engels","Lénine"],"correct":"Karl Marx","hint":"Économie"}
+{"cat":"HistoireMonde","q":"Quel empire a construit Petra ?","a":["Nabatéens","Romains","Perses"],"correct":"Nabatéens","hint":"Jordanie"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Égypte moderne après 1952 ?","a":["Nasser","Sadate","Moubarak"],"correct":"Nasser","hint":"Révolution"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution islamique en 1979 ?","a":["Iran","Irak","Syrie"],"correct":"Iran","hint":"Ayatollah"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire romain d’Orient ?","a":["Constantin","Théodose","Justinian"],"correct":"Constantin","hint":"Byzance"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire inca ?","a":["Pérou","Bolivie","Équateur"],"correct":"Pérou","hint":"Cusco"}
+{"cat":"HistoireMonde","q":"Qui a dirigé la révolution américaine ?","a":["George Washington","Jefferson","Franklin"],"correct":"George Washington","hint":"Indépendance"}
+{"cat":"HistoireMonde","q":"Quel pays a été envahi par les Vikings au IXe siècle ?","a":["Angleterre","France","Espagne"],"correct":"Angleterre","hint":"Drakkars"}
+{"cat":"HistoireMonde","q":"Qui a écrit L’Art de la guerre ?","a":["Sun Tzu","Confucius","Lao Tseu"],"correct":"Sun Tzu","hint":"Stratégie"}
+{"cat":"HistoireMonde","q":"Quel pays a été dirigé par Churchill pendant la Seconde Guerre mondiale ?","a":["Royaume-Uni","France","Canada"],"correct":"Royaume-Uni","hint":"Discours"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire babylonien ?","a":["Hammourabi","Sargon","Assurbanipal"],"correct":"Hammourabi","hint":"Code"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire ottoman ?","a":["Turquie","Grèce","Iran"],"correct":"Turquie","hint":"Istanbul"}
+{"cat":"HistoireMonde","q":"Quel pays a construit les pyramides de Teotihuacan ?","a":["Mexique","Pérou","Guatemala"],"correct":"Mexique","hint":"Civilisation précolombienne"}
+{"cat":"HistoireMonde","q":"Qui a unifié la Chine en 221 av. J.-C. ?","a":["Qin Shi Huang","Han Wudi","Sun Tzu"],"correct":"Qin Shi Huang","hint":"Premier empereur"}
+{"cat":"HistoireMonde","q":"Quel empire a été dirigé par Soliman le Magnifique ?","a":["Empire ottoman","Empire perse","Empire moghol"],"correct":"Empire ottoman","hint":"XVIe siècle"}
+{"cat":"HistoireMonde","q":"Qui a découvert l’Australie pour les Britanniques ?","a":["James Cook","Magellan","Vasco de Gama"],"correct":"James Cook","hint":"Océanie"}
+{"cat":"HistoireMonde","q":"Quel pays a lancé la révolution culturelle ?","a":["Chine","Corée du Nord","Vietnam"],"correct":"Chine","hint":"Mao"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire moghol en Inde ?","a":["Babur","Akbar","Shah Jahan"],"correct":"Babur","hint":"Descendant de Tamerlan"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la peste noire au XIVe siècle ?","a":["Europe","Chine","Inde"],"correct":"Europe","hint":"Pandémie"}
+{"cat":"HistoireMonde","q":"Qui a dirigé la révolution russe de 1917 ?","a":["Lénine","Trotski","Staline"],"correct":"Lénine","hint":"Bolcheviks"}
+{"cat":"HistoireMonde","q":"Quel pays a été divisé en deux après 1945 ?","a":["Allemagne","Italie","Espagne"],"correct":"Allemagne","hint":"Guerre froide"}
+{"cat":"HistoireMonde","q":"Qui a écrit La République ?","a":["Platon","Aristote","Socrate"],"correct":"Platon","hint":"Philosophie"}
+{"cat":"HistoireMonde","q":"Quel pays a construit Stonehenge ?","a":["Royaume-Uni","Irlande","France"],"correct":"Royaume-Uni","hint":"Cercle de pierres"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Égypte lors de la bataille d’Actium ?","a":["Cléopâtre","Néfertiti","Hatchepsout"],"correct":"Cléopâtre","hint":"Antiquité"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire byzantin ?","a":["Grèce","Turquie","Bulgarie"],"correct":"Turquie","hint":"Constantinople"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire du Mali ?","a":["Soundiata Keïta","Mansa Moussa","Askia"],"correct":"Soundiata Keïta","hint":"Afrique de l’Ouest"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la guerre du Vietnam ?","a":["Vietnam","Cambodge","Laos"],"correct":"Vietnam","hint":"Asie du Sud-Est"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire carthaginois contre Rome ?","a":["Hannibal","Hamilcar","Hasdrubal"],"correct":"Hannibal","hint":"Éléphants"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire maya ?","a":["Guatemala","Mexique","Honduras"],"correct":"Guatemala","hint":"Tikal"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Misérables ?","a":["Victor Hugo","Balzac","Zola"],"correct":"Victor Hugo","hint":"XIXe siècle"}
+{"cat":"HistoireMonde","q":"Quel pays a été dirigé par Franco ?","a":["Espagne","Portugal","Italie"],"correct":"Espagne","hint":"Dictature"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire assyrien ?","a":["Sargon II","Assurbanipal","Tiglath-Phalasar"],"correct":"Sargon II","hint":"Mésopotamie"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire khmer ?","a":["Cambodge","Thaïlande","Laos"],"correct":"Cambodge","hint":"Angkor"}
+{"cat":"HistoireMonde","q":"Qui a dirigé la révolution iranienne ?","a":["Khomeini","Mossadegh","Reza Shah"],"correct":"Khomeini","hint":"1979"}
+{"cat":"HistoireMonde","q":"Quel pays a été envahi par les Normands en 1066 ?","a":["Angleterre","Irlande","Écosse"],"correct":"Angleterre","hint":"Hastings"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Contrat social ?","a":["Rousseau","Montesquieu","Voltaire"],"correct":"Rousseau","hint":"Philosophie politique"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire sassanide ?","a":["Iran","Turquie","Irak"],"correct":"Iran","hint":"Perse"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire moghol lors de la construction du Taj Mahal ?","a":["Shah Jahan","Akbar","Aurangzeb"],"correct":"Shah Jahan","hint":"Amour"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire hittite ?","a":["Turquie","Grèce","Syrie"],"correct":"Turquie","hint":"Anatolie"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire du Ghana médiéval ?","a":["Dinga","Mansa Moussa","Soundiata"],"correct":"Dinga","hint":"Afrique de l’Ouest"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la guerre des Boers ?","a":["Afrique du Sud","Namibie","Botswana"],"correct":"Afrique du Sud","hint":"Colonisation"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la Pax Romana ?","a":["Auguste","Trajan","Hadrien"],"correct":"Auguste","hint":"Paix"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire omeyyade ?","a":["Syrie","Arabie","Égypte"],"correct":"Syrie","hint":"Damas"}
+{"cat":"HistoireMonde","q":"Qui a écrit La Divine Comédie ?","a":["Dante","Boccace","Pétrarque"],"correct":"Dante","hint":"Enfer"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire almohade ?","a":["Maroc","Algérie","Tunisie"],"correct":"Maroc","hint":"Maghreb"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire mongol après Gengis Khan ?","a":["Ögedeï","Kublai","Tamerlan"],"correct":"Ögedeï","hint":"Successeur"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire achéménide ?","a":["Iran","Turquie","Irak"],"correct":"Iran","hint":"Persépolis"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Discours de la méthode ?","a":["Descartes","Pascal","Spinoza"],"correct":"Descartes","hint":"Cogito"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire zoulou ?","a":["Afrique du Sud","Zimbabwe","Mozambique"],"correct":"Afrique du Sud","hint":"Shaka"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la christianisation ?","a":["Constantin","Théodose","Néron"],"correct":"Constantin","hint":"Édit de Milan"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire maurya ?","a":["Inde","Pakistan","Bangladesh"],"correct":"Inde","hint":"Ashoka"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Mille et Une Nuits ?","a":["Auteurs multiples","Ibn Khaldoun","Al-Farabi"],"correct":"Auteurs multiples","hint":"Contes"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire romain d’Orient ?","a":["Turquie","Grèce","Bulgarie"],"correct":"Turquie","hint":"Byzance"}
+{"cat":"HistoireMonde","q":"Qui a dirigé la révolution mexicaine ?","a":["Pancho Villa","Zapata","Madero"],"correct":"Pancho Villa","hint":"Nord"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire inca ?","a":["Pérou","Bolivie","Équateur"],"correct":"Pérou","hint":"Cusco"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Livre des Morts ?","a":["Égyptiens","Sumériens","Perses"],"correct":"Égyptiens","hint":"Papyrus"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire ottoman ?","a":["Turquie","Grèce","Iran"],"correct":"Turquie","hint":"Istanbul"}
+{"cat":"HistoireMonde","q":"Qui a dirigé la révolution française ?","a":["Robespierre","Danton","Marat"],"correct":"Robespierre","hint":"Terreur"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire romain ?","a":["Italie","France","Espagne"],"correct":"Italie","hint":"Rome"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Banquet ?","a":["Platon","Aristote","Socrate"],"correct":"Platon","hint":"Philosophie"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire romain d’Occident ?","a":["Italie","France","Espagne"],"correct":"Italie","hint":"Rome"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Égypte lors de la construction des pyramides ?","a":["Khéops","Ramsès II","Toutankhamon"],"correct":"Khéops","hint":"Gizeh"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire mongol ?","a":["Mongolie","Chine","Russie"],"correct":"Mongolie","hint":"Steppe"}
+{"cat":"HistoireMonde","q":"Qui a écrit L’Iliade ?","a":["Homère","Virgile","Sophocle"],"correct":"Homère","hint":"Épopée grecque"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire ottoman ?","a":["Turquie","Grèce","Iran"],"correct":"Turquie","hint":"Istanbul"}
+{"cat":"HistoireMonde","q":"Qui a dirigé la Chine pendant la dynastie Ming ?","a":["Hongwu","Qin Shi Huang","Kangxi"],"correct":"Hongwu","hint":"Fondation"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution bolchévique ?","a":["Russie","Ukraine","Pologne"],"correct":"Russie","hint":"1917"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire macédonien ?","a":["Alexandre le Grand","Philippe II","Cassandre"],"correct":"Alexandre le Grand","hint":"Conquérant"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire inca ?","a":["Pérou","Bolivie","Équateur"],"correct":"Pérou","hint":"Cusco"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Livre des Rois (Shahnameh) ?","a":["Ferdowsi","Rumi","Hafez"],"correct":"Ferdowsi","hint":"Persan"}
+{"cat":"HistoireMonde","q":"Quel pays a été envahi par les Vikings au IXe siècle ?","a":["Angleterre","France","Espagne"],"correct":"Angleterre","hint":"Drakkars"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la chute de Jérusalem ?","a":["Titus","Néron","Trajan"],"correct":"Titus","hint":"70 ap. J.-C."}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire maya ?","a":["Guatemala","Mexique","Honduras"],"correct":"Guatemala","hint":"Tikal"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire perse sassanide ?","a":["Ardashir Ier","Cyrus","Darius"],"correct":"Ardashir Ier","hint":"IIIe siècle"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la guerre de Crimée ?","a":["Ukraine","Russie","Turquie"],"correct":"Ukraine","hint":"Mer Noire"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la division en deux ?","a":["Dioclétien","Constantin","Théodose"],"correct":"Dioclétien","hint":"Tétrarchie"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire hittite ?","a":["Turquie","Grèce","Syrie"],"correct":"Turquie","hint":"Anatolie"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Livre des Morts ?","a":["Égyptiens","Sumériens","Perses"],"correct":"Égyptiens","hint":"Papyrus"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution des Œillets ?","a":["Portugal","Espagne","Italie"],"correct":"Portugal","hint":"1974"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire moghol lors de son apogée ?","a":["Akbar","Babur","Aurangzeb"],"correct":"Akbar","hint":"Inde"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire carthaginois ?","a":["Tunisie","Libye","Algérie"],"correct":"Tunisie","hint":"Carthage"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Prince ?","a":["Machiavel","Voltaire","Rousseau"],"correct":"Machiavel","hint":"Politique"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1911 ?","a":["Chine","Japon","Corée"],"correct":"Chine","hint":"Fin de l’empire"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la construction du Colisée ?","a":["Vespasien","Néron","Trajan"],"correct":"Vespasien","hint":"Amphithéâtre"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire babylonien ?","a":["Irak","Iran","Syrie"],"correct":"Irak","hint":"Mésopotamie"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire du Ghana médiéval ?","a":["Dinga","Mansa Moussa","Soundiata"],"correct":"Dinga","hint":"Afrique de l’Ouest"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la guerre des Malouines ?","a":["Argentine","Chili","Uruguay"],"correct":"Argentine","hint":"1982"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la conquête de la Gaule ?","a":["Jules César","Auguste","Trajan"],"correct":"Jules César","hint":"Légions"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire omeyyade ?","a":["Syrie","Arabie","Égypte"],"correct":"Syrie","hint":"Damas"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Méditations ?","a":["Marc Aurèle","Sénèque","Cicéron"],"correct":"Marc Aurèle","hint":"Stoïcisme"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1905 ?","a":["Russie","Allemagne","Autriche"],"correct":"Russie","hint":"Tsar"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la conquête de la Bretagne ?","a":["Claude","Néron","Hadrien"],"correct":"Claude","hint":"Île"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire khmer ?","a":["Cambodge","Thaïlande","Laos"],"correct":"Cambodge","hint":"Angkor"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Discours de la méthode ?","a":["Descartes","Pascal","Spinoza"],"correct":"Descartes","hint":"Cogito"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1848 ?","a":["France","Italie","Allemagne"],"correct":"France","hint":"Printemps des peuples"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la construction du Panthéon ?","a":["Hadrien","Trajan","Auguste"],"correct":"Hadrien","hint":"Temple"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire sassanide ?","a":["Iran","Irak","Turquie"],"correct":"Iran","hint":"Perses"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Livre des Merveilles ?","a":["Marco Polo","Ibn Battuta","Hérodote"],"correct":"Marco Polo","hint":"Voyage"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1910 ?","a":["Mexique","Brésil","Argentine"],"correct":"Mexique","hint":"Zapata"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la conquête de la Dacie ?","a":["Trajan","Auguste","Néron"],"correct":"Trajan","hint":"Colonne"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire maurya ?","a":["Inde","Pakistan","Bangladesh"],"correct":"Inde","hint":"Ashoka"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Livre des Rois (Shahnameh) ?","a":["Ferdowsi","Rumi","Hafez"],"correct":"Ferdowsi","hint":"Persan"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1789 ?","a":["France","Espagne","Italie"],"correct":"France","hint":"Bastille"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la christianisation ?","a":["Constantin","Théodose","Néron"],"correct":"Constantin","hint":"Édit de Milan"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire zoulou ?","a":["Afrique du Sud","Zimbabwe","Mozambique"],"correct":"Afrique du Sud","hint":"Shaka"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Banquet ?","a":["Platon","Aristote","Socrate"],"correct":"Platon","hint":"Philosophie"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1917 ?","a":["Russie","Ukraine","Finlande"],"correct":"Russie","hint":"Bolcheviks"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la conquête de l’Égypte ?","a":["Auguste","Jules César","Trajan"],"correct":"Auguste","hint":"Cléopâtre"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire romain d’Orient ?","a":["Turquie","Grèce","Bulgarie"],"correct":"Turquie","hint":"Byzance"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire ottoman lors de sa plus grande expansion ?","a":["Soliman le Magnifique","Mehmet II","Selim Ier"],"correct":"Soliman le Magnifique","hint":"XVIe siècle"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la guerre de Sécession ?","a":["États-Unis","Mexique","Canada"],"correct":"États-Unis","hint":"Nord vs Sud"}
+{"cat":"HistoireMonde","q":"Qui a écrit L’Art de la guerre ?","a":["Sun Tzu","Confucius","Lao Tseu"],"correct":"Sun Tzu","hint":"Stratégie"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire perse achéménide ?","a":["Iran","Turquie","Irak"],"correct":"Iran","hint":"Persépolis"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la conquête de la Gaule ?","a":["Jules César","Auguste","Trajan"],"correct":"Jules César","hint":"Légions"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1917 ?","a":["Russie","Ukraine","Finlande"],"correct":"Russie","hint":"Bolcheviks"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire macédonien ?","a":["Alexandre le Grand","Philippe II","Cassandre"],"correct":"Alexandre le Grand","hint":"Conquérant"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire maya ?","a":["Guatemala","Mexique","Honduras"],"correct":"Guatemala","hint":"Tikal"}
+{"cat":"HistoireMonde","q":"Qui a écrit La République ?","a":["Platon","Aristote","Socrate"],"correct":"Platon","hint":"Philosophie"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution culturelle ?","a":["Chine","Vietnam","Corée"],"correct":"Chine","hint":"Mao"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la construction du Panthéon ?","a":["Hadrien","Trajan","Auguste"],"correct":"Hadrien","hint":"Temple"}
+{"cat":"HistoireMonde","q":"Quel pays a été envahi par les Normands en 1066 ?","a":["Angleterre","Irlande","Écosse"],"correct":"Angleterre","hint":"Hastings"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Contrat social ?","a":["Rousseau","Voltaire","Montesquieu"],"correct":"Rousseau","hint":"Philosophie politique"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la guerre du Vietnam ?","a":["Vietnam","Cambodge","Laos"],"correct":"Vietnam","hint":"Asie du Sud-Est"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire moghol lors de la construction du Taj Mahal ?","a":["Shah Jahan","Akbar","Aurangzeb"],"correct":"Shah Jahan","hint":"Amour"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire hittite ?","a":["Turquie","Grèce","Syrie"],"correct":"Turquie","hint":"Anatolie"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Mille et Une Nuits ?","a":["Auteurs multiples","Ibn Khaldoun","Al-Farabi"],"correct":"Auteurs multiples","hint":"Contes"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution des Œillets ?","a":["Portugal","Espagne","Italie"],"correct":"Portugal","hint":"1974"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la division en deux ?","a":["Dioclétien","Constantin","Théodose"],"correct":"Dioclétien","hint":"Tétrarchie"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire khmer ?","a":["Cambodge","Thaïlande","Laos"],"correct":"Cambodge","hint":"Angkor"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Discours de la méthode ?","a":["Descartes","Pascal","Spinoza"],"correct":"Descartes","hint":"Cogito"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1848 ?","a":["France","Italie","Allemagne"],"correct":"France","hint":"Printemps des peuples"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la conquête de la Bretagne ?","a":["Claude","Néron","Hadrien"],"correct":"Claude","hint":"Île"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire sassanide ?","a":["Iran","Irak","Turquie"],"correct":"Iran","hint":"Perses"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Livre des Merveilles ?","a":["Marco Polo","Ibn Battuta","Hérodote"],"correct":"Marco Polo","hint":"Voyage"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1910 ?","a":["Mexique","Brésil","Argentine"],"correct":"Mexique","hint":"Zapata"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la conquête de la Dacie ?","a":["Trajan","Auguste","Néron"],"correct":"Trajan","hint":"Colonne"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire maurya ?","a":["Inde","Pakistan","Bangladesh"],"correct":"Inde","hint":"Ashoka"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Livre des Rois (Shahnameh) ?","a":["Ferdowsi","Rumi","Hafez"],"correct":"Ferdowsi","hint":"Persan"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1789 ?","a":["France","Espagne","Italie"],"correct":"France","hint":"Bastille"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la christianisation ?","a":["Constantin","Théodose","Néron"],"correct":"Constantin","hint":"Édit de Milan"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire zoulou ?","a":["Afrique du Sud","Zimbabwe","Mozambique"],"correct":"Afrique du Sud","hint":"Shaka"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Banquet ?","a":["Platon","Aristote","Socrate"],"correct":"Platon","hint":"Philosophie"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1905 ?","a":["Russie","Allemagne","Autriche"],"correct":"Russie","hint":"Tsar"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la conquête de l’Égypte ?","a":["Auguste","Jules César","Trajan"],"correct":"Auguste","hint":"Cléopâtre"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire omeyyade ?","a":["Syrie","Arabie","Égypte"],"correct":"Syrie","hint":"Damas"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Méditations ?","a":["Marc Aurèle","Sénèque","Cicéron"],"correct":"Marc Aurèle","hint":"Stoïcisme"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la guerre des Malouines ?","a":["Argentine","Chili","Uruguay"],"correct":"Argentine","hint":"1982"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la chute de Jérusalem ?","a":["Titus","Néron","Trajan"],"correct":"Titus","hint":"70 ap. J.-C."}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire babylonien ?","a":["Irak","Iran","Syrie"],"correct":"Irak","hint":"Mésopotamie"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire du Ghana médiéval ?","a":["Dinga","Mansa Moussa","Soundiata"],"correct":"Dinga","hint":"Afrique de l’Ouest"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la guerre de Crimée ?","a":["Ukraine","Russie","Turquie"],"correct":"Ukraine","hint":"Mer Noire"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la Pax Romana ?","a":["Auguste","Trajan","Hadrien"],"correct":"Auguste","hint":"Paix"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire almohade ?","a":["Maroc","Algérie","Tunisie"],"correct":"Maroc","hint":"Maghreb"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Livre des Morts ?","a":["Égyptiens","Sumériens","Perses"],"correct":"Égyptiens","hint":"Papyrus"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire romain ?","a":["Italie","France","Espagne"],"correct":"Italie","hint":"Rome"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire romain d’Occident ?","a":["Italie","France","Espagne"],"correct":"Italie","hint":"Rome"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la conquête de l’Hispanie ?","a":["Auguste","Trajan","Néron"],"correct":"Auguste","hint":"Expansion"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1830 ?","a":["France","Belgique","Italie"],"correct":"France","hint":"Trois Glorieuses"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Histoires ?","a":["Hérodote","Thucydide","Xénophon"],"correct":"Hérodote","hint":"Père de l’histoire"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire perse sassanide ?","a":["Iran","Irak","Turquie"],"correct":"Iran","hint":"Perses"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la conquête de la Judée ?","a":["Vespasien","Titus","Néron"],"correct":"Vespasien","hint":"Révolte juive"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1911 ?","a":["Chine","Japon","Corée"],"correct":"Chine","hint":"Fin de l’empire"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire du Mali ?","a":["Soundiata Keïta","Mansa Moussa","Askia"],"correct":"Soundiata Keïta","hint":"Afrique de l’Ouest"}
+{"cat":"HistoireMonde","q":"Quel pays a été envahi par les Mongols au XIIIe siècle ?","a":["Chine","Russie","Inde"],"correct":"Chine","hint":"Khan"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Annales ?","a":["Tacite","Suétone","Cicéron"],"correct":"Tacite","hint":"Rome"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1959 ?","a":["Cuba","Mexique","Argentine"],"correct":"Cuba","hint":"Castro"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la conquête de la Germanie ?","a":["Auguste","Trajan","Néron"],"correct":"Auguste","hint":"Varus"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire maya classique ?","a":["Guatemala","Mexique","Honduras"],"correct":"Guatemala","hint":"Tikal"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Métamorphoses ?","a":["Ovide","Virgile","Horace"],"correct":"Ovide","hint":"Mythologie"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1821 ?","a":["Grèce","Italie","Serbie"],"correct":"Grèce","hint":"Indépendance"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire ottoman lors de la prise de Constantinople ?","a":["Mehmet II","Soliman","Selim"],"correct":"Mehmet II","hint":"1453"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire hittite ?","a":["Turquie","Grèce","Syrie"],"correct":"Turquie","hint":"Anatolie"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Dialogues ?","a":["Platon","Aristote","Socrate"],"correct":"Platon","hint":"Philosophie"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1910 ?","a":["Mexique","Brésil","Argentine"],"correct":"Mexique","hint":"Zapata"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la conquête de l’Afrique du Nord ?","a":["Trajan","Auguste","Hadrien"],"correct":"Trajan","hint":"Expansion"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire maurya ?","a":["Inde","Pakistan","Bangladesh"],"correct":"Inde","hint":"Ashoka"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Livre des Rois ?","a":["Ferdowsi","Rumi","Hafez"],"correct":"Ferdowsi","hint":"Persan"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1789 ?","a":["France","Espagne","Italie"],"correct":"France","hint":"Bastille"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la christianisation ?","a":["Constantin","Théodose","Néron"],"correct":"Constantin","hint":"Édit de Milan"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire zoulou ?","a":["Afrique du Sud","Zimbabwe","Mozambique"],"correct":"Afrique du Sud","hint":"Shaka"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Banquet ?","a":["Platon","Aristote","Socrate"],"correct":"Platon","hint":"Philosophie"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1905 ?","a":["Russie","Allemagne","Autriche"],"correct":"Russie","hint":"Tsar"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la conquête de l’Égypte ?","a":["Auguste","Jules César","Trajan"],"correct":"Auguste","hint":"Cléopâtre"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire omeyyade ?","a":["Syrie","Arabie","Égypte"],"correct":"Syrie","hint":"Damas"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Méditations ?","a":["Marc Aurèle","Sénèque","Cicéron"],"correct":"Marc Aurèle","hint":"Stoïcisme"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la guerre des Malouines ?","a":["Argentine","Chili","Uruguay"],"correct":"Argentine","hint":"1982"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la chute de Jérusalem ?","a":["Titus","Néron","Trajan"],"correct":"Titus","hint":"70 ap. J.-C."}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire babylonien ?","a":["Irak","Iran","Syrie"],"correct":"Irak","hint":"Mésopotamie"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire du Ghana médiéval ?","a":["Dinga","Mansa Moussa","Soundiata"],"correct":"Dinga","hint":"Afrique de l’Ouest"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la guerre de Crimée ?","a":["Ukraine","Russie","Turquie"],"correct":"Ukraine","hint":"Mer Noire"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la Pax Romana ?","a":["Auguste","Trajan","Hadrien"],"correct":"Auguste","hint":"Paix"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire almohade ?","a":["Maroc","Algérie","Tunisie"],"correct":"Maroc","hint":"Maghreb"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Livre des Morts ?","a":["Égyptiens","Sumériens","Perses"],"correct":"Égyptiens","hint":"Papyrus"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire romain ?","a":["Italie","France","Espagne"],"correct":"Italie","hint":"Rome"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire ottoman lors de la bataille de Lépante ?","a":["Selim II","Soliman","Mehmet II"],"correct":"Selim II","hint":"1571"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1991 ?","a":["URSS","Yougoslavie","Roumanie"],"correct":"URSS","hint":"Fin du bloc soviétique"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Guerres puniques ?","a":["Polybe","Tacite","Suétone"],"correct":"Polybe","hint":"Rome vs Carthage"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire assyrien ?","a":["Irak","Iran","Syrie"],"correct":"Irak","hint":"Ninive"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la construction du Colisée ?","a":["Vespasien","Néron","Trajan"],"correct":"Vespasien","hint":"Amphithéâtre"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1979 ?","a":["Iran","Irak","Syrie"],"correct":"Iran","hint":"Ayatollah"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Travaux et les Jours ?","a":["Hésiode","Homère","Sophocle"],"correct":"Hésiode","hint":"Antiquité"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire khmer ?","a":["Cambodge","Thaïlande","Laos"],"correct":"Cambodge","hint":"Angkor"}
+{"cat":"HistoireMonde","q":"Quel empire a construit la cité de Tenochtitlan ?","a":["Aztèque","Inca","Maya"],"correct":"Aztèque","hint":"Mexique"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1974 ?","a":["Portugal","Espagne","Italie"],"correct":"Portugal","hint":"Œillets"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire ottoman lors de la bataille de Manzikert ?","a":["Alp Arslan","Soliman","Mehmet II"],"correct":"Alp Arslan","hint":"1071"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire assyrien ?","a":["Irak","Iran","Syrie"],"correct":"Irak","hint":"Ninive"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Histoires ?","a":["Hérodote","Thucydide","Xénophon"],"correct":"Hérodote","hint":"Père de l’histoire"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1918 ?","a":["Allemagne","Autriche","Hongrie"],"correct":"Allemagne","hint":"Fin de l’empire"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire ottoman lors de la bataille de Mohács ?","a":["Soliman","Selim","Mehmet"],"correct":"Soliman","hint":"1526"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire khmer ?","a":["Cambodge","Thaïlande","Laos"],"correct":"Cambodge","hint":"Angkor"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Livre des Rois ?","a":["Ferdowsi","Rumi","Hafez"],"correct":"Ferdowsi","hint":"Persan"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1910 ?","a":["Mexique","Brésil","Argentine"],"correct":"Mexique","hint":"Zapata"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la conquête de la Dacie ?","a":["Trajan","Auguste","Néron"],"correct":"Trajan","hint":"Colonne"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire maurya ?","a":["Inde","Pakistan","Bangladesh"],"correct":"Inde","hint":"Ashoka"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Banquet ?","a":["Platon","Aristote","Socrate"],"correct":"Platon","hint":"Philosophie"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1789 ?","a":["France","Espagne","Italie"],"correct":"France","hint":"Bastille"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la christianisation ?","a":["Constantin","Théodose","Néron"],"correct":"Constantin","hint":"Édit de Milan"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire zoulou ?","a":["Afrique du Sud","Zimbabwe","Mozambique"],"correct":"Afrique du Sud","hint":"Shaka"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Méditations ?","a":["Marc Aurèle","Sénèque","Cicéron"],"correct":"Marc Aurèle","hint":"Stoïcisme"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la guerre des Malouines ?","a":["Argentine","Chili","Uruguay"],"correct":"Argentine","hint":"1982"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la chute de Jérusalem ?","a":["Titus","Néron","Trajan"],"correct":"Titus","hint":"70 ap. J.-C."}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire babylonien ?","a":["Irak","Iran","Syrie"],"correct":"Irak","hint":"Mésopotamie"}
+{"cat":"HistoireMonde","q":"Qui a fondé l’Empire du Ghana médiéval ?","a":["Dinga","Mansa Moussa","Soundiata"],"correct":"Dinga","hint":"Afrique de l’Ouest"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la guerre de Crimée ?","a":["Ukraine","Russie","Turquie"],"correct":"Ukraine","hint":"Mer Noire"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la Pax Romana ?","a":["Auguste","Trajan","Hadrien"],"correct":"Auguste","hint":"Paix"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire almohade ?","a":["Maroc","Algérie","Tunisie"],"correct":"Maroc","hint":"Maghreb"}
+{"cat":"HistoireMonde","q":"Qui a écrit Le Livre des Morts ?","a":["Égyptiens","Sumériens","Perses"],"correct":"Égyptiens","hint":"Papyrus"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire romain ?","a":["Italie","France","Espagne"],"correct":"Italie","hint":"Rome"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire ottoman lors de la bataille de Lépante ?","a":["Selim II","Soliman","Mehmet II"],"correct":"Selim II","hint":"1571"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1991 ?","a":["URSS","Yougoslavie","Roumanie"],"correct":"URSS","hint":"Fin du bloc soviétique"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Guerres puniques ?","a":["Polybe","Tacite","Suétone"],"correct":"Polybe","hint":"Rome vs Carthage"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire assyrien ?","a":["Irak","Iran","Syrie"],"correct":"Irak","hint":"Ninive"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la construction du Colisée ?","a":["Vespasien","Néron","Trajan"],"correct":"Vespasien","hint":"Amphithéâtre"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1979 ?","a":["Iran","Irak","Syrie"],"correct":"Iran","hint":"Ayatollah"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Travaux et les Jours ?","a":["Hésiode","Homère","Sophocle"],"correct":"Hésiode","hint":"Antiquité"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire khmer ?","a":["Cambodge","Thaïlande","Laos"],"correct":"Cambodge","hint":"Angkor"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire ottoman lors de la prise de Constantinople ?","a":["Mehmet II","Soliman","Selim"],"correct":"Mehmet II","hint":"1453"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1821 ?","a":["Grèce","Italie","Serbie"],"correct":"Grèce","hint":"Indépendance"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Dialogues ?","a":["Platon","Aristote","Socrate"],"correct":"Platon","hint":"Philosophie"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire hittite ?","a":["Turquie","Grèce","Syrie"],"correct":"Turquie","hint":"Anatolie"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire ottoman lors de la bataille de Mohács ?","a":["Soliman","Selim","Mehmet"],"correct":"Soliman","hint":"1526"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1868 ?","a":["Japon","Chine","Corée"],"correct":"Japon","hint":"Ère Meiji"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Chroniques ?","a":["Froissart","Joinville","Villehardouin"],"correct":"Froissart","hint":"Moyen Âge"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire omeyyade ?","a":["Syrie","Arabie","Égypte"],"correct":"Syrie","hint":"Damas"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire romain lors de la conquête de la Bretagne ?","a":["Claude","Néron","Hadrien"],"correct":"Claude","hint":"Île"}
+{"cat":"HistoireMonde","q":"Quel pays a subi la révolution de 1848 ?","a":["France","Italie","Allemagne"],"correct":"France","hint":"Printemps des peuples"}
+{"cat":"HistoireMonde","q":"Qui a écrit Les Essais ?","a":["Montaigne","Rabelais","Pascal"],"correct":"Montaigne","hint":"Humanisme"}
+{"cat":"HistoireMonde","q":"Quel pays a été le centre de l’Empire maurya ?","a":["Inde","Pakistan","Bangladesh"],"correct":"Inde","hint":"Ashoka"}
+{"cat":"HistoireMonde","q":"Qui a dirigé l’Empire ottoman lors de la bataille de Mohács ?","a":["Soliman","Selim","Mehmet"],"correct":"Soliman","hint":"1526"}
+{"cat":"HistoireQuebec","q":"Qui a fondé Québec en 1608 ?","a":["Samuel de Champlain","Jacques Cartier","Jean Talon"],"correct":"Samuel de Champlain","hint":"Père de la Nouvelle-France"}
+{"cat":"HistoireQuebec","q":"En quelle année a eu lieu la bataille des Plaines d’Abraham ?","a":["1759","1763","1713"],"correct":"1759","hint":"Conquête britannique"}
+{"cat":"HistoireQuebec","q":"Qui était le premier intendant de la Nouvelle-France ?","a":["Jean Talon","Frontenac","Champlain"],"correct":"Jean Talon","hint":"Développement économique"}
+{"cat":"HistoireQuebec","q":"Quel explorateur a remonté le fleuve Saint-Laurent en 1534 ?","a":["Jacques Cartier","Champlain","La Salle"],"correct":"Jacques Cartier","hint":"Gaspésie"}
+{"cat":"HistoireQuebec","q":"Quel gouverneur a défendu Québec contre les attaques anglaises en 1690 ?","a":["Frontenac","Montcalm","Talon"],"correct":"Frontenac","hint":"« Je répondrai par la bouche de mes canons »"}
+{"cat":"HistoireQuebec","q":"En quelle année a été signé l’Acte de Québec ?","a":["1774","1763","1791"],"correct":"1774","hint":"Liberté religieuse"}
+{"cat":"HistoireQuebec","q":"Qui commandait les troupes françaises lors de la bataille des Plaines d’Abraham ?","a":["Montcalm","Bougainville","Frontenac"],"correct":"Montcalm","hint":"Mort au combat"}
+{"cat":"HistoireQuebec","q":"Quel traité a mis fin à la guerre de Sept Ans ?","a":["Traité de Paris","Traité d’Utrecht","Traité de Versailles"],"correct":"Traité de Paris","hint":"1763"}
+{"cat":"HistoireQuebec","q":"Qui a fondé Montréal en 1642 ?","a":["Maisonneuve","Jeanne Mance","Champlain"],"correct":"Maisonneuve","hint":"Ville-Marie"}
+{"cat":"HistoireQuebec","q":"Quel événement de 1837-1838 a marqué la lutte pour des réformes politiques ?","a":["Rébellions des Patriotes","Acte d’Union","Confédération"],"correct":"Rébellions des Patriotes","hint":"Papineau"}
+{"cat":"HistoireQuebec","q":"Qui était le chef des Patriotes ?","a":["Louis-Joseph Papineau","George-Étienne Cartier","Honoré Mercier"],"correct":"Louis-Joseph Papineau","hint":"Assemblée législative"}
+{"cat":"HistoireQuebec","q":"En quelle année a eu lieu l’Acte d’Union ?","a":["1840","1867","1837"],"correct":"1840","hint":"Union des Canadas"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre du Québec a instauré la Révolution tranquille ?","a":["Jean Lesage","Maurice Duplessis","René Lévesque"],"correct":"Jean Lesage","hint":"« C’est le temps que ça change »"}
+{"cat":"HistoireQuebec","q":"Quel parti a été fondé par René Lévesque en 1968 ?","a":["Parti Québécois","Union Nationale","Parti Libéral"],"correct":"Parti Québécois","hint":"Souveraineté"}
+{"cat":"HistoireQuebec","q":"En quelle année a eu lieu le premier référendum sur la souveraineté ?","a":["1980","1995","1976"],"correct":"1980","hint":"Lévesque"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier premier ministre du Québec ?","a":["Pierre-Joseph-Olivier Chauveau","Honoré Mercier","Duplessis"],"correct":"Pierre-Joseph-Olivier Chauveau","hint":"1867"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre est associé à la Grande Noirceur ?","a":["Maurice Duplessis","Jean Lesage","Daniel Johnson"],"correct":"Maurice Duplessis","hint":"Union Nationale"}
+{"cat":"HistoireQuebec","q":"Quel événement de 1970 a mené à la Loi sur les mesures de guerre ?","a":["Crise d’Octobre","Référendum","Expo 67"],"correct":"Crise d’Octobre","hint":"FLQ"}
+{"cat":"HistoireQuebec","q":"Qui a été enlevé par le FLQ en octobre 1970 ?","a":["Pierre Laporte","James Cross","René Lévesque"],"correct":"Pierre Laporte","hint":"Ministre"}
+{"cat":"HistoireQuebec","q":"Quel événement majeur a eu lieu à Montréal en 1967 ?","a":["Expo 67","Jeux olympiques","Référendum"],"correct":"Expo 67","hint":"Île Sainte-Hélène"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier maire de Montréal ?","a":["Jacques Viger","Maisonneuve","Camilien Houde"],"correct":"Jacques Viger","hint":"1833"}
+{"cat":"HistoireQuebec","q":"Quel fleuve traverse le Québec d’ouest en est ?","a":["Saint-Laurent","Mississippi","Columbia"],"correct":"Saint-Laurent","hint":"Navigation"}
+{"cat":"HistoireQuebec","q":"Quel peuple autochtone habitait la vallée du Saint-Laurent ?","a":["Iroquoiens","Innus","Algonquins"],"correct":"Iroquoiens","hint":"Maisons longues"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier évêque de Québec ?","a":["François de Laval","Briand","Plessis"],"correct":"François de Laval","hint":"Séminaire"}
+{"cat":"HistoireQuebec","q":"Quel roi de France a fait de la Nouvelle-France une colonie royale ?","a":["Louis XIV","Louis XIII","Henri IV"],"correct":"Louis XIV","hint":"1663"}
+{"cat":"HistoireQuebec","q":"Quel explorateur a atteint les Grands Lacs ?","a":["La Salle","Cartier","Champlain"],"correct":"La Salle","hint":"Mississippi"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué l’arrivée des Filles du Roy ?","a":["1663-1673","1759","1642"],"correct":"1663-1673","hint":"Population"}
+{"cat":"HistoireQuebec","q":"Qui a fondé Trois-Rivières ?","a":["Laviolette","Champlain","Maisonneuve"],"correct":"Laviolette","hint":"1634"}
+{"cat":"HistoireQuebec","q":"Quel traité a cédé le Canada à la Grande-Bretagne ?","a":["Traité de Paris 1763","Traité d’Utrecht","Traité de Versailles"],"correct":"Traité de Paris 1763","hint":"Fin de la Nouvelle-France"}
+{"cat":"HistoireQuebec","q":"Qui était le dernier gouverneur français de la Nouvelle-France ?","a":["Vaudreuil","Frontenac","Montcalm"],"correct":"Vaudreuil","hint":"Capitulation"}
+{"cat":"HistoireQuebec","q":"Quel événement de 1995 a marqué l’histoire politique du Québec ?","a":["Deuxième référendum","Crise d’Octobre","Meech"],"correct":"Deuxième référendum","hint":"49,42 %"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier premier ministre du Québec issu du Parti Québécois ?","a":["René Lévesque","Jacques Parizeau","Lucien Bouchard"],"correct":"René Lévesque","hint":"1976"}
+{"cat":"HistoireQuebec","q":"Quel événement a mené à la création du Canada en 1867 ?","a":["Confédération","Acte d’Union","Rébellions"],"correct":"Confédération","hint":"Dominion"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors des Jeux olympiques de 1976 ?","a":["Robert Bourassa","René Lévesque","Duplessis"],"correct":"Robert Bourassa","hint":"Montréal"}
+{"cat":"HistoireQuebec","q":"Quel maire de Montréal a été emprisonné durant la Seconde Guerre mondiale ?","a":["Camilien Houde","Jean Drapeau","Viger"],"correct":"Camilien Houde","hint":"Conscription"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a créé Hydro-Québec ?","a":["Adélard Godbout","Duplessis","Lesage"],"correct":"Adélard Godbout","hint":"Nationalisation"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué l’ouverture du métro de Montréal ?","a":["1966","1970","1960"],"correct":"1966","hint":"Expo 67 approche"}
+{"cat":"HistoireQuebec","q":"Qui a fondé l’Hôtel-Dieu de Montréal ?","a":["Jeanne Mance","Maisonneuve","Marguerite Bourgeoys"],"correct":"Jeanne Mance","hint":"Hospitalière"}
+{"cat":"HistoireQuebec","q":"Quel peuple autochtone est associé aux canots d’écorce ?","a":["Algonquins","Iroquois","Inuits"],"correct":"Algonquins","hint":"Forêts"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la fin du régime seigneurial ?","a":["1854","1867","1840"],"correct":"1854","hint":"Abolition"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec à signer l’accord du Lac Meech ?","a":["Robert Bourassa","René Lévesque","Parizeau"],"correct":"Robert Bourassa","hint":"Constitution"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué l’arrivée massive d’immigrants irlandais ?","a":["Épidémie de typhus 1847","Rébellion","Confédération"],"correct":"Épidémie de typhus 1847","hint":"Grosse Île"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Sorel ?","a":["Pierre de Saurel","Champlain","Maisonneuve"],"correct":"Pierre de Saurel","hint":"Richelieu"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la police provinciale ?","a":["1922","1900","1945"],"correct":"1922","hint":"Sûreté du Québec"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de la crise du verglas ?","a":["Lucien Bouchard","Parizeau","Bourassa"],"correct":"Lucien Bouchard","hint":"1998"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué l’ouverture du pont de Québec ?","a":["1919","1907","1925"],"correct":"1919","hint":"Effondrement avant"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Lévis ?","a":["Monseigneur de Laval","Champlain","Frontenac"],"correct":"Monseigneur de Laval","hint":"Côte-du-Sud"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de l’Université Laval ?","a":["1852","1900","1800"],"correct":"1852","hint":"Première université francophone"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre du Québec a créé le ministère de l’Éducation ?","a":["Paul Gérin-Lajoie","Jean Lesage","Duplessis"],"correct":"Paul Gérin-Lajoie","hint":"Révolution tranquille"}
+{"cat":"HistoireQuebec","q":"En quelle année a eu lieu la Confédération canadienne ?","a":["1867","1840","1901"],"correct":"1867","hint":"Dominion"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec de 1936 à 1939 ?","a":["Maurice Duplessis","Adélard Godbout","Joseph-Napoléon Francoeur"],"correct":"Maurice Duplessis","hint":"Union Nationale"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué l’ouverture du Stade olympique ?","a":["1976","1967","1980"],"correct":"1976","hint":"Jeux olympiques"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Sherbrooke ?","a":["Gilbert Hyatt","Champlain","Maisonneuve"],"correct":"Gilbert Hyatt","hint":"Cantons-de-l’Est"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi 101 ?","a":["René Lévesque","Robert Bourassa","Jean Lesage"],"correct":"René Lévesque","hint":"Langue française"}
+{"cat":"HistoireQuebec","q":"En quelle année a été adoptée la loi 101 ?","a":["1977","1980","1970"],"correct":"1977","hint":"Charte de la langue française"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors du rapatriement de la Constitution en 1982 ?","a":["René Lévesque","Robert Bourassa","Parizeau"],"correct":"René Lévesque","hint":"Non-signataire"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué l’ouverture du Canal Lachine ?","a":["1825","1900","1750"],"correct":"1825","hint":"Navigation industrielle"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Hyacinthe ?","a":["Casimir Dessaulles","Champlain","Maisonneuve"],"correct":"Casimir Dessaulles","hint":"Richelieu"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré l’assurance maladie au Québec ?","a":["Robert Bourassa","Jean Lesage","Duplessis"],"correct":"Robert Bourassa","hint":"1970"}
+{"cat":"HistoireQuebec","q":"En quelle année a eu lieu la crise du verglas ?","a":["1998","1995","2000"],"correct":"1998","hint":"Effondrement des lignes"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de la crise d’Oka ?","a":["Robert Bourassa","René Lévesque","Parizeau"],"correct":"Robert Bourassa","hint":"1990"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la SAQ ?","a":["1921","1950","1975"],"correct":"1921","hint":"Monopole de l’alcool"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Rimouski ?","a":["René Lepage","Champlain","Maisonneuve"],"correct":"René Lepage","hint":"Bas-Saint-Laurent"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la fête nationale du Québec le 24 juin ?","a":["Maurice Duplessis","Jean Lesage","René Lévesque"],"correct":"Maurice Duplessis","hint":"Saint-Jean-Baptiste"}
+{"cat":"HistoireQuebec","q":"En quelle année a eu lieu le deuxième référendum sur la souveraineté ?","a":["1995","1980","1976"],"correct":"1995","hint":"49,42 %"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec de 1994 à 1996 ?","a":["Jacques Parizeau","Lucien Bouchard","Robert Bourassa"],"correct":"Jacques Parizeau","hint":"Référendum 1995"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué l’ouverture du pont Champlain ?","a":["1962","1950","1970"],"correct":"1962","hint":"Rive-Sud"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Joliette ?","a":["Barthélemy Joliette","Champlain","Maisonneuve"],"correct":"Barthélemy Joliette","hint":"Lanaudière"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la gratuité scolaire au Québec ?","a":["Adélard Godbout","Duplessis","Lesage"],"correct":"Adélard Godbout","hint":"1943"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le Parlement de Québec actuel ?","a":["1886","1900","1850"],"correct":"1886","hint":"Architecture Second Empire"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec de 1976 à 1985 ?","a":["René Lévesque","Robert Bourassa","Duplessis"],"correct":"René Lévesque","hint":"Parti Québécois"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué l’ouverture du Musée de la civilisation ?","a":["1988","1975","1995"],"correct":"1988","hint":"Québec"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Granby ?","a":["John Horace Boivin","Champlain","Maisonneuve"],"correct":"John Horace Boivin","hint":"Estrie"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur l’équité salariale ?","a":["Lucien Bouchard","Parizeau","Bourassa"],"correct":"Lucien Bouchard","hint":"1996"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le métro de Québec ?","a":["Jamais","1966","1980"],"correct":"Jamais","hint":"Projet abandonné"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de la crise économique de 1929 ?","a":["Louis-Alexandre Taschereau","Duplessis","Godbout"],"correct":"Louis-Alexandre Taschereau","hint":"Libéral"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué l’ouverture du port de Montréal moderne ?","a":["1960","1900","1850"],"correct":"1960","hint":"Conteneurs"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Victoriaville ?","a":["Charles Brooks","Champlain","Maisonneuve"],"correct":"Charles Brooks","hint":"Bois-francs"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la protection du consommateur ?","a":["Robert Bourassa","René Lévesque","Jean Lesage"],"correct":"Robert Bourassa","hint":"1971"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont Jacques-Cartier ?","a":["1930","1920","1950"],"correct":"1930","hint":"Île Sainte-Hélène"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec de 1985 à 1994 ?","a":["Robert Bourassa","René Lévesque","Parizeau"],"correct":"Robert Bourassa","hint":"Meech"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué l’ouverture de l’aéroport de Mirabel ?","a":["1975","1960","1980"],"correct":"1975","hint":"Projet controversé"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Drummondville ?","a":["Frederick Heriot","Champlain","Maisonneuve"],"correct":"Frederick Heriot","hint":"Centre-du-Québec"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur l’assurance automobile ?","a":["Robert Bourassa","René Lévesque","Jean Lesage"],"correct":"Robert Bourassa","hint":"SAAQ"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont Laviolette ?","a":["1967","1950","1980"],"correct":"1967","hint":"Trois-Rivières"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de la crise d’Oka ?","a":["Robert Bourassa","René Lévesque","Parizeau"],"correct":"Robert Bourassa","hint":"1990"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission des droits de la personne ?","a":["1975","1960","1985"],"correct":"1975","hint":"Charte québécoise"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Baie-Comeau ?","a":["Robert McCormick","Champlain","Maisonneuve"],"correct":"Robert McCormick","hint":"Papier"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur l’accès à l’information ?","a":["René Lévesque","Robert Bourassa","Jean Lesage"],"correct":"René Lévesque","hint":"1982"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont Honoré-Mercier ?","a":["1934","1950","1970"],"correct":"1934","hint":"Kahnawake"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1976 ?","a":["René Lévesque","Robert Bourassa","Duplessis"],"correct":"René Lévesque","hint":"Victoire du PQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de Télé-Québec ?","a":["1968","1950","1980"],"correct":"1968","hint":"Éducation publique"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Shawinigan ?","a":["John Edward Shaw","Champlain","Maisonneuve"],"correct":"John Edward Shaw","hint":"Mauricie"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la protection de la jeunesse ?","a":["Robert Bourassa","René Lévesque","Jean Lesage"],"correct":"Robert Bourassa","hint":"1977"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont Victoria ?","a":["1859","1900","1950"],"correct":"1859","hint":"Premier pont sur le Saint-Laurent"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre du Québec a instauré la taxe de vente provinciale ?","a":["Robert Bourassa","René Lévesque","Jean Lesage"],"correct":"Robert Bourassa","hint":"TVQ"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le Centre Vidéotron ?","a":["2015","2010","2020"],"correct":"2015","hint":"Québec"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Georges ?","a":["George Pozer","Champlain","Maisonneuve"],"correct":"George Pozer","hint":"Beauce"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la langue officielle en 1974 ?","a":["Robert Bourassa","René Lévesque","Jean Lesage"],"correct":"Robert Bourassa","hint":"Loi 22"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont Pierre-Laporte ?","a":["1970","1960","1980"],"correct":"1970","hint":"Québec-Lévis"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de la crise du verglas ?","a":["Lucien Bouchard","Parizeau","Bourassa"],"correct":"Lucien Bouchard","hint":"1998"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la SAAQ ?","a":["1978","1960","1985"],"correct":"1978","hint":"Assurance automobile"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Jérôme ?","a":["François-Xavier-Antoine Labelle","Champlain","Maisonneuve"],"correct":"François-Xavier-Antoine Labelle","hint":"Curé Labelle"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur les normes du travail ?","a":["René Lévesque","Robert Bourassa","Jean Lesage"],"correct":"René Lévesque","hint":"1980"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont-tunnel Louis-Hippolyte-La Fontaine ?","a":["1967","1950","1980"],"correct":"1967","hint":"Autoroute 25"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de la crise d’Oka ?","a":["Robert Bourassa","René Lévesque","Parizeau"],"correct":"Robert Bourassa","hint":"1990"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie de l’énergie ?","a":["1996","1980","2005"],"correct":"1996","hint":"Électricité"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Thetford Mines ?","a":["Joseph Fecteau","Champlain","Maisonneuve"],"correct":"Joseph Fecteau","hint":"Amiante"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la protection des renseignements personnels ?","a":["Robert Bourassa","René Lévesque","Jean Lesage"],"correct":"Robert Bourassa","hint":"1982"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de l’Île-d’Orléans ?","a":["1935","1950","1970"],"correct":"1935","hint":"Accès à l’île"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de la création du réseau des CPE ?","a":["Lucien Bouchard","Parizeau","Bourassa"],"correct":"Lucien Bouchard","hint":"Garderies à 5 $"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission Charbonneau ?","a":["2011","2005","1998"],"correct":"2011","hint":"Corruption"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Val-d’Or ?","a":["Benoît Brouillette","Champlain","Maisonneuve"],"correct":"Benoît Brouillette","hint":"Abitibi"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur l’assurance médicaments ?","a":["Lucien Bouchard","Robert Bourassa","René Lévesque"],"correct":"Lucien Bouchard","hint":"1997"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont Papineau-Leblanc ?","a":["1969","1950","1980"],"correct":"1969","hint":"Laval"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1998 ?","a":["Lucien Bouchard","Parizeau","Bourassa"],"correct":"Lucien Bouchard","hint":"PQ majoritaire"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la CSST ?","a":["1973","1950","1985"],"correct":"1973","hint":"Travailleurs"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Sept-Îles ?","a":["Louis Joliet","Champlain","Maisonneuve"],"correct":"Louis Joliet","hint":"Côte-Nord"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la qualité de l’environnement ?","a":["Robert Bourassa","René Lévesque","Jean Lesage"],"correct":"Robert Bourassa","hint":"1972"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont Médéric-Martin ?","a":["1937","1950","1970"],"correct":"1937","hint":"Montréal"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de la création du réseau de la santé moderne ?","a":["Jean Lesage","Duplessis","René Lévesque"],"correct":"Jean Lesage","hint":"Révolution tranquille"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie du logement ?","a":["1980","1970","1995"],"correct":"1980","hint":"Locataires"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Gaspé ?","a":["Jacques Cartier","Champlain","Maisonneuve"],"correct":"Jacques Cartier","hint":"1534"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur les services de garde éducatifs ?","a":["Lucien Bouchard","Parizeau","Bourassa"],"correct":"Lucien Bouchard","hint":"CPE"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont Dubuc ?","a":["1955","1970","1985"],"correct":"1955","hint":"Saguenay"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 2003 ?","a":["Jean Charest","Lucien Bouchard","Parizeau"],"correct":"Jean Charest","hint":"PLQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission scolaire de Montréal ?","a":["1846","1900","1950"],"correct":"1846","hint":"Éducation"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Rouyn ?","a":["Edmund Horne","Champlain","Maisonneuve"],"correct":"Edmund Horne","hint":"Abitibi"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur l’équité en matière d’emploi ?","a":["Robert Bourassa","René Lévesque","Jean Lesage"],"correct":"Robert Bourassa","hint":"1986"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont Alphonse-Desjardins ?","a":["1967","1950","1980"],"correct":"1967","hint":"Lévis"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de la création de la Caisse de dépôt ?","a":["Jean Lesage","Duplessis","René Lévesque"],"correct":"Jean Lesage","hint":"1965"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Société des alcools du Québec ?","a":["1921","1950","1975"],"correct":"1921","hint":"Monopole"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Matane ?","a":["Paul Marin de la Malgue","Champlain","Maisonneuve"],"correct":"Paul Marin de la Malgue","hint":"Bas-Saint-Laurent"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur les services de santé et services sociaux ?","a":["Robert Bourassa","René Lévesque","Jean Lesage"],"correct":"Robert Bourassa","hint":"1971"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Saint-Maurice ?","a":["1929","1950","1970"],"correct":"1929","hint":"Shawinigan"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 2012 ?","a":["Pauline Marois","Jean Charest","Philippe Couillard"],"correct":"Pauline Marois","hint":"Première femme PM"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission de la fonction publique ?","a":["1965","1950","1980"],"correct":"1965","hint":"Révolution tranquille"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Mont-Laurier ?","a":["Joseph Dufresne","Champlain","Maisonneuve"],"correct":"Joseph Dufresne","hint":"Hautes-Laurentides"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la protection du territoire agricole ?","a":["Robert Bourassa","René Lévesque","Jean Lesage"],"correct":"René Lévesque","hint":"1978"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Richelieu à Sorel ?","a":["1934","1950","1970"],"correct":"1934","hint":"Montérégie"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 2014 ?","a":["Philippe Couillard","Pauline Marois","Jean Charest"],"correct":"Philippe Couillard","hint":"PLQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Société d’habitation du Québec ?","a":["1967","1950","1980"],"correct":"1967","hint":"Logement"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Montmagny ?","a":["Charles Huault de Montmagny","Champlain","Maisonneuve"],"correct":"Charles Huault de Montmagny","hint":"Côte-du-Sud"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la santé et la sécurité du travail ?","a":["Robert Bourassa","René Lévesque","Jean Lesage"],"correct":"Robert Bourassa","hint":"1979"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de Trois-Pistoles ?","a":["1928","1950","1970"],"correct":"1928","hint":"Bas-Saint-Laurent"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Sauveur ?","a":["Curé Labelle","Champlain","Maisonneuve"],"correct":"Curé Labelle","hint":"Laurentides"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur les élections et référendums municipaux ?","a":["René Lévesque","Robert Bourassa","Jean Lesage"],"correct":"René Lévesque","hint":"1987"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Chaudière ?","a":["1960","1950","1980"],"correct":"1960","hint":"Beauce"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 2007 ?","a":["Jean Charest","Pauline Marois","Lucien Bouchard"],"correct":"Jean Charest","hint":"ADQ forte"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission des transports du Québec ?","a":["1972","1950","1985"],"correct":"1972","hint":"Transport routier"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Félicien ?","a":["Joseph Bouchard","Champlain","Maisonneuve"],"correct":"Joseph Bouchard","hint":"Saguenay–Lac-Saint-Jean"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur les services préhospitaliers d’urgence ?","a":["Robert Bourassa","René Lévesque","Jean Lesage"],"correct":"Robert Bourassa","hint":"1985"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière du Loup ?","a":["1930","1950","1970"],"correct":"1930","hint":"Bas-Saint-Laurent"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 2018 ?","a":["François Legault","Philippe Couillard","Pauline Marois"],"correct":"François Legault","hint":"CAQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie des alcools, courses et jeux ?","a":["1990","1980","2000"],"correct":"1990","hint":"Réglementation"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Baie-Saint-Paul ?","a":["Philippe-Aubert de Gaspé","Champlain","Maisonneuve"],"correct":"Philippe-Aubert de Gaspé","hint":"Charlevoix"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur les ressources en eau ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2009"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Saint-François à Drummondville ?","a":["1958","1970","1930"],"correct":"1958","hint":"Centre-du-Québec"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1994 ?","a":["Jacques Parizeau","Robert Bourassa","Lucien Bouchard"],"correct":"Jacques Parizeau","hint":"PQ majoritaire"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission de protection du territoire agricole ?","a":["1978","1960","1985"],"correct":"1978","hint":"Lévesque"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Tite ?","a":["Louis-Édouard Gravel","Champlain","Maisonneuve"],"correct":"Louis-Édouard Gravel","hint":"Mauricie"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur les régimes complémentaires de retraite ?","a":["Robert Bourassa","René Lévesque","Jean Lesage"],"correct":"Robert Bourassa","hint":"1989"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Nicolet ?","a":["1940","1950","1970"],"correct":"1940","hint":"Centre-du-Québec"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 2008 ?","a":["Jean Charest","Pauline Marois","François Legault"],"correct":"Jean Charest","hint":"PLQ majoritaire"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission des normes du travail ?","a":["1980","1970","1995"],"correct":"1980","hint":"Travailleurs"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Raymond ?","a":["Raymond de Bellefonds","Champlain","Maisonneuve"],"correct":"Raymond de Bellefonds","hint":"Portneuf"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la gouvernance des sociétés d’État ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2006"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Bécancour ?","a":["1932","1950","1970"],"correct":"1932","hint":"Centre-du-Québec"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 2010 ?","a":["Jean Charest","Pauline Marois","François Legault"],"correct":"Jean Charest","hint":"PLQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission des services juridiques ?","a":["1972","1950","1985"],"correct":"1972","hint":"Aide juridique"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Lambert ?","a":["Charles Pépin dit Lachance","Champlain","Maisonneuve"],"correct":"Charles Pépin dit Lachance","hint":"Rive-Sud"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la justice administrative ?","a":["Lucien Bouchard","Jean Charest","René Lévesque"],"correct":"Lucien Bouchard","hint":"1996"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Etchemin ?","a":["1955","1970","1930"],"correct":"1955","hint":"Chaudière-Appalaches"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 2016 ?","a":["Philippe Couillard","Pauline Marois","Jean Charest"],"correct":"Philippe Couillard","hint":"PLQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission de la santé mentale du Québec ?","a":["2015","2000","1990"],"correct":"2015","hint":"Santé publique"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Pascal ?","a":["Pascal Taché","Champlain","Maisonneuve"],"correct":"Pascal Taché","hint":"Kamouraska"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur les services correctionnels ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2002"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Maskinongé ?","a":["1945","1950","1970"],"correct":"1945","hint":"Mauricie"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 2022 ?","a":["François Legault","Dominique Anglade","Gabriel Nadeau-Dubois"],"correct":"François Legault","hint":"CAQ majoritaire"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission de la construction du Québec ?","a":["1987","1970","1995"],"correct":"1987","hint":"Chantiers"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Agapit ?","a":["Louis Turcotte","Champlain","Maisonneuve"],"correct":"Louis Turcotte","hint":"Chaudière-Appalaches"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la gouvernance municipale ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2010"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Yamaska ?","a":["1931","1950","1970"],"correct":"1931","hint":"Montérégie"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 2001 ?","a":["Bernard Landry","Lucien Bouchard","Jean Charest"],"correct":"Bernard Landry","hint":"PQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission de l’immigration du Québec ?","a":["1968","1950","1980"],"correct":"1968","hint":"Révolution tranquille"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Prime ?","a":["Joseph Tremblay","Champlain","Maisonneuve"],"correct":"Joseph Tremblay","hint":"Lac-Saint-Jean"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la sécurité incendie ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2000"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Métabetchouane ?","a":["1954","1970","1930"],"correct":"1954","hint":"Saguenay–Lac-Saint-Jean"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1990 ?","a":["Robert Bourassa","René Lévesque","Parizeau"],"correct":"Robert Bourassa","hint":"Crise d’Oka"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission de la sécurité publique ?","a":["1972","1950","1985"],"correct":"1972","hint":"Police"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Liboire ?","a":["François Liboire","Champlain","Maisonneuve"],"correct":"François Liboire","hint":"Montérégie"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la protection des personnes handicapées ?","a":["Robert Bourassa","René Lévesque","Jean Lesage"],"correct":"Robert Bourassa","hint":"1978"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Saint-Charles à Québec ?","a":["1934","1950","1970"],"correct":"1934","hint":"Capitale"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Honoré ?","a":["Honoré Tremblay","Champlain","Maisonneuve"],"correct":"Honoré Tremblay","hint":"Saguenay"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur les services de santé mentale ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2005"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Blanche ?","a":["1952","1970","1930"],"correct":"1952","hint":"Chaudière-Appalaches"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1981 ?","a":["René Lévesque","Robert Bourassa","Duplessis"],"correct":"René Lévesque","hint":"PQ majoritaire"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie des marchés agricoles ?","a":["1966","1950","1980"],"correct":"1966","hint":"Agriculture"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Éphrem ?","a":["Éphrem Bouchard","Champlain","Maisonneuve"],"correct":"Éphrem Bouchard","hint":"Beauce"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur les services de garde en milieu familial ?","a":["Lucien Bouchard","Jean Charest","René Lévesque"],"correct":"Lucien Bouchard","hint":"1997"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Richelieu à Beloeil ?","a":["1930","1950","1970"],"correct":"1930","hint":"Montérégie"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1970 ?","a":["Robert Bourassa","Jean-Jacques Bertrand","René Lévesque"],"correct":"Robert Bourassa","hint":"PLQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie du cinéma ?","a":["1967","1950","1980"],"correct":"1967","hint":"Culture"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Michel-des-Saints ?","a":["Jean-Baptiste Boucher","Champlain","Maisonneuve"],"correct":"Jean-Baptiste Boucher","hint":"Lanaudière"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la sécurité civile ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2001"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Saint-François à Sherbrooke ?","a":["1925","1950","1970"],"correct":"1925","hint":"Estrie"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1989 ?","a":["Robert Bourassa","René Lévesque","Parizeau"],"correct":"Robert Bourassa","hint":"PLQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie des installations sportives ?","a":["1990","1980","2005"],"correct":"1990","hint":"Sports"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Urbain ?","a":["Urbain Tremblay","Champlain","Maisonneuve"],"correct":"Urbain Tremblay","hint":"Charlevoix"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur les services de soutien à domicile ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2003"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Saint-Maurice à La Tuque ?","a":["1948","1950","1970"],"correct":"1948","hint":"Mauricie"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1973 ?","a":["Robert Bourassa","René Lévesque","Duplessis"],"correct":"Robert Bourassa","hint":"PLQ fort"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie des télécommunications ?","a":["1976","1950","1985"],"correct":"1976","hint":"Téléphonie"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Donat ?","a":["Donat Dugas","Champlain","Maisonneuve"],"correct":"Donat Dugas","hint":"Laurentides"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la gestion contractuelle municipale ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2010"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Sainte-Anne ?","a":["1936","1950","1970"],"correct":"1936","hint":"Capitale"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1985 ?","a":["Robert Bourassa","René Lévesque","Parizeau"],"correct":"Robert Bourassa","hint":"Retour au pouvoir"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie des eaux du Québec ?","a":["1972","1950","1980"],"correct":"1972","hint":"Environnement"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Côme ?","a":["Côme Caron","Champlain","Maisonneuve"],"correct":"Côme Caron","hint":"Lanaudière"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur les services policiers ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2000"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière du Sud ?","a":["1942","1950","1970"],"correct":"1942","hint":"Montmagny"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1979 ?","a":["René Lévesque","Robert Bourassa","Duplessis"],"correct":"René Lévesque","hint":"PQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie des infrastructures publiques ?","a":["1998","1980","2005"],"correct":"1998","hint":"Gestion publique"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Antonin ?","a":["Antoine Boucher","Champlain","Maisonneuve"],"correct":"Antoine Boucher","hint":"Bas-Saint-Laurent"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur les services de transport adapté ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2001"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Rimouski ?","a":["1937","1950","1970"],"correct":"1937","hint":"Bas-Saint-Laurent"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1976 ?","a":["René Lévesque","Robert Bourassa","Duplessis"],"correct":"René Lévesque","hint":"Victoire du PQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie des matières résiduelles ?","a":["1999","1980","2005"],"correct":"1999","hint":"Recyclage"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Cyprien ?","a":["Cyprien Tremblay","Champlain","Maisonneuve"],"correct":"Cyprien Tremblay","hint":"Bas-Saint-Laurent"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la gouvernance des réseaux publics ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2008"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Matapédia ?","a":["1931","1950","1970"],"correct":"1931","hint":"Gaspésie"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1980 ?","a":["René Lévesque","Robert Bourassa","Duplessis"],"correct":"René Lévesque","hint":"Référendum"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie des bâtiments du Québec ?","a":["1992","1980","2005"],"correct":"1992","hint":"Sécurité"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Gédéon ?","a":["Gédéon Tremblay","Champlain","Maisonneuve"],"correct":"Gédéon Tremblay","hint":"Lac-Saint-Jean"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur les services de prévention incendie ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2000"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Chaudière à Lévis ?","a":["1932","1950","1970"],"correct":"1932","hint":"Chaudière-Appalaches"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1992 ?","a":["Robert Bourassa","René Lévesque","Parizeau"],"correct":"Robert Bourassa","hint":"Constitution"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie des services essentiels ?","a":["1984","1950","2000"],"correct":"1984","hint":"Services publics"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Siméon ?","a":["Siméon Gagnon","Champlain","Maisonneuve"],"correct":"Siméon Gagnon","hint":"Charlevoix"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la protection des milieux humides ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2009"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière aux Outardes ?","a":["1953","1970","1930"],"correct":"1953","hint":"Côte-Nord"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Ambroise ?","a":["Ambroise Gagnon","Champlain","Maisonneuve"],"correct":"Ambroise Gagnon","hint":"Saguenay"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur les régimes de retraite municipaux ?","a":["Philippe Couillard","Jean Charest","Lucien Bouchard"],"correct":"Philippe Couillard","hint":"2014"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Sainte-Marguerite ?","a":["1946","1950","1970"],"correct":"1946","hint":"Saguenay"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 2019 ?","a":["François Legault","Philippe Couillard","Pauline Marois"],"correct":"François Legault","hint":"CAQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission de la famille ?","a":["1997","1980","2005"],"correct":"1997","hint":"CPE"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-François-Xavier-de-Brompton ?","a":["François-Xavier Boucher","Champlain","Maisonneuve"],"correct":"François-Xavier Boucher","hint":"Estrie"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la gouvernance des réseaux de transport ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2010"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière du Gouffre ?","a":["1933","1950","1970"],"correct":"1933","hint":"Charlevoix"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 2006 ?","a":["Jean Charest","Pauline Marois","François Legault"],"correct":"Jean Charest","hint":"PLQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie des infrastructures routières ?","a":["1995","1980","2005"],"correct":"1995","hint":"Transport"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Édouard ?","a":["Édouard Dufresne","Champlain","Maisonneuve"],"correct":"Édouard Dufresne","hint":"Montérégie"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la gestion des matières dangereuses ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2002"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Métis ?","a":["1939","1950","1970"],"correct":"1939","hint":"Bas-Saint-Laurent"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1997 ?","a":["Lucien Bouchard","Parizeau","Bourassa"],"correct":"Lucien Bouchard","hint":"PQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission des infrastructures énergétiques ?","a":["1990","1980","2005"],"correct":"1990","hint":"Énergie"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Fabien ?","a":["Fabien Tremblay","Champlain","Maisonneuve"],"correct":"Fabien Tremblay","hint":"Bas-Saint-Laurent"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la sécurité ferroviaire ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2001"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Manicouagan ?","a":["1957","1970","1930"],"correct":"1957","hint":"Côte-Nord"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1987 ?","a":["Robert Bourassa","René Lévesque","Parizeau"],"correct":"Robert Bourassa","hint":"Accord du lac Meech"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie des infrastructures municipales ?","a":["1998","1980","2005"],"correct":"1998","hint":"Municipalités"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Moïse ?","a":["Moïse Gagnon","Champlain","Maisonneuve"],"correct":"Moïse Gagnon","hint":"Matapédia"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la gestion des risques industriels ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2003"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Bonaventure ?","a":["1931","1950","1970"],"correct":"1931","hint":"Gaspésie"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 2009 ?","a":["Jean Charest","Pauline Marois","François Legault"],"correct":"Jean Charest","hint":"PLQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission des infrastructures scolaires ?","a":["1993","1980","2005"],"correct":"1993","hint":"Écoles"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Léandre ?","a":["Léandre Gagnon","Champlain","Maisonneuve"],"correct":"Léandre Gagnon","hint":"Bas-Saint-Laurent"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la gestion des réseaux d’aqueduc ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2008"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière du Moulin ?","a":["1944","1950","1970"],"correct":"1944","hint":"Saguenay"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1983 ?","a":["René Lévesque","Robert Bourassa","Duplessis"],"correct":"René Lévesque","hint":"PQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie des infrastructures hydrauliques ?","a":["1991","1980","2005"],"correct":"1991","hint":"Barrages"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Mathieu-de-Rioux ?","a":["Mathieu Rioux","Champlain","Maisonneuve"],"correct":"Mathieu Rioux","hint":"Bas-Saint-Laurent"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la sécurité des barrages ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2000"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Saint-Jean ?","a":["1938","1950","1970"],"correct":"1938","hint":"Gaspésie"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1991 ?","a":["Robert Bourassa","René Lévesque","Parizeau"],"correct":"Robert Bourassa","hint":"Constitution"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission des infrastructures culturelles ?","a":["1996","1980","2005"],"correct":"1996","hint":"Culture"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Magloire ?","a":["Magloire Gagnon","Champlain","Maisonneuve"],"correct":"Magloire Gagnon","hint":"Chaudière-Appalaches"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la gestion des réseaux d’égouts ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2007"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Ouelle ?","a":["1930","1950","1970"],"correct":"1930","hint":"Kamouraska"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 1982 ?","a":["René Lévesque","Robert Bourassa","Duplessis"],"correct":"René Lévesque","hint":"PQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Régie des infrastructures portuaires ?","a":["1994","1980","2005"],"correct":"1994","hint":"Ports"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-Jean-de-Dieu ?","a":["Jean de Dieu Tremblay","Champlain","Maisonneuve"],"correct":"Jean de Dieu Tremblay","hint":"Bas-Saint-Laurent"}
+{"cat":"HistoireQuebec","q":"Quel premier ministre a instauré la loi sur la sécurité des infrastructures publiques ?","a":["Jean Charest","Lucien Bouchard","René Lévesque"],"correct":"Jean Charest","hint":"2004"}
+{"cat":"HistoireQuebec","q":"En quelle année a été inauguré le pont de la rivière Patapédia ?","a":["1935","1950","1970"],"correct":"1935","hint":"Gaspésie"}
+{"cat":"HistoireQuebec","q":"Qui a été le premier ministre du Québec lors de l’élection de 2005 ?","a":["Jean Charest","Pauline Marois","François Legault"],"correct":"Jean Charest","hint":"PLQ"}
+{"cat":"HistoireQuebec","q":"Quel événement a marqué la création de la Commission des infrastructures touristiques ?","a":["1997","1980","2005"],"correct":"1997","hint":"Tourisme"}
+{"cat":"HistoireQuebec","q":"Qui a fondé la ville de Saint-René-de-Matane ?","a":["René Gagnon","Champlain","Maisonneuve"],"correct":"René Gagnon","hint":"Bas-Saint-Laurent"}
+{"cat":"HistoireUSA","q":"Qui fut le premier président des États-Unis ?","a":["George Washington","John Adams","Thomas Jefferson"],"correct":"George Washington","hint":"1789"}
+{"cat":"HistoireUSA","q":"En quelle année a été signée la Déclaration d’indépendance ?","a":["1776","1783","1791"],"correct":"1776","hint":"4 juillet"}
+{"cat":"HistoireUSA","q":"Qui a rédigé la Déclaration d’indépendance ?","a":["Thomas Jefferson","Benjamin Franklin","James Madison"],"correct":"Thomas Jefferson","hint":"Virginie"}
+{"cat":"HistoireUSA","q":"Quel événement a déclenché la guerre de Sécession ?","a":["Sécession des États du Sud","Assassinat de Lincoln","Crise économique"],"correct":"Sécession des États du Sud","hint":"1861"}
+{"cat":"HistoireUSA","q":"Qui était le président pendant la guerre de Sécession ?","a":["Abraham Lincoln","Ulysses S. Grant","Andrew Johnson"],"correct":"Abraham Lincoln","hint":"Union"}
+{"cat":"HistoireUSA","q":"Quel document a aboli l’esclavage aux États-Unis ?","a":["13e amendement","Déclaration d’indépendance","Bill of Rights"],"correct":"13e amendement","hint":"1865"}
+{"cat":"HistoireUSA","q":"Qui a mené la marche pour les droits civiques en 1963 ?","a":["Martin Luther King Jr.","Malcolm X","Rosa Parks"],"correct":"Martin Luther King Jr.","hint":"Washington"}
+{"cat":"HistoireUSA","q":"Quel événement a déclenché la guerre d’indépendance américaine ?","a":["Boston Tea Party","Guerre de 1812","Crise du Missouri"],"correct":"Boston Tea Party","hint":"Taxes britanniques"}
+{"cat":"HistoireUSA","q":"Qui a été le premier président à vivre dans la Maison-Blanche ?","a":["John Adams","George Washington","Thomas Jefferson"],"correct":"John Adams","hint":"1797"}
+{"cat":"HistoireUSA","q":"Quel président a signé le New Deal ?","a":["Franklin D. Roosevelt","Harry Truman","Herbert Hoover"],"correct":"Franklin D. Roosevelt","hint":"Grande Dépression"}
+{"cat":"HistoireUSA","q":"Quel événement a provoqué l’entrée des États-Unis dans la Seconde Guerre mondiale ?","a":["Attaque de Pearl Harbor","Invasion de la Pologne","Débarquement en Normandie"],"correct":"Attaque de Pearl Harbor","hint":"1941"}
+{"cat":"HistoireUSA","q":"Qui a commandé les forces américaines pendant la guerre d’indépendance ?","a":["George Washington","Andrew Jackson","Ulysses S. Grant"],"correct":"George Washington","hint":"Armée continentale"}
+{"cat":"HistoireUSA","q":"Quel président a mis fin à la ségrégation dans l’armée ?","a":["Harry Truman","Dwight Eisenhower","John F. Kennedy"],"correct":"Harry Truman","hint":"1948"}
+{"cat":"HistoireUSA","q":"Quel mouvement a obtenu le droit de vote des femmes en 1920 ?","a":["Suffragettes","Progressistes","Populistes"],"correct":"Suffragettes","hint":"19e amendement"}
+{"cat":"HistoireUSA","q":"Qui a été assassiné à Dallas en 1963 ?","a":["John F. Kennedy","Robert Kennedy","Martin Luther King Jr."],"correct":"John F. Kennedy","hint":"Texas"}
+{"cat":"HistoireUSA","q":"Quel président a ordonné l’achat de la Louisiane ?","a":["Thomas Jefferson","James Madison","John Adams"],"correct":"Thomas Jefferson","hint":"1803"}
+{"cat":"HistoireUSA","q":"Quel conflit a opposé les États-Unis au Mexique en 1846 ?","a":["Guerre américano-mexicaine","Guerre de Sécession","Guerre de 1812"],"correct":"Guerre américano-mexicaine","hint":"Texas"}
+{"cat":"HistoireUSA","q":"Qui a mené la lutte contre la ségrégation scolaire en 1954 ?","a":["Thurgood Marshall","Martin Luther King Jr.","Malcolm X"],"correct":"Thurgood Marshall","hint":"Brown v. Board"}
+{"cat":"HistoireUSA","q":"Quel président a démissionné en 1974 ?","a":["Richard Nixon","Gerald Ford","Jimmy Carter"],"correct":"Richard Nixon","hint":"Watergate"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué le début de la Grande Dépression ?","a":["Krach de 1929","Dust Bowl","New Deal"],"correct":"Krach de 1929","hint":"Wall Street"}
+{"cat":"HistoireUSA","q":"Qui a été le premier président républicain ?","a":["Abraham Lincoln","Ulysses S. Grant","Rutherford Hayes"],"correct":"Abraham Lincoln","hint":"1860"}
+{"cat":"HistoireUSA","q":"Quel président a signé la loi sur les droits civiques de 1964 ?","a":["Lyndon B. Johnson","John F. Kennedy","Richard Nixon"],"correct":"Lyndon B. Johnson","hint":"Droits civiques"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre froide ?","a":["Chute du mur de Berlin","Crise de Cuba","Guerre du Vietnam"],"correct":"Chute du mur de Berlin","hint":"1989"}
+{"cat":"HistoireUSA","q":"Qui a dirigé les forces américaines pendant la guerre du Golfe ?","a":["Norman Schwarzkopf","Colin Powell","David Petraeus"],"correct":"Norman Schwarzkopf","hint":"1991"}
+{"cat":"HistoireUSA","q":"Quel président a lancé le programme Apollo ?","a":["John F. Kennedy","Lyndon Johnson","Richard Nixon"],"correct":"John F. Kennedy","hint":"Lune"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué l’indépendance des États-Unis ?","a":["Traité de Paris 1783","Déclaration de 1776","Guerre de 1812"],"correct":"Traité de Paris 1783","hint":"Fin de la guerre"}
+{"cat":"HistoireUSA","q":"Qui a mené la lutte contre la ségrégation dans les bus de Montgomery ?","a":["Rosa Parks","Martin Luther King Jr.","Malcolm X"],"correct":"Rosa Parks","hint":"1955"}
+{"cat":"HistoireUSA","q":"Quel président a signé la loi sur la sécurité sociale ?","a":["Franklin D. Roosevelt","Harry Truman","Dwight Eisenhower"],"correct":"Franklin D. Roosevelt","hint":"1935"}
+{"cat":"HistoireUSA","q":"Quel événement a déclenché la guerre du Vietnam ?","a":["Incident du golfe du Tonkin","Pearl Harbor","Crise de Cuba"],"correct":"Incident du golfe du Tonkin","hint":"1964"}
+{"cat":"HistoireUSA","q":"Qui a été le premier président à être destitué (impeached) ?","a":["Andrew Johnson","Richard Nixon","Bill Clinton"],"correct":"Andrew Johnson","hint":"1868"}
+{"cat":"HistoireUSA","q":"Quel président a signé l’Emancipation Proclamation ?","a":["Abraham Lincoln","Ulysses S. Grant","James Buchanan"],"correct":"Abraham Lincoln","hint":"1863"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué l’entrée des États-Unis dans la Première Guerre mondiale ?","a":["Attaques de sous-marins allemands","Pearl Harbor","Crise de Cuba"],"correct":"Attaques de sous-marins allemands","hint":"1917"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la conquête de l’Ouest ?","a":["Pionniers","Confédérés","Union"],"correct":"Pionniers","hint":"Frontière"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Civil Rights Act de 1968 ?","a":["Lyndon B. Johnson","John F. Kennedy","Richard Nixon"],"correct":"Lyndon B. Johnson","hint":"Logement"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre du Vietnam ?","a":["Chute de Saïgon","Accords de Paris","Offensive du Têt"],"correct":"Chute de Saïgon","hint":"1975"}
+{"cat":"HistoireUSA","q":"Qui a été le premier président à apparaître à la télévision ?","a":["Franklin D. Roosevelt","Harry Truman","Dwight Eisenhower"],"correct":"Franklin D. Roosevelt","hint":"1939"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Homestead Act ?","a":["Abraham Lincoln","James Buchanan","Andrew Johnson"],"correct":"Abraham Lincoln","hint":"Terres gratuites"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la conquête de la Californie ?","a":["Ruée vers l’or","Guerre de Sécession","Guerre de 1812"],"correct":"Ruée vers l’or","hint":"1848"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la mafia dans les années 1930 ?","a":["Eliot Ness","J. Edgar Hoover","Harry Truman"],"correct":"Eliot Ness","hint":"Chicago"}
+{"cat":"HistoireUSA","q":"Quel président a signé la loi sur l’immigration de 1965 ?","a":["Lyndon B. Johnson","John F. Kennedy","Richard Nixon"],"correct":"Lyndon B. Johnson","hint":"Nouvelles règles"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la naissance du mouvement hippie ?","a":["Festival de Woodstock","Crise de Cuba","Guerre du Golfe"],"correct":"Festival de Woodstock","hint":"1969"}
+{"cat":"HistoireUSA","q":"Qui a été le premier président à voyager en Europe ?","a":["Woodrow Wilson","Theodore Roosevelt","William Taft"],"correct":"Woodrow Wilson","hint":"1919"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Patriot Act ?","a":["George W. Bush","Bill Clinton","Barack Obama"],"correct":"George W. Bush","hint":"2001"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué les attentats du 11 septembre ?","a":["Attaques terroristes","Crise financière","Guerre du Golfe"],"correct":"Attaques terroristes","hint":"2001"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte pour les droits des travailleurs dans les années 1930 ?","a":["John L. Lewis","Eugene Debs","Henry Ford"],"correct":"John L. Lewis","hint":"Syndicats"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Voting Rights Act ?","a":["Lyndon B. Johnson","John F. Kennedy","Richard Nixon"],"correct":"Lyndon B. Johnson","hint":"1965"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la prohibition ?","a":["21e amendement","New Deal","Pearl Harbor"],"correct":"21e amendement","hint":"1933"}
+{"cat":"HistoireUSA","q":"Qui a été le premier président à utiliser Internet pour une campagne ?","a":["Bill Clinton","George W. Bush","Barack Obama"],"correct":"Barack Obama","hint":"2008"}
+{"cat":"HistoireUSA","q":"Quel président a acheté l’Alaska en 1867 ?","a":["Andrew Johnson","Ulysses S. Grant","Abraham Lincoln"],"correct":"Andrew Johnson","hint":"Deal avec la Russie"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la prohibition ?","a":["21e amendement","New Deal","Pearl Harbor"],"correct":"21e amendement","hint":"1933"}
+{"cat":"HistoireUSA","q":"Qui a dirigé les forces américaines pendant la guerre de 1812 ?","a":["Andrew Jackson","George Washington","Ulysses S. Grant"],"correct":"Andrew Jackson","hint":"Nouvelle-Orléans"}
+{"cat":"HistoireUSA","q":"Quel président a créé le FBI ?","a":["Theodore Roosevelt","Woodrow Wilson","William Taft"],"correct":"Theodore Roosevelt","hint":"1908"}
+{"cat":"HistoireUSA","q":"Quel événement a déclenché la ruée vers l’or ?","a":["Découverte à Sutter’s Mill","Guerre du Mexique","Homestead Act"],"correct":"Découverte à Sutter’s Mill","hint":"1848"}
+{"cat":"HistoireUSA","q":"Qui a mené la lutte contre la ségrégation dans les universités du Sud ?","a":["James Meredith","Martin Luther King Jr.","Malcolm X"],"correct":"James Meredith","hint":"Mississippi"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Sherman Antitrust Act ?","a":["Benjamin Harrison","Grover Cleveland","William McKinley"],"correct":"Benjamin Harrison","hint":"1890"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre américano-mexicaine ?","a":["Traité de Guadalupe Hidalgo","Traité de Paris","Accords de Washington"],"correct":"Traité de Guadalupe Hidalgo","hint":"1848"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte pour les droits des femmes au XIXe siècle ?","a":["Susan B. Anthony","Eleanor Roosevelt","Harriet Tubman"],"correct":"Susan B. Anthony","hint":"Suffrage"}
+{"cat":"HistoireUSA","q":"Quel président a été élu pendant la Première Guerre mondiale ?","a":["Woodrow Wilson","Theodore Roosevelt","William Taft"],"correct":"Woodrow Wilson","hint":"1916"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la Reconstruction ?","a":["Compromis de 1877","13e amendement","Assassinat de Lincoln"],"correct":"Compromis de 1877","hint":"Retrait des troupes"}
+{"cat":"HistoireUSA","q":"Qui a dirigé les forces américaines pendant la guerre du Pacifique ?","a":["Douglas MacArthur","Dwight Eisenhower","George Patton"],"correct":"Douglas MacArthur","hint":"Philippines"}
+{"cat":"HistoireUSA","q":"Quel président a créé le système des parcs nationaux ?","a":["Woodrow Wilson","Theodore Roosevelt","Calvin Coolidge"],"correct":"Woodrow Wilson","hint":"1916"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre de Corée ?","a":["Armistice de 1953","Accords de Paris","Chute de Saïgon"],"correct":"Armistice de 1953","hint":"Frontière inchangée"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les transports inter-États ?","a":["Freedom Riders","Black Panthers","NAACP"],"correct":"Freedom Riders","hint":"1961"}
+{"cat":"HistoireUSA","q":"Quel président a signé le GI Bill ?","a":["Franklin D. Roosevelt","Harry Truman","Dwight Eisenhower"],"correct":"Franklin D. Roosevelt","hint":"1944"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre d’indépendance ?","a":["Traité de Paris 1783","Déclaration de 1776","Boston Tea Party"],"correct":"Traité de Paris 1783","hint":"Victoire américaine"}
+{"cat":"HistoireUSA","q":"Qui a mené la lutte contre l’esclavage dans les années 1850 ?","a":["Harriet Tubman","Susan B. Anthony","Frederick Douglass"],"correct":"Harriet Tubman","hint":"Underground Railroad"}
+{"cat":"HistoireUSA","q":"Quel président a signé la loi sur les autoroutes inter-États ?","a":["Dwight Eisenhower","Harry Truman","John F. Kennedy"],"correct":"Dwight Eisenhower","hint":"1956"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre de 1812 ?","a":["Traité de Gand","Traité de Paris","Accords de Washington"],"correct":"Traité de Gand","hint":"1814"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les restaurants ?","a":["Sit-in de Greensboro","Freedom Riders","NAACP"],"correct":"Sit-in de Greensboro","hint":"1960"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Clean Air Act ?","a":["Richard Nixon","Lyndon Johnson","Jimmy Carter"],"correct":"Richard Nixon","hint":"1970"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre du Golfe ?","a":["Opération Tempête du désert","Accords de Paris","Chute de Bagdad"],"correct":"Opération Tempête du désert","hint":"1991"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les écoles du Sud ?","a":["Little Rock Nine","Freedom Riders","Black Panthers"],"correct":"Little Rock Nine","hint":"Arkansas"}
+{"cat":"HistoireUSA","q":"Quel président a signé le National Labor Relations Act ?","a":["Franklin D. Roosevelt","Harry Truman","Herbert Hoover"],"correct":"Franklin D. Roosevelt","hint":"1935"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre d’Espagne contre les États-Unis ?","a":["Traité de Paris 1898","Accords de Washington","Traité de Versailles"],"correct":"Traité de Paris 1898","hint":"Fin de l’empire espagnol"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités du Sud profond ?","a":["James Meredith","Rosa Parks","Malcolm X"],"correct":"James Meredith","hint":"Ole Miss"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Federal Reserve Act ?","a":["Woodrow Wilson","Theodore Roosevelt","William Taft"],"correct":"Woodrow Wilson","hint":"1913"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre du Vietnam pour les États-Unis ?","a":["Accords de Paris","Chute de Saïgon","Offensive du Têt"],"correct":"Accords de Paris","hint":"1973"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les bibliothèques ?","a":["Sit-in de Louisville","Freedom Riders","NAACP"],"correct":"Sit-in de Louisville","hint":"1961"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Civil Rights Act de 1957 ?","a":["Dwight Eisenhower","Harry Truman","John F. Kennedy"],"correct":"Dwight Eisenhower","hint":"Première loi depuis 1875"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre du Mexique ?","a":["Traité de Guadalupe Hidalgo","Traité de Paris","Accords de Washington"],"correct":"Traité de Guadalupe Hidalgo","hint":"1848"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les bus inter-États ?","a":["Freedom Riders","Black Panthers","NAACP"],"correct":"Freedom Riders","hint":"1961"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Social Security Amendments de 1965 ?","a":["Lyndon B. Johnson","John F. Kennedy","Richard Nixon"],"correct":"Lyndon B. Johnson","hint":"Medicare & Medicaid"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre de Corée pour les États-Unis ?","a":["Armistice de 1953","Accords de Paris","Chute de Saïgon"],"correct":"Armistice de 1953","hint":"Frontière inchangée"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités d’Alabama ?","a":["Vivian Malone","Rosa Parks","Malcolm X"],"correct":"Vivian Malone","hint":"1963"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Fair Labor Standards Act ?","a":["Franklin D. Roosevelt","Harry Truman","Dwight Eisenhower"],"correct":"Franklin D. Roosevelt","hint":"1938"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre d’indépendance pour la Grande-Bretagne ?","a":["Traité de Paris 1783","Déclaration de 1776","Boston Tea Party"],"correct":"Traité de Paris 1783","hint":"Reconnaissance officielle"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les parcs publics ?","a":["NAACP","Black Panthers","Freedom Riders"],"correct":"NAACP","hint":"Procès locaux"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Immigration Act de 1924 ?","a":["Calvin Coolidge","Woodrow Wilson","Herbert Hoover"],"correct":"Calvin Coolidge","hint":"Quota national"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre du Golfe pour l’Irak ?","a":["Capitulation de 1991","Chute de Bagdad","Accords de Paris"],"correct":"Capitulation de 1991","hint":"Coalition victorieuse"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les piscines publiques ?","a":["NAACP","Freedom Riders","Black Panthers"],"correct":"NAACP","hint":"Procès civils"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Federal Aid Highway Act ?","a":["Dwight Eisenhower","Harry Truman","John F. Kennedy"],"correct":"Dwight Eisenhower","hint":"1956"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre de Sécession ?","a":["Capitulation de Lee","Assassinat de Lincoln","13e amendement"],"correct":"Capitulation de Lee","hint":"Appomattox"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités du Mississippi ?","a":["James Meredith","Rosa Parks","Malcolm X"],"correct":"James Meredith","hint":"Ole Miss"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Revenue Act de 1862 ?","a":["Abraham Lincoln","Andrew Johnson","James Buchanan"],"correct":"Abraham Lincoln","hint":"Impôt fédéral"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre d’Espagne contre les États-Unis ?","a":["Traité de Paris 1898","Accords de Washington","Traité de Versailles"],"correct":"Traité de Paris 1898","hint":"Fin de l’empire espagnol"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Homestead Act de 1862 ?","a":["Abraham Lincoln","Andrew Johnson","James Buchanan"],"correct":"Abraham Lincoln","hint":"Terres gratuites"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la Grande Dépression ?","a":["Entrée en guerre en 1941","New Deal","Krach de 1929"],"correct":"Entrée en guerre en 1941","hint":"Industrie militaire"}
+{"cat":"HistoireUSA","q":"Qui a dirigé les forces américaines lors du débarquement en Normandie ?","a":["Dwight Eisenhower","George Patton","Douglas MacArthur"],"correct":"Dwight Eisenhower","hint":"D-Day"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Civil Rights Act de 1991 ?","a":["George H. W. Bush","Ronald Reagan","Bill Clinton"],"correct":"George H. W. Bush","hint":"Emploi"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué le début de la guerre de Corée ?","a":["Invasion du Sud par le Nord","Attaque de Pearl Harbor","Crise de Cuba"],"correct":"Invasion du Sud par le Nord","hint":"1950"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les transports publics ?","a":["Rosa Parks","Martin Luther King Jr.","Thurgood Marshall"],"correct":"Rosa Parks","hint":"Montgomery"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Voting Rights Act de 1970 ?","a":["Richard Nixon","Lyndon Johnson","Gerald Ford"],"correct":"Richard Nixon","hint":"Extension du droit de vote"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre d’indépendance pour les États-Unis ?","a":["Traité de Paris 1783","Déclaration de 1776","Boston Tea Party"],"correct":"Traité de Paris 1783","hint":"Victoire américaine"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités du Texas ?","a":["Heman Sweatt","James Meredith","Vivian Malone"],"correct":"Heman Sweatt","hint":"Affaire Sweatt v. Painter"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Clean Water Act ?","a":["Richard Nixon","Jimmy Carter","Gerald Ford"],"correct":"Richard Nixon","hint":"1972"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre du Golfe pour les États-Unis ?","a":["Opération Tempête du désert","Accords de Paris","Chute de Bagdad"],"correct":"Opération Tempête du désert","hint":"1991"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités de Géorgie ?","a":["Charlayne Hunter","Rosa Parks","Malcolm X"],"correct":"Charlayne Hunter","hint":"1961"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Taft-Hartley Act ?","a":["Harry Truman","Franklin Roosevelt","Dwight Eisenhower"],"correct":"Harry Truman","hint":"1947"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre de 1812 pour les États-Unis ?","a":["Traité de Gand","Traité de Paris","Accords de Washington"],"correct":"Traité de Gand","hint":"1814"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités de Caroline du Sud ?","a":["Henrie Monteith","James Meredith","Vivian Malone"],"correct":"Henrie Monteith","hint":"1963"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Pure Food and Drug Act ?","a":["Theodore Roosevelt","Woodrow Wilson","William Taft"],"correct":"Theodore Roosevelt","hint":"1906"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre d’Espagne contre les États-Unis ?","a":["Traité de Paris 1898","Accords de Washington","Traité de Versailles"],"correct":"Traité de Paris 1898","hint":"Fin de l’empire espagnol"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités de Floride ?","a":["Virgil Hawkins","James Meredith","Rosa Parks"],"correct":"Virgil Hawkins","hint":"1956"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Federal Trade Commission Act ?","a":["Woodrow Wilson","Theodore Roosevelt","William Taft"],"correct":"Woodrow Wilson","hint":"1914"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre du Vietnam pour les États-Unis ?","a":["Accords de Paris","Chute de Saïgon","Offensive du Têt"],"correct":"Accords de Paris","hint":"1973"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités du Tennessee ?","a":["Autherine Lucy","James Meredith","Rosa Parks"],"correct":"Autherine Lucy","hint":"1956"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Clayton Antitrust Act ?","a":["Woodrow Wilson","Theodore Roosevelt","William Taft"],"correct":"Woodrow Wilson","hint":"1914"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre de Sécession ?","a":["Capitulation de Lee","Assassinat de Lincoln","13e amendement"],"correct":"Capitulation de Lee","hint":"Appomattox"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités de Virginie ?","a":["Gregory Swanson","James Meredith","Rosa Parks"],"correct":"Gregory Swanson","hint":"1950"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Federal Communications Act ?","a":["Franklin D. Roosevelt","Harry Truman","Dwight Eisenhower"],"correct":"Franklin D. Roosevelt","hint":"1934"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre de Corée ?","a":["Armistice de 1953","Accords de Paris","Chute de Saïgon"],"correct":"Armistice de 1953","hint":"Frontière inchangée"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités du Maryland ?","a":["Donald Murray","James Meredith","Rosa Parks"],"correct":"Donald Murray","hint":"1936"}
+{"cat":"HistoireUSA","q":"Quel président a signé le National Defense Education Act ?","a":["Dwight Eisenhower","Harry Truman","John F. Kennedy"],"correct":"Dwight Eisenhower","hint":"1958"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre du Golfe pour le Koweït ?","a":["Libération de Koweït City","Chute de Bagdad","Accords de Paris"],"correct":"Libération de Koweït City","hint":"Coalition"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités du Kentucky ?","a":["Lyman Johnson","James Meredith","Rosa Parks"],"correct":"Lyman Johnson","hint":"1949"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Morrill Land-Grant Act ?","a":["Abraham Lincoln","Andrew Johnson","James Buchanan"],"correct":"Abraham Lincoln","hint":"Universités agricoles"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre d’indépendance pour la France ?","a":["Traité de Paris 1783","Déclaration de 1776","Boston Tea Party"],"correct":"Traité de Paris 1783","hint":"Alliés américains"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités du Missouri ?","a":["Lloyd Gaines","James Meredith","Rosa Parks"],"correct":"Lloyd Gaines","hint":"1938"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Hatch Act ?","a":["Franklin D. Roosevelt","Harry Truman","Dwight Eisenhower"],"correct":"Franklin D. Roosevelt","hint":"1939"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre du Mexique pour les États-Unis ?","a":["Traité de Guadalupe Hidalgo","Traité de Paris","Accords de Washington"],"correct":"Traité de Guadalupe Hidalgo","hint":"1848"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités du Kansas ?","a":["Lucinda Todd","James Meredith","Rosa Parks"],"correct":"Lucinda Todd","hint":"Brown v. Board"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Smith Act ?","a":["Franklin D. Roosevelt","Harry Truman","Dwight Eisenhower"],"correct":"Franklin D. Roosevelt","hint":"1940"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre de 1812 pour la Grande-Bretagne ?","a":["Traité de Gand","Traité de Paris","Accords de Washington"],"correct":"Traité de Gand","hint":"Paix"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités de Caroline du Nord ?","a":["Pauli Murray","James Meredith","Rosa Parks"],"correct":"Pauli Murray","hint":"1944"}
+{"cat":"HistoireUSA","q":"Quel président a signé le War Powers Act ?","a":["Richard Nixon","Gerald Ford","Jimmy Carter"],"correct":"Richard Nixon","hint":"1973"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre du Vietnam pour le Sud-Vietnam ?","a":["Chute de Saïgon","Accords de Paris","Offensive du Têt"],"correct":"Chute de Saïgon","hint":"1975"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités de Louisiane ?","a":["A.P. Tureaud","James Meredith","Rosa Parks"],"correct":"A.P. Tureaud","hint":"1953"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Gold Reserve Act ?","a":["Franklin D. Roosevelt","Harry Truman","Dwight Eisenhower"],"correct":"Franklin D. Roosevelt","hint":"1934"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre de Sécession pour les États du Sud ?","a":["Capitulation de Johnston","Capitulation de Lee","Assassinat de Lincoln"],"correct":"Capitulation de Johnston","hint":"Caroline du Nord"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités de l’Oklahoma ?","a":["Ada Lois Sipuel","James Meredith","Rosa Parks"],"correct":"Ada Lois Sipuel","hint":"1948"}
+{"cat":"HistoireUSA","q":"Quel président a signé le Emergency Banking Act ?","a":["Franklin D. Roosevelt","Herbert Hoover","Harry Truman"],"correct":"Franklin D. Roosevelt","hint":"1933"}
+{"cat":"HistoireUSA","q":"Quel événement a marqué la fin de la guerre du Golfe pour la coalition ?","a":["Cessez-le-feu de 1991","Chute de Bagdad","Accords de Paris"],"correct":"Cessez-le-feu de 1991","hint":"Victoire rapide"}
+{"cat":"HistoireUSA","q":"Qui a dirigé la lutte contre la ségrégation dans les universités du Mississippi rural ?","a":["Medgar Evers","James Meredith","Rosa Parks"],"correct":"Medgar Evers","hint":"NAACP"}

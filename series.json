@@ -1,0 +1,798 @@
+{"cat":"Series90","q":"Dans Friends, qui joue le rôle de Ross Geller ?","a":["David Schwimmer","Matthew Perry","Matt LeBlanc"],"correct":"David Schwimmer","hint":"Paléontologue"}
+{"cat":"Series90","q":"Dans quelle série un groupe d’amis vit à New York autour d’un café nommé Central Perk ?","a":["Friends","Seinfeld","Frasier"],"correct":"Friends","hint":"Canapé orange"}
+{"cat":"Series90","q":"Qui joue le rôle de Jerry dans Seinfeld ?","a":["Jerry Seinfeld","Jason Alexander","Michael Richards"],"correct":"Jerry Seinfeld","hint":"Comédien"}
+{"cat":"Series90","q":"Dans quelle série un comédien vit des situations absurdes avec ses amis ?","a":["Seinfeld","Friends","Frasier"],"correct":"Seinfeld","hint":"No hugging, no learning"}
+{"cat":"Series90","q":"Qui incarne le rôle de Frasier Crane ?","a":["Kelsey Grammer","David Hyde Pierce","John Mahoney"],"correct":"Kelsey Grammer","hint":"Psychiatre"}
+{"cat":"Series90","q":"Dans quelle série un psychiatre anime une émission radio à Seattle ?","a":["Frasier","Seinfeld","Friends"],"correct":"Frasier","hint":"Café Nervosa"}
+{"cat":"Series90","q":"Qui joue Buffy dans Buffy the Vampire Slayer ?","a":["Sarah Michelle Gellar","Alyson Hannigan","Eliza Dushku"],"correct":"Sarah Michelle Gellar","hint":"Tueuse"}
+{"cat":"Series90","q":"Dans quelle série une adolescente combat des vampires et démons ?","a":["Buffy the Vampire Slayer","Charmed","Angel"],"correct":"Buffy the Vampire Slayer","hint":"Sunnydale"}
+{"cat":"Series90","q":"Qui incarne le rôle de Mulder dans The X-Files ?","a":["David Duchovny","Gillian Anderson","Mitch Pileggi"],"correct":"David Duchovny","hint":"Aliens"}
+{"cat":"Series90","q":"Dans quelle série deux agents du FBI enquêtent sur des phénomènes paranormaux ?","a":["The X-Files","Twin Peaks","Millennium"],"correct":"The X-Files","hint":"Truth is out there"}
+{"cat":"Series90","q":"Qui joue le rôle de Scully dans The X-Files ?","a":["Gillian Anderson","Sarah Michelle Gellar","Courteney Cox"],"correct":"Gillian Anderson","hint":"Scientifique"}
+{"cat":"Series90","q":"Dans quelle série un agent sceptique accompagne un agent croyant au paranormal ?","a":["The X-Files","Fringe","Millennium"],"correct":"The X-Files","hint":"Duo culte"}
+{"cat":"Series90","q":"Qui incarne le rôle de Will Smith dans The Fresh Prince of Bel-Air ?","a":["Will Smith","Alfonso Ribeiro","James Avery"],"correct":"Will Smith","hint":"West Philadelphia"}
+{"cat":"Series90","q":"Dans quelle série un adolescent déménage chez sa riche famille à Bel-Air ?","a":["The Fresh Prince of Bel-Air","Family Matters","Full House"],"correct":"The Fresh Prince of Bel-Air","hint":"Carlton dance"}
+{"cat":"Series90","q":"Qui joue le rôle de Sabrina dans Sabrina the Teenage Witch ?","a":["Melissa Joan Hart","Sarah Michelle Gellar","Jennifer Love Hewitt"],"correct":"Melissa Joan Hart","hint":"Sorcière"}
+{"cat":"Series90","q":"Dans quelle série une adolescente découvre qu’elle est une sorcière ?","a":["Sabrina the Teenage Witch","Charmed","Buffy"],"correct":"Sabrina the Teenage Witch","hint":"Chat Salem"}
+{"cat":"Series90","q":"Qui incarne le rôle de Ray dans Everybody Loves Raymond ?","a":["Ray Romano","Brad Garrett","Peter Boyle"],"correct":"Ray Romano","hint":"Humoriste"}
+{"cat":"Series90","q":"Dans quelle série un journaliste sportif vit avec sa famille envahissante ?","a":["Everybody Loves Raymond","Seinfeld","Frasier"],"correct":"Everybody Loves Raymond","hint":"Parents à côté"}
+{"cat":"Series90","q":"Qui joue le rôle de Carrie dans Sex and the City ?","a":["Sarah Jessica Parker","Kim Cattrall","Kristin Davis"],"correct":"Sarah Jessica Parker","hint":"Chroniqueuse"}
+{"cat":"Series90","q":"Dans quelle série quatre femmes explorent l’amour à New York ?","a":["Sex and the City","Friends","Will & Grace"],"correct":"Sex and the City","hint":"Manolos"}
+{"cat":"Series90","q":"Qui incarne le rôle de Ally dans Ally McBeal ?","a":["Calista Flockhart","Lucy Liu","Portia de Rossi"],"correct":"Calista Flockhart","hint":"Cabinet d’avocats"}
+{"cat":"Series90","q":"Dans quelle série une avocate vit des situations romantiques et fantaisistes ?","a":["Ally McBeal","The Practice","ER"],"correct":"Ally McBeal","hint":"Bébé dansant"}
+{"cat":"Series90","q":"Qui joue le rôle de Doug dans King of Queens ?","a":["Kevin James","Ray Romano","Jason Alexander"],"correct":"Kevin James","hint":"Livreur"}
+{"cat":"Series90","q":"Dans quelle série un livreur vit avec sa femme et son beau-père envahissant ?","a":["King of Queens","Everybody Loves Raymond","Seinfeld"],"correct":"King of Queens","hint":"Arthur Spooner"}
+{"cat":"Series90","q":"Qui incarne le rôle de Eric dans That '70s Show ?","a":["Topher Grace","Ashton Kutcher","Wilmer Valderrama"],"correct":"Topher Grace","hint":"Sous-sol"}
+{"cat":"Series90","q":"Dans quelle série un groupe d’adolescents vit dans les années 70 ?","a":["That '70s Show","Friends","Dawson's Creek"],"correct":"That '70s Show","hint":"Point Place"}
+{"cat":"Series90","q":"Qui joue le rôle de Dawson dans Dawson's Creek ?","a":["James Van Der Beek","Joshua Jackson","Katie Holmes"],"correct":"James Van Der Beek","hint":"Rivière"}
+{"cat":"Series90","q":"Dans quelle série des adolescents vivent des drames sentimentaux dans une petite ville ?","a":["Dawson's Creek","Buffy","Felicity"],"correct":"Dawson's Creek","hint":"Capeside"}
+{"cat":"Series90","q":"Qui incarne le rôle de Jerry dans ER ?","a":["Anthony Edwards","George Clooney","Noah Wyle"],"correct":"Anthony Edwards","hint":"Urgences"}
+{"cat":"Series90","q":"Dans quelle série des médecins travaillent dans un service d’urgences à Chicago ?","a":["ER","Chicago Hope","Scrubs"],"correct":"ER","hint":"Clooney"}
+{"cat":"Series90","q":"Qui joue le rôle de Dr. Carter dans ER ?","a":["Noah Wyle","George Clooney","Anthony Edwards"],"correct":"Noah Wyle","hint":"Interne"}
+{"cat":"Series90","q":"Dans quelle série un jeune médecin évolue dans un hôpital chaotique ?","a":["ER","Scrubs","House"],"correct":"ER","hint":"Années 90"}
+{"cat":"Series90","q":"Qui incarne le rôle de Angel dans Angel ?","a":["David Boreanaz","James Marsters","Nicholas Brendon"],"correct":"David Boreanaz","hint":"Vampire"}
+{"cat":"Series90","q":"Dans quelle série un vampire cherche la rédemption à Los Angeles ?","a":["Angel","Buffy","Charmed"],"correct":"Angel","hint":"Spin-off"}
+{"cat":"Series90","q":"Qui joue le rôle de Phoebe dans Charmed ?","a":["Alyssa Milano","Holly Marie Combs","Shannen Doherty"],"correct":"Alyssa Milano","hint":"Pouvoirs"}
+{"cat":"Series90","q":"Dans quelle série trois sœurs découvrent leurs pouvoirs magiques ?","a":["Charmed","Buffy","Sabrina"],"correct":"Charmed","hint":"Livre des Ombres"}
+{"cat":"Series90","q":"Qui incarne le rôle de Tommy dans Power Rangers ?","a":["Jason David Frank","Austin St. John","David Yost"],"correct":"Jason David Frank","hint":"Ranger vert"}
+{"cat":"Series90","q":"Dans quelle série des adolescents deviennent des héros colorés ?","a":["Power Rangers","VR Troopers","Beetleborgs"],"correct":"Power Rangers","hint":"Zords"}
+{"cat":"Series90","q":"Qui joue le rôle de Kevin Arnold dans The Wonder Years ?","a":["Fred Savage","Jason Hervey","Dan Lauria"],"correct":"Fred Savage","hint":"Narration adulte"}
+{"cat":"Series90","q":"Dans quelle série un garçon grandit dans les années 60 ?","a":["The Wonder Years","Boy Meets World","Full House"],"correct":"The Wonder Years","hint":"Voix off"}
+{"cat":"Series90","q":"Qui incarne le rôle de Cory dans Boy Meets World ?","a":["Ben Savage","Rider Strong","Will Friedle"],"correct":"Ben Savage","hint":"École"}
+{"cat":"Series90","q":"Dans quelle série un adolescent apprend la vie avec ses amis et sa famille ?","a":["Boy Meets World","Full House","Saved by the Bell"],"correct":"Boy Meets World","hint":"Mr. Feeny"}
+{"cat":"Series90","q":"Qui joue le rôle de Zack Morris dans Saved by the Bell ?","a":["Mark-Paul Gosselaar","Mario Lopez","Dustin Diamond"],"correct":"Mark-Paul Gosselaar","hint":"Téléphone géant"}
+{"cat":"Series90","q":"Dans quelle série des lycéens vivent des aventures humoristiques ?","a":["Saved by the Bell","Full House","Boy Meets World"],"correct":"Saved by the Bell","hint":"Bayside"}
+{"cat":"Series90","q":"Qui incarne le rôle de Steve Urkel dans Family Matters ?","a":["Jaleel White","Reginald VelJohnson","Darius McCrary"],"correct":"Jaleel White","hint":"Did I do that?"}
+{"cat":"Series90","q":"Dans quelle série un voisin maladroit devient culte ?","a":["Family Matters","Full House","Fresh Prince"],"correct":"Family Matters","hint":"Urkel"}
+{"cat":"Series90","q":"Qui joue le rôle de Chandler Bing dans Friends ?","a":["Matthew Perry","Matt LeBlanc","David Schwimmer"],"correct":"Matthew Perry","hint":"Sarcasme"}
+{"cat":"Series90","q":"Dans quelle série un homme tombe amoureux de sa meilleure amie Monica ?","a":["Friends","Seinfeld","Frasier"],"correct":"Friends","hint":"Appartements voisins"}
+{"cat":"Series90","q":"Qui incarne le rôle de Kramer dans Seinfeld ?","a":["Michael Richards","Jason Alexander","Jerry Seinfeld"],"correct":"Michael Richards","hint":"Entrées spectaculaires"}
+{"cat":"Series90","q":"Dans quelle série un voisin excentrique entre toujours sans frapper ?","a":["Seinfeld","Friends","Frasier"],"correct":"Seinfeld","hint":"Cheveux en l’air"}
+{"cat":"Series90","q":"Qui joue le rôle de Niles Crane dans Frasier ?","a":["David Hyde Pierce","Kelsey Grammer","John Mahoney"],"correct":"David Hyde Pierce","hint":"Frère maniaque"}
+{"cat":"Series90","q":"Dans quelle série deux frères psychiatres ont une relation complexe ?","a":["Frasier","Seinfeld","Friends"],"correct":"Frasier","hint":"Seattle"}
+{"cat":"Series90","q":"Qui incarne le rôle de Willow dans Buffy the Vampire Slayer ?","a":["Alyson Hannigan","Sarah Michelle Gellar","Charisma Carpenter"],"correct":"Alyson Hannigan","hint":"Magie"}
+{"cat":"Series90","q":"Dans quelle série une jeune fille devient sorcière au fil des saisons ?","a":["Buffy the Vampire Slayer","Charmed","Sabrina"],"correct":"Buffy the Vampire Slayer","hint":"Rouquine"}
+{"cat":"Series90","q":"Qui joue le rôle de Dana Scully dans The X-Files ?","a":["Gillian Anderson","Sarah Michelle Gellar","Courteney Cox"],"correct":"Gillian Anderson","hint":"Scientifique sceptique"}
+{"cat":"Series90","q":"Dans quelle série un duo du FBI enquête sur des phénomènes inexpliqués ?","a":["The X-Files","Twin Peaks","Millennium"],"correct":"The X-Files","hint":"Paranormal"}
+{"cat":"Series90","q":"Qui incarne le rôle de Carlton Banks dans Fresh Prince ?","a":["Alfonso Ribeiro","Will Smith","James Avery"],"correct":"Alfonso Ribeiro","hint":"Danse iconique"}
+{"cat":"Series90","q":"Dans quelle série un adolescent vit chez son oncle Phil ?","a":["The Fresh Prince of Bel-Air","Family Matters","Full House"],"correct":"The Fresh Prince of Bel-Air","hint":"Bel-Air"}
+{"cat":"Series90","q":"Qui joue le rôle de Harvey dans Sabrina the Teenage Witch ?","a":["Nate Richert","Jason Priestley","James Van Der Beek"],"correct":"Nate Richert","hint":"Petit ami"}
+{"cat":"Series90","q":"Dans quelle série une adolescente vit avec deux tantes sorcières ?","a":["Sabrina the Teenage Witch","Charmed","Buffy"],"correct":"Sabrina the Teenage Witch","hint":"Chat noir"}
+{"cat":"Series90","q":"Qui incarne le rôle de Debra dans Everybody Loves Raymond ?","a":["Patricia Heaton","Doris Roberts","Julia Louis-Dreyfus"],"correct":"Patricia Heaton","hint":"Épouse de Ray"}
+{"cat":"Series90","q":"Dans quelle série un couple vit près de parents envahissants ?","a":["Everybody Loves Raymond","King of Queens","Seinfeld"],"correct":"Everybody Loves Raymond","hint":"Famille collée"}
+{"cat":"Series90","q":"Qui joue le rôle de Miranda dans Sex and the City ?","a":["Cynthia Nixon","Sarah Jessica Parker","Kristin Davis"],"correct":"Cynthia Nixon","hint":"Avocate rousse"}
+{"cat":"Series90","q":"Dans quelle série quatre femmes discutent de leur vie amoureuse ?","a":["Sex and the City","Friends","Will & Grace"],"correct":"Sex and the City","hint":"New York"}
+{"cat":"Series90","q":"Qui incarne le rôle de Billy dans Ally McBeal ?","a":["Gil Bellows","Peter MacNicol","Greg Germann"],"correct":"Gil Bellows","hint":"Amour compliqué"}
+{"cat":"Series90","q":"Dans quelle série une avocate voit des hallucinations humoristiques ?","a":["Ally McBeal","The Practice","ER"],"correct":"Ally McBeal","hint":"Bébé dansant"}
+{"cat":"Series90","q":"Qui joue le rôle de Carrie Heffernan dans King of Queens ?","a":["Leah Remini","Alyssa Milano","Courteney Cox"],"correct":"Leah Remini","hint":"Femme de Doug"}
+{"cat":"Series90","q":"Dans quelle série un livreur vit avec son épouse et son beau-père ?","a":["King of Queens","Everybody Loves Raymond","Seinfeld"],"correct":"King of Queens","hint":"Arthur Spooner"}
+{"cat":"Series90","q":"Qui incarne le rôle de Jackie dans That '70s Show ?","a":["Mila Kunis","Laura Prepon","Tiffani Thiessen"],"correct":"Mila Kunis","hint":"Petite amie de Kelso"}
+{"cat":"Series90","q":"Dans quelle série un groupe d’ados passe son temps dans un sous-sol ?","a":["That '70s Show","Dawson's Creek","Buffy"],"correct":"That '70s Show","hint":"Point Place"}
+{"cat":"Series90","q":"Qui joue le rôle de Joey Potter dans Dawson's Creek ?","a":["Katie Holmes","Michelle Williams","Jessica Biel"],"correct":"Katie Holmes","hint":"Amie de Dawson"}
+{"cat":"Series90","q":"Dans quelle série des adolescents vivent des drames sentimentaux ?","a":["Dawson's Creek","Buffy","Felicity"],"correct":"Dawson's Creek","hint":"Capeside"}
+{"cat":"Series90","q":"Qui incarne le rôle de Dr. Greene dans ER ?","a":["Anthony Edwards","George Clooney","Noah Wyle"],"correct":"Anthony Edwards","hint":"Urgences"}
+{"cat":"Series90","q":"Dans quelle série George Clooney joue un médecin ?","a":["ER","Scrubs","House"],"correct":"ER","hint":"Chicago"}
+{"cat":"Series90","q":"Qui joue le rôle de Cordelia dans Angel ?","a":["Charisma Carpenter","Sarah Michelle Gellar","Alyson Hannigan"],"correct":"Charisma Carpenter","hint":"Ancienne de Buffy"}
+{"cat":"Series90","q":"Dans quelle série un vampire mène des enquêtes à Los Angeles ?","a":["Angel","Buffy","Charmed"],"correct":"Angel","hint":"Spin-off"}
+{"cat":"Series90","q":"Qui incarne le rôle de Piper dans Charmed ?","a":["Holly Marie Combs","Alyssa Milano","Shannen Doherty"],"correct":"Holly Marie Combs","hint":"Pouvoir temporel"}
+{"cat":"Series90","q":"Dans quelle série trois sœurs combattent des démons ?","a":["Charmed","Buffy","Sabrina"],"correct":"Charmed","hint":"Pouvoir des trois"}
+{"cat":"Series90","q":"Qui joue le rôle de Billy dans Power Rangers ?","a":["David Yost","Jason David Frank","Austin St. John"],"correct":"David Yost","hint":"Ranger bleu"}
+{"cat":"Series90","q":"Dans quelle série des adolescents pilotent des robots géants ?","a":["Power Rangers","VR Troopers","Beetleborgs"],"correct":"Power Rangers","hint":"Zords"}
+{"cat":"Series90","q":"Qui incarne le rôle de Winnie Cooper dans The Wonder Years ?","a":["Danica McKellar","Jennifer Love Hewitt","Sarah Michelle Gellar"],"correct":"Danica McKellar","hint":"Amour d’enfance"}
+{"cat":"Series90","q":"Dans quelle série un garçon raconte sa jeunesse dans les années 60 ?","a":["The Wonder Years","Boy Meets World","Full House"],"correct":"The Wonder Years","hint":"Voix off adulte"}
+{"cat":"Series90","q":"Qui joue le rôle de Shawn dans Boy Meets World ?","a":["Rider Strong","Ben Savage","Will Friedle"],"correct":"Rider Strong","hint":"Meilleur ami"}
+{"cat":"Series90","q":"Dans quelle série un adolescent apprend la vie avec Mr. Feeny ?","a":["Boy Meets World","Saved by the Bell","Full House"],"correct":"Boy Meets World","hint":"Topanga"}
+{"cat":"Series90","q":"Qui incarne le rôle de Slater dans Saved by the Bell ?","a":["Mario Lopez","Mark-Paul Gosselaar","Dustin Diamond"],"correct":"Mario Lopez","hint":"Athlète"}
+{"cat":"Series90","q":"Dans quelle série des lycéens vivent des aventures humoristiques ?","a":["Saved by the Bell","Full House","Boy Meets World"],"correct":"Saved by the Bell","hint":"Bayside"}
+{"cat":"Series90","q":"Qui joue le rôle de Danny Tanner dans Full House ?","a":["Bob Saget","John Stamos","Dave Coulier"],"correct":"Bob Saget","hint":"Papa veuf"}
+{"cat":"Series90","q":"Dans quelle série trois hommes élèvent trois filles ?","a":["Full House","Family Matters","Fresh Prince"],"correct":"Full House","hint":"San Francisco"}
+{"cat":"Series90","q":"Qui incarne le rôle de Michelle Tanner ?","a":["Mary-Kate & Ashley Olsen","Hilary Duff","Amanda Bynes"],"correct":"Mary-Kate & Ashley Olsen","hint":"Jumelles"}
+{"cat":"Series90","q":"Dans quelle série une petite fille dit souvent « You got it dude ! » ?","a":["Full House","Family Matters","Boy Meets World"],"correct":"Full House","hint":"Michelle"}
+{"cat":"Series90","q":"Qui joue le rôle de Uncle Jesse ?","a":["John Stamos","Bob Saget","Dave Coulier"],"correct":"John Stamos","hint":"Rock’n’roll"}
+{"cat":"Series90","q":"Dans quelle série un oncle cool vit avec sa famille élargie ?","a":["Full House","Fresh Prince","Family Matters"],"correct":"Full House","hint":"Cheveux noirs"}
+{"cat":"Series90","q":"Qui joue le rôle de Joey Tribbiani dans Friends ?","a":["Matt LeBlanc","Matthew Perry","David Schwimmer"],"correct":"Matt LeBlanc","hint":"How you doin'?"}
+{"cat":"Series90","q":"Dans quelle série un acteur raté tente de percer à New York ?","a":["Friends","Seinfeld","Frasier"],"correct":"Friends","hint":"Colocataires"}
+{"cat":"Series90","q":"Qui incarne le rôle de George Costanza dans Seinfeld ?","a":["Jason Alexander","Jerry Seinfeld","Michael Richards"],"correct":"Jason Alexander","hint":"Stressé"}
+{"cat":"Series90","q":"Dans quelle série un personnage se plaint constamment de sa vie ?","a":["Seinfeld","Frasier","Friends"],"correct":"Seinfeld","hint":"Architecte… ou pas"}
+{"cat":"Series90","q":"Qui joue le rôle de Martin Crane dans Frasier ?","a":["John Mahoney","Kelsey Grammer","David Hyde Pierce"],"correct":"John Mahoney","hint":"Père policier"}
+{"cat":"Series90","q":"Dans quelle série un père retraité vit avec son fils psychiatre ?","a":["Frasier","Seinfeld","Friends"],"correct":"Frasier","hint":"Chaise inclinable"}
+{"cat":"Series90","q":"Qui incarne le rôle de Xander dans Buffy the Vampire Slayer ?","a":["Nicholas Brendon","David Boreanaz","James Marsters"],"correct":"Nicholas Brendon","hint":"Meilleur ami"}
+{"cat":"Series90","q":"Dans quelle série un adolescent maladroit combat des démons ?","a":["Buffy the Vampire Slayer","Charmed","Angel"],"correct":"Buffy the Vampire Slayer","hint":"Scooby Gang"}
+{"cat":"Series90","q":"Qui joue le rôle de Skinner dans The X-Files ?","a":["Mitch Pileggi","David Duchovny","Robert Patrick"],"correct":"Mitch Pileggi","hint":"Supérieur"}
+{"cat":"Series90","q":"Dans quelle série un directeur du FBI supervise Mulder et Scully ?","a":["The X-Files","Twin Peaks","Millennium"],"correct":"The X-Files","hint":"Bureau sombre"}
+{"cat":"Series90","q":"Qui incarne le rôle de Uncle Phil dans Fresh Prince ?","a":["James Avery","Will Smith","Alfonso Ribeiro"],"correct":"James Avery","hint":"Juge"}
+{"cat":"Series90","q":"Dans quelle série un oncle strict élève un adolescent turbulent ?","a":["The Fresh Prince of Bel-Air","Family Matters","Full House"],"correct":"The Fresh Prince of Bel-Air","hint":"Bel-Air"}
+{"cat":"Series90","q":"Qui joue le rôle de Salem dans Sabrina the Teenage Witch ?","a":["Nick Bakay","Jason Marsden","Frank Welker"],"correct":"Nick Bakay","hint":"Chat sarcastique"}
+{"cat":"Series90","q":"Dans quelle série un chat noir parle et complote ?","a":["Sabrina the Teenage Witch","Charmed","Buffy"],"correct":"Sabrina the Teenage Witch","hint":"Familiers"}
+{"cat":"Series90","q":"Qui incarne le rôle de Robert Barone dans Everybody Loves Raymond ?","a":["Brad Garrett","Ray Romano","Peter Boyle"],"correct":"Brad Garrett","hint":"Policier"}
+{"cat":"Series90","q":"Dans quelle série un frère jaloux vit encore chez ses parents ?","a":["Everybody Loves Raymond","King of Queens","Seinfeld"],"correct":"Everybody Loves Raymond","hint":"Famille collante"}
+{"cat":"Series90","q":"Qui joue le rôle de Charlotte dans Sex and the City ?","a":["Kristin Davis","Sarah Jessica Parker","Kim Cattrall"],"correct":"Kristin Davis","hint":"Romantique"}
+{"cat":"Series90","q":"Dans quelle série une femme cherche désespérément le grand amour ?","a":["Sex and the City","Friends","Will & Grace"],"correct":"Sex and the City","hint":"Galeries d’art"}
+{"cat":"Series90","q":"Qui incarne le rôle de Ling Woo dans Ally McBeal ?","a":["Lucy Liu","Calista Flockhart","Portia de Rossi"],"correct":"Lucy Liu","hint":"Redoutable"}
+{"cat":"Series90","q":"Dans quelle série une avocate froide et brillante rejoint le cabinet Cage & Fish ?","a":["Ally McBeal","The Practice","ER"],"correct":"Ally McBeal","hint":"Humour décalé"}
+{"cat":"Series90","q":"Qui joue le rôle de Deacon dans King of Queens ?","a":["Victor Williams","Kevin James","Jerry Stiller"],"correct":"Victor Williams","hint":"Meilleur ami"}
+{"cat":"Series90","q":"Dans quelle série un livreur passe son temps avec son ami Deacon ?","a":["King of Queens","Everybody Loves Raymond","Seinfeld"],"correct":"King of Queens","hint":"IPS"}
+{"cat":"Series90","q":"Qui incarne le rôle de Kelso dans That '70s Show ?","a":["Ashton Kutcher","Topher Grace","Wilmer Valderrama"],"correct":"Ashton Kutcher","hint":"Beau mais idiot"}
+{"cat":"Series90","q":"Dans quelle série un adolescent stupide mais charmant fait rire tout le monde ?","a":["That '70s Show","Dawson's Creek","Buffy"],"correct":"That '70s Show","hint":"Kelso"}
+{"cat":"Series90","q":"Qui joue le rôle de Pacey dans Dawson's Creek ?","a":["Joshua Jackson","James Van Der Beek","Chad Michael Murray"],"correct":"Joshua Jackson","hint":"Meilleur ami"}
+{"cat":"Series90","q":"Dans quelle série un adolescent tombe amoureux de sa prof ?","a":["Dawson's Creek","Buffy","Felicity"],"correct":"Dawson's Creek","hint":"Scandale"}
+{"cat":"Series90","q":"Qui incarne le rôle de Dr. Ross dans ER ?","a":["George Clooney","Anthony Edwards","Noah Wyle"],"correct":"George Clooney","hint":"Pédiatre"}
+{"cat":"Series90","q":"Dans quelle série un médecin charme toutes les infirmières ?","a":["ER","Scrubs","House"],"correct":"ER","hint":"Années 90"}
+{"cat":"Series90","q":"Qui joue le rôle de Wesley dans Angel ?","a":["Alexis Denisof","David Boreanaz","James Marsters"],"correct":"Alexis Denisof","hint":"Ancien Observateur"}
+{"cat":"Series90","q":"Dans quelle série un ancien bibliothécaire rejoint une équipe de détectives surnaturels ?","a":["Angel","Buffy","Charmed"],"correct":"Angel","hint":"Los Angeles"}
+{"cat":"Series90","q":"Qui incarne le rôle de Prue dans Charmed ?","a":["Shannen Doherty","Alyssa Milano","Holly Marie Combs"],"correct":"Shannen Doherty","hint":"Télékinésie"}
+{"cat":"Series90","q":"Dans quelle série une sœur aînée protège sa famille avec ses pouvoirs ?","a":["Charmed","Buffy","Sabrina"],"correct":"Charmed","hint":"Pouvoir des trois"}
+{"cat":"Series90","q":"Qui joue le rôle de Jason Lee Scott dans Power Rangers ?","a":["Austin St. John","Jason David Frank","David Yost"],"correct":"Austin St. John","hint":"Ranger rouge"}
+{"cat":"Series90","q":"Dans quelle série un adolescent devient le leader des Rangers ?","a":["Power Rangers","VR Troopers","Beetleborgs"],"correct":"Power Rangers","hint":"Zordon"}
+{"cat":"Series90","q":"Qui incarne le rôle de Paul Pfeiffer dans The Wonder Years ?","a":["Josh Saviano","Fred Savage","Jason Hervey"],"correct":"Josh Saviano","hint":"Meilleur ami"}
+{"cat":"Series90","q":"Dans quelle série un garçon vit sa jeunesse avec son ami Paul ?","a":["The Wonder Years","Boy Meets World","Full House"],"correct":"The Wonder Years","hint":"Années 60"}
+{"cat":"Series90","q":"Qui joue le rôle de Eric Matthews dans Boy Meets World ?","a":["Will Friedle","Ben Savage","Rider Strong"],"correct":"Will Friedle","hint":"Grand frère"}
+{"cat":"Series90","q":"Dans quelle série un grand frère idiot devient culte ?","a":["Boy Meets World","Saved by the Bell","Full House"],"correct":"Boy Meets World","hint":"Feeny call"}
+{"cat":"Series90","q":"Qui incarne le rôle de Screech dans Saved by the Bell ?","a":["Dustin Diamond","Mario Lopez","Mark-Paul Gosselaar"],"correct":"Dustin Diamond","hint":"Nerd"}
+{"cat":"Series90","q":"Dans quelle série un élève maladroit crée des catastrophes ?","a":["Saved by the Bell","Full House","Boy Meets World"],"correct":"Saved by the Bell","hint":"Bayside"}
+{"cat":"Series90","q":"Qui joue le rôle de Kimmy Gibbler dans Full House ?","a":["Andrea Barber","Candace Cameron","Jodie Sweetin"],"correct":"Andrea Barber","hint":"Voisine étrange"}
+{"cat":"Series90","q":"Dans quelle série une voisine envahissante entre toujours sans prévenir ?","a":["Full House","Family Matters","Fresh Prince"],"correct":"Full House","hint":"Gibbler"}
+{"cat":"Series90","q":"Qui incarne le rôle de Laura Winslow dans Family Matters ?","a":["Kellie Shanygne Williams","Jaleel White","Jo Marie Payton"],"correct":"Kellie Shanygne Williams","hint":"Amie d’Urkel"}
+{"cat":"Series90","q":"Dans quelle série une adolescente vit avec un voisin très envahissant ?","a":["Family Matters","Full House","Fresh Prince"],"correct":"Family Matters","hint":"Urkel"}
+{"cat":"Series90","q":"Qui joue le rôle de Balki dans Perfect Strangers ?","a":["Bronson Pinchot","Mark Linn-Baker","Reginald VelJohnson"],"correct":"Bronson Pinchot","hint":"Cousin étranger"}
+{"cat":"Series90","q":"Dans quelle série un immigrant naïf découvre la vie américaine ?","a":["Perfect Strangers","Family Matters","Full House"],"correct":"Perfect Strangers","hint":"Danse du bonheur"}
+{"cat":"Series90","q":"Qui joue le rôle de Monica Geller dans Friends ?","a":["Courteney Cox","Jennifer Aniston","Lisa Kudrow"],"correct":"Courteney Cox","hint":"Chef cuisinière"}
+{"cat":"Series90","q":"Dans quelle série une maniaque du ménage vit avec son frère Ross ?","a":["Friends","Seinfeld","Frasier"],"correct":"Friends","hint":"Appartements voisins"}
+{"cat":"Series90","q":"Qui incarne le rôle de Elaine Benes dans Seinfeld ?","a":["Julia Louis-Dreyfus","Courteney Cox","Lisa Kudrow"],"correct":"Julia Louis-Dreyfus","hint":"Danse horrible"}
+{"cat":"Series90","q":"Dans quelle série une femme se plaint de ses rendez-vous catastrophiques ?","a":["Seinfeld","Friends","Frasier"],"correct":"Seinfeld","hint":"Soup Nazi"}
+{"cat":"Series90","q":"Qui joue le rôle de Daphne Moon dans Frasier ?","a":["Jane Leeves","Peri Gilpin","Lisa Kudrow"],"correct":"Jane Leeves","hint":"Physique anglaise"}
+{"cat":"Series90","q":"Dans quelle série une aide-soignante vit chez deux frères psychiatres ?","a":["Frasier","Seinfeld","Friends"],"correct":"Frasier","hint":"Visionnaire"}
+{"cat":"Series90","q":"Qui incarne le rôle de Cordelia Chase dans Buffy the Vampire Slayer ?","a":["Charisma Carpenter","Sarah Michelle Gellar","Alyson Hannigan"],"correct":"Charisma Carpenter","hint":"Pom-pom girl"}
+{"cat":"Series90","q":"Dans quelle série une ancienne populaire devient alliée contre les démons ?","a":["Buffy the Vampire Slayer","Charmed","Angel"],"correct":"Buffy the Vampire Slayer","hint":"Sunnydale"}
+{"cat":"Series90","q":"Qui joue le rôle de Krycek dans The X-Files ?","a":["Nicholas Lea","David Duchovny","Mitch Pileggi"],"correct":"Nicholas Lea","hint":"Traître"}
+{"cat":"Series90","q":"Dans quelle série un agent double complique les enquêtes paranormales ?","a":["The X-Files","Millennium","Twin Peaks"],"correct":"The X-Files","hint":"Conspiration"}
+{"cat":"Series90","q":"Qui incarne le rôle de Hilary Banks dans Fresh Prince ?","a":["Karyn Parsons","Tatyana Ali","Nia Long"],"correct":"Karyn Parsons","hint":"Sœur snob"}
+{"cat":"Series90","q":"Dans quelle série une jeune femme riche vit avec son cousin de Philadelphie ?","a":["The Fresh Prince of Bel-Air","Family Matters","Full House"],"correct":"The Fresh Prince of Bel-Air","hint":"Bel-Air"}
+{"cat":"Series90","q":"Qui joue le rôle de Zelda Spellman dans Sabrina the Teenage Witch ?","a":["Beth Broderick","Caroline Rhea","Melissa Joan Hart"],"correct":"Beth Broderick","hint":"Tante stricte"}
+{"cat":"Series90","q":"Dans quelle série deux tantes élèvent une sorcière adolescente ?","a":["Sabrina the Teenage Witch","Charmed","Buffy"],"correct":"Sabrina the Teenage Witch","hint":"Salem"}
+{"cat":"Series90","q":"Qui incarne le rôle de Frank Barone dans Everybody Loves Raymond ?","a":["Peter Boyle","Brad Garrett","Ray Romano"],"correct":"Peter Boyle","hint":"Père grincheux"}
+{"cat":"Series90","q":"Dans quelle série un père râleur vit en face de son fils ?","a":["Everybody Loves Raymond","King of Queens","Seinfeld"],"correct":"Everybody Loves Raymond","hint":"Famille collante"}
+{"cat":"Series90","q":"Qui joue le rôle de Samantha dans Sex and the City ?","a":["Kim Cattrall","Sarah Jessica Parker","Kristin Davis"],"correct":"Kim Cattrall","hint":"Séductrice"}
+{"cat":"Series90","q":"Dans quelle série une femme assume pleinement sa vie sexuelle ?","a":["Sex and the City","Friends","Will & Grace"],"correct":"Sex and the City","hint":"Publiciste"}
+{"cat":"Series90","q":"Qui incarne le rôle de John Cage dans Ally McBeal ?","a":["Peter MacNicol","Gil Bellows","Greg Germann"],"correct":"Peter MacNicol","hint":"Bizarre"}
+{"cat":"Series90","q":"Dans quelle série un avocat excentrique travaille avec Ally ?","a":["Ally McBeal","The Practice","ER"],"correct":"Ally McBeal","hint":"Grenouille"}
+{"cat":"Series90","q":"Qui joue le rôle de Arthur Spooner dans King of Queens ?","a":["Jerry Stiller","Kevin James","Victor Williams"],"correct":"Jerry Stiller","hint":"Beau-père fou"}
+{"cat":"Series90","q":"Dans quelle série un beau-père vit dans le sous-sol du couple ?","a":["King of Queens","Everybody Loves Raymond","Seinfeld"],"correct":"King of Queens","hint":"Arthur"}
+{"cat":"Series90","q":"Qui incarne le rôle de Hyde dans That '70s Show ?","a":["Danny Masterson","Ashton Kutcher","Topher Grace"],"correct":"Danny Masterson","hint":"Sarcastique"}
+{"cat":"Series90","q":"Dans quelle série un adolescent rebelle vit dans les années 70 ?","a":["That '70s Show","Dawson's Creek","Buffy"],"correct":"That '70s Show","hint":"Sous-sol"}
+{"cat":"Series90","q":"Qui joue le rôle de Jen Lindley dans Dawson's Creek ?","a":["Michelle Williams","Katie Holmes","Jessica Biel"],"correct":"Michelle Williams","hint":"Nouvelle en ville"}
+{"cat":"Series90","q":"Dans quelle série une adolescente arrive de New York pour vivre à Capeside ?","a":["Dawson's Creek","Buffy","Felicity"],"correct":"Dawson's Creek","hint":"Drames"}
+{"cat":"Series90","q":"Qui incarne le rôle de Benton dans ER ?","a":["Eriq La Salle","George Clooney","Anthony Edwards"],"correct":"Eriq La Salle","hint":"Chirurgien"}
+{"cat":"Series90","q":"Dans quelle série un chirurgien strict travaille aux urgences ?","a":["ER","Scrubs","House"],"correct":"ER","hint":"Chicago"}
+{"cat":"Series90","q":"Qui joue le rôle de Gunn dans Angel ?","a":["J. August Richards","David Boreanaz","Alexis Denisof"],"correct":"J. August Richards","hint":"Chasseur de vampires"}
+{"cat":"Series90","q":"Dans quelle série un combattant de rue rejoint une équipe surnaturelle ?","a":["Angel","Buffy","Charmed"],"correct":"Angel","hint":"Los Angeles"}
+{"cat":"Series90","q":"Qui incarne le rôle de Leo dans Charmed ?","a":["Brian Krause","Julian McMahon","Greg Vaughan"],"correct":"Brian Krause","hint":"Être de lumière"}
+{"cat":"Series90","q":"Dans quelle série un être magique protège les sœurs Halliwell ?","a":["Charmed","Buffy","Sabrina"],"correct":"Charmed","hint":"Gardien"}
+{"cat":"Series90","q":"Qui joue le rôle de Rita Repulsa dans Power Rangers ?","a":["Barbara Goodson","Machiko Soga","Carla Perez"],"correct":"Barbara Goodson","hint":"Sorcière"}
+{"cat":"Series90","q":"Dans quelle série une sorcière veut conquérir la Terre ?","a":["Power Rangers","VR Troopers","Beetleborgs"],"correct":"Power Rangers","hint":"Lune"}
+{"cat":"Series90","q":"Qui incarne le rôle de Jack Arnold dans The Wonder Years ?","a":["Dan Lauria","Fred Savage","Jason Hervey"],"correct":"Dan Lauria","hint":"Père strict"}
+{"cat":"Series90","q":"Dans quelle série un père autoritaire élève Kevin Arnold ?","a":["The Wonder Years","Boy Meets World","Full House"],"correct":"The Wonder Years","hint":"Années 60"}
+{"cat":"Series90","q":"Qui joue le rôle de Angela dans Boy Meets World ?","a":["Trina McGee","Danielle Fishel","Jennifer Love Hewitt"],"correct":"Trina McGee","hint":"Petite amie de Shawn"}
+{"cat":"Series90","q":"Dans quelle série une jeune femme rejoint le groupe d’amis de Cory ?","a":["Boy Meets World","Saved by the Bell","Full House"],"correct":"Boy Meets World","hint":"Années lycée"}
+{"cat":"Series90","q":"Qui incarne le rôle de Jessie dans Saved by the Bell ?","a":["Elizabeth Berkley","Tiffani Thiessen","Lark Voorhies"],"correct":"Elizabeth Berkley","hint":"Féministe"}
+{"cat":"Series90","q":"Dans quelle série une élève stressée veut toujours être parfaite ?","a":["Saved by the Bell","Full House","Boy Meets World"],"correct":"Saved by the Bell","hint":"Bayside"}
+{"cat":"Series90","q":"Qui joue le rôle de Stephanie Tanner dans Full House ?","a":["Jodie Sweetin","Candace Cameron","Andrea Barber"],"correct":"Jodie Sweetin","hint":"Middle child"}
+{"cat":"Series90","q":"Dans quelle série une fille dit souvent « How rude! » ?","a":["Full House","Family Matters","Fresh Prince"],"correct":"Full House","hint":"Stephanie"}
+{"cat":"Series90","q":"Qui incarne le rôle de Eddie Winslow dans Family Matters ?","a":["Darius McCrary","Jaleel White","Reginald VelJohnson"],"correct":"Darius McCrary","hint":"Grand frère"}
+{"cat":"Series90","q":"Dans quelle série un adolescent vit avec un voisin très envahissant ?","a":["Family Matters","Full House","Fresh Prince"],"correct":"Family Matters","hint":"Urkel"}
+{"cat":"Series90","q":"Qui joue le rôle de Larry dans Perfect Strangers ?","a":["Mark Linn-Baker","Bronson Pinchot","Reginald VelJohnson"],"correct":"Mark Linn-Baker","hint":"Cousin américain"}
+{"cat":"Series90","q":"Dans quelle série deux cousins vivent ensemble malgré leurs différences ?","a":["Perfect Strangers","Family Matters","Full House"],"correct":"Perfect Strangers","hint":"Danse du bonheur"}
+{"cat":"Series90","q":"Qui joue le rôle de Phoebe Buffay dans Friends ?","a":["Lisa Kudrow","Jennifer Aniston","Courteney Cox"],"correct":"Lisa Kudrow","hint":"Smelly Cat"}
+{"cat":"Series90","q":"Dans quelle série une musicienne excentrique chante dans un café ?","a":["Friends","Seinfeld","Frasier"],"correct":"Friends","hint":"Central Perk"}
+{"cat":"Series90","q":"Qui incarne le rôle de Newman dans Seinfeld ?","a":["Wayne Knight","Jason Alexander","Michael Richards"],"correct":"Wayne Knight","hint":"Facteur"}
+{"cat":"Series90","q":"Dans quelle série un facteur complote souvent contre Jerry ?","a":["Seinfeld","Friends","Frasier"],"correct":"Seinfeld","hint":"Hello… Newman"}
+{"cat":"Series90","q":"Qui joue le rôle de Roz Doyle dans Frasier ?","a":["Peri Gilpin","Jane Leeves","Lisa Kudrow"],"correct":"Peri Gilpin","hint":"Productrice radio"}
+{"cat":"Series90","q":"Dans quelle série une productrice aide un psychiatre à animer son émission ?","a":["Frasier","Seinfeld","Friends"],"correct":"Frasier","hint":"Seattle"}
+{"cat":"Series90","q":"Qui incarne le rôle de Spike dans Buffy the Vampire Slayer ?","a":["James Marsters","David Boreanaz","Nicholas Brendon"],"correct":"James Marsters","hint":"Vampire blond"}
+{"cat":"Series90","q":"Dans quelle série un vampire rebelle devient parfois allié ?","a":["Buffy the Vampire Slayer","Angel","Charmed"],"correct":"Buffy the Vampire Slayer","hint":"Sunnydale"}
+{"cat":"Series90","q":"Qui joue le rôle de Doggett dans The X-Files ?","a":["Robert Patrick","David Duchovny","Mitch Pileggi"],"correct":"Robert Patrick","hint":"Agent remplaçant"}
+{"cat":"Series90","q":"Dans quelle série un nouvel agent rejoint Scully après la disparition de Mulder ?","a":["The X-Files","Millennium","Twin Peaks"],"correct":"The X-Files","hint":"Saison 8"}
+{"cat":"Series90","q":"Qui incarne le rôle de Ashley Banks dans Fresh Prince ?","a":["Tatyana Ali","Karyn Parsons","Nia Long"],"correct":"Tatyana Ali","hint":"Petite sœur"}
+{"cat":"Series90","q":"Dans quelle série une adolescente grandit dans une famille riche de Bel-Air ?","a":["The Fresh Prince of Bel-Air","Family Matters","Full House"],"correct":"The Fresh Prince of Bel-Air","hint":"Will"}
+{"cat":"Series90","q":"Qui joue le rôle de Hilda Spellman dans Sabrina the Teenage Witch ?","a":["Caroline Rhea","Beth Broderick","Melissa Joan Hart"],"correct":"Caroline Rhea","hint":"Tante drôle"}
+{"cat":"Series90","q":"Dans quelle série une tante excentrique aide une jeune sorcière ?","a":["Sabrina the Teenage Witch","Charmed","Buffy"],"correct":"Sabrina the Teenage Witch","hint":"Salem"}
+{"cat":"Series90","q":"Qui incarne le rôle de Marie Barone dans Everybody Loves Raymond ?","a":["Doris Roberts","Patricia Heaton","Julia Louis-Dreyfus"],"correct":"Doris Roberts","hint":"Mère envahissante"}
+{"cat":"Series90","q":"Dans quelle série une mère contrôle tout ce que fait son fils ?","a":["Everybody Loves Raymond","King of Queens","Seinfeld"],"correct":"Everybody Loves Raymond","hint":"Famille collante"}
+{"cat":"Series90","q":"Qui joue le rôle de Steve Brady dans Sex and the City ?","a":["David Eigenberg","Chris Noth","Kyle MacLachlan"],"correct":"David Eigenberg","hint":"Barman"}
+{"cat":"Series90","q":"Dans quelle série un barman devient le partenaire de Miranda ?","a":["Sex and the City","Friends","Will & Grace"],"correct":"Sex and the City","hint":"New York"}
+{"cat":"Series90","q":"Qui incarne le rôle de Richard Fish dans Ally McBeal ?","a":["Greg Germann","Peter MacNicol","Gil Bellows"],"correct":"Greg Germann","hint":"Patron étrange"}
+{"cat":"Series90","q":"Dans quelle série un avocat obsédé par l’argent dirige le cabinet Cage & Fish ?","a":["Ally McBeal","The Practice","ER"],"correct":"Ally McBeal","hint":"Humour décalé"}
+{"cat":"Series90","q":"Qui joue le rôle de Spence dans King of Queens ?","a":["Patton Oswalt","Kevin James","Jerry Stiller"],"correct":"Patton Oswalt","hint":"Geek"}
+{"cat":"Series90","q":"Dans quelle série un ami geek rend visite à Doug et Carrie ?","a":["King of Queens","Everybody Loves Raymond","Seinfeld"],"correct":"King of Queens","hint":"IPS"}
+{"cat":"Series90","q":"Qui incarne le rôle de Fez dans That '70s Show ?","a":["Wilmer Valderrama","Ashton Kutcher","Topher Grace"],"correct":"Wilmer Valderrama","hint":"Étranger mystérieux"}
+{"cat":"Series90","q":"Dans quelle série un étudiant étranger rejoint un groupe d’amis ?","a":["That '70s Show","Dawson's Creek","Buffy"],"correct":"That '70s Show","hint":"Point Place"}
+{"cat":"Series90","q":"Qui joue le rôle de Jack dans Dawson's Creek ?","a":["Kerr Smith","Joshua Jackson","James Van Der Beek"],"correct":"Kerr Smith","hint":"Nouveau au lycée"}
+{"cat":"Series90","q":"Dans quelle série un adolescent découvre son identité et rejoint le groupe ?","a":["Dawson's Creek","Buffy","Felicity"],"correct":"Dawson's Creek","hint":"Capeside"}
+{"cat":"Series90","q":"Qui incarne le rôle de Jeanie Boulet dans ER ?","a":["Gloria Reuben","Sherry Stringfield","Laura Innes"],"correct":"Gloria Reuben","hint":"Infirmière"}
+{"cat":"Series90","q":"Dans quelle série une infirmière lutte pour sa place dans le service ?","a":["ER","Scrubs","House"],"correct":"ER","hint":"Chicago"}
+{"cat":"Series90","q":"Qui joue le rôle de Lorne dans Angel ?","a":["Andy Hallett","David Boreanaz","James Marsters"],"correct":"Andy Hallett","hint":"Démon chanteur"}
+{"cat":"Series90","q":"Dans quelle série un démon lit les émotions en écoutant chanter ?","a":["Angel","Buffy","Charmed"],"correct":"Angel","hint":"Karaoké"}
+{"cat":"Series90","q":"Qui incarne le rôle de Cole Turner dans Charmed ?","a":["Julian McMahon","Brian Krause","Greg Vaughan"],"correct":"Julian McMahon","hint":"Démon amoureux"}
+{"cat":"Series90","q":"Dans quelle série un démon tombe amoureux d’une sorcière ?","a":["Charmed","Buffy","Sabrina"],"correct":"Charmed","hint":"Phoebe"}
+{"cat":"Series90","q":"Qui joue le rôle de Lord Zedd dans Power Rangers ?","a":["Edwin Neal","Jason Narvy","Paul Schrier"],"correct":"Edwin Neal","hint":"Méchant rouge"}
+{"cat":"Series90","q":"Dans quelle série un seigneur maléfique tente de détruire les Rangers ?","a":["Power Rangers","VR Troopers","Beetleborgs"],"correct":"Power Rangers","hint":"Zedd"}
+{"cat":"Series90","q":"Qui incarne le rôle de Norma Arnold dans The Wonder Years ?","a":["Alley Mills","Dan Lauria","Olivia d'Abo"],"correct":"Alley Mills","hint":"Mère douce"}
+{"cat":"Series90","q":"Dans quelle série une mère soutient son fils Kevin dans les années 60 ?","a":["The Wonder Years","Boy Meets World","Full House"],"correct":"The Wonder Years","hint":"Narration adulte"}
+{"cat":"Series90","q":"Qui joue le rôle de Topanga dans Boy Meets World ?","a":["Danielle Fishel","Trina McGee","Jennifer Love Hewitt"],"correct":"Danielle Fishel","hint":"Amour de Cory"}
+{"cat":"Series90","q":"Dans quelle série une jeune fille intelligente devient l’amour de Cory ?","a":["Boy Meets World","Saved by the Bell","Full House"],"correct":"Boy Meets World","hint":"Topanga"}
+{"cat":"Series90","q":"Qui incarne le rôle de Lisa Turtle dans Saved by the Bell ?","a":["Lark Voorhies","Tiffani Thiessen","Elizabeth Berkley"],"correct":"Lark Voorhies","hint":"Fashionista"}
+{"cat":"Series90","q":"Dans quelle série une élève adore la mode et les potins ?","a":["Saved by the Bell","Full House","Boy Meets World"],"correct":"Saved by the Bell","hint":"Bayside"}
+{"cat":"Series90","q":"Qui joue le rôle de Becky dans Full House ?","a":["Lori Loughlin","Candace Cameron","Jodie Sweetin"],"correct":"Lori Loughlin","hint":"Co-animatrice TV"}
+{"cat":"Series90","q":"Dans quelle série une journaliste épouse Uncle Jesse ?","a":["Full House","Family Matters","Fresh Prince"],"correct":"Full House","hint":"Jumeaux"}
+{"cat":"Series90","q":"Qui incarne le rôle de Harriette Winslow dans Family Matters ?","a":["Jo Marie Payton","Kellie Shanygne Williams","Darius McCrary"],"correct":"Jo Marie Payton","hint":"Maman forte"}
+{"cat":"Series90","q":"Dans quelle série une mère gère sa famille et un voisin envahissant ?","a":["Family Matters","Full House","Fresh Prince"],"correct":"Family Matters","hint":"Urkel"}
+{"cat":"Series90","q":"Qui joue le rôle de Gorpley dans Perfect Strangers ?","a":["Sam Anderson","Bronson Pinchot","Mark Linn-Baker"],"correct":"Sam Anderson","hint":"Collègue désagréable"}
+{"cat":"Series90","q":"Dans quelle série un collègue antipathique travaille avec Larry et Balki ?","a":["Perfect Strangers","Family Matters","Full House"],"correct":"Perfect Strangers","hint":"Chicago"}
+{"cat":"Series90","q":"Qui joue le rôle de Rachel Green dans Friends ?","a":["Jennifer Aniston","Courteney Cox","Lisa Kudrow"],"correct":"Jennifer Aniston","hint":"Serveuse au Central Perk"}
+{"cat":"Series90","q":"Dans quelle série une jeune femme quitte son fiancé le jour du mariage ?","a":["Friends","Seinfeld","Frasier"],"correct":"Friends","hint":"Robe de mariée"}
+{"cat":"Series90","q":"Qui incarne le rôle de Susan dans Seinfeld ?","a":["Heidi Swedberg","Julia Louis-Dreyfus","Courteney Cox"],"correct":"Heidi Swedberg","hint":"Fiancée de George"}
+{"cat":"Series90","q":"Dans quelle série un personnage perd sa fiancée à cause d’enveloppes toxiques ?","a":["Seinfeld","Friends","Frasier"],"correct":"Seinfeld","hint":"Humour noir"}
+{"cat":"Series90","q":"Qui joue le rôle de Bulldog dans Frasier ?","a":["Dan Butler","Kelsey Grammer","David Hyde Pierce"],"correct":"Dan Butler","hint":"Animateur sportif"}
+{"cat":"Series90","q":"Dans quelle série un animateur radio sportif harcèle Roz ?","a":["Frasier","Seinfeld","Friends"],"correct":"Frasier","hint":"Seattle"}
+{"cat":"Series90","q":"Qui incarne le rôle de Faith dans Buffy the Vampire Slayer ?","a":["Eliza Dushku","Sarah Michelle Gellar","Alyson Hannigan"],"correct":"Eliza Dushku","hint":"Tueuse rebelle"}
+{"cat":"Series90","q":"Dans quelle série une tueuse rivale devient parfois ennemie ?","a":["Buffy the Vampire Slayer","Charmed","Angel"],"correct":"Buffy the Vampire Slayer","hint":"Couteaux"}
+{"cat":"Series90","q":"Qui joue le rôle de The Cigarette Smoking Man dans The X-Files ?","a":["William B. Davis","Mitch Pileggi","Robert Patrick"],"correct":"William B. Davis","hint":"Fumeur mystérieux"}
+{"cat":"Series90","q":"Dans quelle série un homme fumeur manipule les enquêtes du FBI ?","a":["The X-Files","Millennium","Twin Peaks"],"correct":"The X-Files","hint":"Conspiration"}
+{"cat":"Series90","q":"Qui incarne le rôle de Jazz dans Fresh Prince ?","a":["DJ Jazzy Jeff","Will Smith","Alfonso Ribeiro"],"correct":"DJ Jazzy Jeff","hint":"Meilleur ami"}
+{"cat":"Series90","q":"Dans quelle série un ami est souvent expulsé de la maison par Uncle Phil ?","a":["The Fresh Prince of Bel-Air","Family Matters","Full House"],"correct":"The Fresh Prince of Bel-Air","hint":"Lancer iconique"}
+{"cat":"Series90","q":"Qui joue le rôle de Libby dans Sabrina the Teenage Witch ?","a":["Jenna Leigh Green","Melissa Joan Hart","Caroline Rhea"],"correct":"Jenna Leigh Green","hint":"Rivale au lycée"}
+{"cat":"Series90","q":"Dans quelle série une fille populaire embête souvent Sabrina ?","a":["Sabrina the Teenage Witch","Charmed","Buffy"],"correct":"Sabrina the Teenage Witch","hint":"Westbridge High"}
+{"cat":"Series90","q":"Qui incarne le rôle de Amy dans Everybody Loves Raymond ?","a":["Monica Horan","Patricia Heaton","Doris Roberts"],"correct":"Monica Horan","hint":"Petite amie de Robert"}
+{"cat":"Series90","q":"Dans quelle série une femme douce tombe amoureuse du frère de Ray ?","a":["Everybody Loves Raymond","King of Queens","Seinfeld"],"correct":"Everybody Loves Raymond","hint":"Robert"}
+{"cat":"Series90","q":"Qui joue le rôle de Trey dans Sex and the City ?","a":["Kyle MacLachlan","Chris Noth","David Eigenberg"],"correct":"Kyle MacLachlan","hint":"Mari de Charlotte"}
+{"cat":"Series90","q":"Dans quelle série un mariage parfait se complique rapidement ?","a":["Sex and the City","Friends","Will & Grace"],"correct":"Sex and the City","hint":"Charlotte"}
+{"cat":"Series90","q":"Qui incarne le rôle de Renee dans Ally McBeal ?","a":["Lisa Nicole Carson","Calista Flockhart","Lucy Liu"],"correct":"Lisa Nicole Carson","hint":"Chanteuse"}
+{"cat":"Series90","q":"Dans quelle série une avocate chante souvent dans un bar ?","a":["Ally McBeal","The Practice","ER"],"correct":"Ally McBeal","hint":"Bar du cabinet"}
+{"cat":"Series90","q":"Qui joue le rôle de Holly dans King of Queens ?","a":["Nicole Sullivan","Leah Remini","Alyssa Milano"],"correct":"Nicole Sullivan","hint":"Promène les chiens"}
+{"cat":"Series90","q":"Dans quelle série une promeneuse de chiens devient amie du couple ?","a":["King of Queens","Everybody Loves Raymond","Seinfeld"],"correct":"King of Queens","hint":"Doug & Carrie"}
+{"cat":"Series90","q":"Qui incarne le rôle de Laurie dans That '70s Show ?","a":["Lisa Robin Kelly","Mila Kunis","Laura Prepon"],"correct":"Lisa Robin Kelly","hint":"Sœur de Eric"}
+{"cat":"Series90","q":"Dans quelle série une sœur manipulatrice cause des problèmes à Eric ?","a":["That '70s Show","Dawson's Creek","Buffy"],"correct":"That '70s Show","hint":"Point Place"}
+{"cat":"Series90","q":"Qui joue le rôle de Andie dans Dawson's Creek ?","a":["Meredith Monroe","Katie Holmes","Michelle Williams"],"correct":"Meredith Monroe","hint":"Petite amie de Pacey"}
+{"cat":"Series90","q":"Dans quelle série une adolescente souffre de troubles émotionnels ?","a":["Dawson's Creek","Buffy","Felicity"],"correct":"Dawson's Creek","hint":"Capeside"}
+{"cat":"Series90","q":"Qui incarne le rôle de Kerry Weaver dans ER ?","a":["Laura Innes","Gloria Reuben","Sherry Stringfield"],"correct":"Laura Innes","hint":"Médecin autoritaire"}
+{"cat":"Series90","q":"Dans quelle série une médecin avec une canne dirige les urgences ?","a":["ER","Scrubs","House"],"correct":"ER","hint":"Chicago"}
+{"cat":"Series90","q":"Qui joue le rôle de Kate dans Angel ?","a":["Elisabeth Röhm","Charisma Carpenter","Sarah Michelle Gellar"],"correct":"Elisabeth Röhm","hint":"Policière"}
+{"cat":"Series90","q":"Dans quelle série une policière enquête sur des affaires surnaturelles ?","a":["Angel","Buffy","Charmed"],"correct":"Angel","hint":"Los Angeles"}
+{"cat":"Series90","q":"Qui incarne le rôle de Darryl dans Charmed ?","a":["Dorian Gregory","Brian Krause","Julian McMahon"],"correct":"Dorian Gregory","hint":"Inspecteur"}
+{"cat":"Series90","q":"Dans quelle série un policier aide les sœurs Halliwell ?","a":["Charmed","Buffy","Sabrina"],"correct":"Charmed","hint":"San Francisco"}
+{"cat":"Series90","q":"Qui joue le rôle de Bulk dans Power Rangers ?","a":["Paul Schrier","Jason Narvy","Austin St. John"],"correct":"Paul Schrier","hint":"Bully comique"}
+{"cat":"Series90","q":"Dans quelle série deux idiots provoquent des catastrophes au lycée ?","a":["Power Rangers","VR Troopers","Beetleborgs"],"correct":"Power Rangers","hint":"Bulk & Skull"}
+{"cat":"Series90","q":"Qui incarne le rôle de Karen Arnold dans The Wonder Years ?","a":["Olivia d'Abo","Danica McKellar","Alley Mills"],"correct":"Olivia d'Abo","hint":"Grande sœur"}
+{"cat":"Series90","q":"Dans quelle série une adolescente rebelle quitte la maison pour étudier ?","a":["The Wonder Years","Boy Meets World","Full House"],"correct":"The Wonder Years","hint":"Années 60"}
+{"cat":"Series90","q":"Qui joue le rôle de Mr. Turner dans Boy Meets World ?","a":["Anthony Tyler Quinn","Ben Savage","Rider Strong"],"correct":"Anthony Tyler Quinn","hint":"Prof cool"}
+{"cat":"Series90","q":"Dans quelle série un professeur motard devient mentor ?","a":["Boy Meets World","Saved by the Bell","Full House"],"correct":"Boy Meets World","hint":"Topanga & Cory"}
+{"cat":"Series90","q":"Qui incarne le rôle de Max dans Saved by the Bell ?","a":["Ed Alonzo","Mario Lopez","Mark-Paul Gosselaar"],"correct":"Ed Alonzo","hint":"Propriétaire du Max"}
+{"cat":"Series90","q":"Dans quelle série les élèves traînent dans un restaurant nommé The Max ?","a":["Saved by the Bell","Full House","Boy Meets World"],"correct":"Saved by the Bell","hint":"Bayside"}
+{"cat":"Series90","q":"Qui joue le rôle de Vicky Larson dans Full House ?","a":["Gail Edwards","Candace Cameron","Jodie Sweetin"],"correct":"Gail Edwards","hint":"Petite amie de Danny"}
+{"cat":"Series90","q":"Dans quelle série un père veuf tombe amoureux d’une animatrice TV ?","a":["Full House","Family Matters","Fresh Prince"],"correct":"Full House","hint":"San Francisco"}
+{"cat":"Series90","q":"Qui incarne le rôle de Richie dans Family Matters ?","a":["Bryton McClure","Darius McCrary","Jaleel White"],"correct":"Bryton McClure","hint":"Petit cousin"}
+{"cat":"Series90","q":"Dans quelle série un petit garçon vit souvent chez les Winslow ?","a":["Family Matters","Full House","Fresh Prince"],"correct":"Family Matters","hint":"Urkel"}
+{"cat":"Series90","q":"Qui joue le rôle de Twinkacetti dans Perfect Strangers ?","a":["Ernie Sabella","Bronson Pinchot","Mark Linn-Baker"],"correct":"Ernie Sabella","hint":"Patron grincheux"}
+{"cat":"Series90","q":"Dans quelle série un patron désagréable dirige Larry et Balki ?","a":["Perfect Strangers","Family Matters","Full House"],"correct":"Perfect Strangers","hint":"Chicago"}
+{"cat":"Series2000","q":"Qui joue le rôle de Michael Scott dans The Office (US) ?","a":["Steve Carell","John Krasinski","Rainn Wilson"],"correct":"Steve Carell","hint":"Dunder Mifflin"}
+{"cat":"Series2000","q":"Dans quelle série un patron maladroit dirige une entreprise de papier ?","a":["The Office","Parks and Recreation","Scrubs"],"correct":"The Office","hint":"Scranton"}
+{"cat":"Series2000","q":"Qui incarne le rôle de J.D. dans Scrubs ?","a":["Zach Braff","Donald Faison","John C. McGinley"],"correct":"Zach Braff","hint":"Interne rêveur"}
+{"cat":"Series2000","q":"Dans quelle série des internes vivent des situations médicales absurdes ?","a":["Scrubs","ER","House"],"correct":"Scrubs","hint":"Fantaisies"}
+{"cat":"Series2000","q":"Qui joue le rôle de Gregory House dans House MD ?","a":["Hugh Laurie","Robert Sean Leonard","Omar Epps"],"correct":"Hugh Laurie","hint":"Diagnostic"}
+{"cat":"Series2000","q":"Dans quelle série un médecin cynique résout des cas complexes ?","a":["House","Scrubs","Grey's Anatomy"],"correct":"House","hint":"Cannes"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Meredith Grey dans Grey's Anatomy ?","a":["Ellen Pompeo","Sandra Oh","Katherine Heigl"],"correct":"Ellen Pompeo","hint":"Chirurgie"}
+{"cat":"Series2000","q":"Dans quelle série des internes deviennent chirurgiens à Seattle ?","a":["Grey's Anatomy","ER","House"],"correct":"Grey's Anatomy","hint":"Seattle Grace"}
+{"cat":"Series2000","q":"Qui joue le rôle de Jack Bauer dans 24 ?","a":["Kiefer Sutherland","Dennis Haysbert","Carlos Bernard"],"correct":"Kiefer Sutherland","hint":"CTU"}
+{"cat":"Series2000","q":"Dans quelle série un agent doit sauver le pays en 24 heures ?","a":["24","Prison Break","Lost"],"correct":"24","hint":"Temps réel"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Michael Scofield dans Prison Break ?","a":["Wentworth Miller","Dominic Purcell","Robert Knepper"],"correct":"Wentworth Miller","hint":"Tatouages"}
+{"cat":"Series2000","q":"Dans quelle série un homme se fait incarcérer pour sauver son frère ?","a":["Prison Break","24","Lost"],"correct":"Prison Break","hint":"Fox River"}
+{"cat":"Series2000","q":"Qui joue le rôle de Jack Shephard dans Lost ?","a":["Matthew Fox","Josh Holloway","Terry O'Quinn"],"correct":"Matthew Fox","hint":"Crash d’avion"}
+{"cat":"Series2000","q":"Dans quelle série des survivants se retrouvent sur une île mystérieuse ?","a":["Lost","Prison Break","Heroes"],"correct":"Lost","hint":"Vol 815"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Hiro Nakamura dans Heroes ?","a":["Masi Oka","Hayden Panettiere","Milo Ventimiglia"],"correct":"Masi Oka","hint":"Temps"}
+{"cat":"Series2000","q":"Dans quelle série des personnes développent des pouvoirs extraordinaires ?","a":["Heroes","Lost","Smallville"],"correct":"Heroes","hint":"Save the cheerleader"}
+{"cat":"Series2000","q":"Qui joue le rôle de Clark Kent dans Smallville ?","a":["Tom Welling","Michael Rosenbaum","Jensen Ackles"],"correct":"Tom Welling","hint":"Jeune Superman"}
+{"cat":"Series2000","q":"Dans quelle série on suit la jeunesse de Superman ?","a":["Smallville","Heroes","Supernatural"],"correct":"Smallville","hint":"Kansas"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Dean Winchester dans Supernatural ?","a":["Jensen Ackles","Jared Padalecki","Misha Collins"],"correct":"Jensen Ackles","hint":"Chasseur"}
+{"cat":"Series2000","q":"Dans quelle série deux frères combattent des créatures surnaturelles ?","a":["Supernatural","Buffy","Angel"],"correct":"Supernatural","hint":"Impala"}
+{"cat":"Series2000","q":"Qui joue le rôle de Dexter Morgan dans Dexter ?","a":["Michael C. Hall","David Zayas","James Remar"],"correct":"Michael C. Hall","hint":"Tueur justicier"}
+{"cat":"Series2000","q":"Dans quelle série un expert médico-légal est aussi tueur en série ?","a":["Dexter","Breaking Bad","The Wire"],"correct":"Dexter","hint":"Miami"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Walter White dans Breaking Bad ?","a":["Bryan Cranston","Aaron Paul","Dean Norris"],"correct":"Bryan Cranston","hint":"Prof de chimie"}
+{"cat":"Series2000","q":"Dans quelle série un professeur devient fabricant de méthamphétamine ?","a":["Breaking Bad","The Wire","Dexter"],"correct":"Breaking Bad","hint":"Heisenberg"}
+{"cat":"Series2000","q":"Qui joue le rôle de Omar Little dans The Wire ?","a":["Michael K. Williams","Idris Elba","Dominic West"],"correct":"Michael K. Williams","hint":"Shotgun"}
+{"cat":"Series2000","q":"Dans quelle série la police et les dealers de Baltimore s’affrontent ?","a":["The Wire","Breaking Bad","Sons of Anarchy"],"correct":"The Wire","hint":"Rues"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Jax Teller dans Sons of Anarchy ?","a":["Charlie Hunnam","Ron Perlman","Tommy Flanagan"],"correct":"Charlie Hunnam","hint":"Moto"}
+{"cat":"Series2000","q":"Dans quelle série un club de motards gère ses affaires illégales ?","a":["Sons of Anarchy","The Wire","Breaking Bad"],"correct":"Sons of Anarchy","hint":"SAMCRO"}
+{"cat":"Series2000","q":"Qui joue le rôle de Liz Lemon dans 30 Rock ?","a":["Tina Fey","Jane Krakowski","Alec Baldwin"],"correct":"Tina Fey","hint":"Scénariste"}
+{"cat":"Series2000","q":"Dans quelle série une scénariste gère une émission chaotique ?","a":["30 Rock","The Office","Parks and Recreation"],"correct":"30 Rock","hint":"NBC"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Leslie Knope dans Parks and Recreation ?","a":["Amy Poehler","Rashida Jones","Aubrey Plaza"],"correct":"Amy Poehler","hint":"Fonctionnaire"}
+{"cat":"Series2000","q":"Dans quelle série une employée municipale rêve d’améliorer sa ville ?","a":["Parks and Recreation","The Office","30 Rock"],"correct":"Parks and Recreation","hint":"Pawnee"}
+{"cat":"Series2000","q":"Qui joue le rôle de Ted Mosby dans How I Met Your Mother ?","a":["Josh Radnor","Jason Segel","Neil Patrick Harris"],"correct":"Josh Radnor","hint":"Architecte"}
+{"cat":"Series2000","q":"Dans quelle série un homme raconte à ses enfants comment il a rencontré leur mère ?","a":["How I Met Your Mother","Friends","The Office"],"correct":"How I Met Your Mother","hint":"Bar MacLaren’s"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Barney Stinson ?","a":["Neil Patrick Harris","Jason Segel","Josh Radnor"],"correct":"Neil Patrick Harris","hint":"Suit up"}
+{"cat":"Series2000","q":"Dans quelle série un séducteur invente des techniques absurdes ?","a":["How I Met Your Mother","Friends","Scrubs"],"correct":"How I Met Your Mother","hint":"Bro Code"}
+{"cat":"Series2000","q":"Qui joue le rôle de Lorelai Gilmore dans Gilmore Girls ?","a":["Lauren Graham","Alexis Bledel","Melissa McCarthy"],"correct":"Lauren Graham","hint":"Mère célibataire"}
+{"cat":"Series2000","q":"Dans quelle série une mère et sa fille vivent dans une petite ville ?","a":["Gilmore Girls","Desperate Housewives","The O.C."],"correct":"Gilmore Girls","hint":"Stars Hollow"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Bree Van de Kamp dans Desperate Housewives ?","a":["Marcia Cross","Teri Hatcher","Eva Longoria"],"correct":"Marcia Cross","hint":"Perfectionniste"}
+{"cat":"Series2000","q":"Dans quelle série des voisines cachent de lourds secrets ?","a":["Desperate Housewives","Gilmore Girls","The O.C."],"correct":"Desperate Housewives","hint":"Wisteria Lane"}
+{"cat":"Series2000","q":"Qui joue le rôle de Ryan Atwood dans The O.C. ?","a":["Ben McKenzie","Adam Brody","Peter Gallagher"],"correct":"Ben McKenzie","hint":"Chico"}
+{"cat":"Series2000","q":"Dans quelle série un adolescent pauvre est accueilli dans une famille riche ?","a":["The O.C.","One Tree Hill","Gilmore Girls"],"correct":"The O.C.","hint":"Newport Beach"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Lucas Scott dans One Tree Hill ?","a":["Chad Michael Murray","James Lafferty","Austin Nichols"],"correct":"Chad Michael Murray","hint":"Basket"}
+{"cat":"Series2000","q":"Dans quelle série deux frères rivaux jouent au basket ?","a":["One Tree Hill","The O.C.","Smallville"],"correct":"One Tree Hill","hint":"Tree Hill"}
+{"cat":"Series2000","q":"Qui joue le rôle de Cristina Yang dans Grey's Anatomy ?","a":["Sandra Oh","Ellen Pompeo","Katherine Heigl"],"correct":"Sandra Oh","hint":"Cardiologie"}
+{"cat":"Series2000","q":"Dans quelle série une interne ambitieuse devient une chirurgienne brillante ?","a":["Grey's Anatomy","House","Scrubs"],"correct":"Grey's Anatomy","hint":"Seattle Grace"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Jim Halpert dans The Office (US) ?","a":["John Krasinski","Steve Carell","Rainn Wilson"],"correct":"John Krasinski","hint":"Pranks"}
+{"cat":"Series2000","q":"Dans quelle série un employé fait des farces à Dwight ?","a":["The Office","Parks and Recreation","30 Rock"],"correct":"The Office","hint":"Scranton"}
+{"cat":"Series2000","q":"Qui joue le rôle de Turk dans Scrubs ?","a":["Donald Faison","Zach Braff","John C. McGinley"],"correct":"Donald Faison","hint":"Chirurgien"}
+{"cat":"Series2000","q":"Dans quelle série un chirurgien danse souvent avec son meilleur ami ?","a":["Scrubs","ER","House"],"correct":"Scrubs","hint":"Guy Love"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Cuddy dans House MD ?","a":["Lisa Edelstein","Olivia Wilde","Jennifer Morrison"],"correct":"Lisa Edelstein","hint":"Directrice de l’hôpital"}
+{"cat":"Series2000","q":"Dans quelle série une directrice tente de gérer un médecin ingérable ?","a":["House","Grey's Anatomy","Scrubs"],"correct":"House","hint":"Princeton‑Plainsboro"}
+{"cat":"Series2000","q":"Qui joue le rôle de T-Bag dans Prison Break ?","a":["Robert Knepper","Dominic Purcell","Wentworth Miller"],"correct":"Robert Knepper","hint":"Psychopathe"}
+{"cat":"Series2000","q":"Dans quelle série un prisonnier manipulateur devient un ennemi récurrent ?","a":["Prison Break","24","Lost"],"correct":"Prison Break","hint":"Fox River"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Kate Austen dans Lost ?","a":["Evangeline Lilly","Yunjin Kim","Emilie de Ravin"],"correct":"Evangeline Lilly","hint":"Fugitive"}
+{"cat":"Series2000","q":"Dans quelle série une survivante cache un passé criminel ?","a":["Lost","Heroes","The O.C."],"correct":"Lost","hint":"Île mystérieuse"}
+{"cat":"Series2000","q":"Qui joue le rôle de Claire Bennet dans Heroes ?","a":["Hayden Panettiere","Ali Larter","Kristen Bell"],"correct":"Hayden Panettiere","hint":"Cheerleader"}
+{"cat":"Series2000","q":"Dans quelle série une adolescente peut se régénérer ?","a":["Heroes","Smallville","Supernatural"],"correct":"Heroes","hint":"Save the cheerleader"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Lex Luthor dans Smallville ?","a":["Michael Rosenbaum","Tom Welling","John Glover"],"correct":"Michael Rosenbaum","hint":"Crâne rasé"}
+{"cat":"Series2000","q":"Dans quelle série un futur super‑vilain est ami avec Clark ?","a":["Smallville","Heroes","Supernatural"],"correct":"Smallville","hint":"LuthorCorp"}
+{"cat":"Series2000","q":"Qui joue le rôle de Sam Winchester dans Supernatural ?","a":["Jared Padalecki","Jensen Ackles","Misha Collins"],"correct":"Jared Padalecki","hint":"Frère cadet"}
+{"cat":"Series2000","q":"Dans quelle série deux frères traquent des démons ?","a":["Supernatural","Buffy","Angel"],"correct":"Supernatural","hint":"Impala noire"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Debra Morgan dans Dexter ?","a":["Jennifer Carpenter","Julie Benz","Lauren Vélez"],"correct":"Jennifer Carpenter","hint":"Sœur policière"}
+{"cat":"Series2000","q":"Dans quelle série une policière enquête sans savoir que son frère est tueur ?","a":["Dexter","Breaking Bad","The Wire"],"correct":"Dexter","hint":"Miami"}
+{"cat":"Series2000","q":"Qui joue le rôle de Jesse Pinkman dans Breaking Bad ?","a":["Aaron Paul","Bryan Cranston","Dean Norris"],"correct":"Aaron Paul","hint":"Yo"}
+{"cat":"Series2000","q":"Dans quelle série un ancien élève devient partenaire d’un professeur criminel ?","a":["Breaking Bad","The Wire","Sons of Anarchy"],"correct":"Breaking Bad","hint":"Meth"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Stringer Bell dans The Wire ?","a":["Idris Elba","Dominic West","Michael K. Williams"],"correct":"Idris Elba","hint":"Businessman"}
+{"cat":"Series2000","q":"Dans quelle série un lieutenant du crime tente de gérer une organisation comme une entreprise ?","a":["The Wire","Breaking Bad","Sons of Anarchy"],"correct":"The Wire","hint":"Baltimore"}
+{"cat":"Series2000","q":"Qui joue le rôle de Clay Morrow dans Sons of Anarchy ?","a":["Ron Perlman","Charlie Hunnam","Tommy Flanagan"],"correct":"Ron Perlman","hint":"Président du club"}
+{"cat":"Series2000","q":"Dans quelle série un club de motards lutte pour garder le contrôle de sa ville ?","a":["Sons of Anarchy","The Wire","Breaking Bad"],"correct":"Sons of Anarchy","hint":"SAMCRO"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Tracy Jordan dans 30 Rock ?","a":["Tracy Morgan","Alec Baldwin","Tina Fey"],"correct":"Tracy Morgan","hint":"Star imprévisible"}
+{"cat":"Series2000","q":"Dans quelle série une star chaotique perturbe une émission télé ?","a":["30 Rock","The Office","Parks and Recreation"],"correct":"30 Rock","hint":"NBC"}
+{"cat":"Series2000","q":"Qui joue le rôle de Ron Swanson dans Parks and Recreation ?","a":["Nick Offerman","Chris Pratt","Adam Scott"],"correct":"Nick Offerman","hint":"Viande & moustache"}
+{"cat":"Series2000","q":"Dans quelle série un directeur moustachu déteste le gouvernement ?","a":["Parks and Recreation","The Office","30 Rock"],"correct":"Parks and Recreation","hint":"Pawnee"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Marshall Eriksen dans How I Met Your Mother ?","a":["Jason Segel","Josh Radnor","Neil Patrick Harris"],"correct":"Jason Segel","hint":"Avocat du Minnesota"}
+{"cat":"Series2000","q":"Dans quelle série un couple adorable vit à New York avec leurs amis ?","a":["How I Met Your Mother","Friends","Scrubs"],"correct":"How I Met Your Mother","hint":"MacLaren’s"}
+{"cat":"Series2000","q":"Qui joue le rôle de Rory Gilmore dans Gilmore Girls ?","a":["Alexis Bledel","Lauren Graham","Melissa McCarthy"],"correct":"Alexis Bledel","hint":"Étudiante studieuse"}
+{"cat":"Series2000","q":"Dans quelle série une adolescente brillante rêve d’entrer à Harvard ?","a":["Gilmore Girls","The O.C.","One Tree Hill"],"correct":"Gilmore Girls","hint":"Stars Hollow"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Gabrielle Solis dans Desperate Housewives ?","a":["Eva Longoria","Teri Hatcher","Marcia Cross"],"correct":"Eva Longoria","hint":"Ex‑mannequin"}
+{"cat":"Series2000","q":"Dans quelle série une femme trompe son mari avec son jardinier ?","a":["Desperate Housewives","Gilmore Girls","The O.C."],"correct":"Desperate Housewives","hint":"Wisteria Lane"}
+{"cat":"Series2000","q":"Qui joue le rôle de Seth Cohen dans The O.C. ?","a":["Adam Brody","Ben McKenzie","Peter Gallagher"],"correct":"Adam Brody","hint":"Geek romantique"}
+{"cat":"Series2000","q":"Dans quelle série un adolescent geek tombe amoureux de Summer ?","a":["The O.C.","One Tree Hill","Gilmore Girls"],"correct":"The O.C.","hint":"Newport Beach"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Nathan Scott dans One Tree Hill ?","a":["James Lafferty","Chad Michael Murray","Austin Nichols"],"correct":"James Lafferty","hint":"Basketball"}
+{"cat":"Series2000","q":"Dans quelle série un joueur de basket rivalise avec son demi‑frère ?","a":["One Tree Hill","The O.C.","Smallville"],"correct":"One Tree Hill","hint":"Tree Hill"}
+{"cat":"Series2000","q":"Qui joue le rôle de Elliot Reid dans Scrubs ?","a":["Sarah Chalke","Judy Reyes","Heather Graham"],"correct":"Sarah Chalke","hint":"Interne stressée"}
+{"cat":"Series2000","q":"Dans quelle série une interne maladroite tente de s’imposer ?","a":["Scrubs","ER","Grey's Anatomy"],"correct":"Scrubs","hint":"Hôpital sacré"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Dwight Schrute dans The Office (US) ?","a":["Rainn Wilson","John Krasinski","Steve Carell"],"correct":"Rainn Wilson","hint":"Betteraves"}
+{"cat":"Series2000","q":"Dans quelle série un employé loyal rêve de devenir manager ?","a":["The Office","Parks and Recreation","30 Rock"],"correct":"The Office","hint":"Assistant to the regional manager"}
+{"cat":"Series2000","q":"Qui joue le rôle de Addison Montgomery dans Grey's Anatomy ?","a":["Kate Walsh","Ellen Pompeo","Sandra Oh"],"correct":"Kate Walsh","hint":"Chirurgie néonatale"}
+{"cat":"Series2000","q":"Dans quelle série une chirurgienne revient pour sauver son mariage ?","a":["Grey's Anatomy","House","Scrubs"],"correct":"Grey's Anatomy","hint":"Seattle"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Sara Tancredi dans Prison Break ?","a":["Sarah Wayne Callies","Robin Tunney","Patricia Wettig"],"correct":"Sarah Wayne Callies","hint":"Médecin de la prison"}
+{"cat":"Series2000","q":"Dans quelle série un médecin tombe amoureuse d’un détenu ?","a":["Prison Break","24","Lost"],"correct":"Prison Break","hint":"Fox River"}
+{"cat":"Series2000","q":"Qui joue le rôle de Hugo 'Hurley' Reyes dans Lost ?","a":["Jorge Garcia","Josh Holloway","Daniel Dae Kim"],"correct":"Jorge Garcia","hint":"Numéros maudits"}
+{"cat":"Series2000","q":"Dans quelle série un survivant gagne à la loterie avant le crash ?","a":["Lost","Heroes","The O.C."],"correct":"Lost","hint":"4 8 15 16 23 42"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Peter Petrelli dans Heroes ?","a":["Milo Ventimiglia","Adrian Pasdar","Sendhil Ramamurthy"],"correct":"Milo Ventimiglia","hint":"Absorption de pouvoirs"}
+{"cat":"Series2000","q":"Dans quelle série un infirmier découvre qu’il peut copier les pouvoirs ?","a":["Heroes","Smallville","Supernatural"],"correct":"Heroes","hint":"Frère politicien"}
+{"cat":"Series2000","q":"Qui joue le rôle de Lana Lang dans Smallville ?","a":["Kristin Kreuk","Erica Durance","Allison Mack"],"correct":"Kristin Kreuk","hint":"Amour de Clark"}
+{"cat":"Series2000","q":"Dans quelle série une adolescente devient la confidente de Clark Kent ?","a":["Smallville","Heroes","Supernatural"],"correct":"Smallville","hint":"Ferme des Kent"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Castiel dans Supernatural ?","a":["Misha Collins","Jensen Ackles","Jared Padalecki"],"correct":"Misha Collins","hint":"Ange"}
+{"cat":"Series2000","q":"Dans quelle série un ange aide deux frères chasseurs ?","a":["Supernatural","Buffy","Angel"],"correct":"Supernatural","hint":"Trench coat"}
+{"cat":"Series2000","q":"Qui joue le rôle de Rita Bennett dans Dexter ?","a":["Julie Benz","Jennifer Carpenter","Lauren Vélez"],"correct":"Julie Benz","hint":"Petite amie"}
+{"cat":"Series2000","q":"Dans quelle série une femme fragile tombe amoureuse d’un tueur ?","a":["Dexter","Breaking Bad","The Wire"],"correct":"Dexter","hint":"Miami"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Hank Schrader dans Breaking Bad ?","a":["Dean Norris","Bryan Cranston","Aaron Paul"],"correct":"Dean Norris","hint":"Agent DEA"}
+{"cat":"Series2000","q":"Dans quelle série un agent traque un criminel qui est son beau-frère ?","a":["Breaking Bad","The Wire","Sons of Anarchy"],"correct":"Breaking Bad","hint":"Heisenberg"}
+{"cat":"Series2000","q":"Qui joue le rôle de Jimmy McNulty dans The Wire ?","a":["Dominic West","Idris Elba","Michael K. Williams"],"correct":"Dominic West","hint":"Policier rebelle"}
+{"cat":"Series2000","q":"Dans quelle série un policier enquête malgré ses problèmes personnels ?","a":["The Wire","Breaking Bad","Sons of Anarchy"],"correct":"The Wire","hint":"Baltimore"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Gemma Teller dans Sons of Anarchy ?","a":["Katey Sagal","Maggie Siff","Drea de Matteo"],"correct":"Katey Sagal","hint":"Matriarche"}
+{"cat":"Series2000","q":"Dans quelle série une femme manipule le club de motards ?","a":["Sons of Anarchy","The Wire","Breaking Bad"],"correct":"Sons of Anarchy","hint":"SAMCRO"}
+{"cat":"Series2000","q":"Qui joue le rôle de Jenna Maroney dans 30 Rock ?","a":["Jane Krakowski","Tina Fey","Alec Baldwin"],"correct":"Jane Krakowski","hint":"Actrice narcissique"}
+{"cat":"Series2000","q":"Dans quelle série une actrice dramatique veut toujours être la star ?","a":["30 Rock","The Office","Parks and Recreation"],"correct":"30 Rock","hint":"TGS"}
+{"cat":"Series2000","q":"Qui incarne le rôle de April Ludgate dans Parks and Recreation ?","a":["Aubrey Plaza","Amy Poehler","Rashida Jones"],"correct":"Aubrey Plaza","hint":"Sarcasme"}
+{"cat":"Series2000","q":"Dans quelle série une employée blasée devient indispensable ?","a":["Parks and Recreation","The Office","30 Rock"],"correct":"Parks and Recreation","hint":"Pawnee"}
+{"cat":"Series2000","q":"Qui joue le rôle de Lily Aldrin dans How I Met Your Mother ?","a":["Alyson Hannigan","Cobie Smulders","Sarah Chalke"],"correct":"Alyson Hannigan","hint":"Enseignante"}
+{"cat":"Series2000","q":"Dans quelle série une femme contrôle son mari Marshall ?","a":["How I Met Your Mother","Friends","Scrubs"],"correct":"How I Met Your Mother","hint":"MacLaren’s"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Sookie St. James dans Gilmore Girls ?","a":["Melissa McCarthy","Lauren Graham","Alexis Bledel"],"correct":"Melissa McCarthy","hint":"Chef maladroite"}
+{"cat":"Series2000","q":"Dans quelle série une chef excentrique travaille avec Lorelai ?","a":["Gilmore Girls","Desperate Housewives","The O.C."],"correct":"Gilmore Girls","hint":"Stars Hollow"}
+{"cat":"Series2000","q":"Qui joue le rôle de Lynette Scavo dans Desperate Housewives ?","a":["Felicity Huffman","Marcia Cross","Eva Longoria"],"correct":"Felicity Huffman","hint":"Mère débordée"}
+{"cat":"Series2000","q":"Dans quelle série une mère lutte pour gérer sa famille et sa carrière ?","a":["Desperate Housewives","Gilmore Girls","The O.C."],"correct":"Desperate Housewives","hint":"Wisteria Lane"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Marissa Cooper dans The O.C. ?","a":["Mischa Barton","Rachel Bilson","Kelly Rowan"],"correct":"Mischa Barton","hint":"Fille riche tourmentée"}
+{"cat":"Series2000","q":"Dans quelle série une adolescente vit des drames sentimentaux à Newport ?","a":["The O.C.","One Tree Hill","Gilmore Girls"],"correct":"The O.C.","hint":"Côte californienne"}
+{"cat":"Series2000","q":"Qui joue le rôle de Haley James dans One Tree Hill ?","a":["Bethany Joy Lenz","Sophia Bush","Hilarie Burton"],"correct":"Bethany Joy Lenz","hint":"Chanteuse"}
+{"cat":"Series2000","q":"Dans quelle série une jeune femme devient la femme de Nathan Scott ?","a":["One Tree Hill","The O.C.","Smallville"],"correct":"One Tree Hill","hint":"Tree Hill"}
+{"cat":"Series2000","q":"Qui joue le rôle de Elliot Reid dans Scrubs ?","a":["Sarah Chalke","Judy Reyes","Heather Graham"],"correct":"Sarah Chalke","hint":"Interne stressée"}
+{"cat":"Series2000","q":"Dans quelle série une interne maladroite tente de s’imposer ?","a":["Scrubs","ER","Grey's Anatomy"],"correct":"Scrubs","hint":"Hôpital sacré"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Dwight Schrute dans The Office (US) ?","a":["Rainn Wilson","John Krasinski","Steve Carell"],"correct":"Rainn Wilson","hint":"Betteraves"}
+{"cat":"Series2000","q":"Dans quelle série un employé loyal rêve de devenir manager ?","a":["The Office","Parks and Recreation","30 Rock"],"correct":"The Office","hint":"Assistant to the regional manager"}
+{"cat":"Series2000","q":"Qui joue le rôle de Addison Montgomery dans Grey's Anatomy ?","a":["Kate Walsh","Ellen Pompeo","Sandra Oh"],"correct":"Kate Walsh","hint":"Chirurgie néonatale"}
+{"cat":"Series2000","q":"Dans quelle série une chirurgienne revient pour sauver son mariage ?","a":["Grey's Anatomy","House","Scrubs"],"correct":"Grey's Anatomy","hint":"Seattle"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Sara Tancredi dans Prison Break ?","a":["Sarah Wayne Callies","Robin Tunney","Patricia Wettig"],"correct":"Sarah Wayne Callies","hint":"Médecin de la prison"}
+{"cat":"Series2000","q":"Dans quelle série un médecin tombe amoureuse d’un détenu ?","a":["Prison Break","24","Lost"],"correct":"Prison Break","hint":"Fox River"}
+{"cat":"Series2000","q":"Qui joue le rôle de Hugo 'Hurley' Reyes dans Lost ?","a":["Jorge Garcia","Josh Holloway","Daniel Dae Kim"],"correct":"Jorge Garcia","hint":"Numéros maudits"}
+{"cat":"Series2000","q":"Dans quelle série un survivant gagne à la loterie avant le crash ?","a":["Lost","Heroes","The O.C."],"correct":"Lost","hint":"4 8 15 16 23 42"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Peter Petrelli dans Heroes ?","a":["Milo Ventimiglia","Adrian Pasdar","Sendhil Ramamurthy"],"correct":"Milo Ventimiglia","hint":"Absorption de pouvoirs"}
+{"cat":"Series2000","q":"Dans quelle série un infirmier découvre qu’il peut copier les pouvoirs ?","a":["Heroes","Smallville","Supernatural"],"correct":"Heroes","hint":"Frère politicien"}
+{"cat":"Series2000","q":"Qui joue le rôle de Lana Lang dans Smallville ?","a":["Kristin Kreuk","Erica Durance","Allison Mack"],"correct":"Kristin Kreuk","hint":"Amour de Clark"}
+{"cat":"Series2000","q":"Dans quelle série une adolescente devient la confidente de Clark Kent ?","a":["Smallville","Heroes","Supernatural"],"correct":"Smallville","hint":"Ferme des Kent"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Castiel dans Supernatural ?","a":["Misha Collins","Jensen Ackles","Jared Padalecki"],"correct":"Misha Collins","hint":"Ange"}
+{"cat":"Series2000","q":"Dans quelle série un ange aide deux frères chasseurs ?","a":["Supernatural","Buffy","Angel"],"correct":"Supernatural","hint":"Trench coat"}
+{"cat":"Series2000","q":"Qui joue le rôle de Rita Bennett dans Dexter ?","a":["Julie Benz","Jennifer Carpenter","Lauren Vélez"],"correct":"Julie Benz","hint":"Petite amie"}
+{"cat":"Series2000","q":"Dans quelle série une femme fragile tombe amoureuse d’un tueur ?","a":["Dexter","Breaking Bad","The Wire"],"correct":"Dexter","hint":"Miami"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Hank Schrader dans Breaking Bad ?","a":["Dean Norris","Bryan Cranston","Aaron Paul"],"correct":"Dean Norris","hint":"Agent DEA"}
+{"cat":"Series2000","q":"Dans quelle série un agent traque un criminel qui est son beau-frère ?","a":["Breaking Bad","The Wire","Sons of Anarchy"],"correct":"Breaking Bad","hint":"Heisenberg"}
+{"cat":"Series2000","q":"Qui joue le rôle de Jimmy McNulty dans The Wire ?","a":["Dominic West","Idris Elba","Michael K. Williams"],"correct":"Dominic West","hint":"Policier rebelle"}
+{"cat":"Series2000","q":"Dans quelle série un policier enquête malgré ses problèmes personnels ?","a":["The Wire","Breaking Bad","Sons of Anarchy"],"correct":"The Wire","hint":"Baltimore"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Gemma Teller dans Sons of Anarchy ?","a":["Katey Sagal","Maggie Siff","Drea de Matteo"],"correct":"Katey Sagal","hint":"Matriarche"}
+{"cat":"Series2000","q":"Dans quelle série une femme manipule le club de motards ?","a":["Sons of Anarchy","The Wire","Breaking Bad"],"correct":"Sons of Anarchy","hint":"SAMCRO"}
+{"cat":"Series2000","q":"Qui joue le rôle de Jenna Maroney dans 30 Rock ?","a":["Jane Krakowski","Tina Fey","Alec Baldwin"],"correct":"Jane Krakowski","hint":"Actrice narcissique"}
+{"cat":"Series2000","q":"Dans quelle série une actrice dramatique veut toujours être la star ?","a":["30 Rock","The Office","Parks and Recreation"],"correct":"30 Rock","hint":"TGS"}
+{"cat":"Series2000","q":"Qui incarne le rôle de April Ludgate dans Parks and Recreation ?","a":["Aubrey Plaza","Amy Poehler","Rashida Jones"],"correct":"Aubrey Plaza","hint":"Sarcasme"}
+{"cat":"Series2000","q":"Dans quelle série une employée blasée devient indispensable ?","a":["Parks and Recreation","The Office","30 Rock"],"correct":"Parks and Recreation","hint":"Pawnee"}
+{"cat":"Series2000","q":"Qui joue le rôle de Lily Aldrin dans How I Met Your Mother ?","a":["Alyson Hannigan","Cobie Smulders","Sarah Chalke"],"correct":"Alyson Hannigan","hint":"Enseignante"}
+{"cat":"Series2000","q":"Dans quelle série une femme contrôle son mari Marshall ?","a":["How I Met Your Mother","Friends","Scrubs"],"correct":"How I Met Your Mother","hint":"MacLaren’s"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Sookie St. James dans Gilmore Girls ?","a":["Melissa McCarthy","Lauren Graham","Alexis Bledel"],"correct":"Melissa McCarthy","hint":"Chef maladroite"}
+{"cat":"Series2000","q":"Dans quelle série une chef excentrique travaille avec Lorelai ?","a":["Gilmore Girls","Desperate Housewives","The O.C."],"correct":"Gilmore Girls","hint":"Stars Hollow"}
+{"cat":"Series2000","q":"Qui joue le rôle de Lynette Scavo dans Desperate Housewives ?","a":["Felicity Huffman","Marcia Cross","Eva Longoria"],"correct":"Felicity Huffman","hint":"Mère débordée"}
+{"cat":"Series2000","q":"Dans quelle série une mère lutte pour gérer sa famille et sa carrière ?","a":["Desperate Housewives","Gilmore Girls","The O.C."],"correct":"Desperate Housewives","hint":"Wisteria Lane"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Marissa Cooper dans The O.C. ?","a":["Mischa Barton","Rachel Bilson","Kelly Rowan"],"correct":"Mischa Barton","hint":"Fille riche tourmentée"}
+{"cat":"Series2000","q":"Dans quelle série une adolescente vit des drames sentimentaux à Newport ?","a":["The O.C.","One Tree Hill","Gilmore Girls"],"correct":"The O.C.","hint":"Côte californienne"}
+{"cat":"Series2000","q":"Qui joue le rôle de Haley James dans One Tree Hill ?","a":["Bethany Joy Lenz","Sophia Bush","Hilarie Burton"],"correct":"Bethany Joy Lenz","hint":"Chanteuse"}
+{"cat":"Series2000","q":"Dans quelle série une jeune femme devient la femme de Nathan Scott ?","a":["One Tree Hill","The O.C.","Smallville"],"correct":"One Tree Hill","hint":"Tree Hill"}
+{"cat":"Series2000","q":"Qui joue le rôle de Dr. Cox dans Scrubs ?","a":["John C. McGinley","Zach Braff","Donald Faison"],"correct":"John C. McGinley","hint":"Sarcasme"}
+{"cat":"Series2000","q":"Dans quelle série un médecin cynique terrorise les internes ?","a":["Scrubs","ER","House"],"correct":"Scrubs","hint":"Sacred Heart"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Angela Martin dans The Office (US) ?","a":["Angela Kinsey","Jenna Fischer","Ellie Kemper"],"correct":"Angela Kinsey","hint":"Chats"}
+{"cat":"Series2000","q":"Dans quelle série une comptable stricte dirige le comité de fête ?","a":["The Office","Parks and Recreation","30 Rock"],"correct":"The Office","hint":"Dunder Mifflin"}
+{"cat":"Series2000","q":"Qui joue le rôle de Derek Shepherd dans Grey's Anatomy ?","a":["Patrick Dempsey","Justin Chambers","T.R. Knight"],"correct":"Patrick Dempsey","hint":"Dr. Mamour"}
+{"cat":"Series2000","q":"Dans quelle série un neurochirurgien tombe amoureux de Meredith ?","a":["Grey's Anatomy","House","Scrubs"],"correct":"Grey's Anatomy","hint":"Seattle Grace"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Fernando Sucre dans Prison Break ?","a":["Amaury Nolasco","Dominic Purcell","Robert Knepper"],"correct":"Amaury Nolasco","hint":"Cellule voisine"}
+{"cat":"Series2000","q":"Dans quelle série un détenu aide Michael à s’évader ?","a":["Prison Break","24","Lost"],"correct":"Prison Break","hint":"Fox River"}
+{"cat":"Series2000","q":"Qui joue le rôle de Desmond Hume dans Lost ?","a":["Henry Ian Cusick","Matthew Fox","Josh Holloway"],"correct":"Henry Ian Cusick","hint":"Écossais bunker"}
+{"cat":"Series2000","q":"Dans quelle série un homme vit dans une station souterraine ?","a":["Lost","Heroes","The O.C."],"correct":"Lost","hint":"Button"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Mohinder Suresh dans Heroes ?","a":["Sendhil Ramamurthy","Milo Ventimiglia","Adrian Pasdar"],"correct":"Sendhil Ramamurthy","hint":"Scientifique"}
+{"cat":"Series2000","q":"Dans quelle série un généticien enquête sur des personnes dotées de pouvoirs ?","a":["Heroes","Smallville","Supernatural"],"correct":"Heroes","hint":"Père chercheur"}
+{"cat":"Series2000","q":"Qui joue le rôle de Lois Lane dans Smallville ?","a":["Erica Durance","Kristin Kreuk","Allison Mack"],"correct":"Erica Durance","hint":"Journaliste"}
+{"cat":"Series2000","q":"Dans quelle série une journaliste tombe amoureuse de Clark ?","a":["Smallville","Heroes","Supernatural"],"correct":"Smallville","hint":"Daily Planet"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Crowley dans Supernatural ?","a":["Mark Sheppard","Misha Collins","Jared Padalecki"],"correct":"Mark Sheppard","hint":"Roi des Enfers"}
+{"cat":"Series2000","q":"Dans quelle série un démon devient allié des Winchester ?","a":["Supernatural","Buffy","Angel"],"correct":"Supernatural","hint":"Deals"}
+{"cat":"Series2000","q":"Qui joue le rôle de Masuka dans Dexter ?","a":["C.S. Lee","David Zayas","James Remar"],"correct":"C.S. Lee","hint":"Humour déplacé"}
+{"cat":"Series2000","q":"Dans quelle série un expert médico-légal fait des blagues douteuses ?","a":["Dexter","Breaking Bad","The Wire"],"correct":"Dexter","hint":"Miami Metro"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Gus Fring dans Breaking Bad ?","a":["Giancarlo Esposito","Bryan Cranston","Dean Norris"],"correct":"Giancarlo Esposito","hint":"Pollos Hermanos"}
+{"cat":"Series2000","q":"Dans quelle série un baron de la drogue dirige une chaîne de restaurants ?","a":["Breaking Bad","The Wire","Sons of Anarchy"],"correct":"Breaking Bad","hint":"Calme dangereux"}
+{"cat":"Series2000","q":"Qui joue le rôle de Marlo Stanfield dans The Wire ?","a":["Jamie Hector","Idris Elba","Dominic West"],"correct":"Jamie Hector","hint":"Froid et silencieux"}
+{"cat":"Series2000","q":"Dans quelle série un jeune chef criminel prend le contrôle des rues ?","a":["The Wire","Breaking Bad","Sons of Anarchy"],"correct":"The Wire","hint":"Baltimore"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Tig Trager dans Sons of Anarchy ?","a":["Kim Coates","Ryan Hurst","Charlie Hunnam"],"correct":"Kim Coates","hint":"Instable"}
+{"cat":"Series2000","q":"Dans quelle série un motard imprévisible protège son club ?","a":["Sons of Anarchy","The Wire","Breaking Bad"],"correct":"Sons of Anarchy","hint":"SAMCRO"}
+{"cat":"Series2000","q":"Qui joue le rôle de Kenneth Parcell dans 30 Rock ?","a":["Jack McBrayer","Alec Baldwin","Tracy Morgan"],"correct":"Jack McBrayer","hint":"NBC Page"}
+{"cat":"Series2000","q":"Dans quelle série un assistant naïf adore la télévision ?","a":["30 Rock","The Office","Parks and Recreation"],"correct":"30 Rock","hint":"Toujours souriant"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Chris Traeger dans Parks and Recreation ?","a":["Rob Lowe","Nick Offerman","Adam Scott"],"correct":"Rob Lowe","hint":"Littéralement incroyable"}
+{"cat":"Series2000","q":"Dans quelle série un homme obsédé par la santé rejoint Pawnee ?","a":["Parks and Recreation","The Office","30 Rock"],"correct":"Parks and Recreation","hint":"Littéralement"}
+{"cat":"Series2000","q":"Qui joue le rôle de Ted dans How I Met Your Mother ?","a":["Josh Radnor","Jason Segel","Neil Patrick Harris"],"correct":"Josh Radnor","hint":"Architecte"}
+{"cat":"Series2000","q":"Dans quelle série un homme raconte sa vie amoureuse à ses enfants ?","a":["How I Met Your Mother","Friends","Scrubs"],"correct":"How I Met Your Mother","hint":"Long récit"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Lane Kim dans Gilmore Girls ?","a":["Keiko Agena","Alexis Bledel","Melissa McCarthy"],"correct":"Keiko Agena","hint":"Meilleure amie de Rory"}
+{"cat":"Series2000","q":"Dans quelle série une adolescente rêve de devenir musicienne ?","a":["Gilmore Girls","Desperate Housewives","The O.C."],"correct":"Gilmore Girls","hint":"Stars Hollow"}
+{"cat":"Series2000","q":"Qui joue le rôle de Edie Britt dans Desperate Housewives ?","a":["Nicollette Sheridan","Teri Hatcher","Eva Longoria"],"correct":"Nicollette Sheridan","hint":"Voisine sulfureuse"}
+{"cat":"Series2000","q":"Dans quelle série une femme séductrice crée des tensions dans le quartier ?","a":["Desperate Housewives","Gilmore Girls","The O.C."],"correct":"Desperate Housewives","hint":"Wisteria Lane"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Julie Cooper dans The O.C. ?","a":["Melinda Clarke","Rachel Bilson","Kelly Rowan"],"correct":"Melinda Clarke","hint":"Manipulatrice"}
+{"cat":"Series2000","q":"Dans quelle série une mère ambitieuse manipule son entourage ?","a":["The O.C.","One Tree Hill","Gilmore Girls"],"correct":"The O.C.","hint":"Newport"}
+{"cat":"Series2000","q":"Qui joue le rôle de Peyton Sawyer dans One Tree Hill ?","a":["Hilarie Burton","Sophia Bush","Bethany Joy Lenz"],"correct":"Hilarie Burton","hint":"Artiste"}
+{"cat":"Series2000","q":"Dans quelle série une adolescente passionnée de musique et d’art vit des drames ?","a":["One Tree Hill","The O.C.","Smallville"],"correct":"One Tree Hill","hint":"Tree Hill"}
+{"cat":"Series2000","q":"Qui incarne le rôle de The Janitor dans Scrubs ?","a":["Neil Flynn","John C. McGinley","Ken Jenkins"],"correct":"Neil Flynn","hint":"Mystérieux"}
+{"cat":"Series2000","q":"Dans quelle série un concierge harcèle J.D. ?","a":["Scrubs","ER","House"],"correct":"Scrubs","hint":"Mops"}
+{"cat":"Series2000","q":"Qui joue le rôle de Kelly Kapoor dans The Office (US) ?","a":["Mindy Kaling","Angela Kinsey","Jenna Fischer"],"correct":"Mindy Kaling","hint":"Pop culture"}
+{"cat":"Series2000","q":"Dans quelle série une employée parle constamment de célébrités ?","a":["The Office","Parks and Recreation","30 Rock"],"correct":"The Office","hint":"Customer service"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Burke dans Grey's Anatomy ?","a":["Isaiah Washington","Patrick Dempsey","Justin Chambers"],"correct":"Isaiah Washington","hint":"Cardio"}
+{"cat":"Series2000","q":"Dans quelle série un chirurgien cardio exige la perfection ?","a":["Grey's Anatomy","House","Scrubs"],"correct":"Grey's Anatomy","hint":"Seattle Grace"}
+{"cat":"Series2000","q":"Qui joue le rôle de Whistler dans Prison Break ?","a":["Chris Vance","Robert Knepper","Dominic Purcell"],"correct":"Chris Vance","hint":"Sona"}
+{"cat":"Series2000","q":"Dans quelle série un prisonnier mystérieux cache un secret important ?","a":["Prison Break","24","Lost"],"correct":"Prison Break","hint":"Saison 3"}
+{"cat":"Series2000","q":"Qui joue le rôle de Ben Chang dans Community ?","a":["Ken Jeong","Joel McHale","Donald Glover"],"correct":"Ken Jeong","hint":"Prof fou"}
+{"cat":"Series2000","q":"Dans quelle série un professeur instable devient membre d’un groupe d’étude ?","a":["Community","The Office","Parks and Recreation"],"correct":"Community","hint":"Greendale"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Jeff Winger dans Community ?","a":["Joel McHale","Donald Glover","Chevy Chase"],"correct":"Joel McHale","hint":"Avocat déchu"}
+{"cat":"Series2000","q":"Dans quelle série un avocat doit retourner à l’université ?","a":["Community","30 Rock","Scrubs"],"correct":"Community","hint":"Greendale"}
+{"cat":"Series2000","q":"Qui joue le rôle de Liz Parker dans Roswell ?","a":["Shiri Appleby","Katherine Heigl","Majandra Delfino"],"correct":"Shiri Appleby","hint":"Alien secret"}
+{"cat":"Series2000","q":"Dans quelle série une adolescente découvre qu’un garçon est extraterrestre ?","a":["Roswell","Smallville","Heroes"],"correct":"Roswell","hint":"Crash 1947"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Max Evans dans Roswell ?","a":["Jason Behr","Brendan Fehr","Colin Hanks"],"correct":"Jason Behr","hint":"Pouvoirs"}
+{"cat":"Series2000","q":"Dans quelle série un extraterrestre protège une humaine ?","a":["Roswell","Smallville","Supernatural"],"correct":"Roswell","hint":"New Mexico"}
+{"cat":"Series2000","q":"Qui joue le rôle de Sydney Bristow dans Alias ?","a":["Jennifer Garner","Melissa George","Lena Olin"],"correct":"Jennifer Garner","hint":"Espionne"}
+{"cat":"Series2000","q":"Dans quelle série une espionne mène une double vie ?","a":["Alias","24","Prison Break"],"correct":"Alias","hint":"SD-6"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Arvin Sloane dans Alias ?","a":["Ron Rifkin","Victor Garber","Kevin Weisman"],"correct":"Ron Rifkin","hint":"Chef SD-6"}
+{"cat":"Series2000","q":"Dans quelle série un chef manipulateur dirige une organisation secrète ?","a":["Alias","24","Lost"],"correct":"Alias","hint":"Rambaldi"}
+{"cat":"Series2000","q":"Qui joue le rôle de Veronica Mars ?","a":["Kristen Bell","Tina Majorino","Amanda Seyfried"],"correct":"Kristen Bell","hint":"Détective lycéenne"}
+{"cat":"Series2000","q":"Dans quelle série une adolescente enquête sur des crimes ?","a":["Veronica Mars","Gilmore Girls","One Tree Hill"],"correct":"Veronica Mars","hint":"Neptune"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Logan Echolls dans Veronica Mars ?","a":["Jason Dohring","Ryan Hansen","Percy Daggs III"],"correct":"Jason Dohring","hint":"Bad boy"}
+{"cat":"Series2000","q":"Dans quelle série un riche rebelle tombe amoureux d’une détective ?","a":["Veronica Mars","The O.C.","One Tree Hill"],"correct":"Veronica Mars","hint":"Neptune High"}
+{"cat":"Series2000","q":"Qui joue le rôle de Nancy Botwin dans Weeds ?","a":["Mary-Louise Parker","Elizabeth Perkins","Hunter Parrish"],"correct":"Mary-Louise Parker","hint":"Dealer"}
+{"cat":"Series2000","q":"Dans quelle série une mère vend de la marijuana pour survivre ?","a":["Weeds","Breaking Bad","Desperate Housewives"],"correct":"Weeds","hint":"Suburbia"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Silas Botwin dans Weeds ?","a":["Hunter Parrish","Alexander Gould","Justin Kirk"],"correct":"Hunter Parrish","hint":"Fils aîné"}
+{"cat":"Series2000","q":"Dans quelle série un adolescent se rebelle contre sa mère dealer ?","a":["Weeds","The O.C.","One Tree Hill"],"correct":"Weeds","hint":"Agrestic"}
+{"cat":"Series2000","q":"Qui joue le rôle de Hank Moody dans Californication ?","a":["David Duchovny","Evan Handler","Natascha McElhone"],"correct":"David Duchovny","hint":"Écrivain chaotique"}
+{"cat":"Series2000","q":"Dans quelle série un écrivain vit une vie sexuelle désastreuse ?","a":["Californication","Weeds","Dexter"],"correct":"Californication","hint":"Los Angeles"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Karen dans Californication ?","a":["Natascha McElhone","Madeleine Martin","Pamela Adlon"],"correct":"Natascha McElhone","hint":"Amour de Hank"}
+{"cat":"Series2000","q":"Dans quelle série une femme reste liée à un écrivain instable ?","a":["Californication","Weeds","Breaking Bad"],"correct":"Californication","hint":"Famille"}
+{"cat":"Series2000","q":"Qui joue le rôle de Jemma Simmons dans Agents of S.H.I.E.L.D. ?","a":["Elizabeth Henstridge","Chloe Bennet","Ming-Na Wen"],"correct":"Elizabeth Henstridge","hint":"Scientifique"}
+{"cat":"Series2000","q":"Dans quelle série une scientifique travaille pour une agence secrète ?","a":["Agents of S.H.I.E.L.D.","Heroes","Alias"],"correct":"Agents of S.H.I.E.L.D.","hint":"Marvel"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Phil Coulson dans Agents of S.H.I.E.L.D. ?","a":["Clark Gregg","Brett Dalton","Iain De Caestecker"],"correct":"Clark Gregg","hint":"Leader"}
+{"cat":"Series2000","q":"Dans quelle série un agent ressuscité dirige une équipe ?","a":["Agents of S.H.I.E.L.D.","Alias","24"],"correct":"Agents of S.H.I.E.L.D.","hint":"Tahiti"}
+{"cat":"Series2000","q":"Qui joue le rôle de Temperance Brennan dans Bones ?","a":["Emily Deschanel","Michaela Conlin","Tamara Taylor"],"correct":"Emily Deschanel","hint":"Anthropologue"}
+{"cat":"Series2000","q":"Dans quelle série une anthropologue résout des crimes grâce aux os ?","a":["Bones","CSI","Dexter"],"correct":"Bones","hint":"Jeffersonian"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Seeley Booth dans Bones ?","a":["David Boreanaz","Eric Millegan","T.J. Thyne"],"correct":"David Boreanaz","hint":"Agent du FBI"}
+{"cat":"Series2000","q":"Dans quelle série un agent du FBI travaille avec une anthropologue ?","a":["Bones","CSI","Criminal Minds"],"correct":"Bones","hint":"Partenaires"}
+{"cat":"Series2000","q":"Qui joue le rôle de Grissom dans CSI ?","a":["William Petersen","George Eads","Paul Guilfoyle"],"correct":"William Petersen","hint":"Chef scientifique"}
+{"cat":"Series2000","q":"Dans quelle série une équipe analyse des scènes de crime à Las Vegas ?","a":["CSI","Bones","Dexter"],"correct":"CSI","hint":"LVPD"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Horatio Caine dans CSI Miami ?","a":["David Caruso","Adam Rodriguez","Jonathan Togo"],"correct":"David Caruso","hint":"Lunettes"}
+{"cat":"Series2000","q":"Dans quelle série un enquêteur enlève ses lunettes avant chaque punchline ?","a":["CSI Miami","CSI","Dexter"],"correct":"CSI Miami","hint":"YEEEAAAH"}
+{"cat":"Series2000","q":"Qui joue le rôle de Spencer Reid dans Criminal Minds ?","a":["Matthew Gray Gubler","Thomas Gibson","Shemar Moore"],"correct":"Matthew Gray Gubler","hint":"Génie"}
+{"cat":"Series2000","q":"Dans quelle série un profiler surdoué analyse les tueurs ?","a":["Criminal Minds","Dexter","CSI"],"correct":"Criminal Minds","hint":"BAU"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Penelope Garcia dans Criminal Minds ?","a":["Kirsten Vangsness","A.J. Cook","Paget Brewster"],"correct":"Kirsten Vangsness","hint":"Tech girl"}
+{"cat":"Series2000","q":"Dans quelle série une analyste informatique aide le BAU ?","a":["Criminal Minds","CSI","Bones"],"correct":"Criminal Minds","hint":"Couleurs vives"}
+{"cat":"Series2000","q":"Qui joue le rôle de Dexter Holland dans Malcolm ?","a":["Christopher Masterson","Justin Berfield","Bryan Cranston"],"correct":"Christopher Masterson","hint":"Frère aîné"}
+{"cat":"Series2000","q":"Dans quelle série un adolescent surdoué vit dans une famille chaotique ?","a":["Malcolm","The Office","Scrubs"],"correct":"Malcolm","hint":"Génie"}
+{"cat":"Series2000","q":"Qui incarne le rôle de Hal dans Malcolm ?","a":["Bryan Cranston","Christopher Masterson","Justin Berfield"],"correct":"Bryan Cranston","hint":"Père fou"}
+{"cat":"Series2000","q":"Dans quelle série un père vit des crises absurdes au quotidien ?","a":["Malcolm","Scrubs","Community"],"correct":"Malcolm","hint":"Famille"}
+{"cat":"Series2010","q":"Qui joue le rôle de Jon Snow dans Game of Thrones ?","a":["Kit Harington","Richard Madden","Emilia Clarke"],"correct":"Kit Harington","hint":"Garde de Nuit"}
+{"cat":"Series2010","q":"Dans quelle série un jeune bâtard rejoint la Garde de Nuit ?","a":["Game of Thrones","Vikings","The Witcher"],"correct":"Game of Thrones","hint":"Mur de glace"}
+{"cat":"Series2010","q":"Qui incarne Daenerys Targaryen ?","a":["Emilia Clarke","Lena Headey","Sophie Turner"],"correct":"Emilia Clarke","hint":"Dragons"}
+{"cat":"Series2010","q":"Dans quelle série des dragons renaissent dans un bûcher ?","a":["Game of Thrones","The Witcher","Shadow and Bone"],"correct":"Game of Thrones","hint":"Khaleesi"}
+{"cat":"Series2010","q":"Qui joue le rôle de Walter White dans Breaking Bad ?","a":["Bryan Cranston","Aaron Paul","Bob Odenkirk"],"correct":"Bryan Cranston","hint":"Prof de chimie"}
+{"cat":"Series2010","q":"Dans quelle série un professeur devient fabricant de méthamphétamine ?","a":["Breaking Bad","Better Call Saul","Ozark"],"correct":"Breaking Bad","hint":"Heisenberg"}
+{"cat":"Series2010","q":"Qui incarne Jesse Pinkman ?","a":["Aaron Paul","Bryan Cranston","Dean Norris"],"correct":"Aaron Paul","hint":"Yo"}
+{"cat":"Series2010","q":"Dans quelle série un avocat véreux nommé Saul Goodman apparaît ?","a":["Breaking Bad","Better Call Saul","Ozark"],"correct":"Breaking Bad","hint":"Albuquerque"}
+{"cat":"Series2010","q":"Qui joue le rôle de Rick Grimes dans The Walking Dead ?","a":["Andrew Lincoln","Norman Reedus","Steven Yeun"],"correct":"Andrew Lincoln","hint":"Shérif"}
+{"cat":"Series2010","q":"Dans quelle série un policier se réveille dans un monde rempli de zombies ?","a":["The Walking Dead","Z Nation","Fear the Walking Dead"],"correct":"The Walking Dead","hint":"Hôpital"}
+{"cat":"Series2010","q":"Qui incarne Daryl Dixon ?","a":["Norman Reedus","Andrew Lincoln","Jeffrey Dean Morgan"],"correct":"Norman Reedus","hint":"Arbalète"}
+{"cat":"Series2010","q":"Dans quelle série Negan brandit une batte nommée Lucille ?","a":["The Walking Dead","Z Nation","The Last of Us"],"correct":"The Walking Dead","hint":"Sourire cruel"}
+{"cat":"Series2010","q":"Qui joue le rôle de Eleven dans Stranger Things ?","a":["Millie Bobby Brown","Sadie Sink","Natalia Dyer"],"correct":"Millie Bobby Brown","hint":"Pouvoirs psychiques"}
+{"cat":"Series2010","q":"Dans quelle série un portail vers le Monde à l’Envers s’ouvre ?","a":["Stranger Things","Dark","The OA"],"correct":"Stranger Things","hint":"Hawkins"}
+{"cat":"Series2010","q":"Qui incarne Jim Hopper ?","a":["David Harbour","Joe Keery","Charlie Heaton"],"correct":"David Harbour","hint":"Shérif"}
+{"cat":"Series2010","q":"Dans quelle série un groupe d’enfants enquête sur des phénomènes surnaturels ?","a":["Stranger Things","Dark","The OA"],"correct":"Stranger Things","hint":"Années 80"}
+{"cat":"Series2010","q":"Qui joue le rôle de Ragnar Lothbrok dans Vikings ?","a":["Travis Fimmel","Alexander Ludwig","Gustaf Skarsgård"],"correct":"Travis Fimmel","hint":"Fermier devenu roi"}
+{"cat":"Series2010","q":"Dans quelle série des guerriers nordiques explorent l’Angleterre ?","a":["Vikings","The Last Kingdom","Barbarians"],"correct":"Vikings","hint":"Drakkars"}
+{"cat":"Series2010","q":"Qui incarne Lagertha ?","a":["Katheryn Winnick","Alyssa Sutherland","Georgia Hirst"],"correct":"Katheryn Winnick","hint":"Bouclier-maiden"}
+{"cat":"Series2010","q":"Dans quelle série Bjorn Côte-de-Fer apparaît ?","a":["Vikings","The Last Kingdom","Barbarians"],"correct":"Vikings","hint":"Fils de Ragnar"}
+{"cat":"Series2010","q":"Qui joue le rôle de Sherlock Holmes dans Sherlock ?","a":["Benedict Cumberbatch","Martin Freeman","Henry Cavill"],"correct":"Benedict Cumberbatch","hint":"Détective moderne"}
+{"cat":"Series2010","q":"Dans quelle série un détective utilise un esprit brillant pour résoudre des enquêtes à Londres ?","a":["Sherlock","Elementary","Luther"],"correct":"Sherlock","hint":"221B"}
+{"cat":"Series2010","q":"Qui incarne John Watson dans Sherlock ?","a":["Martin Freeman","Benedict Cumberbatch","Rupert Graves"],"correct":"Martin Freeman","hint":"Médecin"}
+{"cat":"Series2010","q":"Dans quelle série Moriarty est un ennemi majeur ?","a":["Sherlock","Elementary","Luther"],"correct":"Sherlock","hint":"Consulting criminal"}
+{"cat":"Series2010","q":"Qui joue le rôle de Frank Underwood dans House of Cards ?","a":["Kevin Spacey","Michael Kelly","Corey Stoll"],"correct":"Kevin Spacey","hint":"Politique"}
+{"cat":"Series2010","q":"Dans quelle série un politicien manipulateur gravit les échelons du pouvoir ?","a":["House of Cards","Scandal","The West Wing"],"correct":"House of Cards","hint":"Washington"}
+{"cat":"Series2010","q":"Qui incarne Claire Underwood ?","a":["Robin Wright","Kate Mara","Molly Parker"],"correct":"Robin Wright","hint":"Première dame"}
+{"cat":"Series2010","q":"Dans quelle série la Maison-Blanche est au cœur des intrigues ?","a":["House of Cards","Scandal","Designated Survivor"],"correct":"House of Cards","hint":"Ambition"}
+{"cat":"Series2010","q":"Qui joue le rôle de Piper Chapman dans Orange Is the New Black ?","a":["Taylor Schilling","Laura Prepon","Uzo Aduba"],"correct":"Taylor Schilling","hint":"Prison pour femmes"}
+{"cat":"Series2010","q":"Dans quelle série une femme est envoyée en prison après une ancienne affaire ?","a":["Orange Is the New Black","Wentworth","Prison Break"],"correct":"Orange Is the New Black","hint":"Uniformes orange"}
+{"cat":"Series2010","q":"Qui incarne Alex Vause ?","a":["Laura Prepon","Taylor Schilling","Natasha Lyonne"],"correct":"Laura Prepon","hint":"Lunettes noires"}
+{"cat":"Series2010","q":"Dans quelle série Crazy Eyes apparaît ?","a":["Orange Is the New Black","Wentworth","Prison Break"],"correct":"Orange Is the New Black","hint":"Regard intense"}
+{"cat":"Series2010","q":"Qui joue le rôle de Hannah Baker dans 13 Reasons Why ?","a":["Katherine Langford","Alisha Boe","Sosie Bacon"],"correct":"Katherine Langford","hint":"Cassettes"}
+{"cat":"Series2010","q":"Dans quelle série des cassettes révèlent les raisons d’un drame ?","a":["13 Reasons Why","Euphoria","The Society"],"correct":"13 Reasons Why","hint":"Messages audio"}
+{"cat":"Series2010","q":"Qui incarne Clay Jensen ?","a":["Dylan Minnette","Brandon Flynn","Miles Heizer"],"correct":"Dylan Minnette","hint":"Ami fidèle"}
+{"cat":"Series2010","q":"Dans quelle série un lycée est au centre d’un scandale ?","a":["13 Reasons Why","Euphoria","Riverdale"],"correct":"13 Reasons Why","hint":"Drame adolescent"}
+{"cat":"Series2010","q":"Qui joue le rôle de Barry Allen dans The Flash ?","a":["Grant Gustin","Stephen Amell","Ezra Miller"],"correct":"Grant Gustin","hint":"Vitesse"}
+{"cat":"Series2010","q":"Dans quelle série un scientifique devient l’homme le plus rapide du monde ?","a":["The Flash","Arrow","Supergirl"],"correct":"The Flash","hint":"Éclair"}
+{"cat":"Series2010","q":"Qui incarne Oliver Queen dans Arrow ?","a":["Stephen Amell","Grant Gustin","Colton Haynes"],"correct":"Stephen Amell","hint":"Arc et flèches"}
+{"cat":"Series2010","q":"Dans quelle série un milliardaire devient un justicier masqué ?","a":["Arrow","The Flash","Gotham"],"correct":"Arrow","hint":"Île perdue"}
+{"cat":"Series2010","q":"Qui joue le rôle de Selina Meyer dans Veep ?","a":["Julia Louis-Dreyfus","Anna Chlumsky","Reid Scott"],"correct":"Julia Louis-Dreyfus","hint":"Vice-présidente"}
+{"cat":"Series2010","q":"Dans quelle série la politique est tournée en satire ?","a":["Veep","House of Cards","Parks and Recreation"],"correct":"Veep","hint":"Humour acide"}
+{"cat":"Series2010","q":"Qui incarne Leslie Knope dans Parks and Recreation ?","a":["Amy Poehler","Rashida Jones","Aubrey Plaza"],"correct":"Amy Poehler","hint":"Fonctionnaire enthousiaste"}
+{"cat":"Series2010","q":"Dans quelle série un service des parcs gère des projets absurdes ?","a":["Parks and Recreation","The Office","Brooklyn Nine-Nine"],"correct":"Parks and Recreation","hint":"Pawnee"}
+{"cat":"Series2010","q":"Qui joue le rôle de Jake Peralta dans Brooklyn Nine-Nine ?","a":["Andy Samberg","Terry Crews","Joe Lo Truglio"],"correct":"Andy Samberg","hint":"Détective comique"}
+{"cat":"Series2010","q":"Dans quelle série un commissariat de New York vit des enquêtes déjantées ?","a":["Brooklyn Nine-Nine","The Rookie","CSI"],"correct":"Brooklyn Nine-Nine","hint":"99e district"}
+{"cat":"Series2010","q":"Qui incarne Raymond Holt ?","a":["Andre Braugher","Terry Crews","Andy Samberg"],"correct":"Andre Braugher","hint":"Capitaine stoïque"}
+{"cat":"Series2010","q":"Dans quelle série Gina Linetti fait des remarques absurdes ?","a":["Brooklyn Nine-Nine","Parks and Recreation","The Office"],"correct":"Brooklyn Nine-Nine","hint":"Danseuse"}
+{"cat":"Series2010","q":"Qui joue le rôle de Tyrion Lannister dans Game of Thrones ?","a":["Peter Dinklage","Nikolaj Coster-Waldau","Aidan Gillen"],"correct":"Peter Dinklage","hint":"Main du roi"}
+{"cat":"Series2010","q":"Dans quelle série un nain rusé devient conseiller royal ?","a":["Game of Thrones","The Witcher","Vikings"],"correct":"Game of Thrones","hint":"Maison Lannister"}
+{"cat":"Series2010","q":"Qui incarne Cersei Lannister ?","a":["Lena Headey","Emilia Clarke","Sophie Turner"],"correct":"Lena Headey","hint":"Reine cruelle"}
+{"cat":"Series2010","q":"Dans quelle série une reine marche nue dans les rues de Port-Réal ?","a":["Game of Thrones","The Witcher","Shadow and Bone"],"correct":"Game of Thrones","hint":"Shame"}
+{"cat":"Series2010","q":"Qui joue le rôle de Mike Ehrmantraut dans Better Call Saul ?","a":["Jonathan Banks","Bob Odenkirk","Michael Mando"],"correct":"Jonathan Banks","hint":"Homme de main"}
+{"cat":"Series2010","q":"Dans quelle série un avocat se retrouve mêlé à des affaires criminelles ?","a":["Better Call Saul","Breaking Bad","Ozark"],"correct":"Better Call Saul","hint":"Saul Goodman"}
+{"cat":"Series2010","q":"Qui incarne Kim Wexler ?","a":["Rhea Seehorn","Anna Gunn","Betsy Brandt"],"correct":"Rhea Seehorn","hint":"Avocate brillante"}
+{"cat":"Series2010","q":"Dans quelle série un duo d’avocats tente de survivre dans un monde corrompu ?","a":["Better Call Saul","Suits","The Good Wife"],"correct":"Better Call Saul","hint":"Albuquerque"}
+{"cat":"Series2010","q":"Qui joue le rôle de Michonne dans The Walking Dead ?","a":["Danai Gurira","Lauren Cohan","Sonequa Martin-Green"],"correct":"Danai Gurira","hint":"Katana"}
+{"cat":"Series2010","q":"Dans quelle série des survivants affrontent des hordes de zombies ?","a":["The Walking Dead","Fear the Walking Dead","Z Nation"],"correct":"The Walking Dead","hint":"Apocalypse"}
+{"cat":"Series2010","q":"Qui incarne Carol Peletier ?","a":["Melissa McBride","Lauren Cohan","Danai Gurira"],"correct":"Melissa McBride","hint":"Évolution radicale"}
+{"cat":"Series2010","q":"Dans quelle série un groupe se réfugie dans une prison abandonnée ?","a":["The Walking Dead","Z Nation","The Last of Us"],"correct":"The Walking Dead","hint":"Sécurité relative"}
+{"cat":"Series2010","q":"Qui joue le rôle de Will Byers dans Stranger Things ?","a":["Noah Schnapp","Finn Wolfhard","Gaten Matarazzo"],"correct":"Noah Schnapp","hint":"Disparu"}
+{"cat":"Series2010","q":"Dans quelle série un enfant disparaît dans une dimension parallèle ?","a":["Stranger Things","Dark","The OA"],"correct":"Stranger Things","hint":"Monde à l’Envers"}
+{"cat":"Series2010","q":"Qui incarne Max Mayfield ?","a":["Sadie Sink","Millie Bobby Brown","Natalia Dyer"],"correct":"Sadie Sink","hint":"Skateboard"}
+{"cat":"Series2010","q":"Dans quelle série un monstre nommé Démogorgon apparaît ?","a":["Stranger Things","Dark","The OA"],"correct":"Stranger Things","hint":"Créature"}
+{"cat":"Series2010","q":"Qui joue le rôle de Uhtred dans The Last Kingdom ?","a":["Alexander Dreymon","David Dawson","Tobias Santelmann"],"correct":"Alexander Dreymon","hint":"Destin divisé"}
+{"cat":"Series2010","q":"Dans quelle série un Saxon élevé par des Vikings cherche à reprendre Bebbanburg ?","a":["The Last Kingdom","Vikings","Barbarians"],"correct":"The Last Kingdom","hint":"Angleterre"}
+{"cat":"Series2010","q":"Qui incarne Brida ?","a":["Emily Cox","Eliza Butterworth","Millie Brady"],"correct":"Emily Cox","hint":"Guerrière"}
+{"cat":"Series2010","q":"Dans quelle série Alfred le Grand joue un rôle majeur ?","a":["The Last Kingdom","Vikings","Knightfall"],"correct":"The Last Kingdom","hint":"Roi stratège"}
+{"cat":"Series2010","q":"Qui joue le rôle de Luther dans la série Luther ?","a":["Idris Elba","Ruth Wilson","Dermot Crowley"],"correct":"Idris Elba","hint":"Inspecteur sombre"}
+{"cat":"Series2010","q":"Dans quelle série un détective lutte contre ses propres démons ?","a":["Luther","Sherlock","Broadchurch"],"correct":"Luther","hint":"Londres"}
+{"cat":"Series2010","q":"Qui incarne Alice Morgan ?","a":["Ruth Wilson","Claire Foy","Olivia Colman"],"correct":"Ruth Wilson","hint":"Génie dangereuse"}
+{"cat":"Series2010","q":"Dans quelle série un criminel brillant devient l’obsession d’un inspecteur ?","a":["Luther","Sherlock","Broadchurch"],"correct":"Luther","hint":"Manipulation"}
+{"cat":"Series2010","q":"Qui joue le rôle de Selina Kyle dans Gotham ?","a":["Camren Bicondova","Erin Richards","Morena Baccarin"],"correct":"Camren Bicondova","hint":"Chatte voleuse"}
+{"cat":"Series2010","q":"Dans quelle série on découvre les origines de Bruce Wayne ?","a":["Gotham","Arrow","The Flash"],"correct":"Gotham","hint":"Ville sombre"}
+{"cat":"Series2010","q":"Qui incarne James Gordon ?","a":["Ben McKenzie","Donal Logue","Sean Pertwee"],"correct":"Ben McKenzie","hint":"Policier"}
+{"cat":"Series2010","q":"Dans quelle série le Pingouin devient un criminel influent ?","a":["Gotham","Batman","Titans"],"correct":"Gotham","hint":"Parapluie"}
+{"cat":"Series2010","q":"Qui joue le rôle de Jessica Jones ?","a":["Krysten Ritter","Rachael Taylor","Carrie-Anne Moss"],"correct":"Krysten Ritter","hint":"Détective privée"}
+{"cat":"Series2010","q":"Dans quelle série une femme dotée d’une force surhumaine enquête sur son passé ?","a":["Jessica Jones","Luke Cage","Daredevil"],"correct":"Jessica Jones","hint":"Alias Investigations"}
+{"cat":"Series2010","q":"Qui incarne Kilgrave ?","a":["David Tennant","Charlie Cox","Jon Bernthal"],"correct":"David Tennant","hint":"Contrôle mental"}
+{"cat":"Series2010","q":"Dans quelle série un manipulateur contrôle les esprits ?","a":["Jessica Jones","Daredevil","The Punisher"],"correct":"Jessica Jones","hint":"Violet"}
+{"cat":"Series2010","q":"Qui joue le rôle de Fleabag dans Fleabag ?","a":["Phoebe Waller-Bridge","Sian Clifford","Olivia Colman"],"correct":"Phoebe Waller-Bridge","hint":"Quatrième mur"}
+{"cat":"Series2010","q":"Dans quelle série une femme brise constamment le quatrième mur ?","a":["Fleabag","Girls","The Marvelous Mrs. Maisel"],"correct":"Fleabag","hint":"Humour noir"}
+{"cat":"Series2010","q":"Qui incarne Claire dans Fleabag ?","a":["Sian Clifford","Phoebe Waller-Bridge","Olivia Colman"],"correct":"Sian Clifford","hint":"Sœur stressée"}
+{"cat":"Series2010","q":"Dans quelle série un prêtre devient un intérêt amoureux inattendu ?","a":["Fleabag","The Good Place","Girls"],"correct":"Fleabag","hint":"Hot Priest"}
+{"cat":"Series2010","q":"Qui joue le rôle de Eleanor Shellstrop dans The Good Place ?","a":["Kristen Bell","Jameela Jamil","D'Arcy Carden"],"correct":"Kristen Bell","hint":"Après-vie"}
+{"cat":"Series2010","q":"Dans quelle série des humains découvrent un système moral complexe après la mort ?","a":["The Good Place","Upload","Lucifer"],"correct":"The Good Place","hint":"Points"}
+{"cat":"Series2010","q":"Qui incarne Michael dans The Good Place ?","a":["Ted Danson","William Jackson Harper","Marc Evan Jackson"],"correct":"Ted Danson","hint":"Architecte"}
+{"cat":"Series2010","q":"Dans quelle série un démon tente de comprendre l’humanité ?","a":["The Good Place","Lucifer","Supernatural"],"correct":"The Good Place","hint":"Expériences"}
+{"cat":"Series2010","q":"Qui joue le rôle de Raymond Reddington dans The Blacklist ?","a":["James Spader","Diego Klattenhoff","Ryan Eggold"],"correct":"James Spader","hint":"Criminel élégant"}
+{"cat":"Series2010","q":"Dans quelle série un criminel se rend volontairement au FBI ?","a":["The Blacklist","Blindspot","Quantico"],"correct":"The Blacklist","hint":"Liste secrète"}
+{"cat":"Series2010","q":"Qui incarne Elizabeth Keen ?","a":["Megan Boone","Parminder Nagra","Mozhan Marnò"],"correct":"Megan Boone","hint":"Profilage"}
+{"cat":"Series2010","q":"Dans quelle série des dossiers classés révèlent des criminels dangereux ?","a":["The Blacklist","Blindspot","Quantico"],"correct":"The Blacklist","hint":"Rouge"}
+{"cat":"Series2010","q":"Qui joue le rôle de Jon Bernthal dans The Punisher ?","a":["Jon Bernthal","Ben Barnes","Ebon Moss-Bachrach"],"correct":"Jon Bernthal","hint":"Ancien Marine"}
+{"cat":"Series2010","q":"Dans quelle série un justicier venge la mort de sa famille ?","a":["The Punisher","Daredevil","Luke Cage"],"correct":"The Punisher","hint":"Francis Castle"}
+{"cat":"Series2010","q":"Qui incarne Karen Page dans Daredevil ?","a":["Deborah Ann Woll","Elodie Yung","Rosario Dawson"],"correct":"Deborah Ann Woll","hint":"Journaliste"}
+{"cat":"Series2010","q":"Dans quelle série un avocat aveugle combat le crime la nuit ?","a":["Daredevil","Jessica Jones","The Punisher"],"correct":"Daredevil","hint":"Hell's Kitchen"}
+{"cat":"Series2010","q":"Qui joue le rôle de Matt Murdock ?","a":["Charlie Cox","Ben Affleck","Finn Jones"],"correct":"Charlie Cox","hint":"Diable de Hell's Kitchen"}
+{"cat":"Series2010","q":"Dans quelle série Wilson Fisk est un ennemi majeur ?","a":["Daredevil","Luke Cage","The Punisher"],"correct":"Daredevil","hint":"Kingpin"}
+{"cat":"Series2010","q":"Qui incarne Luke Cage ?","a":["Mike Colter","Mahershala Ali","Theo Rossi"],"correct":"Mike Colter","hint":"Peau indestructible"}
+{"cat":"Series2010","q":"Dans quelle série Harlem devient le terrain d’un héros invincible ?","a":["Luke Cage","Jessica Jones","Iron Fist"],"correct":"Luke Cage","hint":"Barbershop"}
+{"cat":"Series2010","q":"Qui joue le rôle de Danny Rand dans Iron Fist ?","a":["Finn Jones","Tom Pelphrey","Jessica Henwick"],"correct":"Finn Jones","hint":"Poing de fer"}
+{"cat":"Series2010","q":"Dans quelle série un milliardaire revient après des années d’absence ?","a":["Iron Fist","Luke Cage","Daredevil"],"correct":"Iron Fist","hint":"K'un-Lun"}
+{"cat":"Series2010","q":"Qui incarne Claire Temple dans plusieurs séries Marvel ?","a":["Rosario Dawson","Deborah Ann Woll","Krysten Ritter"],"correct":"Rosario Dawson","hint":"Infirmière"}
+{"cat":"Series2010","q":"Dans quelle série plusieurs héros se regroupent pour combattre La Main ?","a":["The Defenders","Daredevil","Jessica Jones"],"correct":"The Defenders","hint":"Alliance"}
+{"cat":"Series2010","q":"Qui joue le rôle de June Osborne dans The Handmaid's Tale ?","a":["Elisabeth Moss","Yvonne Strahovski","Alexis Bledel"],"correct":"Elisabeth Moss","hint":"Servante écarlate"}
+{"cat":"Series2010","q":"Dans quelle série des femmes sont réduites à un rôle de reproduction ?","a":["The Handmaid's Tale","Big Little Lies","The Leftovers"],"correct":"The Handmaid's Tale","hint":"Gilead"}
+{"cat":"Series2010","q":"Qui incarne Serena Joy ?","a":["Yvonne Strahovski","Elisabeth Moss","Ann Dowd"],"correct":"Yvonne Strahovski","hint":"Épouse influente"}
+{"cat":"Series2010","q":"Dans quelle série un régime totalitaire impose des règles extrêmes ?","a":["The Handmaid's Tale","The Leftovers","Westworld"],"correct":"The Handmaid's Tale","hint":"Oppression"}
+{"cat":"Series2010","q":"Qui joue le rôle de Dolores dans Westworld ?","a":["Evan Rachel Wood","Thandiwe Newton","Angela Sarafyan"],"correct":"Evan Rachel Wood","hint":"Ranch"}
+{"cat":"Series2010","q":"Dans quelle série des androïdes vivent dans un parc à thème ?","a":["Westworld","Humans","Black Mirror"],"correct":"Westworld","hint":"Cowboys"}
+{"cat":"Series2010","q":"Qui incarne Maeve Millay ?","a":["Thandiwe Newton","Evan Rachel Wood","Tessa Thompson"],"correct":"Thandiwe Newton","hint":"Gérante de bordel"}
+{"cat":"Series2010","q":"Dans quelle série la conscience humaine peut être transférée ?","a":["Westworld","Black Mirror","Altered Carbon"],"correct":"Westworld","hint":"Boucles narratives"}
+{"cat":"Series2010","q":"Qui joue le rôle de Otis Milburn dans Sex Education ?","a":["Asa Butterfield","Ncuti Gatwa","Connor Swindells"],"correct":"Asa Butterfield","hint":"Thérapeute amateur"}
+{"cat":"Series2010","q":"Dans quelle série des adolescents explorent leur sexualité ?","a":["Sex Education","Euphoria","Elite"],"correct":"Sex Education","hint":"Moordale"}
+{"cat":"Series2010","q":"Qui incarne Maeve Wiley ?","a":["Emma Mackey","Aimee Lou Wood","Mimi Keene"],"correct":"Emma Mackey","hint":"Intelligente et rebelle"}
+{"cat":"Series2010","q":"Dans quelle série un lycée devient le centre de consultations clandestines ?","a":["Sex Education","Elite","Euphoria"],"correct":"Sex Education","hint":"Cabinet improvisé"}
+{"cat":"Series2010","q":"Qui joue le rôle de Rue Bennett dans Euphoria ?","a":["Zendaya","Hunter Schafer","Sydney Sweeney"],"correct":"Zendaya","hint":"Addiction"}
+{"cat":"Series2010","q":"Dans quelle série des adolescents vivent des drames intenses ?","a":["Euphoria","Elite","13 Reasons Why"],"correct":"Euphoria","hint":"Esthétique forte"}
+{"cat":"Series2010","q":"Qui incarne Jules Vaughn ?","a":["Hunter Schafer","Zendaya","Maude Apatow"],"correct":"Hunter Schafer","hint":"Cheveux pastel"}
+{"cat":"Series2010","q":"Dans quelle série la narration est assurée par une jeune toxicomane ?","a":["Euphoria","Elite","The Society"],"correct":"Euphoria","hint":"Voix off"}
+{"cat":"Series2010","q":"Qui joue le rôle de Joe Goldberg dans You ?","a":["Penn Badgley","James Scully","Lukas Gage"],"correct":"Penn Badgley","hint":"Obsessions"}
+{"cat":"Series2010","q":"Dans quelle série un libraire développe une obsession dangereuse ?","a":["You","Dexter","Mindhunter"],"correct":"You","hint":"Stalking"}
+{"cat":"Series2010","q":"Qui incarne Love Quinn ?","a":["Victoria Pedretti","Elizabeth Lail","Shay Mitchell"],"correct":"Victoria Pedretti","hint":"Cuisinière"}
+{"cat":"Series2010","q":"Dans quelle série un couple devient meurtrier ?","a":["You","Dexter","Hannibal"],"correct":"You","hint":"Banlieue"}
+{"cat":"Series2010","q":"Qui joue le rôle de Hannibal Lecter dans Hannibal ?","a":["Mads Mikkelsen","Hugh Dancy","Laurence Fishburne"],"correct":"Mads Mikkelsen","hint":"Cannibale élégant"}
+{"cat":"Series2010","q":"Dans quelle série un profiler enquête sur un tueur sophistiqué ?","a":["Hannibal","Mindhunter","Dexter"],"correct":"Hannibal","hint":"Cuisine raffinée"}
+{"cat":"Series2010","q":"Qui incarne Will Graham ?","a":["Hugh Dancy","Mads Mikkelsen","Laurence Fishburne"],"correct":"Hugh Dancy","hint":"Empathie extrême"}
+{"cat":"Series2010","q":"Dans quelle série les crimes sont mis en scène comme des œuvres d’art ?","a":["Hannibal","Mindhunter","Dexter"],"correct":"Hannibal","hint":"Macabre"}
+{"cat":"Series2010","q":"Qui joue le rôle de Holden Ford dans Mindhunter ?","a":["Jonathan Groff","Holt McCallany","Albert Jones"],"correct":"Jonathan Groff","hint":"Profilage FBI"}
+{"cat":"Series2010","q":"Dans quelle série des agents interrogent des tueurs en série ?","a":["Mindhunter","Criminal Minds","True Detective"],"correct":"Mindhunter","hint":"Unités comportementales"}
+{"cat":"Series2010","q":"Qui incarne Bill Tench ?","a":["Holt McCallany","Jonathan Groff","Cameron Britton"],"correct":"Holt McCallany","hint":"Agent expérimenté"}
+{"cat":"Series2010","q":"Dans quelle série Ed Kemper est interrogé ?","a":["Mindhunter","Hannibal","Dexter"],"correct":"Mindhunter","hint":"Grand tueur"}
+{"cat":"Series2010","q":"Qui joue le rôle de Dexter Morgan dans Dexter (saisons 2010+) ?","a":["Michael C. Hall","James Remar","Desmond Harrington"],"correct":"Michael C. Hall","hint":"Tueur justicier"}
+{"cat":"Series2010","q":"Dans quelle série un expert médico-légal mène une double vie ?","a":["Dexter","Hannibal","Mindhunter"],"correct":"Dexter","hint":"Miami"}
+{"cat":"Series2010","q":"Qui incarne Debra Morgan ?","a":["Jennifer Carpenter","Julie Benz","Lauren Vélez"],"correct":"Jennifer Carpenter","hint":"Policière impulsive"}
+{"cat":"Series2010","q":"Dans quelle série un code moral guide un tueur en série ?","a":["Dexter","Hannibal","You"],"correct":"Dexter","hint":"Harry"}
+{"cat":"Series2010","q":"Qui joue le rôle de Frank Castle dans The Punisher ?","a":["Jon Bernthal","Ben Barnes","Ebon Moss-Bachrach"],"correct":"Jon Bernthal","hint":"Vengeance"}
+{"cat":"Series2010","q":"Dans quelle série un ancien Marine devient un justicier violent ?","a":["The Punisher","Daredevil","Luke Cage"],"correct":"The Punisher","hint":"Famille détruite"}
+{"cat":"Series2010","q":"Qui incarne Foggy Nelson dans Daredevil ?","a":["Elden Henson","Charlie Cox","Vincent D'Onofrio"],"correct":"Elden Henson","hint":"Ami fidèle"}
+{"cat":"Series2010","q":"Dans quelle série un avocat aveugle combat le crime la nuit ?","a":["Daredevil","Jessica Jones","The Punisher"],"correct":"Daredevil","hint":"Hell's Kitchen"}
+{"cat":"Series2010","q":"Qui joue le rôle de Jessica Pearson dans Suits ?","a":["Gina Torres","Sarah Rafferty","Meghan Markle"],"correct":"Gina Torres","hint":"Dirige le cabinet"}
+{"cat":"Series2010","q":"Dans quelle série un cabinet d’avocats gère des affaires complexes ?","a":["Suits","The Good Wife","Better Call Saul"],"correct":"Suits","hint":"Harvey Specter"}
+{"cat":"Series2010","q":"Qui incarne Harvey Specter ?","a":["Gabriel Macht","Patrick J. Adams","Rick Hoffman"],"correct":"Gabriel Macht","hint":"Closer"}
+{"cat":"Series2010","q":"Dans quelle série Mike Ross travaille sans diplôme ?","a":["Suits","The Good Wife","Boston Legal"],"correct":"Suits","hint":"Mémoire photographique"}
+{"cat":"Series2010","q":"Qui joue le rôle de Annalise Keating dans How to Get Away with Murder ?","a":["Viola Davis","Aja Naomi King","Karla Souza"],"correct":"Viola Davis","hint":"Professeure de droit"}
+{"cat":"Series2010","q":"Dans quelle série des étudiants apprennent à dissimuler des crimes ?","a":["How to Get Away with Murder","The Good Wife","Scandal"],"correct":"How to Get Away with Murder","hint":"Cours particulier"}
+{"cat":"Series2010","q":"Qui incarne Connor Walsh ?","a":["Jack Falahee","Charlie Weber","Matt McGorry"],"correct":"Jack Falahee","hint":"Étudiant brillant"}
+{"cat":"Series2010","q":"Dans quelle série un meurtre implique toute une classe ?","a":["How to Get Away with Murder","Elite","Euphoria"],"correct":"How to Get Away with Murder","hint":"Mystère"}
+{"cat":"Series2010","q":"Qui joue le rôle de Olivia Pope dans Scandal ?","a":["Kerry Washington","Bellamy Young","Darby Stanchfield"],"correct":"Kerry Washington","hint":"Gestion de crises"}
+{"cat":"Series2010","q":"Dans quelle série une experte en communication gère des scandales politiques ?","a":["Scandal","House of Cards","The West Wing"],"correct":"Scandal","hint":"Washington"}
+{"cat":"Series2010","q":"Qui incarne Mellie Grant ?","a":["Bellamy Young","Kerry Washington","Darby Stanchfield"],"correct":"Bellamy Young","hint":"Première dame"}
+{"cat":"Series2010","q":"Dans quelle série un président entretient une relation secrète ?","a":["Scandal","House of Cards","Designated Survivor"],"correct":"Scandal","hint":"Affaires cachées"}
+{"cat":"Series2010","q":"Qui joue le rôle de Eleanor dans The Good Place ?","a":["Kristen Bell","Jameela Jamil","D'Arcy Carden"],"correct":"Kristen Bell","hint":"Mauvaise personne au bon endroit"}
+{"cat":"Series2010","q":"Dans quelle série des humains découvrent un système moral après la mort ?","a":["The Good Place","Upload","Lucifer"],"correct":"The Good Place","hint":"Points"}
+{"cat":"Series2010","q":"Qui incarne Chidi Anagonye ?","a":["William Jackson Harper","Ted Danson","Manny Jacinto"],"correct":"William Jackson Harper","hint":"Prof de morale"}
+{"cat":"Series2010","q":"Dans quelle série un démon tente de comprendre l’humanité ?","a":["The Good Place","Lucifer","Supernatural"],"correct":"The Good Place","hint":"Expériences"}
+{"cat":"Series2010","q":"Qui joue le rôle de Lucifer Morningstar dans Lucifer ?","a":["Tom Ellis","Kevin Alejandro","D.B. Woodside"],"correct":"Tom Ellis","hint":"Diable charmeur"}
+{"cat":"Series2010","q":"Dans quelle série le diable devient consultant pour la police ?","a":["Lucifer","Supernatural","Constantine"],"correct":"Lucifer","hint":"Los Angeles"}
+{"cat":"Series2010","q":"Qui incarne Chloe Decker ?","a":["Lauren German","Lesley-Ann Brandt","Aimee Garcia"],"correct":"Lauren German","hint":"Détective"}
+{"cat":"Series2010","q":"Dans quelle série un ange surveille son frère rebelle ?","a":["Lucifer","Supernatural","Good Omens"],"correct":"Lucifer","hint":"Ailes"}
+{"cat":"Series2010","q":"Qui joue le rôle de June dans The Handmaid's Tale ?","a":["Elisabeth Moss","Yvonne Strahovski","Ann Dowd"],"correct":"Elisabeth Moss","hint":"Servante écarlate"}
+{"cat":"Series2010","q":"Dans quelle série un régime totalitaire impose des règles extrêmes ?","a":["The Handmaid's Tale","The Leftovers","Westworld"],"correct":"The Handmaid's Tale","hint":"Oppression"}
+{"cat":"Series2010","q":"Qui incarne Aunt Lydia ?","a":["Ann Dowd","Elisabeth Moss","Samira Wiley"],"correct":"Ann Dowd","hint":"Autorité brutale"}
+{"cat":"Series2010","q":"Dans quelle série des femmes sont réduites à un rôle de reproduction ?","a":["The Handmaid's Tale","Big Little Lies","The Leftovers"],"correct":"The Handmaid's Tale","hint":"Gilead"}
+{"cat":"Series2010","q":"Qui joue le rôle de Dolores dans Westworld ?","a":["Evan Rachel Wood","Thandiwe Newton","Tessa Thompson"],"correct":"Evan Rachel Wood","hint":"Ranch"}
+{"cat":"Series2010","q":"Dans quelle série des androïdes vivent dans un parc à thème ?","a":["Westworld","Humans","Black Mirror"],"correct":"Westworld","hint":"Cowboys"}
+{"cat":"Series2010","q":"Qui incarne Bernard Lowe ?","a":["Jeffrey Wright","Ed Harris","James Marsden"],"correct":"Jeffrey Wright","hint":"Programmeur"}
+{"cat":"Series2010","q":"Dans quelle série la conscience humaine peut être transférée ?","a":["Westworld","Black Mirror","Altered Carbon"],"correct":"Westworld","hint":"Boucles narratives"}
+{"cat":"Series2010","q":"Qui joue le rôle de James Holden dans The Expanse ?","a":["Steven Strait","Dominique Tipper","Wes Chatham"],"correct":"Steven Strait","hint":"Rocinante"}
+{"cat":"Series2010","q":"Dans quelle série des factions s’affrontent dans le système solaire ?","a":["The Expanse","Battlestar Galactica","Foundation"],"correct":"The Expanse","hint":"Belters"}
+{"cat":"Series2010","q":"Qui incarne Naomi Nagata ?","a":["Dominique Tipper","Cara Gee","Shohreh Aghdashloo"],"correct":"Dominique Tipper","hint":"Ingénieure"}
+{"cat":"Series2010","q":"Dans quelle série une protomolécule menace l’humanité ?","a":["The Expanse","Dark Matter","Falling Skies"],"correct":"The Expanse","hint":"Substance bleue"}
+{"cat":"Series2010","q":"Qui joue le rôle de Barry dans Barry ?","a":["Bill Hader","Anthony Carrigan","Stephen Root"],"correct":"Bill Hader","hint":"Tueur en reconversion"}
+{"cat":"Series2010","q":"Dans quelle série un tueur à gages veut devenir acteur ?","a":["Barry","Killing Eve","Banshee"],"correct":"Barry","hint":"Cours de théâtre"}
+{"cat":"Series2010","q":"Qui incarne NoHo Hank ?","a":["Anthony Carrigan","Bill Hader","Henry Winkler"],"correct":"Anthony Carrigan","hint":"Criminel excentrique"}
+{"cat":"Series2010","q":"Dans quelle série un mentor enseigne l’art dramatique à un assassin ?","a":["Barry","Killing Eve","Banshee"],"correct":"Barry","hint":"Scène"}
+{"cat":"Series2010","q":"Qui joue le rôle de Eve Polastri dans Killing Eve ?","a":["Sandra Oh","Jodie Comer","Fiona Shaw"],"correct":"Sandra Oh","hint":"Agent du MI5"}
+{"cat":"Series2010","q":"Dans quelle série une tueuse obsessionnelle poursuit une enquêtrice ?","a":["Killing Eve","Banshee","Barry"],"correct":"Killing Eve","hint":"Jeu dangereux"}
+{"cat":"Series2010","q":"Qui incarne Villanelle ?","a":["Jodie Comer","Sandra Oh","Fiona Shaw"],"correct":"Jodie Comer","hint":"Assassin stylée"}
+{"cat":"Series2010","q":"Dans quelle série les deux protagonistes développent une fascination mutuelle ?","a":["Killing Eve","Barry","Banshee"],"correct":"Killing Eve","hint":"Obsession"}
+{"cat":"Series2010","q":"Qui joue le rôle de Claire Underwood dans House of Cards ?","a":["Robin Wright","Kate Mara","Molly Parker"],"correct":"Robin Wright","hint":"Première dame"}
+{"cat":"Series2010","q":"Dans quelle série un couple politique manipule Washington ?","a":["House of Cards","Scandal","The West Wing"],"correct":"House of Cards","hint":"Ambition"}
+{"cat":"Series2010","q":"Qui incarne Doug Stamper ?","a":["Michael Kelly","Corey Stoll","Paul Sparks"],"correct":"Michael Kelly","hint":"Loyal jusqu'au bout"}
+{"cat":"Series2010","q":"Dans quelle série un chef de cabinet agit dans l’ombre ?","a":["House of Cards","Scandal","Designated Survivor"],"correct":"House of Cards","hint":"Fidélité"}
+{"cat":"Series2010","q":"Qui joue le rôle de Hannah Horvath dans Girls ?","a":["Lena Dunham","Allison Williams","Jemima Kirke"],"correct":"Lena Dunham","hint":"Écrivaine"}
+{"cat":"Series2010","q":"Dans quelle série quatre jeunes femmes vivent à New York ?","a":["Girls","Broad City","Sex and the City"],"correct":"Girls","hint":"Brooklyn"}
+{"cat":"Series2010","q":"Qui incarne Marnie Michaels ?","a":["Allison Williams","Lena Dunham","Zosia Mamet"],"correct":"Allison Williams","hint":"Chanteuse"}
+{"cat":"Series2010","q":"Dans quelle série des amitiés se déchirent au fil des saisons ?","a":["Girls","Broad City","Euphoria"],"correct":"Girls","hint":"Relations complexes"}
+{"cat":"Series2010","q":"Qui joue le rôle de Abbi Abrams dans Broad City ?","a":["Abbi Jacobson","Ilana Glazer","Hannibal Buress"],"correct":"Abbi Jacobson","hint":"Artiste"}
+{"cat":"Series2010","q":"Dans quelle série deux meilleures amies vivent des aventures absurdes ?","a":["Broad City","Girls","Workin' Moms"],"correct":"Broad City","hint":"NYC"}
+{"cat":"Series2010","q":"Qui incarne Ilana Wexler ?","a":["Ilana Glazer","Abbi Jacobson","Amy Poehler"],"correct":"Ilana Glazer","hint":"Énergie chaotique"}
+{"cat":"Series2010","q":"Dans quelle série un duo féminin explore la vie urbaine avec humour ?","a":["Broad City","Girls","Insecure"],"correct":"Broad City","hint":"Déjanté"}
+{"cat":"Series2010","q":"Qui joue le rôle de Issa Dee dans Insecure ?","a":["Issa Rae","Yvonne Orji","Amanda Seales"],"correct":"Issa Rae","hint":"Rap et miroir"}
+{"cat":"Series2010","q":"Dans quelle série deux amies naviguent entre amour et carrière ?","a":["Insecure","Girls","Broad City"],"correct":"Insecure","hint":"LA"}
+{"cat":"Series2010","q":"Qui incarne Molly Carter ?","a":["Yvonne Orji","Issa Rae","Amanda Seales"],"correct":"Yvonne Orji","hint":"Avocate"}
+{"cat":"Series2010","q":"Dans quelle série les relations amoureuses sont analysées avec humour ?","a":["Insecure","Girls","Euphoria"],"correct":"Insecure","hint":"Authentique"}
+{"cat":"Series2010","q":"Qui joue le rôle de Selina Meyer dans Veep ?","a":["Julia Louis-Dreyfus","Anna Chlumsky","Reid Scott"],"correct":"Julia Louis-Dreyfus","hint":"Vice-présidente"}
+{"cat":"Series2010","q":"Dans quelle série la politique est tournée en satire ?","a":["Veep","House of Cards","Parks and Recreation"],"correct":"Veep","hint":"Humour acide"}
+{"cat":"Series2010","q":"Qui incarne Amy Brookheimer ?","a":["Anna Chlumsky","Julia Louis-Dreyfus","Reid Scott"],"correct":"Anna Chlumsky","hint":"Assistante stressée"}
+{"cat":"Series2010","q":"Dans quelle série un staff politique gère des catastrophes absurdes ?","a":["Veep","The West Wing","Scandal"],"correct":"Veep","hint":"Chaos"}
+{"cat":"Series2010","q":"Qui joue le rôle de Eleanor Shellstrop dans The Good Place ?","a":["Kristen Bell","Jameela Jamil","D'Arcy Carden"],"correct":"Kristen Bell","hint":"Après-vie"}
+{"cat":"Series2010","q":"Dans quelle série des humains découvrent un système moral complexe ?","a":["The Good Place","Upload","Lucifer"],"correct":"The Good Place","hint":"Points"}
+{"cat":"Series2010","q":"Qui incarne Janet ?","a":["D'Arcy Carden","Kristen Bell","Jameela Jamil"],"correct":"D'Arcy Carden","hint":"Pas un robot"}
+{"cat":"Series2010","q":"Dans quelle série un démon tente de comprendre l’humanité ?","a":["The Good Place","Lucifer","Supernatural"],"correct":"The Good Place","hint":"Architecte"}
+{"cat":"Series2010","q":"Qui joue le rôle de Eve Polastri dans Killing Eve ?","a":["Sandra Oh","Jodie Comer","Fiona Shaw"],"correct":"Sandra Oh","hint":"MI5"}
+{"cat":"Series2010","q":"Dans quelle série une tueuse obsessionnelle poursuit une enquêtrice ?","a":["Killing Eve","Barry","Banshee"],"correct":"Killing Eve","hint":"Jeu dangereux"}
+{"cat":"Series2010","q":"Qui incarne Villanelle ?","a":["Jodie Comer","Sandra Oh","Fiona Shaw"],"correct":"Jodie Comer","hint":"Assassin stylée"}
+{"cat":"Series2010","q":"Dans quelle série les protagonistes développent une fascination mutuelle ?","a":["Killing Eve","Barry","Banshee"],"correct":"Killing Eve","hint":"Obsession"}
+{"cat":"Series2010","q":"Qui joue le rôle de Eve dans The Umbrella Academy ?","a":["Ellen Page","Tom Hopper","David Castañeda"],"correct":"Ellen Page","hint":"Numéro 7"}
+{"cat":"Series2010","q":"Dans quelle série une famille dysfonctionnelle possède des pouvoirs ?","a":["The Umbrella Academy","Heroes","Misfits"],"correct":"The Umbrella Academy","hint":"Académie"}
+{"cat":"Series2010","q":"Qui incarne Luther Hargreeves ?","a":["Tom Hopper","Robert Sheehan","David Castañeda"],"correct":"Tom Hopper","hint":"Super-force"}
+{"cat":"Series2010","q":"Dans quelle série un voyage temporel menace le monde ?","a":["The Umbrella Academy","Dark","12 Monkeys"],"correct":"The Umbrella Academy","hint":"Apocalypse"}
+{"cat":"Series2010","q":"Qui joue le rôle de Jonas dans Dark ?","a":["Louis Hofmann","Andreas Pietschmann","Oliver Masucci"],"correct":"Louis Hofmann","hint":"Boucles temporelles"}
+{"cat":"Series2010","q":"Dans quelle série une ville allemande cache des secrets temporels ?","a":["Dark","Stranger Things","The OA"],"correct":"Dark","hint":"Winden"}
+{"cat":"Series2010","q":"Qui incarne Martha Nielsen ?","a":["Lisa Vicari","Karoline Eichhorn","Jördis Triebel"],"correct":"Lisa Vicari","hint":"Destin lié"}
+{"cat":"Series2010","q":"Dans quelle série plusieurs époques s’entremêlent ?","a":["Dark","The OA","Stranger Things"],"correct":"Dark","hint":"Paradoxes"}
+{"cat":"Series2010","q":"Qui joue le rôle de David Budd dans Bodyguard ?","a":["Richard Madden","Keeley Hawes","Tom Brooke"],"correct":"Richard Madden","hint":"Protection rapprochée"}
+{"cat":"Series2010","q":"Dans quelle série un vétéran protège une ministre ?","a":["Bodyguard","Line of Duty","Luther"],"correct":"Bodyguard","hint":"Tension"}
+{"cat":"Series2010","q":"Qui incarne Julia Montague ?","a":["Keeley Hawes","Sophie Rundle","Vicky McClure"],"correct":"Keeley Hawes","hint":"Ministre"}
+{"cat":"Series2010","q":"Dans quelle série un complot politique menace Londres ?","a":["Bodyguard","Luther","Line of Duty"],"correct":"Bodyguard","hint":"Attentat"}
+{"cat":"Series2010","q":"Qui joue le rôle de Eve dans The Society ?","a":["Kathryn Newton","Gideon Adlon","Kristine Froseth"],"correct":"Kathryn Newton","hint":"Nouvelle société"}
+{"cat":"Series2010","q":"Dans quelle série des adolescents doivent recréer une civilisation ?","a":["The Society","The 100","The Rain"],"correct":"The Society","hint":"Ville isolée"}
+{"cat":"Series2010","q":"Qui incarne Allie Pressman ?","a":["Kathryn Newton","Kristine Froseth","Olivia DeJonge"],"correct":"Kathryn Newton","hint":"Leadership"}
+{"cat":"Series2010","q":"Dans quelle série une disparition d’adultes bouleverse une communauté ?","a":["The Society","The Leftovers","The 100"],"correct":"The Society","hint":"Mystère"}
+{"cat":"Series2010","q":"Qui joue le rôle de Ragnar dans Vikings ?","a":["Travis Fimmel","Alexander Ludwig","Gustaf Skarsgård"],"correct":"Travis Fimmel","hint":"Fermier devenu roi"}
+{"cat":"Series2010","q":"Dans quelle série des guerriers nordiques envahissent l’Angleterre ?","a":["Vikings","The Last Kingdom","Barbarians"],"correct":"Vikings","hint":"Drakkars"}
+{"cat":"Series2010","q":"Qui incarne Floki ?","a":["Gustaf Skarsgård","Travis Fimmel","Clive Standen"],"correct":"Gustaf Skarsgård","hint":"Constructeur de bateaux"}
+{"cat":"Series2010","q":"Dans quelle série un explorateur fou construit des navires ?","a":["Vikings","Barbarians","The Last Kingdom"],"correct":"Vikings","hint":"Dieux nordiques"}
+{"cat":"Series2010","q":"Qui joue le rôle de Jon Snow dans Game of Thrones ?","a":["Kit Harington","Richard Madden","Iwan Rheon"],"correct":"Kit Harington","hint":"Garde de Nuit"}
+{"cat":"Series2010","q":"Dans quelle série un bâtard rejoint la Garde de Nuit ?","a":["Game of Thrones","The Witcher","Shadow and Bone"],"correct":"Game of Thrones","hint":"Mur de glace"}
+{"cat":"Series2010","q":"Qui incarne Sansa Stark ?","a":["Sophie Turner","Maisie Williams","Emilia Clarke"],"correct":"Sophie Turner","hint":"Lady du Nord"}
+{"cat":"Series2010","q":"Dans quelle série une jeune noble survit à Port-Réal ?","a":["Game of Thrones","The Witcher","Vikings"],"correct":"Game of Thrones","hint":"Maison Stark"}
+{"cat":"Series2010","q":"Qui joue le rôle de Rick Grimes dans The Walking Dead ?","a":["Andrew Lincoln","Norman Reedus","Steven Yeun"],"correct":"Andrew Lincoln","hint":"Shérif"}
+{"cat":"Series2010","q":"Dans quelle série un policier se réveille dans un monde rempli de zombies ?","a":["The Walking Dead","Fear the Walking Dead","Z Nation"],"correct":"The Walking Dead","hint":"Hôpital"}
+{"cat":"Series2010","q":"Qui incarne Negan ?","a":["Jeffrey Dean Morgan","Norman Reedus","Andrew Lincoln"],"correct":"Jeffrey Dean Morgan","hint":"Lucille"}
+{"cat":"Series2010","q":"Dans quelle série un chef cruel brandit une batte cloutée ?","a":["The Walking Dead","Z Nation","The Last of Us"],"correct":"The Walking Dead","hint":"Sourire cruel"}
+{"cat":"Series2010","q":"Qui joue le rôle de Eleven dans Stranger Things ?","a":["Millie Bobby Brown","Sadie Sink","Natalia Dyer"],"correct":"Millie Bobby Brown","hint":"Pouvoirs psychiques"}
+{"cat":"Series2010","q":"Dans quelle série un portail vers une dimension sombre s’ouvre ?","a":["Stranger Things","Dark","The OA"],"correct":"Stranger Things","hint":"Hawkins"}
+{"cat":"Series2010","q":"Qui incarne Dustin Henderson ?","a":["Gaten Matarazzo","Finn Wolfhard","Caleb McLaughlin"],"correct":"Gaten Matarazzo","hint":"Casquette"}
+{"cat":"Series2010","q":"Dans quelle série un groupe d’enfants enquête sur des phénomènes étranges ?","a":["Stranger Things","Dark","The OA"],"correct":"Stranger Things","hint":"Années 80"}
+{"cat":"Series2010","q":"Qui joue le rôle de Uhtred dans The Last Kingdom ?","a":["Alexander Dreymon","David Dawson","Tobias Santelmann"],"correct":"Alexander Dreymon","hint":"Destin divisé"}
+{"cat":"Series2010","q":"Dans quelle série un Saxon élevé par des Vikings cherche à reprendre Bebbanburg ?","a":["The Last Kingdom","Vikings","Barbarians"],"correct":"The Last Kingdom","hint":"Angleterre"}
+{"cat":"Series2010","q":"Qui incarne Alfred le Grand ?","a":["David Dawson","Alexander Dreymon","Ian Hart"],"correct":"David Dawson","hint":"Roi stratège"}
+{"cat":"Series2010","q":"Dans quelle série un roi tente d’unifier l’Angleterre ?","a":["The Last Kingdom","Vikings","Knightfall"],"correct":"The Last Kingdom","hint":"Wessex"}
+{"cat":"Series2010","q":"Qui joue le rôle de Sherlock Holmes dans Sherlock ?","a":["Benedict Cumberbatch","Martin Freeman","Andrew Scott"],"correct":"Benedict Cumberbatch","hint":"Détective brillant"}
+{"cat":"Series2010","q":"Dans quelle série un détective moderne résout des enquêtes à Londres ?","a":["Sherlock","Elementary","Luther"],"correct":"Sherlock","hint":"221B"}
+{"cat":"Series2010","q":"Qui incarne Moriarty ?","a":["Andrew Scott","Benedict Cumberbatch","Martin Freeman"],"correct":"Andrew Scott","hint":"Criminel consultant"}
+{"cat":"Series2010","q":"Dans quelle série un génie criminel affronte un détective ?","a":["Sherlock","Luther","Broadchurch"],"correct":"Sherlock","hint":"Rivalité"}
+{"cat":"Series2010","q":"Qui joue le rôle de Frank Underwood dans House of Cards ?","a":["Kevin Spacey","Michael Kelly","Corey Stoll"],"correct":"Kevin Spacey","hint":"Manipulation"}
+{"cat":"Series2010","q":"Dans quelle série un politicien ambitieux gravit les échelons du pouvoir ?","a":["House of Cards","Scandal","The West Wing"],"correct":"House of Cards","hint":"Washington"}
+{"cat":"Series2010","q":"Qui incarne Claire Underwood ?","a":["Robin Wright","Kate Mara","Molly Parker"],"correct":"Robin Wright","hint":"Première dame"}
+{"cat":"Series2010","q":"Dans quelle série la Maison-Blanche est au cœur des intrigues ?","a":["House of Cards","Scandal","Designated Survivor"],"correct":"House of Cards","hint":"Ambition"}
+{"cat":"Series2010","q":"Qui joue le rôle de Piper Chapman dans Orange Is the New Black ?","a":["Taylor Schilling","Laura Prepon","Uzo Aduba"],"correct":"Taylor Schilling","hint":"Prison pour femmes"}
+{"cat":"Series2010","q":"Dans quelle série une femme est envoyée en prison après une ancienne affaire ?","a":["Orange Is the New Black","Wentworth","Prison Break"],"correct":"Orange Is the New Black","hint":"Uniformes orange"}
+{"cat":"Series2010","q":"Qui incarne Crazy Eyes ?","a":["Uzo Aduba","Natasha Lyonne","Danielle Brooks"],"correct":"Uzo Aduba","hint":"Regard intense"}
+{"cat":"Series2010","q":"Dans quelle série des détenues vivent des drames et des amitiés fortes ?","a":["Orange Is the New Black","Wentworth","Prison Break"],"correct":"Orange Is the New Black","hint":"Cellules"}
+{"cat":"Series2010","q":"Qui joue le rôle de Barry Allen dans The Flash ?","a":["Grant Gustin","Stephen Amell","Ezra Miller"],"correct":"Grant Gustin","hint":"Vitesse"}
+{"cat":"Series2010","q":"Dans quelle série un scientifique devient l’homme le plus rapide du monde ?","a":["The Flash","Arrow","Supergirl"],"correct":"The Flash","hint":"Éclair"}
+{"cat":"Series2010","q":"Qui incarne Oliver Queen ?","a":["Stephen Amell","Grant Gustin","Colton Haynes"],"correct":"Stephen Amell","hint":"Arc et flèches"}
+{"cat":"Series2010","q":"Dans quelle série un milliardaire devient un justicier masqué ?","a":["Arrow","The Flash","Gotham"],"correct":"Arrow","hint":"Île perdue"}
+{"cat":"Series2010","q":"Qui joue le rôle de Jake Peralta dans Brooklyn Nine-Nine ?","a":["Andy Samberg","Terry Crews","Joe Lo Truglio"],"correct":"Andy Samberg","hint":"Détective comique"}
+{"cat":"Series2010","q":"Dans quelle série un commissariat vit des enquêtes déjantées ?","a":["Brooklyn Nine-Nine","The Rookie","CSI"],"correct":"Brooklyn Nine-Nine","hint":"99e district"}
+{"cat":"Series2010","q":"Qui incarne Raymond Holt ?","a":["Andre Braugher","Terry Crews","Andy Samberg"],"correct":"Andre Braugher","hint":"Capitaine stoïque"}
+{"cat":"Series2010","q":"Dans quelle série Gina Linetti fait des remarques absurdes ?","a":["Brooklyn Nine-Nine","Parks and Recreation","The Office"],"correct":"Brooklyn Nine-Nine","hint":"Danseuse"}
+{"cat":"Series2010","q":"Qui joue le rôle de Fleabag dans Fleabag ?","a":["Phoebe Waller-Bridge","Sian Clifford","Olivia Colman"],"correct":"Phoebe Waller-Bridge","hint":"Quatrième mur"}
+{"cat":"Series2010","q":"Dans quelle série une femme brise constamment le quatrième mur ?","a":["Fleabag","Girls","The Marvelous Mrs. Maisel"],"correct":"Fleabag","hint":"Humour noir"}
+{"cat":"Series2010","q":"Qui incarne Claire dans Fleabag ?","a":["Sian Clifford","Phoebe Waller-Bridge","Olivia Colman"],"correct":"Sian Clifford","hint":"Sœur stressée"}
+{"cat":"Series2010","q":"Dans quelle série un prêtre devient un intérêt amoureux inattendu ?","a":["Fleabag","The Good Place","Girls"],"correct":"Fleabag","hint":"Hot Priest"}
+{"cat":"Series2010","q":"Qui joue le rôle de Otis dans Sex Education ?","a":["Asa Butterfield","Ncuti Gatwa","Connor Swindells"],"correct":"Asa Butterfield","hint":"Thérapeute amateur"}
+{"cat":"Series2010","q":"Dans quelle série des adolescents explorent leur sexualité ?","a":["Sex Education","Euphoria","Elite"],"correct":"Sex Education","hint":"Moordale"}
+{"cat":"Series2010","q":"Qui incarne Maeve Wiley ?","a":["Emma Mackey","Aimee Lou Wood","Mimi Keene"],"correct":"Emma Mackey","hint":"Intelligente et rebelle"}
+{"cat":"Series2010","q":"Dans quelle série un lycée devient le centre de consultations clandestines ?","a":["Sex Education","Elite","Euphoria"],"correct":"Sex Education","hint":"Cabinet improvisé"}
