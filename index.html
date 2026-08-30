@@ -207,6 +207,11 @@ button.answer{
   gap:6px;
   color:#007aff;
 }
+
+#hintCount{
+  color:#000;
+  font-weight:bold;
+}
 </style>
 </head>
 
@@ -255,6 +260,9 @@ button.answer{
 
 </div>
 
+<!-- CONFETTI -->
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+
 <script>
 /* ---------------------- INDICES GLOBAUX ---------------------- */
 
@@ -262,6 +270,14 @@ let globalHints = parseInt(localStorage.getItem("globalHints") || 0);
 
 function updateHintDisplay(){
   document.getElementById("hintCount").innerText = globalHints;
+}
+
+function launchConfetti(){
+  confetti({
+    particleCount: 120,
+    spread: 80,
+    origin: { y: 0.6 }
+  });
 }
 
 /* ---------------------- ACCUEIL ---------------------- */
@@ -431,6 +447,7 @@ function check(answer){
       globalHints++;
       localStorage.setItem("globalHints", globalHints);
       updateHintDisplay();
+      launchConfetti();
     }
 
   } else {
@@ -452,7 +469,6 @@ function useHint(){
   }
 
   let q = questions[index];
-
   document.getElementById("hintBox").innerText = "Indice : " + q.hint;
 
   globalHints--;
