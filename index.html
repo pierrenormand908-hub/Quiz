@@ -20,12 +20,17 @@ h1{text-align:center;margin:0;font-size:26px;color:#007aff;}
 .progressFill{height:8px;background:#007aff;width:0%;}
 .progressText{font-size:12px;margin-top:4px;}
 #popupOverlay{position:fixed;top:0;left:0;width:100%;height:100%;backdrop-filter:blur(6px);background:rgba(0,0,0,0.4);display:none;justify-content:center;align-items:center;z-index:999;}
-#popupWindow{width:300px;background:#fff;border-radius:20px;padding:15px;box-shadow:0 10px 25px rgba(0,0,0,0.3);animation:fadeIn .25s ease;}
+#popupWindow{width:320px;background:#fff;border-radius:20px;padding:15px;box-shadow:0 10px 25px rgba(0,0,0,0.3);animation:fadeIn .25s ease;max-height:85vh;overflow-y:auto;}
 @keyframes fadeIn{from{opacity:0;transform:scale(0.95);}to{opacity:1;transform:scale(1);}}
 .popupTitle{text-align:center;font-size:18px;font-weight:bold;margin-bottom:10px;color:#007aff;}
-.popupBtn{width:100%;padding:10px;background:#f2f4f7;border:none;border-radius:12px;margin-top:8px;font-size:15px;cursor:pointer;display:flex;align-items:center;gap:8px;}
+.popupBtn{width:100%;padding:10px;background:#f2f4f7;border:none;border-radius:12px;margin-top:8px;font-size:15px;cursor:pointer;display:flex;align-items:center;justify-content:space-between;text-align:left;}
 .popupBtn:hover{background:#e0e0e0;}
-.closePopup{margin-top:12px;background:#dc3545;color:#fff;padding:10px;}
+.popupBtn.selected{background:#e1f0ff;color:#007aff;font-weight:bold;border:1px solid #007aff;}
+.popupActions{display:flex;flex-direction:column;gap:8px;margin-top:15px;border-top:1px solid #eee;padding-top:12px;}
+.actionBtn{width:100%;padding:10px;border:none;border-radius:12px;font-size:15px;cursor:pointer;color:#fff;text-align:center;}
+#continueAction{background:#007aff;}
+#resetAction{background:#ff9500;}
+#closeAction{background:#dc3545;}
 #quizScreen{display:none;padding:20px;height:100%;overflow-y:auto;}
 .card{background:#fff;padding:20px;border-radius:20px;box-shadow:0 5px 15px rgba(0,0,0,.1);}
 button.answer{width:100%;padding:12px;border:none;border-radius:10px;background:#007aff;color:#fff;font-size:16px;margin-top:10px;cursor:pointer;transition:background 0.2s;}
@@ -33,10 +38,6 @@ button.answer{width:100%;padding:12px;border:none;border-radius:10px;background:
 .quizNav{position:fixed;bottom:70px;left:50%;transform:translateX(-50%);width:360px;background:#fff;border-top:1px solid #ccc;padding:10px;display:flex;justify-content:space-around;z-index:999;}
 .navItem{font-size:26px;cursor:pointer;display:flex;align-items:center;gap:6px;color:#007aff;}
 #hintCount{color:#000;font-size:14px;font-weight:normal;}
-#fixedButtons{position:fixed;bottom:10px;left:50%;transform:translateX(-50%);width:360px;display:flex;justify-content:space-between;z-index:999;}
-#fixedButtons button{flex:1;margin:0 5px;padding:12px;font-size:16px;border:none;border-radius:12px;color:#fff;cursor:pointer;}
-#continueBtn{background:#007aff;}
-#resetBtn{background:#dc3545;}
 </style>
 </head>
 <body>
@@ -46,7 +47,11 @@ button.answer{width:100%;padding:12px;border:none;border-radius:10px;background:
   <div id="popupWindow">
     <div class="popupTitle" id="popupTitle"></div>
     <div id="popupButtons"></div>
-    <button class="popupBtn closePopup" onclick="closePopup()">❌ Fermer</button>
+    <div class="popupActions">
+      <button class="actionBtn" id="continueAction" onclick="popupContinue()">Continuer</button>
+      <button class="actionBtn" id="resetAction" onclick="popupReset()">Reprendre à zéro</button>
+      <button class="actionBtn" id="closeAction" onclick="closePopup()">Retour à l'accueil</button>
+    </div>
   </div>
 </div>
 
@@ -55,11 +60,6 @@ button.answer{width:100%;padding:12px;border:none;border-radius:10px;background:
   <div class="categoryScroll">
     <div class="categoryGrid" id="categoryGrid"></div>
   </div>
-</div>
-
-<div id="fixedButtons">
-  <button id="continueBtn" onclick="continueQuiz()">Continuer</button>
-  <button id="resetBtn" onclick="resetQuiz()">Reprendre à zéro</button>
 </div>
 
 <div id="quizScreen">
@@ -83,6 +83,10 @@ button.answer{width:100%;padding:12px;border:none;border-radius:10px;background:
 <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
 <script>
 let globalHints = parseInt(localStorage.getItem("globalHints") || 0);
+let selectedCategory = "";
+let selectedSub = "";
+let selectedSubObj = null;
+
 function updateHintDisplay() { document.getElementById("hintCount").innerText = globalHints; }
 function launchConfetti() { confetti({ particleCount: 120, spread: 80, origin: { y: 0.6 } }); }
 
@@ -135,23 +139,68 @@ const convertCat = {
   faitsdivers: { FaitsDivers: "FaitsDivers" }
 };
 
+const titlesMap = {
+  musique: "Musique 🎵",
+  cinema: "Cinéma 🎬",
+  series: "Séries TV 📺",
+  acteurs: "Acteurs 🎭",
+  histoire: "Histoire 📜",
+  faitsdivers: "Faits divers 📰"
+};
+
 function openPopup(cat) {
-  const titles = {
-    musique: "Musique 🎵",
-    cinema: "Cinéma 🎬",
-    series: "Séries TV 📺",
-    acteurs: "Acteurs 🎭",
-    histoire: "Histoire 📜",
-    faitsdivers: "Faits divers 📰"
-  };
-  document.getElementById("popupTitle").innerText = titles[cat] || cat;
-  let buttons = "";
-  subCategories[cat].forEach(sub => {
-    buttons += `<button class="popupBtn" onclick="startCategory('${cat}','${sub.sub}')">${sub.icon} ${sub.name}</button>`;
-  });
-  document.getElementById("popupButtons").innerHTML = buttons;
+  selectedCategory = cat;
+  document.getElementById("popupTitle").innerText = titlesMap[cat] || cat;
+  renderPopupButtons();
   document.getElementById("popupOverlay").style.display = "flex";
 }
+
+function renderPopupButtons() {
+  let buttons = "";
+  let activeSub = localStorage.getItem("currentSub");
+
+  subCategories[selectedCategory].forEach(sub => {
+    let progress = parseInt(localStorage.getItem(sub.sub + "_percent") || 0);
+    let isSelected = (activeSub === sub.sub);
+    let checkMark = progress > 0 ? " ✅" : "";
+    let btnClass = isSelected ? "popupBtn selected" : "popupBtn";
+    
+    buttons += `<button class="${btnClass}" onclick="selectSubPopup('${selectedCategory}', '${sub.sub}')">
+      <span>${sub.icon} ${sub.name}${checkMark}</span>
+      <span style="font-size:12px; color:#666;">${progress}%</span>
+    </button>`;
+  });
+  document.getElementById("popupButtons").innerHTML = buttons;
+}
+
+function selectSubPopup(category, sub) {
+  selectedSub = sub;
+  localStorage.setItem("currentSub", sub);
+  renderPopupButtons();
+}
+
+function popupContinue() {
+  let activeSub = localStorage.getItem("currentSub") || selectedSub;
+  if (!activeSub) {
+    alert("Veuillez sélectionner une sous-catégorie.");
+    return;
+  }
+  closePopup();
+  initQuiz(selectedCategory, activeSub, false);
+}
+
+function popupReset() {
+  let activeSub = localStorage.getItem("currentSub") || selectedSub;
+  if (!activeSub) {
+    alert("Veuillez sélectionner une sous-catégorie.");
+    return;
+  }
+  localStorage.setItem(activeSub + "_index", 0);
+  localStorage.setItem(activeSub + "_percent", 0);
+  closePopup();
+  initQuiz(selectedCategory, activeSub, true);
+}
+
 function closePopup() { document.getElementById("popupOverlay").style.display = "none"; }
 
 const categories = [
@@ -194,14 +243,14 @@ function loadHome() {
 
 let questions = [], index = 0, correctCount = 0, currentSub = "";
 
-async function startCategory(category, sub) {
-  closePopup();
+async function initQuiz(category, sub, reset = false) {
   currentSub = sub;
+  localStorage.setItem("currentSub", sub);
 
   document.getElementById("homeScreen").style.display = "none";
   document.getElementById("quizScreen").style.display = "block";
   document.getElementById("quizNav").style.display = "flex";
-  document.getElementById("title").innerText = category + " - " + sub;
+  document.getElementById("title").innerText = category.toUpperCase() + " - " + sub;
 
   const url = "https://raw.githubusercontent.com/pierrenormand908-hub/Quiz/main/" + jsonFiles[category];
 
@@ -225,8 +274,15 @@ async function startCategory(category, sub) {
     let realCat = convertCat[category][sub] || sub;
     questions = allQuestions.filter(q => q.cat === realCat);
 
-    index = 0;
-    correctCount = 0;
+    if (reset) {
+      index = 0;
+      correctCount = 0;
+      localStorage.setItem(sub + "_index", 0);
+      localStorage.setItem(sub + "_percent", 0);
+    } else {
+      index = parseInt(localStorage.getItem(sub + "_index") || 0);
+      if (index >= questions.length) index = 0;
+    }
 
     loadQuestion();
   } catch (error) {
@@ -247,7 +303,10 @@ function loadQuestion() {
   let q = questions[index];
   
   let percent = Math.floor((index / questions.length) * 100);
-  if (currentSub) localStorage.setItem(currentSub + "_percent", percent);
+  if (currentSub) {
+    localStorage.setItem(currentSub + "_percent", percent);
+    localStorage.setItem(currentSub + "_index", index);
+  }
   
   document.getElementById("percent").innerText = "Progression : " + percent + "%";
   document.getElementById("questionTitle").innerText = "Question " + (index + 1);
@@ -280,7 +339,6 @@ function check(answer, btnElement) {
   let q = questions[index];
   let result = document.getElementById("result");
   
-  // Désactiver tous les boutons pour empêcher de cliquer plusieurs fois
   let allAnswerButtons = document.querySelectorAll("#answers button");
   allAnswerButtons.forEach(b => b.disabled = true);
 
@@ -289,14 +347,13 @@ function check(answer, btnElement) {
     correctVal = correctVal.text || correctVal.answer || Object.values(correctVal)[0];
   }
 
-  // Colorer la bonne réponse en vert et la mauvaise cliquée en rouge
   allAnswerButtons.forEach(b => {
     if (b.innerText === correctVal) {
-      b.style.backgroundColor = "#28a745"; // Vert
+      b.style.backgroundColor = "#28a745";
       b.style.color = "#fff";
     }
     if (b === btnElement && answer !== correctVal) {
-      b.style.backgroundColor = "#dc3545"; // Rouge
+      b.style.backgroundColor = "#dc3545";
       b.style.color = "#fff";
     }
   });
@@ -316,9 +373,11 @@ function check(answer, btnElement) {
     result.innerText = "Mauvaise réponse.";
   }
 
-  // Pause de 1,5 seconde pour laisser le temps de voir les couleurs avant de passer à la suite
   setTimeout(() => { 
     index++; 
+    if (currentSub) {
+      localStorage.setItem(currentSub + "_index", index);
+    }
     loadQuestion(); 
   }, 1500);
 }
@@ -335,8 +394,6 @@ function useHint() {
 function openSettings() { alert("Paramètres : thèmes de couleur bientôt disponibles."); }
 function endQuiz() { document.getElementById("questionText").innerText = "Quiz terminé !"; document.getElementById("answers").innerHTML = ""; }
 function goHome() { document.getElementById("quizScreen").style.display = "none"; document.getElementById("quizNav").style.display = "none"; document.getElementById("homeScreen").style.display = "block"; loadHome(); }
-function continueQuiz() { loadQuestion(); }
-function resetQuiz() { index = 0; correctCount = 0; loadQuestion(); }
 
 loadHome();
 </script>
