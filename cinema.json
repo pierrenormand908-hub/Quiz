@@ -848,3 +848,53 @@
 {"cat":"Drame","q":"Dans quel film une femme et son fils s’évadent d’une pièce où ils étaient retenus ?","a":["Room","Prisoners","Gone Girl"],"correct":"Room","hint":"Enfermement"}
 {"cat":"Drame","q":"Quel acteur incarne Eduardo Saverin dans The Social Network ?","a":["Andrew Garfield","Jesse Eisenberg","Armie Hammer"],"correct":"Andrew Garfield","hint":"Facebook"}
 {"cat":"Drame","q":"Dans quel film la création de Facebook est racontée ?","a":["The Social Network","Jobs","Steve Jobs"],"correct":"The Social Network","hint":"Mark Zuckerberg"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Jake LaMotta dans Raging Bull ?","a":["Robert De Niro","Joe Pesci","Al Pacino"],"correct":"Robert De Niro","hint":"Boxeur"}
+{"cat":"Drame","q":"Dans quel film un boxeur tempétueux détruit sa vie personnelle et familiale ?","a":["Raging Bull","Rocky","The Fighter"],"correct":"Raging Bull","hint":"Noir et blanc"}
+{"cat":"Drame","q":"Qui joue le rôle de Travis Bickle dans Taxi Driver ?","a":["Robert De Niro","Al Pacino","Jack Nicholson"],"correct":"Robert De Niro","hint":"Chauffeur de taxi"}
+{"cat":"Drame","q":"Dans quel film un vétéran insomniaque dérive vers la violence dans New York ?","a":["Taxi Driver","Joker","Network"],"correct":"Taxi Driver","hint":"Mohawk"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Michael Corleone dans The Godfather ?","a":["Al Pacino","Marlon Brando","Robert De Niro"],"correct":"Al Pacino","hint":"Parrain"}
+{"cat":"Drame","q":"Dans quel film un jeune homme malgré lui reprend la tête d'une famille mafieuse ?","a":["The Godfather","Goodfellas","Scarface"],"correct":"The Godfather","hint":"Offre qu'on ne peut refuser"}
+{"cat":"Drame","q":"Qui joue le rôle de Henry Hill dans Goodfellas ?","a":["Ray Liotta","Robert De Niro","Joe Pesci"],"correct":"Ray Liotta","hint":"Gangster"}
+{"cat":"Drame","q":"Dans quel film la vie de la pègre new-yorkaise est racontée de l'intérieur sur plusieurs décennies ?","a":["Goodfellas","Casino","The Departed"],"correct":"Goodfellas","hint":"Martin Scorsese"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Frank Costello dans The Departed ?","a":["Jack Nicholson","Leonardo DiCaprio","Matt Damon"],"correct":"Jack Nicholson","hint":"Boston"}
+{"cat":"Drame","q":"Dans quel film un policier et une taupe s'espionnent mutuellement au sein de la mafia ?","a":["The Departed","Heat","The Town"],"correct":"The Departed","hint":"Irlandais"}
+{"cat":"Drame","q":"Qui joue le rôle de Neil McCauley dans Heat ?","a":["Robert De Niro","Al Pacino","Val Kilmer"],"correct":"Robert De Niro","hint":"Braqueur de banque"}
+{"cat":"Drame","q":"Dans quel film un brillant criminel et un détective obsessionnel se livrent un duel à Los Angeles ?","a":["Heat","Ronin","The Departed"],"correct":"Heat","hint":"Café"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Jack Twist dans Brokeback Mountain ?","a":["Heath Ledger","Jake Gyllenhaal","Ryan Gosling"],"correct":"Jake Gyllenhaal","hint":"Cowboys"}
+{"cat":"Drame","q":"Dans quel film deux bergers nouent une relation passionnée et secrète dans le Wyoming ?","a":["Brokeback Mountain","Call Me by Your Name","Moonlight"],"correct":"Brokeback Mountain","hint":"Tentes"}
+{"cat":"Drame","q":"Qui joue le rôle de Chiron adulte dans Moonlight ?","a":["Trevante Rhodes","Mahershala Ali","Naomie Harris"],"correct":"Trevante Rhodes","hint":"Miami"}
+{"cat":"Drame","q":"Dans quel film un jeune homme gay navigue entre pauvreté et quête d'identité ?","a":["Moonlight","Boyhood","Beautiful Boy"],"correct":"Moonlight","hint":"Trois actes"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Elio Perlman dans Call Me by Your Name ?","a":["Timothée Chalamet","Armie Hammer","Lucas Hedges"],"correct":"Timothée Chalamet","hint":"Italie"}
+{"cat":"Drame","q":"Dans quel film un adolescent vit une romance d'été inoubliable en Italie ?","a":["Call Me by Your Name","The Dreamers","Before Sunrise"],"correct":"Call Me by Your Name","hint":"Pêche"}
+{"cat":"Drame","q":"Qui joue le rôle de Lee Chandler dans Manchester by the Sea ?","a":["Casey Affleck","Kyle Chandler","Lucas Hedges"],"correct":"Casey Affleck","hint":"Deuil"}
+{"cat":"Drame","q":"Dans quel film un homme solitaire devient tuteur de son neveu après un drame ?","a":["Manchester by the Sea","The Descendants","Ordinary People"],"correct":"Manchester by the Sea","hint":"Massachusetts"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Howard Ratner dans Uncut Gems ?","a":["Adam Sandler","Jonah Hill","Ben Stiller"],"correct":"Adam Sandler","hint":"Bijoutier"}
+{"cat":"Drame","q":"Dans quel film un joaillier new-yorkais parie tout sur un coup risqué ?","a":["Uncut Gems","Good Time","The Gambler"],"correct":"Uncut Gems","hint":"Opale"}
+{"cat":"Drame","q":"Qui joue le rôle de Connie Nikas dans Good Time ?","a":["Robert Pattinson","Barry Keoghan","Timothée Chalamet"],"correct":"Robert Pattinson","hint":"Braquage raté"}
+{"cat":"Drame","q":"Dans quel film un criminel tente de faire évader son frère handicapé en une nuit ?","a":["Good Time","Uncut Gems","Nightcrawler"],"correct":"Good Time","hint":"New York"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Arthur Schopenhauer... pardon, de Larry Gopnik dans A Serious Man ?","a":["Michael Stuhlbarg","Richard Kind","Fred Melamed"],"correct":"Michael Stuhlbarg","hint":"Professeur de physique"}
+{"cat":"Drame","q":"Dans quel film un professeur de physique subit une série d'épreuves existentielles ?","a":["A Serious Man","Inside Llewyn Davis","Barton Fink"],"correct":"A Serious Man","hint":"Frères Coen"}
+{"cat":"Drame","q":"Qui joue le rôle de Llewyn Davis dans Inside Llewyn Davis ?","a":["Oscar Isaac","Adam Driver","Justin Timberlake"],"correct":"Oscar Isaac","hint":"Chat roux"}
+{"cat":"Drame","q":"Dans quel film un musicien folk galère dans le Greenwich Village des années 60 ?","a":["Inside Llewyn Davis","A Star Is Born","The Commitments"],"correct":"Inside Llewyn Davis","hint":"Hiver"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Lester Burnham dans American Beauty ?","a":["Kevin Spacey","Chris Cooper","Wes Bentley"],"correct":"Kevin Spacey","hint":"Rose rouge"}
+{"cat":"Drame","q":"Dans quel film un père de famille en pleine crise existentielle change radicalement de vie ?","a":["American Beauty","The Ice Storm","Revolutionary Road"],"correct":"American Beauty","hint":"Suburbs"}
+{"cat":"Drame","q":"Qui joue le rôle de Nina Sayers dans Black Swan ?","a":["Natalie Portman","Mila Kunis","Winona Ryder"],"correct":"Natalie Portman","hint":"Danseuse étoile"}
+{"cat":"Drame","q":"Dans quel film une ballerine perd peu à peu pied face à la pression du Lac des cygnes ?","a":["Black Swan","The Red Shoes","Whiplash"],"correct":"Black Swan","hint":"Hallucinations"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Edward Bloom adulte dans Big Fish ?","a":["Ewan McGregor","Billy Crudup","Albert Finney"],"correct":"Ewan McGregor","hint":"Histoires fantastiques"}
+{"cat":"Drame","q":"Dans quel film un fils tente de démêler la vérité des mythes dans la vie de son père mourant ?","a":["Big Fish","The Curious Case of Benjamin Button","Forest Gump"],"correct":"Big Fish","hint":"Tim Burton"}
+{"cat":"Drame","q":"Qui joue le rôle de Truman Burbank dans The Truman Show ?","a":["Jim Carrey","Ed Harris","Laura Linney"],"correct":"Jim Carrey","hint":"Caméras cachées"}
+{"cat":"Drame","q":"Dans quel film un assureur découvre que sa vie est une gigantesque émission de télé-réalité ?","a":["The Truman Show","Ed TV","Pleasantville"],"correct":"The Truman Show","hint":"Océan artificiel"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Pat Solitano dans Silver Linings Playbook ?","a":["Bradley Cooper","Robert De Niro","Chris Tucker"],"correct":"Bradley Cooper","hint":"Trouble bipolaire"}
+{"cat":"Drame","q":"Dans quel film un ancien prof essaie de reconquérir sa femme avec l'aide d'une jeune veuve ?","a":["Silver Linings Playbook","The Fighter","The Place Beyond the Pines"],"correct":"Silver Linings Playbook","hint":"Concours de danse"}
+{"cat":"Drame","q":"Qui joue le rôle de Luke Glanton dans The Place Beyond the Pines ?","a":["Ryan Gosling","Bradley Cooper","Dane DeHaan"],"correct":"Ryan Gosling","hint":"Cascadeur à moto"}
+{"cat":"Drame","q":"Dans quel film le destin de deux familles s'entrecroise à travers les générations à cause du crime ?","a":["The Place Beyond the Pines","Mystic River","Crash"],"correct":"The Place Beyond the Pines","hint":"Schenectady"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Billy Beane dans Moneyball ?","a":["Brad Pitt","Jonah Hill","Philip Seymour Hoffman"],"correct":"Brad Pitt","hint":"Oakland Athletics"}
+{"cat":"Drame","q":"Dans quel film une équipe de baseball utilise les statistiques avancées pour gagner ?","a":["Moneyball","The Rookie","Draft Day"],"correct":"Moneyball","hint":"Sabermétrie"}
+{"cat":"Drame","q":"Qui joue le rôle de Mark Zuckerberg dans The Social Network ?","a":["Jesse Eisenberg","Andrew Garfield","Justin Timberlake"],"correct":"Jesse Eisenberg","hint":"Harvard"}
+{"cat":"Drame","q":"Dans quel film la genèse tumultueuse et conflictuelle du réseau social Facebook est-elle dépeinte ?","a":["The Social Network","Steve Jobs","Pirates of Silicon Valley"],"correct":"The Social Network","hint":"Winklevoss"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Louis Zamperini dans Unbroken ?","a":["Jack O'Connell","Domhnall Gleeson","Garrett Hedlund"],"correct":"Jack O'Connell","hint":"Athlète et soldat"}
+{"cat":"Drame","q":"Dans quel film un coureur olympique survit à un crash en mer puis à un camp de prisonniers ?","a":["Unbroken","The Great Escape","1917"],"correct":"Unbroken","hint":"Pacifique"}
+{"cat":"Drame","q":"Qui joue le rôle de Buster Brody... pardon, de Charlie Babbitt dans Rain Man ?","a":["Tom Cruise","Dustin Hoffman","Valeria Golino"],"correct":"Tom Cruise","hint":"Voitures de sport"}
+{"cat":"Drame","q":"Dans quel film un yuppie découvre qu'il a un frère autiste qui hérite de la fortune paternelle ?","a":["Rain Man","Awakenings","Forrest Gump"],"correct":"Rain Man","hint":"Las Vegas"}
+{"cat":"Drame","q":"Quel acteur incarne le rôle de Jordan Belfort dans The Wolf of Wall Street ?","a":["Leonardo DiCaprio","Jonah Hill","Matthew McConaughey"],"correct":"Leonardo DiCaprio","hint":"Loup"}
+{"cat":"Drame","q":"Dans quel film un courtier véreux mène une vie de débauche extrême avant de tout perdre ?","a":["The Wolf of Wall Street","The Big Short","Wall Street"],"correct":"The Wolf of Wall Street","hint":"Stratton Oakmont"}
