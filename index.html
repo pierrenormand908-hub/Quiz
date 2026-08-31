@@ -28,7 +28,7 @@ h1{text-align:center;margin:0;font-size:26px;color:#007aff;}
 .closePopup{margin-top:12px;background:#dc3545;color:#fff;padding:10px;}
 #quizScreen{display:none;padding:20px;height:100%;overflow-y:auto;}
 .card{background:#fff;padding:20px;border-radius:20px;box-shadow:0 5px 15px rgba(0,0,0,.1);}
-button.answer{width:100%;padding:12px;border:none;border-radius:10px;background:#007aff;color:#fff;font-size:16px;margin-top:10px;cursor:pointer;}
+button.answer{width:100%;padding:12px;border:none;border-radius:10px;background:#007aff;color:#fff;font-size:16px;margin-top:10px;cursor:pointer;transition:background 0.2s;}
 .backBtn{margin-top:20px;background:#dc3545;width:100%;padding:12px;border:none;border-radius:10px;color:#fff;font-size:16px;cursor:pointer;}
 .quizNav{position:fixed;bottom:70px;left:50%;transform:translateX(-50%);width:360px;background:#fff;border-top:1px solid #ccc;padding:10px;display:flex;justify-content:space-around;z-index:999;}
 .navItem{font-size:26px;cursor:pointer;display:flex;align-items:center;gap:6px;color:#007aff;}
@@ -82,191 +82,261 @@ button.answer{width:100%;padding:12px;border:none;border-radius:10px;background:
 
 <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
 <script>
-let globalHints=parseInt(localStorage.getItem("globalHints")||0);
-function updateHintDisplay(){document.getElementById("hintCount").innerText=globalHints;}
-function launchConfetti(){confetti({particleCount:120,spread:80,origin:{y:0.6}});}
+let globalHints = parseInt(localStorage.getItem("globalHints") || 0);
+function updateHintDisplay() { document.getElementById("hintCount").innerText = globalHints; }
+function launchConfetti() { confetti({ particleCount: 120, spread: 80, origin: { y: 0.6 } }); }
 
-const subCategories={
-  musique:[
-    {name:"Années 80",icon:"🎶",sub:"musique80"},
-    {name:"Années 90",icon:"🎧",sub:"musique90"},
-    {name:"Années 2000",icon:"📀",sub:"musique2000"},
-    {name:"Francophone",icon:"🇫🇷",sub:"musiquefr"}
+const subCategories = {
+  musique: [
+    { name: "Années 80", icon: "🎶", sub: "musique80" },
+    { name: "Années 90", icon: "🎧", sub: "musique90" },
+    { name: "Années 2000", icon: "📀", sub: "musique2000" },
+    { name: "Francophone", icon: "🇫🇷", sub: "musiquefr" }
   ],
-  cinema:[
-    {name:"Action",icon:"🔥",sub:"action"},
-    {name:"Comédie",icon:"😂",sub:"comedie"},
-    {name:"Drame",icon:"🎭",sub:"drame"}
+  cinema: [
+    { name: "Action", icon: "🔥", sub: "action" },
+    { name: "Comédie", icon: "😂", sub: "comedie" },
+    { name: "Drame", icon: "🎭", sub: "drame" }
   ],
-  series:[
-    {name:"Années 90",icon:"📺",sub:"series90"},
-    {name:"Années 2000",icon:"📺",sub:"series2000"},
-    {name:"Années 2010",icon:"📺",sub:"series2010"}
+  series: [
+    { name: "Années 90", icon: "📺", sub: "series90" },
+    { name: "Années 2000", icon: "📺", sub: "series2000" },
+    { name: "Années 2010", icon: "📺", sub: "series2010" }
   ],
-  acteurs:[
-    {name:"Hommes",icon:"👨",sub:"acteurs_h"},
-    {name:"Femmes",icon:"👩",sub:"acteurs_f"}
+  acteurs: [
+    { name: "Hommes", icon: "👨", sub: "acteurs_h" },
+    { name: "Femmes", icon: "👩", sub: "acteurs_f" }
   ],
-  histoire:[
-    {name:"Monde",icon:"🌍",sub:"histoire_monde"},
-    {name:"Québec",icon:"⚜️",sub:"histoire_quebec"},
-    {name:"USA",icon:"🇺🇸",sub:"histoire_usa"}
+  histoire: [
+    { name: "Monde", icon: "🌍", sub: "histoire_monde" },
+    { name: "Québec", icon: "⚜️", sub: "histoire_quebec" },
+    { name: "USA", icon: "🇺🇸", sub: "histoire_usa" }
   ],
-  faitsdivers:[
-    {name:"Faits divers",icon:"📰",sub:"FaitsDivers"}
+  faitsdivers: [
+    { name: "Faits divers", icon: "📰", sub: "FaitsDivers" }
   ]
 };
 
-const jsonFiles={
-  musique:"musique.json",
-  cinema:"cinema.json",
-  series:"series.json",
-  acteurs:"acteurs.json",
-  histoire:"histoire.json",
-  faitsdivers:"faitsdivers.json"
+const jsonFiles = {
+  musique: "musique.json",
+  cinema: "cinema.json",
+  series: "series.json",
+  acteurs: "acteurs.json",
+  histoire: "histoire.json",
+  faitsdivers: "faitsdivers.json"
 };
 
-function openPopup(cat){
-  const titles={
-    musique:"Musique 🎵",
-    cinema:"Cinéma 🎬",
-    series:"Séries TV 📺",
-    acteurs:"Acteurs 🎭",
-    histoire:"Histoire 📜",
-    faitsdivers:"Faits divers 📰"
-  };
-  document.getElementById("popupTitle").innerText=titles[cat]||cat;
-  let buttons="";
-  subCategories[cat].forEach(sub=>{
-    buttons+=`<button class="popupBtn" onclick="startCategory('${cat}','${sub.sub}')">${sub.icon} ${sub.name}</button>`;
-  });
-  document.getElementById("popupButtons").innerHTML=buttons;
-  document.getElementById("popupOverlay").style.display="flex";
-}
-function closePopup(){document.getElementById("popupOverlay").style.display="none";}
+const convertCat = {
+  musique: { musique80: "Années 80", musique90: "Années 90", musique2000: "Années 2000", musiquefr: "Francophone" },
+  cinema: { action: "Action", comedie: "Comédie", drame: "Drame" },
+  series: { series90: "Series90", series2000: "Series2000", series2010: "Series2010" },
+  acteurs: { acteurs_h: "ActorsMen", acteurs_f: "ActorsWomen" },
+  histoire: { histoire_monde: "HistoireMonde", histoire_quebec: "HistoireQuebec", histoire_usa: "HistoireUSA" },
+  faitsdivers: { FaitsDivers: "FaitsDivers" }
+};
 
-const categories=[
-  {id:"musique",name:"Musique",icon:"🎵"},
-  {id:"cinema",name:"Cinéma",icon:"🎬"},
-  {id:"series",name:"Séries TV",icon:"📺"},
-  {id:"acteurs",name:"Acteurs",icon:"🎭"},
-  {id:"histoire",name:"Histoire",icon:"📜"},
-  {id:"faitsdivers",name:"Faits divers",icon:"📰"}
+function openPopup(cat) {
+  const titles = {
+    musique: "Musique 🎵",
+    cinema: "Cinéma 🎬",
+    series: "Séries TV 📺",
+    acteurs: "Acteurs 🎭",
+    histoire: "Histoire 📜",
+    faitsdivers: "Faits divers 📰"
+  };
+  document.getElementById("popupTitle").innerText = titles[cat] || cat;
+  let buttons = "";
+  subCategories[cat].forEach(sub => {
+    buttons += `<button class="popupBtn" onclick="startCategory('${cat}','${sub.sub}')">${sub.icon} ${sub.name}</button>`;
+  });
+  document.getElementById("popupButtons").innerHTML = buttons;
+  document.getElementById("popupOverlay").style.display = "flex";
+}
+function closePopup() { document.getElementById("popupOverlay").style.display = "none"; }
+
+const categories = [
+  { id: "musique", name: "Musique", icon: "🎵" },
+  { id: "cinema", name: "Cinéma", icon: "🎬" },
+  { id: "series", name: "Séries TV", icon: "📺" },
+  { id: "acteurs", name: "Acteurs", icon: "🎭" },
+  { id: "histoire", name: "Histoire", icon: "📜" },
+  { id: "faitsdivers", name: "Faits divers", icon: "📰" }
 ];
 
-function loadHome(){
+function loadHome() {
   updateHintDisplay();
-  const grid=document.getElementById("categoryGrid");
-  grid.innerHTML="";
-  categories.forEach(cat=>{
-    let percent=0;
-    if(subCategories[cat.id]&&subCategories[cat.id].length>0){
-      let total=0,count=0;
-      subCategories[cat.id].forEach(sub=>{
-        total+=parseInt(localStorage.getItem(sub.sub+"_percent")||0);
+  const grid = document.getElementById("categoryGrid");
+  grid.innerHTML = "";
+  categories.forEach(cat => {
+    let percent = 0;
+    if (subCategories[cat.id] && subCategories[cat.id].length > 0) {
+      let total = 0, count = 0;
+      subCategories[cat.id].forEach(sub => {
+        total += parseInt(localStorage.getItem(sub.sub + "_percent") || 0);
         count++;
       });
-      percent=Math.floor(total/count);
-    }else{
-      percent=parseInt(localStorage.getItem(cat.id+"_percent")||0);
+      percent = Math.floor(total / count);
+    } else {
+      percent = parseInt(localStorage.getItem(cat.id + "_percent") || 0);
     }
-    let div=document.createElement("div");
-    div.className="categoryCard";
-    div.innerHTML=`
+    let div = document.createElement("div");
+    div.className = "categoryCard";
+    div.innerHTML = `
       <div class="categoryIcon">${cat.icon}</div>
       <div class="categoryName">${cat.name}</div>
       <div class="progressBar"><div class="progressFill" style="width:${percent}%"></div></div>
       <div class="progressText">${percent}% complété</div>
     `;
-    div.onclick=()=>openPopup(cat.id);
+    div.onclick = () => openPopup(cat.id);
     grid.appendChild(div);
   });
 }
 
-let questions=[],index=0,correctCount=0,currentSub="";
+let questions = [], index = 0, correctCount = 0, currentSub = "";
 
-async function startCategory(category,sub){
+async function startCategory(category, sub) {
   closePopup();
-  currentSub=sub;
+  currentSub = sub;
 
-  document.getElementById("homeScreen").style.display="none";
-  document.getElementById("quizScreen").style.display="block";
-  document.getElementById("quizNav").style.display="flex";
-  document.getElementById("title").innerText=category+" - "+sub;
+  document.getElementById("homeScreen").style.display = "none";
+  document.getElementById("quizScreen").style.display = "block";
+  document.getElementById("quizNav").style.display = "flex";
+  document.getElementById("title").innerText = category + " - " + sub;
 
   const url = "https://raw.githubusercontent.com/pierrenormand908-hub/Quiz/main/" + jsonFiles[category];
 
-  const response = await fetch(url);
-  const text = await response.text();
+  try {
+    const response = await fetch(url);
+    const text = await response.text();
 
-  const lines = text.trim().split("\n");
-  let allQuestions = lines.map(l => JSON.parse(l));
+    const lines = text.trim().split("\n");
+    let allQuestions = [];
+    
+    lines.forEach(line => {
+      if (line.trim() !== "") {
+        try {
+          allQuestions.push(JSON.parse(line));
+        } catch (e) {
+          console.error("Erreur de parsing sur la ligne :", line);
+        }
+      }
+    });
 
-  questions = allQuestions.filter(q => q.cat === sub);
+    let realCat = convertCat[category][sub] || sub;
+    questions = allQuestions.filter(q => q.cat === realCat);
 
-  index = 0;
-  correctCount = 0;
+    index = 0;
+    correctCount = 0;
 
-  loadQuestion();
+    loadQuestion();
+  } catch (error) {
+    console.error("Erreur critique lors du fetch :", error);
+  }
 }
 
-function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j]];}return a;}
+function shuffle(a) {
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
-function loadQuestion(){
-  if(index>=questions.length){endQuiz();return;}
-  let q=questions[index];
-  let percent=Math.floor((index/questions.length)*100);
-  if(currentSub)localStorage.setItem(currentSub+"_percent",percent);
-  document.getElementById("percent").innerText="Progression : "+percent+"%";
-  document.getElementById("questionTitle").innerText="Question "+(index+1);
-  document.getElementById("questionText").innerText=q.q;
-  let answersDiv=document.getElementById("answers");
-  answersDiv.innerHTML="";
-  shuffle([...q.a]).forEach(ans=>{
-    let btn=document.createElement("button");
-    btn.className="answer";
-    btn.innerText=ans;
-    btn.onclick=()=>check(ans);
+function loadQuestion() {
+  if (index >= questions.length) { endQuiz(); return; }
+  let q = questions[index];
+  
+  let percent = Math.floor((index / questions.length) * 100);
+  if (currentSub) localStorage.setItem(currentSub + "_percent", percent);
+  
+  document.getElementById("percent").innerText = "Progression : " + percent + "%";
+  document.getElementById("questionTitle").innerText = "Question " + (index + 1);
+  document.getElementById("questionText").innerText = q.q;
+  
+  let answersDiv = document.getElementById("answers");
+  answersDiv.innerHTML = "";
+  
+  let shuffledAnswers = shuffle([...q.a]);
+  
+  shuffledAnswers.forEach(ans => {
+    let btn = document.createElement("button");
+    btn.className = "answer";
+    
+    let textToShow = ans;
+    if (typeof ans === 'object' && ans !== null) {
+      textToShow = ans.text || ans.answer || ans.choix || Object.values(ans)[0] || "Réponse";
+    }
+    
+    btn.innerText = textToShow;
+    btn.onclick = () => check(textToShow, btn);
     answersDiv.appendChild(btn);
   });
-  document.getElementById("result").innerText="";
-  document.getElementById("hintBox").innerText="";
+  
+  document.getElementById("result").innerText = "";
+  document.getElementById("hintBox").innerText = "";
 }
 
-function check(answer){
-  let q=questions[index];
-  let result=document.getElementById("result");
-  if(answer===q.correct){
-    result.style.color="green";
-    result.innerText="Bonne réponse !";
+function check(answer, btnElement) {
+  let q = questions[index];
+  let result = document.getElementById("result");
+  
+  // Désactiver tous les boutons pour empêcher de cliquer plusieurs fois
+  let allAnswerButtons = document.querySelectorAll("#answers button");
+  allAnswerButtons.forEach(b => b.disabled = true);
+
+  let correctVal = q.correct;
+  if (typeof correctVal === 'object' && correctVal !== null) {
+    correctVal = correctVal.text || correctVal.answer || Object.values(correctVal)[0];
+  }
+
+  // Colorer la bonne réponse en vert et la mauvaise cliquée en rouge
+  allAnswerButtons.forEach(b => {
+    if (b.innerText === correctVal) {
+      b.style.backgroundColor = "#28a745"; // Vert
+      b.style.color = "#fff";
+    }
+    if (b === btnElement && answer !== correctVal) {
+      b.style.backgroundColor = "#dc3545"; // Rouge
+      b.style.color = "#fff";
+    }
+  });
+
+  if (answer === correctVal) {
+    result.style.color = "green";
+    result.innerText = "Bonne réponse !";
     correctCount++;
-    if(correctCount===50||correctCount===100||correctCount===150){
+    if (correctCount === 50 || correctCount === 100 || correctCount === 150) {
       globalHints++;
-      localStorage.setItem("globalHints",globalHints);
+      localStorage.setItem("globalHints", globalHints);
       updateHintDisplay();
       launchConfetti();
     }
-  }else{
-    result.style.color="red";
-    result.innerText="Mauvaise réponse.";
+  } else {
+    result.style.color = "red";
+    result.innerText = "Mauvaise réponse.";
   }
-  setTimeout(()=>{index++;loadQuestion();},800);
+
+  // Pause de 1,5 seconde pour laisser le temps de voir les couleurs avant de passer à la suite
+  setTimeout(() => { 
+    index++; 
+    loadQuestion(); 
+  }, 1500);
 }
 
-function useHint(){
-  if(globalHints<=0){alert("Tu n'as aucun indice disponible.");return;}
-  let q=questions[index];
-  document.getElementById("hintBox").innerText="Indice : "+q.hint;
+function useHint() {
+  if (globalHints <= 0) { alert("Tu n'as aucun indice disponible."); return; }
+  let q = questions[index];
+  document.getElementById("hintBox").innerText = "Indice : " + q.hint;
   globalHints--;
-  localStorage.setItem("globalHints",globalHints);
+  localStorage.setItem("globalHints", globalHints);
   updateHintDisplay();
 }
 
-function openSettings(){alert("Paramètres : thèmes de couleur bientôt disponibles.");}
-function endQuiz(){document.getElementById("questionText").innerText="Quiz terminé !";document.getElementById("answers").innerHTML="";}
-function goHome(){document.getElementById("quizScreen").style.display="none";document.getElementById("quizNav").style.display="none";document.getElementById("homeScreen").style.display="block";loadHome();}
-function continueQuiz(){loadQuestion();}
-function resetQuiz(){index=0;correctCount=0;loadQuestion();}
+function openSettings() { alert("Paramètres : thèmes de couleur bientôt disponibles."); }
+function endQuiz() { document.getElementById("questionText").innerText = "Quiz terminé !"; document.getElementById("answers").innerHTML = ""; }
+function goHome() { document.getElementById("quizScreen").style.display = "none"; document.getElementById("quizNav").style.display = "none"; document.getElementById("homeScreen").style.display = "block"; loadHome(); }
+function continueQuiz() { loadQuestion(); }
+function resetQuiz() { index = 0; correctCount = 0; loadQuestion(); }
 
 loadHome();
 </script>
