@@ -32,12 +32,59 @@ h1{text-align:center;margin:0;font-size:26px;color:#007aff;}
 #resetAction{background:#ff9500;}
 #closeAction{background:#dc3545;}
 #quizScreen{display:none;padding:20px;height:100%;overflow-y:auto;}
-.card{background:#fff;padding:20px;border-radius:20px;box-shadow:0 5px 15px rgba(0,0,0,.1);}
+.card{background:#fff;padding:20px;border-radius:20px;box-shadow:0 5px 15px rgba(0,0,0,.1);overflow:hidden;}
 button.answer{width:100%;padding:12px;border:none;border-radius:10px;background:#007aff;color:#fff;font-size:16px;margin-top:10px;cursor:pointer;transition:background 0.2s;}
 .backBtn{margin-top:20px;background:#dc3545;width:100%;padding:12px;border:none;border-radius:10px;color:#fff;font-size:16px;cursor:pointer;}
 .quizNav{position:fixed;bottom:70px;left:50%;transform:translateX(-50%);width:360px;background:#fff;border-top:1px solid #ccc;padding:10px;display:flex;justify-content:space-around;z-index:999;}
 .navItem{font-size:26px;cursor:pointer;display:flex;align-items:center;gap:6px;color:#007aff;}
 #hintCount{color:#000;font-size:14px;font-weight:normal;}
+
+/* --- ANIMATIONS DES ÉMOJIS --- */
+
+@keyframes jump3Times {
+  0%, 100% { transform: translateY(0); }
+  20% { transform: translateY(-10px); }
+  40% { transform: translateY(0); }
+  60% { transform: translateY(-10px); }
+  80% { transform: translateY(0); }
+}
+.animate-jump-3 {
+  display: inline-block;
+  animation: jump3Times 0.6s ease;
+}
+
+@keyframes jump1Time {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-12px) scale(1.1); }
+}
+.animate-jump-1 {
+  display: inline-block;
+  animation: jump1Time 0.4s ease;
+}
+
+@keyframes jump2Times {
+  0%, 100% { transform: translateY(0); }
+  30% { transform: translateY(-14px); }
+  50% { transform: translateY(0); }
+  80% { transform: translateY(-14px); }
+}
+.animate-jump-2 {
+  display: inline-block;
+  animation: jump2Times 0.5s ease;
+}
+
+@keyframes skullRageByeRun {
+  0%, 50% { transform: translateY(0) translateX(0); opacity: 1; }
+  15% { transform: translateY(-14px) translateX(0); }
+  30% { transform: translateY(0) translateX(0); }
+  45% { transform: translateY(-14px) translateX(0); }
+  55%, 70% { transform: translateY(0) translateX(0) scale(1.15); }
+  100% { transform: translateY(-5px) translateX(350px) rotate(45deg); opacity: 0; }
+}
+.animate-skull-bye {
+  display: inline-block;
+  animation: skullRageByeRun 1.1s ease-in-out forwards;
+}
 </style>
 </head>
 <body>
@@ -69,7 +116,7 @@ button.answer{width:100%;padding:12px;border:none;border-radius:10px;background:
     <h3 id="questionTitle"></h3>
     <p id="questionText"></p>
     <div id="answers"></div>
-    <p id="result"></p>
+    <p id="result" style="font-weight:bold; font-size:16px; text-align:center; margin-top:15px;"></p>
     <p id="hintBox"></p>
   </div>
   <button class="backBtn" onclick="goHome()">Retour à l'accueil</button>
@@ -85,7 +132,7 @@ button.answer{width:100%;padding:12px;border:none;border-radius:10px;background:
 let globalHints = parseInt(localStorage.getItem("globalHints") || 0);
 let selectedCategory = "";
 let selectedSub = "";
-let selectedSubObj = null;
+let consecutiveErrors = 0;
 
 function updateHintDisplay() { document.getElementById("hintCount").innerText = globalHints; }
 function launchConfetti() { confetti({ particleCount: 120, spread: 80, origin: { y: 0.6 } }); }
@@ -312,6 +359,9 @@ function loadQuestion() {
   document.getElementById("questionTitle").innerText = "Question " + (index + 1);
   document.getElementById("questionText").innerText = q.q;
   
+  let result = document.getElementById("result");
+  result.innerText = "";
+  
   let answersDiv = document.getElementById("answers");
   answersDiv.innerHTML = "";
   
@@ -331,7 +381,6 @@ function loadQuestion() {
     answersDiv.appendChild(btn);
   });
   
-  document.getElementById("result").innerText = "";
   document.getElementById("hintBox").innerText = "";
 }
 
@@ -360,7 +409,8 @@ function check(answer, btnElement) {
 
   if (answer === correctVal) {
     result.style.color = "green";
-    result.innerText = "Bonne réponse !";
+    result.innerHTML = 'Bonne réponse <span class="animate-jump-3">🥳</span>';
+    consecutiveErrors = 0;
     correctCount++;
     if (correctCount === 50 || correctCount === 100 || correctCount === 150) {
       globalHints++;
@@ -370,7 +420,21 @@ function check(answer, btnElement) {
     }
   } else {
     result.style.color = "red";
-    result.innerText = "Mauvaise réponse.";
+    consecutiveErrors++;
+
+    let errorEmoji = "☹️";
+    let animClass = "animate-jump-1";
+
+    if (consecutiveErrors === 2) {
+      errorEmoji = "😠";
+      animClass = "animate-jump-2";
+    } else if (consecutiveErrors >= 3) {
+      // "bye" plus petit (12px), non gras, et penché en diagonale comme /
+      errorEmoji = '😡 <span style="font-size: 12px; font-weight: normal; font-style: italic; display: inline-block; transform: skewX(-20deg);">bye</span>';
+      animClass = "animate-skull-bye";
+    }
+
+    result.innerHTML = 'Mauvaise réponse <span class="' + animClass + '">' + errorEmoji + '</span>';
   }
 
   setTimeout(() => { 
