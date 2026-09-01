@@ -422,11 +422,11 @@ function check(answer, btnElement) {
     result.style.color = "red";
     consecutiveErrors++;
 
-    let errorEmoji = "☹️";
+    let errorEmoji = "☹️ Zut";
     let animClass = "animate-jump-1";
 
     if (consecutiveErrors === 2) {
-      errorEmoji = "😠";
+      errorEmoji = "😠 stp";
       animClass = "animate-jump-2";
     } else if (consecutiveErrors >= 3) {
       // "bye" plus petit (12px), non gras, et penché en diagonale comme /
@@ -443,7 +443,7 @@ function check(answer, btnElement) {
       localStorage.setItem(currentSub + "_index", index);
     }
     loadQuestion(); 
-  }, 1500);
+  }, 1600);
 }
 
 function useHint() {
