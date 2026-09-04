@@ -319,7 +319,12 @@ async function initQuiz(category, sub, reset = false) {
     });
 
     let realCat = convertCat[category][sub] || sub;
+    
+    // 1. On filtre les questions selon la sous-catégorie
     questions = allQuestions.filter(q => q.cat === realCat);
+    
+    // 2. On mélange les questions aléatoirement pour ne plus les avoir à la suite
+    questions = shuffle(questions);
 
     if (reset) {
       index = 0;
@@ -409,7 +414,7 @@ function check(answer, btnElement) {
 
   if (answer === correctVal) {
     result.style.color = "green";
-    result.innerHTML = 'Bonne réponse <span class="animate-jump-3">🥳</span>';
+    result.innerHTML = 'Bonne réponse <span class="animate-jump-3">🎉</span>';
     consecutiveErrors = 0;
     correctCount++;
     if (correctCount === 50 || correctCount === 100 || correctCount === 150) {
@@ -422,15 +427,14 @@ function check(answer, btnElement) {
     result.style.color = "red";
     consecutiveErrors++;
 
-    let errorEmoji = "☹️ Zut";
+    let errorEmoji = "❌";
     let animClass = "animate-jump-1";
 
     if (consecutiveErrors === 2) {
-      errorEmoji = "😠 stp";
+      errorEmoji = "⚠️";
       animClass = "animate-jump-2";
     } else if (consecutiveErrors >= 3) {
-      // "bye" plus petit (12px), non gras, et penché en diagonale comme /
-      errorEmoji = '😡 <span style="font-size: 12px; font-weight: normal; font-style: italic; display: inline-block; transform: skewX(-20deg);">bye</span>';
+      errorEmoji = '💀 <span style="font-size: 12px; font-weight: normal; font-style: italic; display: inline-block; transform: skewX(-20deg);">bye</span>';
       animClass = "animate-skull-bye";
     }
 
@@ -443,7 +447,7 @@ function check(answer, btnElement) {
       localStorage.setItem(currentSub + "_index", index);
     }
     loadQuestion(); 
-  }, 1600);
+  }, 1500);
 }
 
 function useHint() {
